@@ -1,0 +1,21 @@
+<!ELEMENT list (item)*>
+<!ELEMENT item (ingredient|production)*>
+<!ATTLIST item
+	id CDATA #REQUIRED
+	recipeId CDATA #REQUIRED
+	name CDATA #IMPLIED 
+	mpConsume CDATA #IMPLIED
+	craftLevel CDATA #REQUIRED	
+	type CDATA #REQUIRED
+	successRate CDATA #REQUIRED>
+
+<!ELEMENT ingredient (#PCDATA)>
+<!ATTLIST ingredient
+	id CDATA #REQUIRED
+	count CDATA #REQUIRED>
+
+<!ELEMENT production (#PCDATA)>
+<!ATTLIST production
+	id CDATA #REQUIRED
+	count CDATA #REQUIRED
+	chance CDATA #REQUIRED>

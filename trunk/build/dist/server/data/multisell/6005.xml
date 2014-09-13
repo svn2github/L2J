@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Кровь Дракона -->
+<list>
+  <config showall="true" notax="false" keepenchanted="false" />
+
+  <!-- Кровь Дракона  -->
+  <item>
+    <ingredient id="57" count="500000"/>
+    <production id="36415" count="1"/>
+  </item>
+
+</list>

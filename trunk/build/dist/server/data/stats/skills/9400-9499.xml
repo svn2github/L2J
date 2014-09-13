@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+    <skill id="9404" levels="1" name="Herb of Mysterious Power">
+        <!--Herb of Mysterious Power P. Atk. is increased by 100% for 1 minute 30 seconds-->
+        <set name="magicType" val="SPECIAL"/>
+        <set name="reuseDelay" val="2000"/>
+        <set name="magicLevel" val="40"/>
+        <set name="hitTime" val="100"/>
+        <set name="hitCancelTime" val="500"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="operateType" val="OP_ACTIVE"/>
+        <set name="isHandler" val="true"/>
+        <set name="altUse" val="true"/>
+        <set name="isHideUseMessage" val="true"/>
+        <for>
+            <effect count="1" name="Buff" stackOrder="9" stackType="pAtk" time="300" val="0">
+                <mul order="0x30" stat="pAtk" val="2"/>
+            </effect>
+        </for>
+    </skill>
+    <skill id="9405" levels="1" name="Herb with Mysterious Magic Power">
+        <!--Herb with Mysterious Magic Power M. Atk. is increased by 400% for 1 minute 30 seconds-->
+        <set name="magicType" val="SPECIAL"/>
+        <set name="reuseDelay" val="2000"/>
+        <set name="magicLevel" val="40"/>
+        <set name="hitTime" val="100"/>
+        <set name="hitCancelTime" val="500"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="operateType" val="OP_ACTIVE"/>
+        <set name="isHandler" val="true"/>
+        <set name="altUse" val="true"/>
+        <set name="isHideUseMessage" val="true"/>
+        <for>
+            <effect count="1" name="Buff" stackOrder="9" stackType="mAtk" time="90" val="0">
+                <mul order="0x30" stat="mAtk" val="4"/>
+            </effect>
+        </for>
+    </skill>
+	<skill id="9446" levels="1" name="Телепорт: Горячие Источники" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="loc" val="155608;-105032;-2765" />
+		<set name="itemConsumeId" val="34978" />
+		<set name="itemConsumeCount" val="1" />
+		<set name="isHandler" val="true" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="RECALL" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<cond msgId="1509">
+			<not>
+				<player olympiad="true" />
+			</not>
+		</cond>
+	</skill>
+	<skill id="9447" levels="1" name="Телепорт: Кузница богов" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="loc" val="175965;-115886;-3784" />
+		<set name="itemConsumeId" val="34979" />
+		<set name="itemConsumeCount" val="1" />
+		<set name="isHandler" val="true" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="RECALL" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<cond msgId="1509">
+			<not>
+				<player olympiad="true" />
+			</not>
+		</cond>
+	</skill>
+	<skill id="9448" levels="1" name="Телепорт: Кристальный Остров" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="loc" val="159140;170298;-3776" />
+		<set name="itemConsumeId" val="34980" />
+		<set name="itemConsumeCount" val="1" />
+		<set name="isHandler" val="true" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="RECALL" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<cond msgId="1509">
+			<not>
+				<player olympiad="true" />
+			</not>
+		</cond>
+	</skill>
+	<skill id="9449" levels="1" name="Свиток Телепорта:Замок Аден (осада)" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="loc" val="148040;15064;-1393" />
+		<set name="itemConsumeId" val="34981" />
+		<set name="itemConsumeCount" val="1" />
+		<set name="isHandler" val="true" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="RECALL" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<cond msgId="1509">
+			<not>
+				<player olympiad="true" />
+			</not>
+		</cond>
+	</skill>
+	<!--<skill id="9450" levels="1" name="Свиток Телепорта: Замок Руна (осада)" >-->
+		<!--<set name="magicType" val="SPECIAL" />-->
+		<!--<set name="icon" val="icon.skill0000" />-->
+		<!--<set name="loc" val="" />-->
+		<!--<set name="itemConsumeId" val="34982" />-->
+		<!--<set name="itemConsumeCount" val="1" />-->
+		<!--<set name="isHandler" val="true" />-->
+		<!--<set name="target" val="TARGET_SELF" />-->
+		<!--<set name="skillType" val="RECALL" />-->
+		<!--<set name="operateType" val="OP_ACTIVE" />-->
+		<!--<cond msgId="1509">-->
+			<!--<not>-->
+				<!--<player olympiad="true" />-->
+			<!--</not>-->
+		<!--</cond>-->
+	<!--</skill>-->
+	<skill id="9459" levels="1" name="Бешенство Таути">
+		<!-- Атака и опрокидывание ближайших врагов. Мощность 27552 -->
+		<table name="#effectPoint">173</table>
+		<table name="#mpConsume2">191</table>
+		<table name="#power">27552</table>
+		<set name="coolTime" val="300" />
+		<set name="reuseDelay" val="15000" />
+		<set name="power" val="#power" />
+		<set name="hitTime" val="1500" />
+		<set name="hitCancelTime" val="500" />
+		<set name="mpConsume2" val="#mpConsume2" />
+		<set name="activateRate" val="50" />
+		<set name="effectPoint" val="#effectPoint" />
+		<set name="target" val="TARGET_AREA" />
+		<set name="overHit" val="true" />
+		<set name="skillType" val="PDAM" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="nextAction" val="attack" />
+		<set name="trait" val="SHOCK" />
+		<set name="saveVs" val="CON" />
+		<for>
+			<effect count="1" name="Stun" stackOrder="-1" stackType="Stun" time="3" val="0" />
+		</for>
+	</skill>
+	<skill id="9461" levels="1" name="Свиток Телепорта - Крепость Гильотина" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="hitTime" val="20000" />
+		<set name="loc" val="33446;145486;-3432" />
+		<set name="itemConsumeId" val="35292" />
+		<set name="itemConsumeCount" val="1" />
+		<set name="isHandler" val="true" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="RECALL" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<cond msgId="1509">
+			<not>
+				<player olympiad="true" />
+			</not>
+		</cond>
+	</skill>
+	<skill id="9487" levels="1" name="Благословение Кота-Ангела">
+        <!--9487	1	u,Благословение Кота-Ангела\0	u,Маг. Атк. +20%, Физ. Атк., Физ. Защ., Маг. Защ., Скор. Атк., Скор. Маг., Макс. HP/MP +5%, 
+		бонус получения опыта/SP во время охоты +30%. Время действия: 60 мин.\0	a,none\0	a,none\0-->
+        <set name="magicType" val="SPECIAL"/>
+        <set name="reuseDelay" val="2000"/>
+        <set name="magicLevel" val="1"/>
+        <set name="hitTime" val="100"/>
+        <set name="hitCancelTime" val="500"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="operateType" val="OP_ACTIVE"/>
+        <set name="isHandler" val="true"/>
+        <set name="altUse" val="true"/>
+        <set name="itemConsumeId" val="35669" />
+		<set name="itemConsumeCount" val="1" />
+		<set name="isHandler" val="true" />
+        <for>
+            <effect count="1" name="Buff" stackOrder="1" stackType="AngelCat" time="3600" val="0">
+                <mul order="0x30" stat="mAtk" val="1.2"/>
+				<mul order="0x30" stat="pAtk" val="1.05"/>
+				<mul order="0x30" stat="mDef" val="1.05"/>
+				<mul order="0x30" stat="pDef" val="1.05"/>
+				<mul order="0x30" stat="mAtkSpd" val="1.05"/>
+				<mul order="0x30" stat="pAtkSpd" val="1.05"/>
+				<mul order="0x30" stat="maxHp" val="1.05"/>
+				<mul order="0x30" stat="maxMp" val="1.05"/>
+				<mul order="0x30" stat="ExpMultiplier" val="0.3"/>
+				<mul order="0x30" stat="SpMultiplier" val="0.3"/>
+            </effect>
+        </for>
+    </skill>
+    <skill id="9498" levels="1" name="Плащ Снегурочки">
+		<!-- Когда экипирован плащ, Физ. Защ. +50, Маг. Защ. +40. -->
+		<set name="magicLevel" val="1"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="operateType" val="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="pDef" val="50"/>
+			<add order="0x40" stat="mDef" val="40"/>
+		</for>
+	</skill>
+</list>

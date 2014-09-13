@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<config showall="true" notax="true" keepenchanted="false"/>
+	<item>	
+		<!-- Адена -->
+		<ingredient id="57" count="4320" />
+		<!-- Сильнодействующее Зелье Исцеления -->
+		<production id="1539" count="1" />
+	</item>	
+	<item>	
+		<!-- Адена -->
+		<ingredient id="57" count="24000" />
+		<!-- Свиток Благ. Воскрешения Питомцев -->
+		<production id="6387" count="1" />
+	</item>	
+	<item>	
+		<!-- Адена -->
+		<ingredient id="57" count="14400" />
+		<!-- Большое Зелье Ускорения -->
+		<production id="1374" count="1" />
+	</item>	
+	<item>	
+		<!-- Адена -->
+		<ingredient id="57" count="28800" />
+		<!-- Большое Зелье Скор. Атк. -->
+		<production id="1375" count="1" />
+	</item>	
+	<item>	
+		<!-- Адена -->
+		<ingredient id="57" count="28800" />
+		<!-- Большое Зелье Скор. Маг. -->
+		<production id="6036" count="1" />
+	</item>	
+	<item>	
+		<!-- Адена -->
+		<ingredient id="57" count="960" />
+		<!-- Зелье CP -->
+		<production id="5591" count="1" />
+	</item>	
+	<item>	
+		<!-- Адена -->
+		<ingredient id="57" count="2400" />
+		<!-- Большое Зелье CP -->
+		<production id="5592" count="1" />
+	</item>	
+	<item>	
+		<!-- Адена -->
+		<ingredient id="57" count="9600" />
+		<!-- Малый Свиток SP -->
+		<production id="5593" count="1" />
+	</item>	
+	<item>	
+		<!-- Адена -->
+		<ingredient id="57" count="96000" />
+		<!-- Средний Свиток SP -->
+		<production id="5594" count="1" />
+	</item>	
+	<item>	
+		<!-- Адена -->
+		<ingredient id="57" count="1920000" />
+		<!-- Большой Свиток SP -->
+		<production id="5595" count="1" />
+	</item>	
+	<item>	
+		<!-- Адена -->
+		<ingredient id="57" count="48000" />
+		<!-- Загадочное Зелье -->
+		<production id="5234" count="1" />
+	</item>	
+	<item>	
+		<!-- Адена -->
+		<ingredient id="57" count="96000" />
+		<!-- Зелье Внешности - A -->
+		<production id="5235" count="1" />
+	</item>	
+	<item>	
+		<!-- Адена -->
+		<ingredient id="57" count="96000" />
+		<!-- Зелье Внешности - B -->
+		<production id="5236" count="1" />
+	</item>	
+	<item>	
+		<!-- Адена -->
+		<ingredient id="57" count="96000" />
+		<!-- Зелье Внешности - C -->
+		<production id="5237" count="1" />
+	</item>	
+	<item>	
+		<!-- Адена -->
+		<ingredient id="57" count="96000" />
+		<!-- Красящее Зелье - A -->
+		<production id="5238" count="1" />
+	</item>	
+	<item>	
+		<!-- Адена -->
+		<ingredient id="57" count="96000" />
+		<!-- Красящее Зелье - B -->
+		<production id="5239" count="1" />
+	</item>	
+	<item>	
+		<!-- Адена -->
+		<ingredient id="57" count="96000" />
+		<!-- Красящее Зелье - C -->
+		<production id="5240" count="1" />
+	</item>	
+	<item>	
+		<!-- Адена -->
+		<ingredient id="57" count="96000" />
+		<!-- Красящее Зелье - D -->
+		<production id="5241" count="1" />
+	</item>	
+	<item>	
+		<!-- Адена -->
+		<ingredient id="57" count="96000" />
+		<!-- Зелье Прически - A -->
+		<production id="5242" count="1" />
+	</item>	
+	<item>	
+		<!-- Адена -->
+		<ingredient id="57" count="96000" />
+		<!-- Зелье Прически - B -->
+		<production id="5243" count="1" />
+	</item>	
+	<item>	
+		<!-- Адена -->
+		<ingredient id="57" count="96000" />
+		<!-- Зелье Прически - C -->
+		<production id="5244" count="1" />
+	</item>	
+	<item>	
+		<!-- Адена -->
+		<ingredient id="57" count="96000" />
+		<!-- Зелье Прически - D -->
+		<production id="5245" count="1" />
+	</item>	
+	<item>	
+		<!-- Адена -->
+		<ingredient id="57" count="96000" />
+		<!-- Зелье Прически - E -->
+		<production id="5246" count="1" />
+	</item>	
+	<item>	
+		<!-- Адена -->
+		<ingredient id="57" count="96000" />
+		<!-- Зелье Прически - F -->
+		<production id="5247" count="1" />
+	</item>	
+	<item>	
+		<!-- Адена -->
+		<ingredient id="57" count="96000" />
+		<!-- Зелье Прически - G -->
+		<production id="5248" count="1" />
+	</item>	
+	<item>	
+		<!-- Адена -->
+		<ingredient id="57" count="2400000" />
+		<!-- Карнавальная Маска -->
+		<production id="5808" count="1" />
+	</item>	
+	<item>	
+		<!-- Адена -->
+		<ingredient id="57" count="1680000" />
+		<!-- Скрипящие Ботинки -->
+		<production id="5590" count="1" />
+	</item>	
+</list>		
+

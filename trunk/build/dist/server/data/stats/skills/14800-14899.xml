@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<skill id="14800" levels="1" name="Благословение Мастера - Сопротивление Стихиям (Массовое)">
+		<!--
+			Уровень: 1; Описание: GM всегда на Вашей стороне. На 1 ч. увеличивает сопротивление от всех 4-х стихий на 3.
+		-->
+		<set name="icon" val="icon.skill11565" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="14801" levels="1" name="Благословение Мастера - Сопротивление Святости (Массовое)">
+		<!--
+			Уровень: 1; Описание: GM всегда на Вашей стороне. На 1 ч. увеличивает сопротивление Святости/Тьме на 3 и Яду/Кровотечению - на 5%.
+		-->
+		<set name="icon" val="icon.skill11567" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="14802" levels="1" name="Благословение Мастера - Сопротивление Ментальности (Массовое)">
+		<!--
+			Уровень: 1; Описание: GM всегда на Вашей стороне. На 1 ч. увеличивает сопротивление Удерживающим/Усыпляющим/Ментальным атакам на 5, сопротивление снятию положительных эффектов - на 3 и сопротивление отрицательным эффектам - на 2.
+		-->
+		<set name="icon" val="icon.skill11824" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="14803" levels="1" name="Темная Магия Сада">
+		<!--
+			Уровень: 1; Описание: Состояние паралича.
+		-->
+		<set name="icon" val="icon.skill0279" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="14804" levels="1" name="Сопротивление Отражению Урона">
+		<!--
+			Уровень: 1; Описание: Сопротивление Отражению Урона увеличивается на 1.
+		-->
+		<set name="magicType" val="MAGIC"/>
+        <set name="reuseDelay" val="120000"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="operateType" val="OP_ACTIVE"/>
+		<for>
+            <effect count="1" name="Buff" stackOrder="1" val="1">
+                <mul order="0x30" stat="reflectDam" value="1"/>
+            </effect>
+        </for>
+	</skill>
+	<skill id="14805" levels="1" name="Сопротивление Отражению Урона">
+		<!--
+			Уровень: 1; Описание: Сопротивление Отражению Урона увеличивается на 2.
+		-->
+		<set name="magicType" val="MAGIC"/>
+        <set name="reuseDelay" val="120000"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="operateType" val="OP_ACTIVE"/>
+		<for>
+            <effect count="1" name="Buff" stackOrder="1" val="1">
+                <mul order="0x30" stat="reflectDam" value="2"/>
+            </effect>
+        </for>
+	</skill>
+	<skill id="14806" levels="1" name="Сопротивление Отражению Урона">
+		<!--
+			Уровень: 1; Описание: Сопротивление Отражению Урона увеличивается на 3.
+		-->
+		<set name="magicType" val="MAGIC"/>
+        <set name="reuseDelay" val="120000"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="operateType" val="OP_ACTIVE"/>
+		<for>
+            <effect count="1" name="Buff" stackOrder="1" val="1">
+                <mul order="0x30" stat="reflectDam" value="3"/>
+            </effect>
+        </for>
+	</skill>
+	<skill id="14807" levels="1" name="Сопротивление Отражению Урона">
+		<!--
+			Уровень: 1; Описание: Сопротивление Отражению Урона увеличивается на 4.
+		-->
+		<set name="magicType" val="MAGIC"/>
+        <set name="reuseDelay" val="120000"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="operateType" val="OP_ACTIVE"/>
+		<for>
+            <effect count="1" name="Buff" stackOrder="1" val="1">
+                <mul order="0x30" stat="reflectDam" value="4"/>
+            </effect>
+        </for>
+	</skill>
+	<skill id="14808" levels="1" name="Сопротивление Отражению Урона">
+		<!--
+			Уровень: 1; Описание: Сопротивление Отражению Урона увеличивается на 5.
+		-->
+		<set name="magicType" val="MAGIC"/>
+        <set name="reuseDelay" val="120000"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="operateType" val="OP_ACTIVE"/>
+		<for>
+            <effect count="1" name="Buff" stackOrder="1" val="1">
+                <mul order="0x30" stat="reflectDam" value="5"/>
+            </effect>
+        </for>
+	</skill>
+	<skill id="14809" levels="1" name="Сопротивление Отражению Урона">
+		<!--
+			Уровень: 1; Описание: Сопротивление Отражению Урона увеличивается на 6.
+		-->
+		<set name="magicType" val="MAGIC"/>
+        <set name="reuseDelay" val="120000"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="operateType" val="OP_ACTIVE"/>
+		<for>
+            <effect count="1" name="Buff" stackOrder="1" val="1">
+                <mul order="0x30" stat="reflectDam" value="6"/>
+            </effect>
+        </for>
+	</skill>
+	<skill id="14810" levels="1" name="Сопротивление Отражению Урона">
+		<!--
+			Уровень: 1; Описание: Сопротивление Отражению Урона увеличивается на 7.
+		-->
+		<set name="magicType" val="MAGIC"/>
+        <set name="reuseDelay" val="120000"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="operateType" val="OP_ACTIVE"/>
+		<for>
+            <effect count="1" name="Buff" stackOrder="1" val="1">
+                <mul order="0x30" stat="reflectDam" value="7"/>
+            </effect>
+        </for>
+	</skill>
+	<skill id="14811" levels="1" name="Сопротивление Отражению Урона">
+		<!--
+			Уровень: 1; Описание: Сопротивление Отражению Урона увеличивается на 8.
+		-->
+		<set name="magicType" val="MAGIC"/>
+        <set name="reuseDelay" val="120000"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="operateType" val="OP_ACTIVE"/>
+		<for>
+            <effect count="1" name="Buff" stackOrder="1" val="1">
+                <mul order="0x30" stat="reflectDam" value="8"/>
+            </effect>
+        </for>
+	</skill>
+	<skill id="14812" levels="1" name="Сопротивление Отражению Урона">
+		<!--
+			Уровень: 1; Описание: Сопротивление Отражению Урона увеличивается на 9.
+		-->
+		<set name="magicType" val="MAGIC"/>
+        <set name="reuseDelay" val="120000"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="operateType" val="OP_ACTIVE"/>
+		<for>
+            <effect count="1" name="Buff" stackOrder="1" val="1">
+                <mul order="0x30" stat="reflectDam" value="9"/>
+            </effect>
+        </for>
+	</skill>
+	<skill id="14813" levels="1" name="Сопротивление Отражению Урона">
+		<!--
+			Уровень: 1; Описание: Сопротивление Отражению Урона увеличивается на 1.
+		-->
+		<set name="magicType" val="MAGIC"/>
+        <set name="reuseDelay" val="120000"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="operateType" val="OP_ACTIVE"/>
+		<for>
+            <effect count="1" name="Buff" stackOrder="1" val="1">
+                <mul order="0x30" stat="reflectDam" value="1"/>
+            </effect>
+        </for>
+	</skill>
+	<skill id="14814" levels="1" name="Сопротивление Смерти в Подземельях">
+		<!--
+			Уровень: 1; Описание: Сопротивление Смерти в подземелье увеличивается на 1.
+		-->
+		<set name="icon" val="icon.skill0263" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="14815" levels="1" name="Сопротивление Смерти в Подземельях">
+		<!--
+			Уровень: 1; Описание: Сопротивление Смерти в подземелье увеличивается на 2.
+		-->
+		<set name="icon" val="icon.skill0263" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="14816" levels="1" name="Сопротивление Смерти в Подземельях">
+		<!--
+			Уровень: 1; Описание: Сопротивление Смерти в подземелье увеличивается на 3.
+		-->
+		<set name="icon" val="icon.skill0263" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="14817" levels="1" name="Сопротивление Смерти в Подземельях">
+		<!--
+			Уровень: 1; Описание: Сопротивление Смерти в подземелье увеличивается на 4.
+		-->
+		<set name="icon" val="icon.skill0263" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="14818" levels="1" name="Сопротивление Смерти в Подземельях">
+		<!--
+			Уровень: 1; Описание: Сопротивление Смерти в подземелье увеличивается на 5.
+		-->
+		<set name="icon" val="icon.skill0263" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="14819" levels="1" name="Сопротивление Смерти в Подземельях">
+		<!--
+			Уровень: 1; Описание: Сопротивление Смерти в подземелье увеличивается на 6.
+		-->
+		<set name="icon" val="icon.skill0263" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="14820" levels="1" name="Сопротивление Смерти в Подземельях">
+		<!--
+			Уровень: 1; Описание: Сопротивление Смерти в подземелье увеличивается на 7.
+		-->
+		<set name="icon" val="icon.skill0263" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="14821" levels="1" name="Сопротивление Смерти в Подземельях">
+		<!--
+			Уровень: 1; Описание: Сопротивление Смерти в подземелье увеличивается на 8.
+		-->
+		<set name="icon" val="icon.skill0263" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="14822" levels="1" name="Сопротивление Смерти в Подземельях">
+		<!--
+			Уровень: 1; Описание: Сопротивление Смерти в подземелье увеличивается на 9.
+		-->
+		<set name="icon" val="icon.skill0263" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="14823" levels="1" name="Сопротивление Смерти в Подземельях">
+		<!--
+			Уровень: 1; Описание: Сопротивление Смерти в подземелье увеличивается на 1.
+		-->
+		<set name="icon" val="icon.skill0263" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+</list>

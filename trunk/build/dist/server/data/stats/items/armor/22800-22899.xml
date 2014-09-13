@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "item.dtd">
+<list>
+	<armor id="22887" name="Браслет Единорога">
+		<!--Copyright Mazaffaka Project (c) 2012-->
+		<equip>
+			<slot id="LEFT_BRACELET"/>
+		</equip>
+		<set name="icon" value="BranchSys3.lcon.g_pi_transformation_unicorn"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<for>
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	<armor id="22664" name="Световой Доспех - Щит">
+        <set name="icon" value="BranchSys3.Icon.g_beam_shield"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="200"/>
+        <set name="destroyable" value="false"/>
+        <set name="dropable" value="false"/>
+        <set name="augmentable" value="false"/>
+        <set name="enchantable" value="false"/>
+        <set name="attributable" value="false"/>
+        <set name="sellable" value="false"/>
+        <set name="tradeable" value="false"/>
+        <set name="crystal_type" value="D"/>
+        <set name="atk_range" value="40"/>
+        <equip>
+            <slot id="LEFT_HAND"/>
+        </equip>
+    </armor>
+    <armor id="22665" name="Световой Доспех - Символ">
+        <set name="icon" value="BranchSys3.Icon.g_beam_sigil"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="100"/>
+        <set name="destroyable" value="false"/>
+        <set name="dropable" value="false"/>
+        <set name="augmentable" value="false"/>
+        <set name="enchantable" value="false"/>
+        <set name="attributable" value="false"/>
+        <set name="sellable" value="false"/>
+        <set name="tradeable" value="false"/>
+        <set name="crystal_type" value="D"/>
+        <equip>
+            <slot id="LEFT_HAND"/>
+        </equip>
+    </armor>
+</list>

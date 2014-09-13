@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<config showall="true" notax="true" keepenchanted="true" />
+	<item>
+		<ingredient id="129" count="1" />
+		<ingredient id="13419" count="1" />
+		<production id="129" enchant="20" count="1" chance="50" />
+		<production id="129" enchant="15" count="1" chance="50" />
+		<production id="129" enchant="10" count="1" chance="50" />
+	</item>
+</list>

@@ -1,0 +1,1708 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<skill id="8500" levels="1" name="Pink Talisman - CON">
+		<set name="icon" val="icon.etc_talisman_event_i00" />
+		<set name="magicLevel" val="55" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_PASSIVE" />
+	</skill>
+	<skill id="8501" levels="1" name="Pink Talisman - INT">
+		<set name="icon" val="icon.etc_talisman_event_i00" />
+		<set name="magicLevel" val="55" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_PASSIVE" />
+	</skill>
+	<skill id="8502" levels="1" name="Pink Talisman - WIT">
+		<set name="icon" val="icon.etc_talisman_event_i00" />
+		<set name="magicLevel" val="55" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_PASSIVE" />
+	</skill>
+	<skill id="8503" levels="1" name="Pink Talisman - MEN">
+		<set name="icon" val="icon.etc_talisman_event_i00" />
+		<set name="magicLevel" val="55" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_PASSIVE" />
+	</skill>
+	<skill id="8504" levels="1" name="Pink Talisman - Stun Resist">
+		<set name="icon" val="icon.etc_talisman_event_i01" />
+		<set name="magicLevel" val="55" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_PASSIVE" />
+	</skill>
+	<skill id="8505" levels="1" name="Pink Talisman - Sleep Resist">
+		<set name="icon" val="icon.etc_talisman_event_i01" />
+		<set name="magicLevel" val="55" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_PASSIVE" />
+	</skill>
+	<skill id="8506" levels="1" name="Pink Talisman - Hold Resist">
+		<set name="icon" val="icon.etc_talisman_event_i01" />
+		<set name="magicLevel" val="55" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_PASSIVE" />
+	</skill>
+	<skill id="8507" levels="1" name="Pink Talisman - Paralyze Resist">
+		<set name="icon" val="icon.etc_talisman_event_i01" />
+		<set name="magicLevel" val="55" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_PASSIVE" />
+	</skill>
+	<skill id="8508" levels="1" name="Pink Talisman - All STAT">
+		<set name="icon" val="icon.etc_talisman_event_i02" />
+		<set name="magicLevel" val="55" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_PASSIVE" />
+	</skill>
+	<skill id="8509" levels="1" name="High Angel Circlet">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.accessory_highangel_circlet_i00" />
+		<set name="reuseDelay" val="3600000" />
+		<set name="magicLevel" val="1" />
+		<set name="hitTime" val="200" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_PASSIVE" />
+	</skill>
+	<skill id="8510" levels="1" name="Summon Friend">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.etc_summon_aga_agit_i00" />
+		<set name="reuseDelay" val="3600000" />
+		<set name="magicLevel" val="1" />
+		<set name="hitTime" val="10000" />
+		<set name="hitCancelTime" val="500" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_PASSIVE" />
+	</skill>
+	<skill id="8511" levels="1" name="Blessing of Victory" >
+		<!--  Automatically generated from The High Five: Part 4.5 client files.
+		  Description: none
+		  Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		  created 07-7-2011  19:19
+		-->
+		<set name="icon" val="BranchSys2.icon.br_worldcup_hair_i02" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="8512" levels="1" name="National Representative Warrior's Tenacity" >
+		<!--  Automatically generated from The High Five: Part 4.5 client files.
+		  Description: none
+		  Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		  created 07-7-2011  19:19
+		-->
+		<set name="icon" val="BranchSys2.icon.br_spirit_of_brave_i00" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="8513" levels="1" name="National Representative Spell of Blessing" >
+		<!--  Automatically generated from The High Five: Part 4.5 client files.
+		  Description: none
+		  Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		  created 07-7-2011  19:19
+		-->
+		<set name="icon" val="BranchSys2.icon.br_spell_of_blessing_i00" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="8514" levels="1" name="National Representative Energy of Victory" >
+		<!--  Automatically generated from The High Five: Part 4.5 client files.
+		  Description: none
+		  Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		  created 07-7-2011  19:19
+		-->
+		<set name="icon" val="BranchSys2.icon.br_obsession_of_winning_i00" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="8515" levels="1" name="Release Seal on Agathion - Ball Trapping Gnosian" >
+		<!--  Automatically generated from The High Five: Part 4.5 client files.
+		  Description: none
+		  Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		  created 07-7-2011  19:19
+		-->
+		<set name="icon" val="icon.etc_summon_aga_agit_i00" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="8516" levels="1" name="Release Seal on Agathion - Ball Trapping Orodriel" >
+		<!--  Automatically generated from The High Five: Part 4.5 client files.
+		  Description: none
+		  Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		  created 07-7-2011  19:19
+		-->
+		<set name="icon" val="icon.etc_summon_aga_agit_i00" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="8517" levels="1" name="Release Seal on Agathion - Penalty Kick" >
+		<!--  Automatically generated from The High Five: Part 4.5 client files.
+		  Description: none
+		  Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		  created 07-7-2011  19:19
+		-->
+		<set name="icon" val="icon.etc_summon_aga_agit_i00" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="8518" levels="1" name="Notifier" >
+		<!--  Automatically generated from The High Five: Part 4.5 client files.
+		  Description: none
+		  Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		  created 07-7-2011  19:19
+		-->
+		<set name="icon" val="icon.skill5239" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="8519" levels="1" name="Notifier" >
+		<!--  Automatically generated from The High Five: Part 4.5 client files.
+		  Description: none
+		  Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		  created 07-7-2011  19:19
+		-->
+		<set name="icon" val="icon.skill5239" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="8520" levels="1" name="Notifier" >
+		<!--  Automatically generated from The High Five: Part 4.5 client files.
+		  Description: none
+		  Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		  created 07-7-2011  19:19
+		-->
+		<set name="icon" val="icon.skill5239" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="8521" levels="1" name="Release Seal on Agathion - Antharas" >
+		<!--  Automatically generated from The High Five: Part 4.5 client files.
+		  Description: none
+		  Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		  created 07-7-2011  19:19
+		-->
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.etc_summon_aga_agit_i00" />
+		<set name="magicLevel" val="85" />
+		<set name="hitTime" val="3000" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="SUMMON" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isReuseDelayPermanent" val="true" />
+		<set name="useSS" val="false" />
+		<set name="npcId" val="16077" />
+		<set name="summonType" val="agathion" />
+		<cond msgId="1509">
+			<not>
+				<player olympiad="true" />
+			</not>
+		</cond>
+	</skill>
+	<skill id="8522" levels="1" name="Release Seal on Agathion - Nevit's Messenger Kanna" >
+		<!--  Automatically generated from The High Five: Part 4.5 client files.
+		  Description: none
+		  Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		  created 07-7-2011  19:19
+		-->
+		<set name="icon" val="icon.etc_summon_aga_agit_i00" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="8523" levels="1" name="Release Seal on Agathion - Guardian of the Dawn Kallesin" >
+		<!--  Automatically generated from The High Five: Part 4.5 client files.
+		  Description: none
+		  Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		  created 07-7-2011  19:19
+		-->
+		<set name="icon" val="icon.etc_summon_aga_agit_i00" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="8524" levels="1" name="Hero's Holy Attack" >
+		<!--  Automatically generated from The High Five: Part 4.5 client files.
+		  Description: none
+		  Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		  created 07-7-2011  19:19
+		-->
+		<set name="icon" val="icon.weapon_the_sword_of_hero_i00" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="8525" levels="1" name="Hero's Holy Attack" >
+		<!--  Automatically generated from The High Five: Part 4.5 client files.
+		  Description: none
+		  Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		  created 07-7-2011  19:19
+		-->
+		<set name="icon" val="icon.weapon_the_staff_of_hero_i00" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="8526" levels="1" name="Shiny Bracelet" >
+		<!--  Automatically generated from The High Five: Part 4.5 client files.
+		  Description: none
+		  Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+		  created 07-7-2011  19:19
+		-->
+		<set name="icon" val="icon.accessory_shiny_bracelet" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="8527" levels="1" name="Agation - Magmeld Teleport" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.etc_summon_aga_agit_i00" />
+		<set name="magicLevel" val="65" />
+		<set name="hitTime" val="3000" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="SUMMON" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isReuseDelayPermanent" val="true" />
+		<set name="npcId" val="16080" />
+		<set name="summonType" val="agathion" />
+	</skill>
+	<skill id="8538" levels="1" name="Vengeance">
+		<set name="affectLimit" val="10;10" />
+		<set name="icon" val="icon.skill0368" />
+		<set name="reuseDelay" val="900000" />
+		<set name="power" val="7987" />
+		<set name="magicLevel" val="76" />
+		<set name="hitTime" val="1000" />
+		<set name="hitCancelTime" val="500" />
+		<set name="mpConsume2" val="35" />
+		<set name="weaponsAllowed" val="2" />
+		<set name="effectPoint" val="7987" />
+		<set name="target" val="TARGET_AURA" />
+		<set name="skillRadius" val="200" />
+		<set name="isReuseDelayPermanent" val="true" />
+		<set name="skillType" val="AGGRESSION" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isOffensive" val="true" />
+		<for>
+			<effect applyOnCaster="true" count="1" name="Buff" stackOrder="-1" stackType="Immobilize" time="30" val="0" isOffensive="false">
+				<add order="0x40" stat="pDef" val="5400" />
+				<add order="0x40" stat="mDef" val="4050" />
+				<add order="0x40" stat="cancelResist" val="80" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="8539" levels="1" name="Spirit of Phoenix">
+		<set name="magicType" val="MAGIC" />
+		<set name="icon" val="icon.skill0784" />
+		<set name="reuseDelay" val="15000" />
+		<set name="magicLevel" val="76" />
+		<set name="hitTime" val="2500" />
+		<set name="hitCancelTime" val="500" />
+		<set name="mpConsume1" val="8" />
+		<set name="mpConsume2" val="29" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<for>
+			<effect count="1" name="Buff" time="60" val="0" stackOrder="1" stackType="seed_of_knight">
+				<add order="0x60" stat="pDef" val="500" />
+				<add order="0x60" stat="defenceUnholy" val="30" />
+				<add order="0x60" stat="defenceFire" val="30" />
+				<mul order="0x50" stat="hpEff" val="1" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="8540" levels="1" name="Shield of Faith">
+		<set name="icon" val="icon.skill0528" />
+		<set name="reuseDelay" val="900000" />
+		<set name="magicLevel" val="76" />
+		<set name="hitTime" val="1000" />
+		<set name="hitCancelTime" val="500" />
+		<set name="mpConsume2" val="43" />
+		<set name="target" val="TARGET_PARTY" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="skillRadius" val="1000" />
+		<for>
+			<effect count="1" name="AbsorbDamageToEffector" time="15" val="0" stackOrder="1" stackType="pDefSpec">
+				<add order="0x40" stat="pDef" val="3600" />
+				<add order="0x40" stat="mDef" val="2700" />
+				<add order="0x40" stat="transferToEffectorDam" val="90" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="8541" levels="1" name="Seed of Revenge">
+		<set name="magicType" val="MAGIC" />
+		<set name="icon" val="icon.skill0761" />
+		<set name="reuseDelay" val="15000" />
+		<set name="magicLevel" val="76" />
+		<set name="hitTime" val="2500" />
+		<set name="hitCancelTime" val="500" />
+		<set name="mpConsume1" val="8" />
+		<set name="mpConsume2" val="29" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<for>
+			<effect count="1" name="Buff" time="60" val="0">
+				<add order="0x60" stat="pAtk" val="300" />
+				<mul order="0x50" stat="rCrit" val="1" />
+				<mul order="0x50" stat="cAtk" val="1" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="8542" levels="1" name="Touch of Eva">
+		<set name="icon" val="icon.skill0787" />
+		<set name="reuseDelay" val="150000" />
+		<set name="power" val="50" />
+		<set name="magicLevel" val="76" />
+		<set name="hitTime" val="1800" />
+		<set name="hitCancelTime" val="500" />
+		<set name="hpConsume" val="1253" />
+		<set name="target" val="TARGET_PARTY" />
+		<set name="skillRadius" val="1000" />
+		<set name="skillType" val="HEAL_PERCENT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<for>
+			<effect name="HealOverTime" time="1" count="60" val="50" stackType="touch_of_life" stackOrder="1">
+				<mul order="0x30" stat="hpEff" val="1.3" />
+				<add order="0x40" stat="debuffResist" val="30" />
+				<add order="0x40" stat="cancelResist" val="100" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="8543" levels="1" name="Pain of Shilen">
+		<set name="magicType" val="MAGIC" />
+		<set name="icon" val="icon.skill0788" />
+		<set name="reuseDelay" val="15000" />
+		<set name="magicLevel" val="76" />
+		<set name="hitTime" val="2500" />
+		<set name="hitCancelTime" val="500" />
+		<set name="mpConsume1" val="8" />
+		<set name="mpConsume2" val="29" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<for>
+			<effect count="1" name="Buff" time="60" val="0" stackOrder="1" stackType="seed_of_knight">
+				<mul order="0x50" stat="cAtk" val="1.2" />
+				<add order="0x60" stat="attackWind" val="20" />
+				<add order="0x60" stat="absorbDam" val="8" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="8544" levels="1" name="Prophecy of Fire">
+		<set name="magicType" val="MAGIC" />
+		<set name="icon" val="icon.skill1356" />
+		<set name="reuseDelay" val="4000" />
+		<set name="magicLevel" val="76" />
+		<set name="castRange" val="400" />
+		<set name="hitTime" val="4000" />
+		<set name="hitCancelTime" val="500" />
+		<set name="mpConsume1" val="15" />
+		<set name="mpConsume2" val="57" />
+		<set name="itemConsumeId" val="3031" />
+		<set name="itemConsumeCount" val="10" />
+		<set name="target" val="TARGET_PARTY_ONE" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<for>
+			<effect count="1" name="Buff" stackOrder="1" stackType="ancient" time="300" val="0">
+				<mul order="0x30" stat="maxMp" val="1.2" />
+				<mul order="0x30" stat="regHp" val="1.2" />
+				<add order="0x40" stat="mCritRate" val="2" />
+				<mul order="0x30" stat="cAtk" val="1.2" />
+				<mul order="0x30" stat="pAtk" val="1.1" />
+				<mul order="0x30" stat="pDef" val="1.2" />
+				<mul order="0x30" stat="pAtkSpd" val="1.2" />
+				<mul order="0x30" stat="mAtk" val="1.2" />
+				<mul order="0x30" stat="mDef" val="1.2" />
+				<mul order="0x30" stat="mAtkSpd" val="1.2" />
+				<add order="0x40" stat="debuffResist" val="10" />
+				<mul order="0x30" stat="runSpd" val="0.8" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="8545" levels="1" name="Turn to Stone">
+		<set name="icon" val="icon.skill1540"/>
+		<set name="reuseDelay" val="600000"/>
+		<set name="magicLevel" val="76"/>
+		<set name="hitTime" val="1200"/>
+		<set name="hitCancelTime" val="500"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<for>
+			<effect count="1" name="Petrification" stackOrder="-1" stackType="paralyze" time="8" val="0"/>
+		</for>
+	</skill>
+	<skill id="8546" levels="1" name="Arcane Wisdom">
+		<set name="icon" val="icon.skill0336" />
+		<set name="magicLevel" val="76" />
+		<set name="mpConsume1" val="36" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="CONT" />
+		<set name="operateType" val="OP_TOGGLE" />
+		<for>
+			<effect count="0x7fffffff" name="DamOverTime" time="3" val="150">
+				<mul order="0x30" stat="mpConsum" val="0.7" />
+				<mul order="0x30" stat="mAtkSpd" val="0.9" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="8547" levels="1" name="Song of Champion">
+		<set name="magicType" val="MUSIC" />
+		<set name="icon" val="icon.skill0364" />
+		<set name="reuseDelay" val="3000" />
+		<set name="magicLevel" val="76" />
+		<set name="hitTime" val="2500" />
+		<set name="hitCancelTime" val="500" />
+		<set name="mpConsume2" val="60" />
+		<set name="effectPoint" val="777" />
+		<set name="target" val="TARGET_PARTY" />
+		<set name="skillRadius" val="1000" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<for>
+			<effect count="1" name="Buff" time="120" stackOrder="1" stackType="soc" val="0">
+				<mul order="0x30" stat="pReuse" val="0.9" />
+				<mul order="0x30" stat="musicReuse" val="0.9" />
+				<mul order="0x30" stat="mpConsumePhysical" val="0.8" />
+				<mul order="0x30" stat="mpDanceConsume" val="0.8" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="8548" levels="1" name="Song of Purification">
+		<set name="magicType" val="MUSIC" />
+		<set name="icon" val="icon.skill0914" />
+		<set name="reuseDelay" val="240000" />
+		<set name="magicLevel" val="76" />
+		<set name="hitTime" val="2500" />
+		<set name="hitCancelTime" val="500" />
+		<set name="mpConsume2" val="60" />
+		<set name="target" val="TARGET_PARTY" />
+		<set name="skillRadius" val="1000" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<for>
+			<effect name="Buff" time="120" val="0">
+				<add order="0x40" stat="debuffResist" val="30"/>
+				<mul order="0x30" stat="hpEff" val="1.3" />
+			</effect>
+			<effect count="1" name="DispelEffects" time="0" val="0">
+				<def name="dispelType" val="cleanse" />
+				<def name="cancelRate" val="80" />
+				<def name="negateCount" val="10" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="8549" levels="1" name="Dance of Berserker">
+		<set name="magicType" val="MUSIC" />
+		<set name="icon" val="icon.skill0915" />
+		<set name="reuseDelay" val="240000" />
+		<set name="magicLevel" val="76" />
+		<set name="hitTime" val="2500" />
+		<set name="hitCancelTime" val="500" />
+		<set name="mpConsume2" val="60" />
+		<set name="effectPoint" val="523" />
+		<set name="weaponsAllowed" val="512"/>
+		<set name="target" val="TARGET_PARTY" />
+		<set name="skillRadius" val="1000" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<for>
+			<effect name="Buff" time="120" val="0" stackOrder="1" stackType="DoB">
+				<mul order="0x30" stat="mAtk" val="1.16"/>
+				<mul order="0x30" stat="pAtk" val="1.08"/>
+				<mul order="0x30" stat="mDef" val="0.84"/>
+				<mul order="0x30" stat="pDef" val="0.92"/>
+				<mul order="0x30" stat="mAtkSpd" val="1.08"/>
+				<mul order="0x30" stat="pAtkSpd" val="1.08"/>
+				<add order="0x40" stat="runSpd" val="8"/>
+				<sub order="0x40" stat="rEvas" val="4"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="8550" levels="1" name="Dance of Medusa">
+		<set name="levelModifier" val="1" />
+		<set name="affectLimit" val="10;10" />
+		<set name="icon" val="icon.skill0367" />
+		<set name="reuseDelay" val="30000" />
+		<set name="magicLevel" val="76" />
+		<set name="hitTime" val="2000" />
+		<set name="hitCancelTime" val="500" />
+		<set name="mpConsume2" val="53" />
+		<set name="activateRate" val="40" />
+		<set name="effectPoint" val="666" />
+		<set name="weaponsAllowed" val="512" />
+		<set name="element" val="earth" />
+		<set name="elementPower" val="20" />
+		<set name="target" val="TARGET_AURA" />
+		<set name="skillRadius" val="150" />
+		<set name="skillType" val="PARALYZE" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="saveVs" val="MEN" />
+		<for>
+			<effect count="1" name="Petrification" stackOrder="-1" stackType="paralyze" time="10" val="0">
+				<set order="0x80" stat="regHp" val="0" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="8551" levels="1" name="Chant of Victory">
+		<set name="magicType" val="MAGIC" />
+		<set name="icon" val="icon.skill1363" />
+		<set name="reuseDelay" val="300000" />
+		<set name="magicLevel" val="76" />
+		<set name="hitTime" val="2500" />
+		<set name="hitCancelTime" val="500" />
+		<set name="mpConsume1" val="57" />
+		<set name="mpConsume2" val="227" />
+		<set name="itemConsumeId" val="3031" />
+		<set name="itemConsumeCount" val="40" />
+		<set name="target" val="TARGET_PARTY" />
+		<set name="skillRadius" val="1000" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<for>
+			<effect count="1" name="Buff" stackOrder="1" stackType="ancient" time="300" val="0">
+				<mul order="0x30" stat="maxHp" val="1.2" />
+				<add order="0x40" stat="mCritRate" val="2" />
+				<mul order="0x30" stat="mCritDamage" val="1.2" />
+				<mul order="0x30" stat="cAtk" val="1.2" />
+				<mul order="0x30" stat="pAtk" val="1.1" />
+				<mul order="0x30" stat="pDef" val="1.2" />
+				<mul order="0x30" stat="pAtkSpd" val="1.2" />
+				<mul order="0x30" stat="mAtk" val="1.2" />
+				<mul order="0x30" stat="mDef" val="1.2" />
+				<mul order="0x30" stat="mAtkSpd" val="1.2" />
+				<add order="0x40" stat="debuffResist" val="10" />
+				<add order="0x40" stat="accCombat" val="4" />
+				<mul order="0x30" stat="runSpd" val="0.8" />
+			</effect>
+			<effect count="1" name="HealPercent" stackOrder="1" stackType="ancient" time="1" val="20" />
+		</for>
+	</skill>
+	<skill id="8552" levels="1" name="Onslaught of Pa'agrio">
+		<set name="levelModifier" val="1" />
+		<set name="icon" val="icon.skill0949" />
+		<set name="coolTime" val="720" />
+		<set name="reuseDelay" val="3000" />
+		<set name="power" val="4312" />
+		<set name="magicLevel" val="76" />
+		<set name="hitTime" val="1080" />
+		<set name="hitCancelTime" val="500" />
+		<set name="mpConsume2" val="35" />
+		<set name="element" val="fire" />
+		<set name="activateRate" val="70" />
+		<set name="target" val="TARGET_AREA" />
+		<set name="skillRadius" val="200"/>
+		<set name="skillType" val="PDAM" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="overHit" val="true" />
+		<set name="trait" val="SHOCK" />
+		<set name="saveVs" val="CON" />
+		<cond msgId="113" addName="1">
+			<using kind="Blunt, Big Blunt" />
+		</cond>
+		<for>
+			<effect count="15" name="DamOverTime" time="1" val="92" />
+		</for>
+	</skill>
+	<skill id="8553" levels="1" name="Arcane Power">
+		<set name="icon" val="icon.skill0337" />
+		<set name="magicLevel" val="76" />
+		<set name="mpConsume1" val="36" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="CONT" />
+		<set name="operateType" val="OP_TOGGLE" />
+		<for>
+			<effect count="0x7fffffff" name="DamOverTime" time="3" val="150">
+				<mul order="0x30" stat="mAtk" val="1.3" />
+				<mul order="0x30" stat="mpConsum" val="1.1" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="8554" levels="1" name="Lethal Blow">
+		<set name="icon" val="icon.skill0344" />
+		<set name="reuseDelay" val="4000" />
+		<set name="power" val="5773" />
+		<set name="magicLevel" val="76" />
+		<set name="hitTime" val="1800" />
+		<set name="hitCancelTime" val="500" />
+		<set name="mpConsume2" val="76" />
+		<set name="effectPoint" val="337" />
+		<set name="target" val="TARGET_ONE" />
+		<set name="overHit" val="true" />
+		<set name="onCrit" val="true" />
+		<set name="criticalRate" val="10" />
+		<set name="skillType" val="PDAM" />
+		<set name="blow" val="true" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="lethal1" val="10" />
+		<set name="nextAction" val="attack" />
+		<set name="trait" val="DEATH" />
+		<cond msgId="113" addName="1">
+			<using kind="Dagger,Dual Dagger" />
+		</cond>
+	</skill>
+	<skill id="8555" levels="1" name="Throwing Dagger">
+		<set name="icon" val="icon.skill0991" />
+		<set name="reuseDelay" val="45000" />
+		<set name="power" val="3488" />
+		<set name="magicLevel" val="76" />
+		<set name="castRange" val="300" />
+		<set name="hitTime" val="1080" />
+		<set name="mpConsume2" val="82" />
+		<set name="effectPoint" val="569" />
+		<set name="target" val="TARGET_ONE" />
+		<set name="skillType" val="PDAM" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<cond msgId="113" addName="1">
+			<using kind="Dagger, Dual Dagger" />
+		</cond>
+		<for>
+			<effect count="1" name="Buff" stackOrder="4" stackType="RunSpeedDown" time="10" val="0">
+				<mul order="0x50" stat="runSpd" val="0.2" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="8556" levels="1" name="Exciting Adventure">
+		<set name="icon" val="icon.skill0768" />
+		<set name="reuseDelay" val="900000" />
+		<set name="magicLevel" val="76" />
+		<set name="hitTime" val="1000" />
+		<set name="hitCancelTime" val="500" />
+		<set name="mpConsume2" val="36" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<for>
+			<effect abnormal="invul1" name="Buff" count="1" time="30" val="0" stackOrder="3" stackType="UltimateEvasion">
+				<add order="0x40" stat="rEvas" val="15" />
+				<add order="0x40" stat="runSpd" val="20" />
+				<mul order="0x30" stat="blowRate" val="1.3" />
+				<add order="0x40" stat="pSkillEvasion" val="40" />
+				<add order="0x40" stat="cancelResist" val="90" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="8557" levels="1" name="Wind Riding">
+		<set name="icon" val="icon.skill0769" />
+		<set name="reuseDelay" val="900000" />
+		<set name="magicLevel" val="76" />
+		<set name="hitTime" val="1000" />
+		<set name="hitCancelTime" val="500" />
+		<set name="mpConsume2" val="36" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<for>
+			<effect abnormal="invul1" name="Buff" count="1" time="30" val="0" stackOrder="3" stackType="UltimateEvasion">
+				<add order="0x40" stat="rEvas" val="20" />
+				<add order="0x40" stat="runSpd" val="50" />
+				<mul order="0x30" stat="blowRate" val="1.2" />
+				<add order="0x40" stat="pSkillEvasion" val="75" />
+				<add order="0x40" stat="cancelResist" val="80" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="8558" levels="1" name="Ghost Walking">
+		<set name="icon" val="icon.skill0770" />
+		<set name="reuseDelay" val="900000" />
+		<set name="magicLevel" val="76" />
+		<set name="hitTime" val="1000" />
+		<set name="hitCancelTime" val="500" />
+		<set name="mpConsume2" val="36" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<for>
+			<effect abnormal="invul1" name="Buff" count="1" time="30" val="0" stackOrder="3" stackType="UltimateEvasion">
+				<add order="0x40" stat="rEvas" val="15" />
+				<add order="0x40" stat="runSpd" val="33" />
+				<mul order="0x30" stat="blowRate" val="1.4" />
+				<add order="0x40" stat="pSkillEvasion" val="60" />
+				<add order="0x40" stat="cancelResist" val="90" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="8559" levels="1" name="Lethal Shot">
+		<set name="icon" val="icon.skill0343" />
+		<set name="reuseDelay" val="8000" />
+		<set name="power" val="7698" />
+		<set name="magicLevel" val="76" />
+		<set name="castRange" val="900" />
+		<set name="hitTime" val="4000" />
+		<set name="hitCancelTime" val="500" />
+		<set name="mpConsume2" val="153" />
+		<set name="weaponsAllowed" val="32" />
+		<set name="effectPoint" val="887" />
+		<set name="target" val="TARGET_ONE" />
+		<set name="overHit" val="true" />
+		<set name="criticalRate" val="10" />
+		<set name="skillType" val="LETHAL_SHOT" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="lethal1" val="10" />
+		<set name="nextAction" val="attack" />
+		<set name="trait" val="DEATH" />
+	</skill>
+	<skill id="8560" levels="1" name="Flame Hawk">
+		<set name="affectLimit" val="5;12" />
+		<set name="icon" val="icon.skill0771" />
+		<set name="coolTime" val="1000" />
+		<set name="reuseDelay" val="75000" />
+		<set name="power" val="8049" />
+		<set name="magicLevel" val="76" />
+		<set name="castRange" val="900" />
+		<set name="hitTime" val="3500" />
+		<set name="hitCancelTime" val="500" />
+		<set name="mpConsume2" val="160" />
+		<set name="target" val="TARGET_AREA" />
+		<set name="skillRadius" val="200" />
+		<set name="castRange" val="900" />
+		<set name="element" val="1" />
+		<set name="overHit" val="true" />
+		<set name="criticalRate" val="10" />
+		<set name="skillType" val="PDAM" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<cond msgId="113" addName="1">
+			<using kind="Bow" />
+		</cond>
+		<for>
+			<effect count="10" name="DamOverTime" time="1" val="300" />
+		</for>
+	</skill>
+	<skill id="8561" levels="1" name="Arrow Rain">
+		<set name="affectLimit" val="5;12" />
+		<set name="icon" val="icon.skill0772" />
+		<set name="coolTime" val="1000" />
+		<set name="reuseDelay" val="75000" />
+		<set name="power" val="7043" />
+		<set name="magicLevel" val="76" />
+		<set name="castRange" val="600" />
+		<set name="hitTime" val="4000" />
+		<set name="hitCancelTime" val="500" />
+		<set name="mpConsume2" val="160" />
+		<set name="weaponsAllowed" val="32" />
+		<set name="effectPoint" val="655" />
+		<set name="target" val="TARGET_AREA" />
+		<set name="skillRadius" val="200" />
+		<set name="overHit" val="true" />
+		<set name="criticalRate" val="10" />
+		<set name="skillType" val="PDAM" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<for>
+			<effect count="10" name="DamOverTime" time="1" val="300" />
+		</for>
+	</skill>
+	<skill id="8562" levels="1" name="Ghost Piercing">
+		<set name="affectLimit" val="5;12" />
+		<set name="icon" val="icon.skill0773" />
+		<set name="coolTime" val="1000" />
+		<set name="reuseDelay" val="75000" />
+		<set name="power" val="8452" />
+		<set name="magicLevel" val="76" />
+		<set name="castRange" val="900" />
+		<set name="hitTime" val="3000" />
+		<set name="hitCancelTime" val="500" />
+		<set name="mpConsume2" val="160" />
+		<set name="target" val="TARGET_AREA" />
+		<set name="skillRadius" val="200" />
+		<set name="castRange" val="900" />
+		<set name="element" val="6" />
+		<set name="overHit" val="true" />
+		<set name="criticalRate" val="10" />
+		<set name="skillType" val="PDAM" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<cond msgId="113" addName="1">
+			<using kind="Bow" />
+		</cond>
+		<for>
+			<effect count="10" name="DamOverTime" time="1" val="300" />
+		</for>
+	</skill>
+	<skill id="8563" levels="1" name="Death Shot">
+		<set name="icon" val="icon.skill0990" />
+		<set name="reuseDelay" val="12000" />
+		<set name="power" val="24306" />
+		<set name="magicLevel" val="76" />
+		<set name="castRange" val="900" />
+		<set name="hitTime" val="3500" />
+		<set name="hitCancelTime" val="400" />
+		<set name="mpConsume2" val="165" />
+		<set name="effectPoint" val="887" />
+		<set name="target" val="TARGET_ONE" />
+		<set name="overHit" val="true" />
+		<set name="criticalRate" val="10" />
+		<set name="skillType" val="PDAM" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="nextAction" val="attack" />
+		<cond msgId="113" addName="1">
+			<using kind="Crossbow, Bow" />
+		</cond>
+	</skill>
+	<skill id="8564" levels="1" name="Rush Impact">
+		<set name="icon" val="icon.skill0793" />
+		<set name="coolTime" val="200" />
+		<set name="power" val="4224" />
+		<set name="magicLevel" val="76" />
+		<set name="castRange" val="600" />
+		<set name="hitTime" val="800" />
+		<set name="reuseDelay" val="20000"/>
+		<set name="hitCancelTime" val="500" />
+		<set name="mpConsume1" val="82" />
+		<set name="activateRate" val="60" />
+		<set name="target" val="TARGET_TUNNEL" />
+		<set name="skillRadius" val="400" />
+		<set name="skillType" val="PDAM" />
+		<set name="flyType" val="CHARGE" />
+		<set name="flyRadius" val="600" />
+		<set name="flyToBack" val="true" />
+		<set name="trait" val="SHOCK" />
+		<set name="saveVs" val="CON" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<cond msgId="113" addName="1">
+			<using kind="Sword, Big Sword, Blunt, Big Blunt, Dagger, Pole, Fist, Dual Sword, Dual Dagger" />
+		</cond>
+		<for>
+			<effect count="1" name="Stun" stackOrder="-1" stackType="Stun" time="9" val="0" />
+		</for>
+	</skill>
+	<skill id="8565" levels="1" name="Dread Pool">
+		<set name="levelModifier" val="1" />
+		<set name="affectLimit" val="10;10" />
+		<set name="icon" val="icon.skill0774" />
+		<set name="reuseDelay" val="75000" />
+		<set name="magicLevel" val="76" />
+		<set name="hitTime" val="1000" />
+		<set name="hitCancelTime" val="500" />
+		<set name="mpConsume2" val="87" />
+		<set name="activateRate" val="70" />
+		<set name="target" val="TARGET_AURA" />
+		<set name="skillRadius" val="200" />
+		<set name="skillType" val="DEBUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="trait" val="DERANGEMENT" />
+		<set name="saveVs" val="MEN" />
+		<for>
+			<effect count="4" name="Fear" stackOrder="-1" stackType="Fear" time="2" val="0">
+				<mul order="0x50" stat="runSpd" val="0.67" />
+				<mul order="0x30" stat="pDef" val="0.67" />
+				<sub order="0x40" stat="rEvas" val="10" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="8566" levels="1" name="Earthquake">
+		<set name="affectLimit" val="6;12" />
+		<set name="icon" val="icon.skill0347" />
+		<set name="reuseDelay" val="8000" />
+		<set name="power" val="4848" />
+		<set name="magicLevel" val="76" />
+		<set name="hitTime" val="1800" />
+		<set name="hitCancelTime" val="500" />
+		<set name="hpConsume" val="340" />
+		<set name="mpConsume2" val="78" />
+		<set name="weaponsAllowed" val="64" />
+		<set name="effectPoint" val="679" />
+		<set name="target" val="TARGET_AURA" />
+		<set name="skillRadius" val="150" />
+		<set name="overHit" val="true" />
+		<set name="criticalRate" val="20" />
+		<set name="skillType" val="PDAM" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="shieldignore" val="true" />
+		<for>
+			<effect count="1" name="RemoveTarget" stackOrder="-1" stackType="RemoveTarget" time="0" val="0" chance="60" isReflectable="false" />
+		</for>
+	</skill>
+	<skill id="8567" levels="1" name="Maximum Focus Force">
+		<set name="icon" val="icon.skill0918" />
+		<set name="reuseDelay" val="75000" />
+		<set name="magicLevel" val="76" />
+		<set name="hitTime" val="900" />
+		<set name="hitCancelTime" val="500" />
+		<set name="hpConsume" val="80" />
+		<set name="mpConsume2" val="20" />
+		<set name="effectPoint" val="200" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="CHARGE" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="fullCharge" val="true" />
+		<set name="charges" val="999" />
+	</skill>
+	<skill id="8568" levels="1" name="Maximum Focus Sonic">
+		<set name="icon" val="icon.skill0919" />
+		<set name="reuseDelay" val="75000" />
+		<set name="magicLevel" val="76" />
+		<set name="hitTime" val="900" />
+		<set name="hitCancelTime" val="500" />
+		<set name="hpConsume" val="80" />
+		<set name="mpConsume2" val="20" />
+		<set name="effectPoint" val="200" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="CHARGE" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="fullCharge" val="true" />
+		<set name="charges" val="999" />
+	</skill>
+	<skill id="8569" levels="1" name="Sonic Rage">
+		<set name="icon" val="icon.skill0345" />
+		<set name="power" val="8" />
+		<set name="magicLevel" val="76" />
+		<set name="castRange" val="600" />
+		<set name="hitTime" val="1500" />
+		<set name="hitCancelTime" val="500" />
+		<set name="hpConsume" val="50" />
+		<set name="mpConsume2" val="5" />
+		<set name="effectPoint" val="340" />
+		<set name="weaponsAllowed" val="512" />
+		<set name="target" val="TARGET_ONE" />
+		<set name="overHit" val="true" />
+		<set name="skillType" val="CHARGE" />
+		<set name="criticalRate" val="10" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="charges" val="8" />
+		<set name="isOffensive" val="true" />
+		<set name="nextAction" val="attack" />
+	</skill>
+	<skill id="8570" levels="1" name="Raging Force">
+		<set name="icon" val="icon.skill0346" />
+		<set name="power" val="8" />
+		<set name="magicLevel" val="76" />
+		<set name="castRange" val="600" />
+		<set name="hitTime" val="1500" />
+		<set name="hitCancelTime" val="500" />
+		<set name="hpConsume" val="50" />
+		<set name="mpConsume2" val="5" />
+		<set name="effectPoint" val="340" />
+		<set name="weaponsAllowed" val="1024" />
+		<set name="target" val="TARGET_ONE" />
+		<set name="overHit" val="true" />
+		<set name="skillType" val="CHARGE" />
+		<set name="criticalRate" val="10" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="charges" val="8" />
+		<set name="isOffensive" val="true" />
+		<set name="nextAction" val="attack" />
+	</skill>
+	<skill id="8571" levels="1" name="Demolition Impact">
+		<set name="affectLimit" val="5;12" />
+		<set name="icon" val="icon.skill0777" />
+		<set name="reuseDelay" val="75000" />
+		<set name="power" val="7475" />
+		<set name="magicLevel" val="76" />
+		<set name="hitTime" val="1200" />
+		<set name="hitCancelTime" val="500" />
+		<set name="mpConsume2" val="160" />
+		<set name="target" val="TARGET_ONE" />
+		<set name="skillRadius" val="200" />
+		<set name="overHit" val="true" />
+		<set name="criticalRate" val="10" />
+		<set name="skillType" val="PDAM" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="castRange" val="150" />
+		<cond msgId="113" addName="1">
+			<using kind="Big Sword, Big Blunt" />
+		</cond>
+	</skill>
+	<skill id="8572" levels="1" name="Armor Crush">
+		<set name="levelModifier" val="1" />
+		<set name="icon" val="icon.skill0362" />
+		<set name="coolTime" val="100" />
+		<set name="reuseDelay" val="4000" />
+		<set name="power" val="3077" />
+		<set name="magicLevel" val="76" />
+		<set name="hitTime" val="1900" />
+		<set name="hitCancelTime" val="500" />
+		<set name="hpConsume" val="338" />
+		<set name="mpConsume2" val="35" />
+		<set name="activateRate" val="40" />
+		<set name="effectPoint" val="507" />
+		<set name="weaponsAllowed" val="18444" />
+		<set name="target" val="TARGET_ONE" />
+		<set name="overHit" val="true" />
+		<set name="criticalRate" val="20" />
+		<set name="skillType" val="PDAM" />
+		<set name="shieldignore" val="true" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="nextAction" val="attack" />
+		<set name="trait" val="SHOCK" />
+		<set name="saveVs" val="CON" />
+		<for>
+			<effect count="1" name="Stun" stackOrder="-1" stackType="Stun" time="9" val="0">
+				<mul order="0x30" stat="pDef" val="0.7" />
+				<mul order="0x30" stat="mDef" val="0.7" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="8573" levels="1" name="Soul Rage">
+		<set name="icon" val="icon.skill0939" />
+		<set name="power" val="1" />
+		<set name="magicLevel" val="76" />
+		<set name="castRange" val="600" />
+		<set name="hitTime" val="1500" />
+		<set name="hitCancelTime" val="500" />
+		<set name="hpConsume" val="25" />
+		<set name="mpConsume2" val="5" />
+		<set name="target" val="TARGET_ONE" />
+		<set name="overHit" val="true" />
+		<set name="skillType" val="CHARGE_SOUL" />
+		<set name="numSouls" val="1" />
+		<set name="criticalRate" val="10" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isOffensive" val="true" />
+	</skill>
+	<skill id="8574" levels="1" name="Kamael Guard Captain Enuma Elish" >
+		<set name="affectLimit" val="5;12" />
+		<set name="icon" val="icon.skill0526" />
+		<set name="coolTime" val="720" />
+		<set name="reuseDelay" val="75000" />
+		<set name="magicLevel" val="76" />
+		<set name="hitTime" val="1080" />
+		<set name="hitCancelTime" val="500" />
+		<set name="mpConsume2" val="78" />
+		<set name="power" val="6060" />
+		<set name="target" val="TARGET_AREA" />
+		<set name="skillType" val="PDAM" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="nextAction" val="attack" />
+	</skill>
+	<skill id="8575" levels="1" name="Soul Vortex">
+		<set name="levelModifier" val="2"/>
+		<set name="magicType" val="MAGIC"/>
+		<set name="icon" val="icon.skill1512"/>
+		<set name="reuseDelay" val="15000"/>
+		<set name="power" val="112"/>
+		<set name="magicLevel" val="76"/>
+		<set name="castRange" val="900"/>
+		<set name="hitTime" val="3000"/>
+		<set name="hitCancelTime" val="500"/>
+		<set name="mpConsume1" val="21"/>
+		<set name="mpConsume2" val="84"/>
+		<set name="activateRate" val="80"/>
+		<set name="target" val="TARGET_ONE"/>
+		<set name="skillType" val="MDAM"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="soulBoost" val="true"/>
+		<set name="saveVs" val="MEN"/>
+		<for>
+			<effect count="10" name="ManaDamOverTime" stackOrder="1" stackType="vortex" time="3" val="36">
+				<mul order="0x30" stat="runSpd" val="0.8"/>
+				<mul order="0x30" stat="pAtkSpd" val="0.7"/>
+				<mul order="0x30" stat="mAtkSpd" val="0.7"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="8576" levels="1" name="Soul Vortex Extinction">
+		<set name="magicType" val="MAGIC"/>
+		<set name="icon" val="icon.skill1513"/>
+		<set name="reuseDelay" val="15000"/>
+		<set name="power" val="195"/>
+		<set name="magicLevel" val="76"/>
+		<set name="castRange" val="900"/>
+		<set name="hitTime" val="2000"/>
+		<set name="hitCancelTime" val="500"/>
+		<set name="mpConsume1" val="22"/>
+		<set name="mpConsume2" val="86"/>
+		<set name="target" val="TARGET_ONE"/>
+		<set name="skillType" val="MDAM"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="negateSkill" val="1512"/>
+		<set name="soulBoost" val="true"/>
+		<cond msgId="113" addName="1">
+			<target hasBuffId="1512"/>
+		</cond>
+		<for>
+			<effect count="5" name="ManaDamOverTime" time="2" val="40">
+				<mul order="0x30" stat="runSpd" val="0.8"/>
+				<mul order="0x30" stat="pAtkSpd" val="0.7"/>
+				<mul order="0x30" stat="mAtkSpd" val="0.7"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="8577" levels="1" name="Wild Shot">
+		<set name="affectLimit" val="5;12" />
+		<set name="icon" val="icon.skill0790" />
+		<set name="coolTime" val="1000" />
+		<set name="reuseDelay" val="75000" />
+		<set name="power" val="7475" />
+		<set name="magicLevel" val="76" />
+		<set name="castRange" val="900" />
+		<set name="hitTime" val="3500" />
+		<set name="hitCancelTime" val="500" />
+		<set name="mpConsume2" val="120" />
+		<set name="target" val="TARGET_ONE" />
+		<set name="skillType" val="PDAM" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="overHit" val="true" />
+		<set name="criticalRate" val="10" />
+		<set name="soulBoost" val="true" />
+		<cond msgId="113" addName="1">
+			<using kind="Crossbow" />
+		</cond>
+	</skill>
+	<skill id="8578" levels="1" name="Multiple Shot">
+		<set name="icon" val="icon.skill0987" />
+		<set name="reuseDelay" val="12000" />
+		<set name="power" val="16667" />
+		<set name="magicLevel" val="76" />
+		<set name="castRange" val="900" />
+		<set name="skillRadius" val="550" />
+		<set name="hitTime" val="3000" />
+		<set name="hitCancelTime" val="400" />
+		<set name="mpConsume2" val="162" />
+		<set name="effectPoint" val="887" />
+		<set name="target" val="TARGET_MULTIFACE" />
+		<set name="overHit" val="true" />
+		<set name="criticalRate" val="10" />
+		<set name="skillType" val="PDAM" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="nextAction" val="attack" />
+		<cond msgId="113" addName="1">
+			<using kind="Crossbow, Bow" />
+		</cond>
+	</skill>
+	<skill id="8579" levels="1" name="Fire Vortex">
+		<set name="levelModifier" val="2" />
+		<set name="magicType" val="MAGIC" />
+		<set name="icon" val="icon.skill1339" />
+		<set name="reuseDelay" val="15000" />
+		<set name="power" val="140" />
+		<set name="magicLevel" val="76" />
+		<set name="castRange" val="900" />
+		<set name="hitTime" val="6000" />
+		<set name="hitCancelTime" val="500" />
+		<set name="mpConsume1" val="21" />
+		<set name="mpConsume2" val="84" />
+		<set name="activateRate" val="80" />
+		<set name="target" val="TARGET_ONE" />
+		<set name="element" val="fire" />
+		<set name="skillType" val="MDAM" />
+		<set name="overHit" val="true" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="saveVs" val="MEN" />
+		<for>
+			<effect count="10" name="ManaDamOverTime" stackOrder="1" stackType="vortex_fire" time="3" val="36">
+				<sub order="0x40" stat="defenceFire" val="20" />
+				<mul order="0x30" stat="runSpd" val="0.9" />
+				<mul order="0x30" stat="pAtkSpd" val="0.7" />
+				<mul order="0x30" stat="mAtkSpd" val="0.9" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="8580" levels="1" name="Fire Vortex Buster">
+		<set name="magicType" val="MAGIC" />
+		<set name="icon" val="icon.skill1451" />
+		<set name="reuseDelay" val="15000" />
+		<set name="power" val="195" />
+		<set name="magicLevel" val="76" />
+		<set name="castRange" val="900" />
+		<set name="hitTime" val="2000" />
+		<set name="hitCancelTime" val="500" />
+		<set name="mpConsume1" val="22" />
+		<set name="mpConsume2" val="86" />
+		<set name="target" val="TARGET_ONE" />
+		<set name="element" val="fire" />
+		<set name="skillType" val="MDAM" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="negateSkill" val="1339" />
+		<cond msgId="113" addName="1">
+			<target hasBuffId="1339" />
+		</cond>
+		<for>
+			<effect count="5" name="ManaDamOverTime" time="2" val="40">
+				<mul order="0x30" stat="runSpd" val="0.9" />
+				<mul order="0x30" stat="pAtkSpd" val="0.7" />
+				<mul order="0x30" stat="mAtkSpd" val="0.9" />
+				<sub order="0x40" stat="defenceFire" val="50" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="8581" levels="1" name="Meteor">
+		<set name="magicType" val="MAGIC" />
+		<set name="affectLimit" val="10;10" />
+		<set name="icon" val="icon.skill1467" />
+		<set name="reuseDelay" val="300000" />
+		<set name="power" val="117" />
+		<set name="magicLevel" val="76" />
+		<set name="castRange" val="600" />
+		<set name="hitTime" val="3000" />
+		<set name="hitCancelTime" val="500" />
+		<set name="mpConsume1" val="72" />
+		<set name="element" val="fire" />
+		<set name="target" val="TARGET_AREA" />
+		<set name="skillType" val="MDAM" />
+		<set name="skillRadius" val="200" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isSkillTimePermanent" val="true" />
+		<for>
+			<effect count="10" name="DamOverTime" time="1" val="120" />
+		</for>
+	</skill>
+	<skill id="8582" levels="1" name="Dark Vortex">
+		<set name="levelModifier" val="2" />
+		<set name="magicType" val="MAGIC" />
+		<set name="icon" val="icon.skill1343" />
+		<set name="reuseDelay" val="15000" />
+		<set name="power" val="139" />
+		<set name="magicLevel" val="76" />
+		<set name="castRange" val="900" />
+		<set name="hitTime" val="6000" />
+		<set name="hitCancelTime" val="500" />
+		<set name="mpConsume1" val="21" />
+		<set name="mpConsume2" val="84" />
+		<set name="activateRate" val="80" />
+		<set name="effectPoint" val="993" />
+		<set name="target" val="TARGET_ONE" />
+		<set name="element" val="unholy" />
+		<set name="skillType" val="DRAIN" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="absorbPart" val="0.25" />
+		<set name="saveVs" val="MEN" />
+		<for>
+			<effect count="10" name="ManaDamOverTime" stackOrder="1" stackType="vortex_dark" time="3" val="36">
+				<sub order="0x40" stat="defenceUnholy" val="30" />
+				<sub order="0x40" stat="accCombat" val="6" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="8583" levels="1" name="Day of Doom">
+		<set name="magicType" val="MAGIC" />
+		<set name="icon" val="icon.skill1422" />
+		<set name="reuseDelay" val="1800000" />
+		<set name="magicLevel" val="76" />
+		<set name="castRange" val="900" />
+		<set name="hitTime" val="5000" />
+		<set name="hitCancelTime" val="500" />
+		<set name="mpConsume1" val="15" />
+		<set name="mpConsume2" val="58" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="skillType" val="BUFF" />
+		<set name="symbolId" val="13028" />
+		<set name="addSkills" val="5145;1" />
+		<set name="skillRadius" val="200" />
+		<set name="itemConsumeId" val="8876" />
+		<set name="itemConsumeCount" val="1" />
+		<set name="isReuseDelayPermanent" val="true" />
+		<set name="cancelable" val="false" />
+		<cond msgId="1509">
+			<not>
+				<player olympiad="true" />
+			</not>
+		</cond>
+		<for>
+			<effect count="1" name="Symbol" time="15" val="0" applyOnSummon="false" />
+		</for>
+	</skill>
+	<skill id="8584" levels="1" name="Ice Vortex">
+		<set name="levelModifier" val="2" />
+		<set name="magicType" val="MAGIC" />
+		<set name="icon" val="icon.skill1340" />
+		<set name="reuseDelay" val="15000" />
+		<set name="power" val="140" />
+		<set name="magicLevel" val="76" />
+		<set name="castRange" val="900" />
+		<set name="hitTime" val="6000" />
+		<set name="hitCancelTime" val="500" />
+		<set name="mpConsume1" val="21" />
+		<set name="mpConsume2" val="84" />
+		<set name="activateRate" val="80" />
+		<set name="target" val="TARGET_ONE" />
+		<set name="element" val="water" />
+		<set name="skillType" val="MDAM" />
+		<set name="overHit" val="true" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="saveVs" val="MEN" />
+		<for>
+			<effect count="10" name="ManaDamOverTime" stackOrder="1" stackType="vortex_ice" time="3" val="36">
+				<sub order="0x40" stat="defenceWater" val="20" />
+				<mul order="0x30" stat="runSpd" val="0.7" />
+				<mul order="0x30" stat="pAtkSpd" val="0.9" />
+				<mul order="0x30" stat="mAtkSpd" val="0.9" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="8585" levels="1" name="Ice Vortex Crusher">
+		<set name="magicType" val="MAGIC" />
+		<set name="icon" val="icon.skill1453" />
+		<set name="reuseDelay" val="15000" />
+		<set name="power" val="195" />
+		<set name="magicLevel" val="76" />
+		<set name="castRange" val="900" />
+		<set name="hitTime" val="2000" />
+		<set name="hitCancelTime" val="500" />
+		<set name="mpConsume1" val="22" />
+		<set name="mpConsume2" val="86" />
+		<set name="target" val="TARGET_ONE" />
+		<set name="element" val="water" />
+		<set name="skillType" val="MDAM" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="negateSkill" val="1340" />
+		<cond msgId="113" addName="1">
+			<target hasBuffId="1340" />
+		</cond>
+		<for>
+			<effect count="5" name="ManaDamOverTime" time="2" val="40">
+				<mul order="0x30" stat="runSpd" val="0.9" />
+				<mul order="0x30" stat="pAtkSpd" val="0.7" />
+				<mul order="0x30" stat="mAtkSpd" val="0.9" />
+				<sub order="0x40" stat="defenceWater" val="50" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="8586" levels="1" name="Star Fall">
+		<set name="magicType" val="MAGIC" />
+		<set name="affectLimit" val="10;10" />
+		<set name="icon" val="icon.skill1468" />
+		<set name="reuseDelay" val="300000" />
+		<set name="power" val="117" />
+		<set name="magicLevel" val="76" />
+		<set name="castRange" val="600" />
+		<set name="hitTime" val="3000" />
+		<set name="hitCancelTime" val="500" />
+		<set name="mpConsume1" val="72" />
+		<set name="target" val="TARGET_AREA" />
+		<set name="skillType" val="MDAM" />
+		<set name="skillRadius" val="200" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isSkillTimePermanent" val="true" />
+		<for>
+			<effect count="10" name="DamOverTime" time="1" val="120" />
+		</for>
+	</skill>
+	<skill id="8587" levels="1" name="Wind Vortex">
+		<set name="levelModifier" val="2" />
+		<set name="magicType" val="MAGIC" />
+		<set name="icon" val="icon.skill1341" />
+		<set name="reuseDelay" val="15000" />
+		<set name="power" val="140" />
+		<set name="magicLevel" val="76" />
+		<set name="castRange" val="900" />
+		<set name="hitTime" val="6000" />
+		<set name="hitCancelTime" val="500" />
+		<set name="mpConsume1" val="21" />
+		<set name="mpConsume2" val="84" />
+		<set name="activateRate" val="80" />
+		<set name="target" val="TARGET_ONE" />
+		<set name="element" val="wind" />
+		<set name="skillType" val="MDAM" />
+		<set name="overHit" val="true" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="saveVs" val="MEN" />
+		<for>
+			<effect count="10" name="ManaDamOverTime" stackOrder="1" stackType="vortex_wind" time="3" val="36">
+				<sub order="0x40" stat="defenceWind" val="20" />
+				<mul order="0x30" stat="runSpd" val="0.9" />
+				<mul order="0x30" stat="pAtkSpd" val="0.9" />
+				<mul order="0x30" stat="mAtkSpd" val="0.7" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="8588" levels="1" name="Wind Vortex Slug">
+		<set name="magicType" val="MAGIC" />
+		<set name="icon" val="icon.skill1456" />
+		<set name="reuseDelay" val="15000" />
+		<set name="power" val="195" />
+		<set name="magicLevel" val="76" />
+		<set name="castRange" val="900" />
+		<set name="hitTime" val="2000" />
+		<set name="hitCancelTime" val="500" />
+		<set name="mpConsume1" val="22" />
+		<set name="mpConsume2" val="86" />
+		<set name="target" val="TARGET_ONE" />
+		<set name="element" val="wind" />
+		<set name="skillType" val="MDAM" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="negateSkill" val="1341" />
+		<cond msgId="113" addName="1">
+			<target hasBuffId="1341" />
+		</cond>
+		<for>
+			<effect count="5" name="ManaDamOverTime" time="2" val="40">
+				<mul order="0x30" stat="runSpd" val="0.9" />
+				<mul order="0x30" stat="pAtkSpd" val="0.7" />
+				<mul order="0x30" stat="mAtkSpd" val="0.9" />
+				<sub order="0x40" stat="defenceWind" val="50" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="8589" levels="1" name="Summon Feline King">
+		<set name="magicType" val="MAGIC" />
+		<set name="icon" val="icon.skill1406" />
+		<set name="reuseDelay" val="5000" />
+		<set name="magicLevel" val="76" />
+		<set name="hitTime" val="6000" />
+		<set name="hitCancelTime" val="500" />
+		<set name="mpConsume1" val="29" />
+		<set name="mpConsume2" val="115" />
+		<set name="lifeTime" val="3600" />
+		<set name="itemConsumeId" val="3031" />
+		<set name="itemConsumeCount" val="4" />
+		<set name="itemConsumeIdInTime" val="3031" />
+		<set name="itemConsumeCountInTime" val="11" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="SUMMON" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<!-- Summon-specific -->
+		<set name="npcId" val="14836" />
+	</skill>
+	<skill id="8590" levels="1" name="Final Servitor">
+		<set name="magicType" val="MAGIC" />
+		<set name="icon" val="icon.skill1349" />
+		<set name="reuseDelay" val="60000" />
+		<set name="magicLevel" val="76" />
+		<set name="castRange" val="400" />
+		<set name="hitTime" val="4000" />
+		<set name="hitCancelTime" val="500" />
+		<set name="mpConsume1" val="15" />
+		<set name="mpConsume2" val="57" />
+		<set name="itemConsumeId" val="3031" />
+		<set name="itemConsumeCount" val="20" />
+		<set name="target" val="TARGET_PET" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<for>
+			<effect count="1" name="Buff" stackOrder="1" stackType="ancient" time="300" val="0">
+				<mul order="0x30" stat="maxHp" val="1.2" />
+				<add order="0x40" stat="accCombat" val="4" />
+				<mul order="0x30" stat="pAtk" val="1.1" />
+				<mul order="0x30" stat="pDef" val="1.2" />
+				<mul order="0x30" stat="pAtkSpd" val="1.2" />
+				<add order="0x40" stat="rCrit" val="20" />
+				<mul order="0x30" stat="cAtk" val="1.2" />
+				<mul order="0x30" stat="mDef" val="1.2" />
+				<mul order="0x30" stat="mAtk" val="1.2" />
+				<mul order="0x30" stat="mAtkSpd" val="1.2" />
+				<add order="0x40" stat="debuffResist" val="20" />
+				<mul order="0x30" stat="runSpd" val="0.8" />
+			</effect>
+			<effect count="1" name="HealPercent" time="0" val="20" />
+		</for>
+	</skill>
+	<skill id="8591" levels="1" name="Summon Magnus the Unicorn">
+		<set name="magicType" val="MAGIC" />
+		<set name="icon" val="icon.skill1407" />
+		<set name="reuseDelay" val="5000" />
+		<set name="magicLevel" val="76" />
+		<set name="hitTime" val="6000" />
+		<set name="hitCancelTime" val="500" />
+		<set name="mpConsume1" val="29" />
+		<set name="mpConsume2" val="115" />
+		<set name="lifeTime" val="3600" />
+		<set name="itemConsumeId" val="3031" />
+		<set name="itemConsumeCount" val="4" />
+		<set name="itemConsumeIdInTime" val="3031" />
+		<set name="itemConsumeCountInTime" val="11" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="SUMMON" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<!-- Summon-specific -->
+		<set name="npcId" val="14837" />
+	</skill>
+	<skill id="8592" levels="1" name="Summon Spectral Lord">
+		<set name="magicType" val="MAGIC" />
+		<set name="icon" val="icon.skill1408" />
+		<set name="reuseDelay" val="5000" />
+		<set name="magicLevel" val="76" />
+		<set name="hitTime" val="6000" />
+		<set name="hitCancelTime" val="500" />
+		<set name="mpConsume1" val="29" />
+		<set name="mpConsume2" val="115" />
+		<set name="lifeTime" val="3600" />
+		<set name="itemConsumeId" val="3031" />
+		<set name="itemConsumeCount" val="4" />
+		<set name="itemConsumeIdInTime" val="3031" />
+		<set name="itemConsumeCountInTime" val="11" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="SUMMON" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<!-- Summon-specific -->
+		<set name="npcId" val="14838" />
+	</skill>
+	<skill id="8593" levels="1" name="Servitor Barrier">
+		<set name="magicType" val="MAGIC" />
+		<set name="icon" val="icon.skill1496" />
+		<set name="reuseDelay" val="300000" />
+		<set name="magicLevel" val="76" />
+		<set name="castRange" val="400" />
+		<set name="hitTime" val="2500" />
+		<set name="hitCancelTime" val="500" />
+		<set name="mpConsume1" val="15" />
+		<set name="mpConsume2" val="58" />
+		<set name="itemConsumeId" val="3031" />
+		<set name="itemConsumeCount" val="5" />
+		<set name="target" val="TARGET_PET" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<for>
+			<effect abnormal="invul2" count="1" name="Invulnerable" stackOrder="-1" stackType="Invulnerable" time="30" val="0" cancelOnAction="true" />
+		</for>
+	</skill>
+	<skill id="8594" levels="1" name="Cleanse">
+		<set name="magicType" val="MAGIC" />
+		<set name="icon" val="icon.skill1409" />
+		<set name="reuseDelay" val="8000" />
+		<set name="magicLevel" val="76" />
+		<set name="castRange" val="600" />
+		<set name="hitTime" val="3000" />
+		<set name="hitCancelTime" val="500" />
+		<set name="mpConsume1" val="12" />
+		<set name="mpConsume2" val="46" />
+		<set name="itemConsumeId" val="8874" />
+		<set name="itemConsumeCount" val="1" />
+		<set name="target" val="TARGET_ONE" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<for>
+			<effect count="1" name="DispelEffects" time="0" val="0">
+				<def name="dispelType" val="cleanse" />
+				<def name="cancelRate" val="100" />
+				<def name="negateCount" val="10" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="8595" levels="1" name="Prophecy of Water">
+		<set name="magicType" val="MAGIC" />
+		<set name="icon" val="icon.skill1355" />
+		<set name="reuseDelay" val="4000" />
+		<set name="magicLevel" val="76" />
+		<set name="castRange" val="400" />
+		<set name="hitTime" val="4000" />
+		<set name="hitCancelTime" val="500" />
+		<set name="mpConsume1" val="15" />
+		<set name="mpConsume2" val="57" />
+		<set name="itemConsumeId" val="3031" />
+		<set name="itemConsumeCount" val="10" />
+		<set name="target" val="TARGET_PARTY_ONE" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<for>
+			<effect count="1" name="Buff" stackOrder="1" stackType="ancient" time="300" val="0">
+				<mul order="0x30" stat="mCritDamage" val="1.2" />
+				<add order="0x40" stat="mCritRate" val="2" />
+				<mul order="0x30" stat="regMp" val="1.2" />
+				<mul order="0x30" stat="pAtk" val="1.1" />
+				<mul order="0x30" stat="pDef" val="1.2" />
+				<mul order="0x30" stat="pAtkSpd" val="1.2" />
+				<mul order="0x30" stat="mAtk" val="1.2" />
+				<mul order="0x30" stat="mDef" val="1.2" />
+				<mul order="0x30" stat="mAtkSpd" val="1.2" />
+				<add order="0x40" stat="debuffResist" val="10" />
+				<mul order="0x30" stat="runSpd" val="0.8" />
+				<mul order="0x30" stat="mpConsum" val="0.95" />
+				<mul order="0x30" stat="mpConsumePhysical" val="0.95" />
+				<mul order="0x30" stat="mpDanceConsume" val="0.95" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="8596" levels="1" name="Prophecy of Wind">
+		<set name="magicType" val="MAGIC" />
+		<set name="icon" val="icon.skill1357" />
+		<set name="reuseDelay" val="4000" />
+		<set name="magicLevel" val="76" />
+		<set name="castRange" val="400" />
+		<set name="hitTime" val="4000" />
+		<set name="hitCancelTime" val="500" />
+		<set name="mpConsume1" val="15" />
+		<set name="mpConsume2" val="57" />
+		<set name="itemConsumeId" val="3031" />
+		<set name="itemConsumeCount" val="10" />
+		<set name="target" val="TARGET_PARTY_ONE" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<for>
+			<effect count="1" name="Buff" stackOrder="1" stackType="ancient" time="300" val="0">
+				<mul order="0x30" stat="maxHp" val="1.2" />
+				<add order="0x40" stat="rCrit" val="20" />
+				<mul order="0x30" stat="mCritDamage" val="1.2" />
+				<mul order="0x30" stat="pAtk" val="1.1" />
+				<mul order="0x30" stat="pDef" val="1.2" />
+				<mul order="0x30" stat="pAtkSpd" val="1.2" />
+				<mul order="0x30" stat="mAtk" val="1.2" />
+				<mul order="0x30" stat="mDef" val="1.2" />
+				<mul order="0x30" stat="mAtkSpd" val="1.2" />
+				<add order="0x40" stat="debuffResist" val="10" />
+				<mul order="0x30" stat="runSpd" val="0.8" />
+				<add order="0x40" stat="absorbDam" val="5" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="8597" levels="1" name="Siren's Dance">
+		<set name="magicType" val="MUSIC" />
+		<set name="icon" val="icon.skill0365" />
+		<set name="reuseDelay" val="3000" />
+		<set name="magicLevel" val="76" />
+		<set name="hitTime" val="2500" />
+		<set name="hitCancelTime" val="500" />
+		<set name="mpConsume2" val="60" />
+		<set name="effectPoint" val="777" />
+		<set name="weaponsAllowed" val="512" />
+		<set name="target" val="TARGET_PARTY" />
+		<set name="skillRadius" val="1000" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<for>
+			<effect count="1" name="Buff" time="120" val="0">
+				<add order="0x40" stat="mCritRate" val="2" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="8598" levels="1" name="Song of Silence">
+		<set name="levelModifier" val="1" />
+		<set name="affectLimit" val="10;10" />
+		<set name="icon" val="icon.skill0437" />
+		<set name="reuseDelay" val="150000" />
+		<set name="magicLevel" val="76" />
+		<set name="hitTime" val="2500" />
+		<set name="hitCancelTime" val="500" />
+		<set name="mpConsume2" val="54" />
+		<set name="skillRadius" val="150" />
+		<set name="target" val="TARGET_AURA" />
+		<set name="skillType" val="MUTE" />
+		<set name="activateRate" val="60" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="trait" val="DERANGEMENT" />
+		<set name="saveVs" val="MEN" />
+		<for>
+			<effect count="1" name="MuteAll" time="120" val="0" />
+		</for>
+	</skill>
+	<skill id="8599" levels="1" name="Chain Heal">
+		<set name="icon" val="icon.skill1553"/>
+		<set name="magicType" val="MAGIC"/>
+		<set name="effectPoint" val="398"/>
+		<set name="hitTime" val="3000"/>
+		<set name="itemConsumeId" val="3031"/>
+		<set name="itemConsumeCount" val="4"/>
+		<set name="magicLevel" val="76" />
+		<set name="castRange" val="900"/>
+		<set name="healRadius" val="350"/>
+		<set name="mpConsume2" val="156"/>
+		<set name="mpConsume1" val="38"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="healPercents" val="30;27;24;21;18;15;12;10;10;10;10"/>
+		<set name="reuseDelay" val="5000"/>
+		<set name="skillRadius" val="600"/>
+		<set name="skillType" val="CHAIN_HEAL"/>
+		<set name="target" val="TARGET_ONE"/>
+	</skill>
+</list>

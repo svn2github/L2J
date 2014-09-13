@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "spawn.dtd">
+<list>
+	<spawns name="RuinsOfDespair">
+
+		<!-- Воин Людоедов Вилан (Ожесточенный) -->
+		<spawn npcId="20402" x="-10142" y="141687" z="-3654" heading="19544" delay="30" />
+		<spawn npcId="20402" x="-10241" y="139433" z="-3696" heading="63502" />
+		<spawn npcId="20402" x="-10544" y="145453" z="-3776" heading="18685" />
+		<spawn npcId="20402" x="-10574" y="142052" z="-3656" heading="19839" />
+		<spawn npcId="20402" x="-10618" y="139060" z="-3624" heading="53735" />
+		<spawn npcId="20402" x="-10672" y="144378" z="-3672" heading="51536" />
+		<spawn npcId="20402" x="-10919" y="141429" z="-3668" heading="21118" delay="30" />
+		<spawn npcId="20402" x="-11080" y="139593" z="-3680" heading="35313" />
+		<spawn npcId="20402" x="-11246" y="146093" z="-3600" heading="37690" />
+		<spawn npcId="20402" x="-11453" y="140335" z="-3697" heading="51340" delay="30" />
+		<spawn npcId="20402" x="-11528" y="145774" z="-3560" heading="1712" />
+		<spawn npcId="20402" x="-11909" y="146285" z="-3440" heading="31328" />
+		<spawn npcId="20402" x="-11927" y="142087" z="-3688" heading="52940" />
+		<spawn npcId="20402" x="-12646" y="137772" z="-3952" heading="0" delay="30" />
+		<spawn npcId="20402" x="-12646" y="138128" z="-3952" heading="0" delay="30" />
+		<spawn npcId="20402" x="-12647" y="137416" z="-3952" heading="0" delay="30" />
+		<spawn npcId="20402" x="-12747" y="138306" z="-3952" heading="0" delay="30" />
+		<spawn npcId="20402" x="-12848" y="137772" z="-3952" heading="0" delay="30" />
+		<spawn npcId="20402" x="-13050" y="138484" z="-3952" heading="0" delay="30" />
+		<spawn npcId="20402" x="-16277" y="148253" z="-3368" heading="38933" />
+		<spawn npcId="20402" x="-16604" y="148128" z="-3472" heading="3355" />
+		<spawn npcId="20402" x="-17879" y="148032" z="-3440" heading="27817" />
+		<spawn npcId="20402" x="-18237" y="149339" z="-3112" heading="43046" />
+		<spawn npcId="20402" x="-19196" y="148351" z="-3360" heading="27736" />
+		<spawn npcId="20402" x="-19586" y="148325" z="-3368" heading="13389" />
+		<spawn npcId="20402" x="-21477" y="148808" z="-3304" heading="26880" />
+		<spawn npcId="20402" x="-23533" y="141154" z="-3776" heading="29027" />
+		<spawn npcId="20402" x="-24615" y="145149" z="-3616" heading="57724" />
+		<spawn npcId="20402" x="-9667" y="141382" z="-3768" heading="0" delay="30" />
+		<!-- Летучая Мышь Падальщик (Ожесточенный) -->
+		<spawn npcId="20411" x="-10091" y="145620" z="-3880" heading="0" delay="30" />
+		<spawn npcId="20411" x="-10699" y="146415" z="-3726" heading="2946" delay="30" />
+		<spawn npcId="20411" x="-11375" y="144333" z="-3650" heading="43814" delay="30" />
+		<spawn npcId="20411" x="-11521" y="148420" z="-3289" heading="50067" delay="30" />
+		<spawn npcId="20411" x="-11693" y="143726" z="-3608" heading="824" />
+		<spawn npcId="20411" x="-12180" y="149408" z="-3203" heading="4166" delay="30" />
+		<spawn npcId="20411" x="-12512" y="148891" z="-3420" heading="0" delay="30" />
+		<spawn npcId="20411" x="-12801" y="147483" z="-3139" heading="25212" delay="30" />
+		<spawn npcId="20411" x="-13719" y="148535" z="-2984" heading="0" delay="30" />
+		<spawn npcId="20411" x="-13721" y="140521" z="-3792" heading="32534" />
+		<spawn npcId="20411" x="-13722" y="142280" z="-3688" heading="31895" />
+		<spawn npcId="20411" x="-13893" y="141903" z="-3752" heading="32767" />
+		<spawn npcId="20411" x="-14545" y="141351" z="-3856" heading="29494" />
+		<spawn npcId="20411" x="-15194" y="139653" z="-3776" heading="39272" />
+		<spawn npcId="20411" x="-15428" y="142478" z="-3840" heading="36860" />
+		<spawn npcId="20411" x="-15643" y="140227" z="-3816" heading="34692" />
+		<spawn npcId="20411" x="-16668" y="139079" z="-3672" heading="7143" />
+		<spawn npcId="20411" x="-18902" y="145594" z="-3752" heading="23193" />
+		<spawn npcId="20411" x="-20380" y="149266" z="-3172" heading="0" delay="30" />
+		<spawn npcId="20411" x="-20476" y="148178" z="-3407" heading="7568" delay="30" />
+		<spawn npcId="20411" x="-20664" y="141945" z="-3840" heading="28653" />
+		<spawn npcId="20411" x="-20681" y="150156" z="-3172" heading="0" delay="30" />
+		<spawn npcId="20411" x="-20815" y="140200" z="-3832" heading="49977" />
+		<spawn npcId="20411" x="-20883" y="149800" z="-3172" heading="0" delay="30" />
+		<spawn npcId="20411" x="-21316" y="145354" z="-3736" heading="25804" />
+		<spawn npcId="20411" x="-21373" y="140142" z="-3840" heading="8374" />
+		<spawn npcId="20411" x="-21533" y="147998" z="-3504" heading="0" delay="30" />
+		<spawn npcId="20411" x="-21661" y="145017" z="-3784" heading="32242" />
+		<spawn npcId="20411" x="-24137" y="146291" z="-3518" heading="45694" delay="30" />
+		<spawn npcId="20411" x="-24282" y="149639" z="-3216" heading="0" delay="30" />
+		<spawn npcId="20411" x="-24539" y="141791" z="-3733" heading="25886" delay="30" />
+		<spawn npcId="20411" x="-24584" y="150173" z="-3216" heading="0" delay="30" />
+		<spawn npcId="20411" x="-24684" y="149283" z="-3216" heading="0" delay="30" />
+		<spawn npcId="20411" x="-26308" y="147462" z="-3480" heading="0" delay="30" />
+		<spawn npcId="20411" x="-9588" y="145086" z="-3880" heading="0" delay="30" />
+		<spawn npcId="20411" x="-9588" y="145442" z="-3880" heading="0" delay="30" />
+		<!-- Воин Зомби (Ожесточенный) -->
+		<spawn npcId="20458" x="-10251" y="140704" z="-3664" heading="2596" />
+		<spawn npcId="20458" x="-10651" y="143715" z="-3656" heading="27615" />
+		<spawn npcId="20458" x="-10729" y="140016" z="-3696" heading="39826" />
+		<spawn npcId="20458" x="-10853" y="144845" z="-3720" heading="34897" />
+		<spawn npcId="20458" x="-10879" y="144107" z="-3664" heading="29744" />
+		<spawn npcId="20458" x="-11707" y="140098" z="-3672" heading="25841" />
+		<spawn npcId="20458" x="-12896" y="149109" z="-3120" heading="3500" />
+		<spawn npcId="20458" x="-13848" y="138015" z="-3664" heading="25565" />
+		<spawn npcId="20458" x="-16390" y="149233" z="-3152" heading="64154" />
+		<spawn npcId="20458" x="-17467" y="149155" z="-3152" heading="38967" />
+		<spawn npcId="20458" x="-17813" y="148838" z="-3232" heading="13321" />
+		<spawn npcId="20458" x="-18426" y="148897" z="-3240" heading="64382" />
+		<spawn npcId="20458" x="-20060" y="148603" z="-3368" heading="49543" />
+		<spawn npcId="20458" x="-20547" y="147850" z="-3432" heading="19627" />
+		<spawn npcId="20458" x="-20589" y="148707" z="-3352" heading="29705" />
+		<spawn npcId="20458" x="-24120" y="141403" z="-3752" heading="36900" />
+		<spawn npcId="20458" x="-24180" y="144339" z="-3808" heading="21858" />
+		<spawn npcId="20458" x="-24221" y="142575" z="-3760" heading="7695" />
+		<spawn npcId="20458" x="-24329" y="142285" z="-3752" heading="32407" />
+		<spawn npcId="20458" x="-24581" y="142327" z="-3752" heading="60689" />
+		<!-- Бес Руин (Ожесточенный) -->
+		<spawn npcId="20506" x="-10494" y="144552" z="-3880" heading="0" delay="30" />
+		<spawn npcId="20506" x="-10695" y="145620" z="-3880" heading="0" delay="30" />
+		<spawn npcId="20506" x="-10841" y="145822" z="-3712" heading="11959" />
+		<spawn npcId="20506" x="-11097" y="148753" z="-3341" heading="4837" delay="30" />
+		<spawn npcId="20506" x="-12008" y="148713" z="-3420" heading="0" delay="30" />
+		<spawn npcId="20506" x="-12110" y="148179" z="-3420" heading="0" delay="30" />
+		<spawn npcId="20506" x="-12642" y="148508" z="-3136" heading="43068" />
+		<spawn npcId="20506" x="-12709" y="142810" z="-3688" heading="41983" />
+		<spawn npcId="20506" x="-12814" y="148357" z="-3420" heading="0" delay="30" />
+		<spawn npcId="20506" x="-13518" y="148535" z="-3420" heading="0" delay="30" />
+		<spawn npcId="20506" x="-13909" y="142307" z="-3688" heading="20568" />
+		<spawn npcId="20506" x="-14660" y="144105" z="-3632" heading="59067" />
+		<spawn npcId="20506" x="-14899" y="139352" z="-3792" heading="50020" />
+		<spawn npcId="20506" x="-15245" y="140389" z="-3792" heading="21019" />
+		<spawn npcId="20506" x="-16038" y="138888" z="-3672" heading="32613" />
+		<spawn npcId="20506" x="-16395" y="141323" z="-3872" heading="19445" />
+		<spawn npcId="20506" x="-16698" y="147088" z="-3752" heading="0" delay="30" />
+		<spawn npcId="20506" x="-17314" y="140762" z="-3872" heading="26622" />
+		<spawn npcId="20506" x="-17904" y="147444" z="-3752" heading="0" delay="30" />
+		<spawn npcId="20506" x="-18137" y="147668" z="-3501" heading="43052" delay="30" />
+		<spawn npcId="20506" x="-18644" y="147458" z="-3521" heading="42888" delay="30" />
+		<spawn npcId="20506" x="-19232" y="145998" z="-3736" heading="49847" />
+		<spawn npcId="20506" x="-19444" y="141097" z="-3840" heading="13704" />
+		<spawn npcId="20506" x="-19577" y="141012" z="-3840" heading="20384" />
+		<spawn npcId="20506" x="-20468" y="141271" z="-3840" heading="50719" />
+		<spawn npcId="20506" x="-20493" y="141103" z="-3840" heading="46292" />
+		<spawn npcId="20506" x="-20531" y="145156" z="-3760" heading="43757" />
+		<spawn npcId="20506" x="-20663" y="148555" z="-3360" heading="20125" />
+		<spawn npcId="20506" x="-20829" y="147464" z="-3504" heading="0" delay="30" />
+		<spawn npcId="20506" x="-20889" y="139854" z="-3840" heading="5795" />
+		<spawn npcId="20506" x="-21030" y="147820" z="-3504" heading="0" delay="30" />
+		<spawn npcId="20506" x="-21216" y="148662" z="-3352" heading="34077" />
+		<spawn npcId="20506" x="-21471" y="140653" z="-3840" heading="6487" />
+		<spawn npcId="20506" x="-21566" y="141609" z="-3680" heading="49628" />
+		<spawn npcId="20506" x="-21760" y="147381" z="-3562" heading="40230" delay="30" />
+		<spawn npcId="20506" x="-21997" y="144361" z="-3816" heading="46889" />
+		<spawn npcId="20506" x="-22504" y="148634" z="-3256" heading="64230" />
+		<spawn npcId="20506" x="-23894" y="139245" z="-3691" heading="52841" delay="30" />
+		<spawn npcId="20506" x="-24180" y="150529" z="-3216" heading="0" delay="30" />
+		<spawn npcId="20506" x="-24383" y="149817" z="-3216" heading="0" delay="30" />
+		<spawn npcId="20506" x="-24986" y="149461" z="-3216" heading="0" delay="30" />
+		<spawn npcId="20506" x="-25378" y="143650" z="-4016" heading="0" delay="30" />
+		<spawn npcId="20506" x="-26230" y="144269" z="-3484" heading="39391" delay="30" />
+		<!-- Старший Бес Руин (Ожесточенный) -->
+		<spawn npcId="20507" x="-10774" y="141832" z="-3667" heading="22160" delay="30" />
+		<spawn npcId="20507" x="-11057" y="142316" z="-3671" heading="12780" delay="30" />
+		<spawn npcId="20507" x="-11093" y="145679" z="-3656" heading="50590" />
+		<spawn npcId="20507" x="-11343" y="141877" z="-3692" heading="2317" delay="30" />
+		<spawn npcId="20507" x="-11658" y="146084" z="-3504" heading="43141" />
+		<spawn npcId="20507" x="-12163" y="141334" z="-3940" heading="0" delay="30" />
+		<spawn npcId="20507" x="-12364" y="140978" z="-3940" heading="0" delay="30" />
+		<spawn npcId="20507" x="-13308" y="148932" z="-3064" heading="38414" />
+		<spawn npcId="20507" x="-14003" y="142032" z="-3720" heading="30392" />
+		<spawn npcId="20507" x="-14353" y="143349" z="-3680" heading="40193" />
+		<spawn npcId="20507" x="-14411" y="142566" z="-3688" heading="33817" />
+		<spawn npcId="20507" x="-14663" y="143666" z="-3648" heading="46471" />
+		<spawn npcId="20507" x="-14835" y="146208" z="-3656" heading="26573" />
+		<spawn npcId="20507" x="-18011" y="145944" z="-3672" heading="37068" />
+		<spawn npcId="20507" x="-18434" y="145960" z="-3744" heading="40675" />
+		<spawn npcId="20507" x="-20319" y="143062" z="-3864" heading="63557" />
+		<spawn npcId="20507" x="-20541" y="148475" z="-3360" heading="18177" />
+		<spawn npcId="20507" x="-21279" y="143958" z="-3816" heading="57345" />
+		<spawn npcId="20507" x="-21407" y="147908" z="-3424" heading="48689" />
+		<spawn npcId="20507" x="-22709" y="148639" z="-3264" heading="37995" />
+		<spawn npcId="20507" x="-4055" y="146155" z="-3664" heading="8001" delay="30" />
+		<spawn npcId="20507" x="-4109" y="142822" z="-3490" heading="51640" delay="30" />
+		<spawn npcId="20507" x="-4863" y="143943" z="-3623" heading="22027" delay="30" />
+		<spawn npcId="20507" x="-4923" y="146044" z="-3638" heading="4112" delay="30" />
+		<spawn npcId="20507" x="-5447" y="142925" z="-3804" heading="0" delay="30" />
+		<spawn npcId="20507" x="-6654" y="142925" z="-3804" heading="0" delay="30" />
+		<spawn npcId="20507" x="-7056" y="143637" z="-3804" heading="0" delay="30" />
+		<spawn npcId="20507" x="-9650" y="142099" z="-3634" heading="63671" delay="30" />
+		<spawn npcId="20507" x="-9768" y="140492" z="-3768" heading="0" delay="30" />
+		<!-- Костяной Воин (Ожесточенный) -->
+		<spawn npcId="23022" x="-10558" y="139092" z="-3632" heading="16604" />
+		<spawn npcId="23022" x="-11026" y="142653" z="-3664" heading="8191" />
+		<spawn npcId="23022" x="-11193" y="144677" z="-3664" heading="42389" />
+		<spawn npcId="23022" x="-11541" y="139599" z="-3648" heading="56320" />
+		<spawn npcId="23022" x="-12840" y="145758" z="-3592" heading="47281" />
+		<spawn npcId="23022" x="-13195" y="146098" z="-3576" heading="5299" />
+		<spawn npcId="23022" x="-13201" y="140839" z="-3736" heading="57051" />
+		<spawn npcId="23022" x="-15061" y="139882" z="-3776" heading="4587" />
+		<spawn npcId="23022" x="-15354" y="143801" z="-3688" heading="35844" />
+		<spawn npcId="23022" x="-16038" y="138888" z="-3672" heading="23256" />
+		<spawn npcId="23022" x="-16086" y="148587" z="-3224" heading="56499" />
+		<spawn npcId="23022" x="-16378" y="147526" z="-3560" heading="25118" />
+		<spawn npcId="23022" x="-16467" y="141036" z="-3872" heading="21617" />
+		<spawn npcId="23022" x="-16668" y="139079" z="-3672" heading="23812" />
+		<spawn npcId="23022" x="-16874" y="147670" z="-3616" heading="6604" />
+		<spawn npcId="23022" x="-17379" y="141952" z="-3872" heading="4831" />
+		<spawn npcId="23022" x="-17555" y="139715" z="-3856" heading="38825" />
+		<spawn npcId="23022" x="-17707" y="148639" z="-3264" heading="64127" />
+		<spawn npcId="23022" x="-18404" y="138813" z="-3864" heading="27620" />
+		<spawn npcId="23022" x="-18484" y="148149" z="-3376" heading="36479" />
+		<spawn npcId="23022" x="-20128" y="141527" z="-3840" heading="30229" />
+		<spawn npcId="23022" x="-20616" y="145242" z="-3744" heading="57170" />
+		<spawn npcId="23022" x="-20860" y="142538" z="-3832" heading="3059" />
+		<spawn npcId="23022" x="-21210" y="143997" z="-3816" heading="36262" />
+		<spawn npcId="23022" x="-21673" y="142739" z="-3856" heading="13293" />
+		<spawn npcId="23022" x="-21864" y="144615" z="-3816" heading="11528" />
+		<spawn npcId="23022" x="-22067" y="141983" z="-3840" heading="48320" />
+		<spawn npcId="23022" x="-22531" y="142232" z="-3832" heading="19739" />
+		<spawn npcId="23022" x="-22613" y="142415" z="-3840" heading="25565" />
+		<spawn npcId="23022" x="-22642" y="141861" z="-3840" heading="18278" />
+		<spawn npcId="23022" x="-23307" y="144107" z="-3872" heading="51171" />
+		<spawn npcId="23022" x="-23711" y="141603" z="-3760" heading="34993" />
+		<spawn npcId="23022" x="-24598" y="144212" z="-3744" heading="27978" />
+		<!-- Летучая Мышь Руин (Ожесточенный) -->
+		<spawn npcId="23023" x="-12264" y="141446" z="-3688" heading="18544" />
+		<spawn npcId="23023" x="-14749" y="142308" z="-3744" heading="29056" />
+		<spawn npcId="23023" x="-15266" y="144379" z="-3672" heading="13110" />
+		<spawn npcId="23023" x="-15520" y="145758" z="-3688" heading="12974" />
+		<spawn npcId="23023" x="-16129" y="142914" z="-3696" heading="30875" />
+		<spawn npcId="23023" x="-18371" y="142820" z="-3872" heading="6970" />
+		<spawn npcId="23023" x="-19271" y="145747" z="-3752" heading="55024" />
+		<spawn npcId="23023" x="-19495" y="143047" z="-3832" heading="28317" />
+		<spawn npcId="23023" x="-20926" y="143480" z="-3816" heading="40466" />
+		<spawn npcId="23023" x="-21852" y="144539" z="-3816" heading="9237" />
+		<!-- Жрец Нежити (Квестовый Монстр) -->
+		<spawn npcId="27024" x="-12969" y="149140" z="-3128" heading="36347" />
+		<spawn npcId="27024" x="-12996" y="148670" z="-3472" heading="0" delay="180" />
+		<spawn npcId="27024" x="-13101" y="149093" z="-3118" heading="6891" delay="180" />
+		<spawn npcId="27024" x="-13255" y="148211" z="-3072" heading="48021" delay="180" />
+		<spawn npcId="27024" x="-13500" y="147780" z="-3472" heading="0" delay="180" />
+		<spawn npcId="27024" x="-13500" y="148136" z="-3472" heading="0" delay="180" />
+		<spawn npcId="27024" x="-13558" y="148938" z="-3038" heading="34505" delay="180" />
+		<spawn npcId="27024" x="-13597" y="148307" z="-3027" heading="39352" delay="180" />
+		<spawn npcId="27024" x="-13702" y="148136" z="-3472" heading="0" delay="180" />
+		<!-- Послов (Квестовый Монстр) -->
+		<spawn npcId="27452" x="-17329" y="143182" z="-3888" heading="15125" />
+		<!-- Устройство Телепортации -->
+		<spawn npcId="33087" x="-19120" y="136816" z="-3752" heading="0" />
+		<!-- Сильван (Стражник) -->
+		<spawn npcId="33178" x="-19268" y="136854" z="-3760" heading="19408" />
+		<!-- Страж -->
+		<spawn npcId="33429" x="-20004" y="137137" z="-3888" heading="11520" />
+		<!-- Страж -->
+		<spawn npcId="33430" x="-18626" y="136872" z="-3736" heading="32296" />
+		<spawn npcId="33430" x="-18936" y="137004" z="-3760" heading="50420" />
+		<spawn npcId="33430" x="-18951" y="136971" z="-3760" heading="13092" />
+		<spawn npcId="33430" x="-18983" y="136799" z="-3760" heading="21164" />
+		<spawn npcId="33430" x="-20496" y="137226" z="-3896" heading="5324" />
+		<spawn npcId="33430" x="-20527" y="137336" z="-3896" heading="50968" />
+		<spawn npcId="33430" x="-20548" y="137219" z="-3896" heading="11716" />
+		<spawn npcId="33430" x="-20558" y="137262" z="-3896" heading="60648" />
+		<spawn npcId="33430" x="-20736" y="136383" z="-3896" heading="10160" />
+		<spawn npcId="33430" x="-20746" y="136445" z="-3896" heading="61052" />
+		<spawn npcId="33430" x="-20763" y="136893" z="-3896" heading="8948" />
+		<spawn npcId="33430" x="-20782" y="136940" z="-3896" heading="0" />
+		<!-- Реф (Стражник) -->
+		<spawn npcId="33510" x="-8142" y="143228" z="-3424" heading="52857" />
+	</spawns>
+</list>

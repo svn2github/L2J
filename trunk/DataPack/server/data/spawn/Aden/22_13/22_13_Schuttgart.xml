@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "spawn.dtd">
+<list>		
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="88248" y="-139608" z="-1559" h="45000" />
+		<npc id="32882" /><!--Recipe Merchant Prouse-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="85816" y="-142802" z="-1336" h="45000" />
+		<npc id="32882" />
+	</spawn>
+</list>	

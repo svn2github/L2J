@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Обмен коробок доставки у ревалюционера -->
+
+<list>
+  <config showall="true" notax="false" keepenchanted="false" />
+  
+  <item>
+    <ingredient id="34917" count="1"/>
+    <production id="35634" count="1"/>
+  </item>
+  
+  <item>
+    <ingredient id="34917" count="1"/>
+    <production id="35635" count="1"/>
+  </item>
+  
+  <item>
+    <ingredient id="34917" count="1"/>
+    <production id="35636" count="1"/>
+  </item>
+  
+  <item>
+    <ingredient id="34917" count="1"/>
+    <production id="35637" count="1"/>
+  </item>
+  
+  <item>
+    <ingredient id="34917" count="1"/>
+    <production id="35638" count="1"/>
+  </item>
+  
+  <item>
+    <ingredient id="34917" count="1"/>
+    <production id="35639" count="1"/>
+  </item>
+  
+  <item>
+    <ingredient id="34917" count="1"/>
+    <production id="35672" count="1"/>
+  </item>
+  
+  <item>
+    <ingredient id="34917" count="1"/>
+    <production id="35673" count="1"/>
+  </item>
+  
+  <item>
+    <ingredient id="34917" count="1"/>
+    <production id="35674" count="1"/>
+  </item>
+  
+  
+</list>  

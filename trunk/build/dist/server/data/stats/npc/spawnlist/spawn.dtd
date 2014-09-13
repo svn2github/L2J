@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!ELEMENT list (spawns)*>
+<!ELEMENT spawns (spawn)*>
+<!ATTLIST spawns
+	name CDATA #IMPLIED>
+<!ELEMENT spawn (#PCDATA)>
+<!ATTLIST spawn
+	npcId CDATA #REQUIRED
+	x CDATA #REQUIRED
+	y CDATA #REQUIRED
+	z CDATA #REQUIRED
+	heading CDATA #IMPLIED
+	delay CDATA #IMPLIED
+	periodOfDay CDATA #IMPLIED>

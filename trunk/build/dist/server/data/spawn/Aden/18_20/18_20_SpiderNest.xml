@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "spawn.dtd">
+<!--Задумка спавна (c)Mangol,(c)KilRoy-->
+<list>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-61717" y="75401" z="-3356" h="58500" />
+		<npc id="30420" /><!--Tyra-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-59985" y="79234" z="-3502" h="5300" />
+		<npc id="30661" /><!--Mysterious Dark Elf-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-59997" y="79458" z="-3526" h="0" />
+		<npc id="30664" /><!--Cain Flying Knife-->
+	</spawn>
+</list>	

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<config showall="true" notax="true" />
+	<item>
+		<ingredient id="30306" count="2" />
+		<production id="30297" count="1" />
+	</item>
+	<item>
+		<ingredient id="30306" count="7" />
+		<production id="30298" count="1" />
+	</item>
+	<item>
+		<ingredient id="30306" count="5" />
+		<production id="30299" count="1" />
+	</item>
+	<item>
+		<ingredient id="30306" count="3" />
+		<production id="30300" count="1" />
+	</item>
+	<item>
+		<ingredient id="30306" count="1" />
+		<production id="33465" count="1" />
+	</item>
+</list>

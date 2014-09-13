@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "spawn.dtd">
+<!--Задумка спавна (c)Mangol,(c)KilRoy-->
+<list>		
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-73994" y="51956" z="-3707" h="0" />
+		<npc id="32189" /><!--Largo-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-73997" y="52913" z="-3707" h="0" />
+		<npc id="32190" /><!--Mao-->
+	</spawn>
+</list>	

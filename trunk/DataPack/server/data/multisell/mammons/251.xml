@@ -1,0 +1,5612 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<config showall="false" notax="true" keepenchanted="true" isnew="true"/>
+	<item>	
+		<!-- Громовержец (Крит. Злость) -->
+		<ingredient id="4681" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="14550"/>
+		<!-- Громовержец -->
+		<production id="72" count="1"/>
+	</item>	
+	<item>	
+		<!-- Громовержец (Фокусировка) -->
+		<ingredient id="4682" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="14550"/>
+		<!-- Громовержец -->
+		<production id="72" count="1"/>
+	</item>	
+	<item>	
+		<!-- Громовержец (Легкость) -->
+		<ingredient id="4683" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="14550"/>
+		<!-- Громовержец -->
+		<production id="72" count="1"/>
+	</item>	
+	<item>	
+		<!-- Фламберг (Крит. Урон) -->
+		<ingredient id="4711" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="14550"/>
+		<!-- Фламберг -->
+		<production id="71" count="1"/>
+	</item>	
+	<item>	
+		<!-- Фламберг (Фокусировка) -->
+		<ingredient id="4712" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="14550"/>
+		<!-- Фламберг -->
+		<production id="71" count="1"/>
+	</item>	
+	<item>	
+		<!-- Фламберг (Легкость) -->
+		<ingredient id="4713" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="14550"/>
+		<!-- Фламберг -->
+		<production id="71" count="1"/>
+	</item>	
+	<item>	
+		<!-- Мистический Меч (Проницательность) -->
+		<ingredient id="8111" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="14550"/>
+		<!-- Мистический Меч -->
+		<production id="7887" count="1"/>
+	</item>	
+	<item>	
+		<!-- Мистический Меч (Маг. Сила) -->
+		<ingredient id="8112" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="14550"/>
+		<!-- Мистический Меч -->
+		<production id="7887" count="1"/>
+	</item>	
+	<item>	
+		<!-- Мистический Меч (Маг. Слабость) -->
+		<ingredient id="8113" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="14550"/>
+		<!-- Мистический Меч -->
+		<production id="7887" count="1"/>
+	</item>	
+	<item>	
+		<!-- Большой Молот (Здоровье) -->
+		<ingredient id="4726" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="14550"/>
+		<!-- Большой Молот -->
+		<production id="89" count="1"/>
+	</item>	
+	<item>	
+		<!-- Большой Молот (Риск.Фокусировка) -->
+		<ingredient id="4727" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="14550"/>
+		<!-- Большой Молот -->
+		<production id="89" count="1"/>
+	</item>	
+	<item>	
+		<!-- Большой Молот (Ускорение) -->
+		<ingredient id="4728" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="14550"/>
+		<!-- Большой Молот -->
+		<production id="89" count="1"/>
+	</item>	
+	<item>	
+		<!-- Боевой Топор (Злость) -->
+		<ingredient id="4729" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="14550"/>
+		<!-- Боевой Топор -->
+		<production id="160" count="1"/>
+	</item>	
+	<item>	
+		<!-- Боевой Топор (Риск.Фокусировка) -->
+		<ingredient id="4730" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="14550"/>
+		<!-- Боевой Топор -->
+		<production id="160" count="1"/>
+	</item>	
+	<item>	
+		<!-- Боевой Топор (Ускорение) -->
+		<ingredient id="4731" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="14550"/>
+		<!-- Боевой Топор -->
+		<production id="160" count="1"/>
+	</item>	
+	<item>	
+		<!-- Серебряный Топор (Злость) -->
+		<ingredient id="4732" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="14550"/>
+		<!-- Серебряный Топор -->
+		<production id="161" count="1"/>
+	</item>	
+	<item>	
+		<!-- Серебряный Топор (Риск.Фокусировка) -->
+		<ingredient id="4733" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="14550"/>
+		<!-- Серебряный Топор -->
+		<production id="161" count="1"/>
+	</item>	
+	<item>	
+		<!-- Серебряный Топор (Ускорение) -->
+		<ingredient id="4734" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="14550"/>
+		<!-- Серебряный Топор -->
+		<production id="161" count="1"/>
+	</item>	
+	<item>	
+		<!-- Череподав (Злость) -->
+		<ingredient id="4735" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="14550"/>
+		<!-- Череподав -->
+		<production id="173" count="1"/>
+	</item>	
+	<item>	
+		<!-- Череподав (Здоровье) -->
+		<ingredient id="4736" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="14550"/>
+		<!-- Череподав -->
+		<production id="173" count="1"/>
+	</item>	
+	<item>	
+		<!-- Череподав (Риск.Фокусировка) -->
+		<ingredient id="4737" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="14550"/>
+		<!-- Череподав -->
+		<production id="173" count="1"/>
+	</item>	
+	<item>	
+		<!-- Проклятый Кинжал (Крит. Кровопускание) -->
+		<ingredient id="4759" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="14550"/>
+		<!-- Проклятый Кинжал -->
+		<production id="226" count="1"/>
+	</item>	
+	<item>	
+		<!-- Проклятый Кинжал (Крит. Отравление) -->
+		<ingredient id="4760" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="14550"/>
+		<!-- Проклятый Кинжал -->
+		<production id="226" count="1"/>
+	</item>	
+	<item>	
+		<!-- Проклятый Кинжал (Риск. Ускорение) -->
+		<ingredient id="4761" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="14550"/>
+		<!-- Проклятый Кинжал -->
+		<production id="226" count="1"/>
+	</item>	
+	<item>	
+		<!-- Кинжал Темных Эльфов (Фокусировка) -->
+		<ingredient id="4762" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="14550"/>
+		<!-- Кинжал Темных Эльфов -->
+		<production id="232" count="1"/>
+	</item>	
+	<item>	
+		<!-- Кинжал Темных Эльфов (Удар в Спину) -->
+		<ingredient id="4763" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="14550"/>
+		<!-- Кинжал Темных Эльфов -->
+		<production id="232" count="1"/>
+	</item>	
+	<item>	
+		<!-- Кинжал Темных Эльфов (Риск. Ускорение) -->
+		<ingredient id="6356" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="14550"/>
+		<!-- Кинжал Темных Эльфов -->
+		<production id="232" count="1"/>
+	</item>	
+	<item>	
+		<!-- Кинжал Темных Эльфов (Смертоносная Сила) -->
+		<ingredient id="4764" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="14550"/>
+		<!-- Кинжал Темных Эльфов -->
+		<production id="232" count="1"/>
+	</item>	
+	<item>	
+		<!-- Чакра (Крит. Поглощение HP) -->
+		<ingredient id="4789" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="14550"/>
+		<!-- Чакра -->
+		<production id="263" count="1"/>
+	</item>	
+	<item>	
+		<!-- Чакра (Крит. Отравление) -->
+		<ingredient id="4790" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="14550"/>
+		<!-- Чакра -->
+		<production id="263" count="1"/>
+	</item>	
+	<item>	
+		<!-- Чакра (Риск. Ускорение) -->
+		<ingredient id="4791" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="14550"/>
+		<!-- Чакра -->
+		<production id="263" count="1"/>
+	</item>	
+	<item>	
+		<!-- Ледяной Лук (Наведение) -->
+		<ingredient id="4810" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="14550"/>
+		<!-- Ледяной Лук -->
+		<production id="281" count="1"/>
+	</item>	
+	<item>	
+		<!-- Ледяной Лук (Уклонение) -->
+		<ingredient id="4811" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="14550"/>
+		<!-- Ледяной Лук -->
+		<production id="281" count="1"/>
+	</item>	
+	<item>	
+		<!-- Ледяной Лук (Быстрое Восстановление) -->
+		<ingredient id="4812" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="14550"/>
+		<!-- Ледяной Лук -->
+		<production id="281" count="1"/>
+	</item>	
+	<item>	
+		<!-- Боевая Коса (Злость) -->
+		<ingredient id="4834" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="14550"/>
+		<!-- Боевая Коса -->
+		<production id="96" count="1"/>
+	</item>	
+	<item>	
+		<!-- Боевая Коса (Крит. Оглушение) -->
+		<ingredient id="4835" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="14550"/>
+		<!-- Боевая Коса -->
+		<production id="96" count="1"/>
+	</item>	
+	<item>	
+		<!-- Боевая Коса (Легкость) -->
+		<ingredient id="4836" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="14550"/>
+		<!-- Боевая Коса -->
+		<production id="96" count="1"/>
+	</item>	
+	<item>	
+		<!-- Глефа Орков (Злость) -->
+		<ingredient id="4837" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="14550"/>
+		<!-- Глефа Орков -->
+		<production id="298" count="1"/>
+	</item>	
+	<item>	
+		<!-- Глефа Орков (Крит. Оглушение) -->
+		<ingredient id="4838" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="14550"/>
+		<!-- Глефа Орков -->
+		<production id="298" count="1"/>
+	</item>	
+	<item>	
+		<!-- Глефа Орков (Радиус Удара) -->
+		<ingredient id="4839" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="14550"/>
+		<!-- Глефа Орков -->
+		<production id="298" count="1"/>
+	</item>	
+	<item>	
+		<!-- Кромсатель (Крит. Оглушение) -->
+		<ingredient id="4840" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="14550"/>
+		<!-- Кромсатель -->
+		<production id="302" count="1"/>
+	</item>	
+	<item>	
+		<!-- Кромсатель (Радиус Удара) -->
+		<ingredient id="4841" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="14550"/>
+		<!-- Кромсатель -->
+		<production id="302" count="1"/>
+	</item>	
+	<item>	
+		<!-- Кромсатель (Угол Атаки) -->
+		<ingredient id="4842" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="14550"/>
+		<!-- Кромсатель -->
+		<production id="302" count="1"/>
+	</item>	
+	<item>	
+		<!-- Тяжелый Молот Рока (Магическая Регенерация) -->
+		<ingredient id="4864" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="14550"/>
+		<!-- Тяжелый Молот Рока -->
+		<production id="191" count="1"/>
+	</item>	
+	<item>	
+		<!-- Тяжелый Молот Рока (Ментальный Щит) -->
+		<ingredient id="4865" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="14550"/>
+		<!-- Тяжелый Молот Рока -->
+		<production id="191" count="1"/>
+	</item>	
+	<item>	
+		<!-- Тяжелый Молот Рока (Магические Оковы) -->
+		<ingredient id="4866" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="14550"/>
+		<!-- Тяжелый Молот Рока -->
+		<production id="191" count="1"/>
+	</item>	
+	<item>	
+		<!-- Кристальный Посох (Риск. Уклонение) -->
+		<ingredient id="4867" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="14550"/>
+		<!-- Кристальный Посох -->
+		<production id="192" count="1"/>
+	</item>	
+	<item>	
+		<!-- Кристальный Посох (Добавление Маны) -->
+		<ingredient id="4868" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="14550"/>
+		<!-- Кристальный Посох -->
+		<production id="192" count="1"/>
+	</item>	
+	<item>	
+		<!-- Кристальный Посох (Благословение Тела) -->
+		<ingredient id="4869" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="14550"/>
+		<!-- Кристальный Посох -->
+		<production id="192" count="1"/>
+	</item>	
+	<item>	
+		<!-- Тяжелый Топор Рока (Отравление) -->
+		<ingredient id="4870" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="14550"/>
+		<!-- Тяжелый Топор Рока -->
+		<production id="194" count="1"/>
+	</item>	
+	<item>	
+		<!-- Тяжелый Топор Рока (Маг. Слабость) -->
+		<ingredient id="4871" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="14550"/>
+		<!-- Тяжелый Топор Рока -->
+		<production id="194" count="1"/>
+	</item>	
+	<item>	
+		<!-- Тяжелый Топор Рока (Хаос) -->
+		<ingredient id="4872" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="14550"/>
+		<!-- Тяжелый Топор Рока -->
+		<production id="194" count="1"/>
+	</item>	
+	<item>	
+		<!-- Жезл Веры (Добавление Маны) -->
+		<ingredient id="7701" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="14550"/>
+		<!-- Жезл Веры -->
+		<production id="193" count="1"/>
+	</item>	
+	<item>	
+		<!-- Жезл Веры (Магические Оковы) -->
+		<ingredient id="7702" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="14550"/>
+		<!-- Жезл Веры -->
+		<production id="193" count="1"/>
+	</item>	
+	<item>	
+		<!-- Жезл Веры (Ментальный Щит) -->
+		<ingredient id="7703" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="14550"/>
+		<!-- Жезл Веры -->
+		<production id="193" count="1"/>
+	</item>	
+	<item>	
+		<!-- Шамшир (Наведение) -->
+		<ingredient id="4684" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="35700"/>
+		<!-- Шамшир -->
+		<production id="73" count="1"/>
+	</item>	
+	<item>	
+		<!-- Шамшир (Удар в Спину) -->
+		<ingredient id="4685" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="35700"/>
+		<!-- Шамшир -->
+		<production id="73" count="1"/>
+	</item>	
+	<item>	
+		<!-- Шамшир (Риск. Уклонение) -->
+		<ingredient id="4686" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="35700"/>
+		<!-- Шамшир -->
+		<production id="73" count="1"/>
+	</item>	
+	<item>	
+		<!-- Катана (Фокусировка) -->
+		<ingredient id="4687" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="35700"/>
+		<!-- Катана -->
+		<production id="74" count="1"/>
+	</item>	
+	<item>	
+		<!-- Катана (Крит. Урон) -->
+		<ingredient id="4688" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="35700"/>
+		<!-- Катана -->
+		<production id="74" count="1"/>
+	</item>	
+	<item>	
+		<!-- Катана (Ускорение) -->
+		<ingredient id="4689" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="35700"/>
+		<!-- Катана -->
+		<production id="74" count="1"/>
+	</item>	
+	<item>	
+		<!-- Меч Духов (Крит. Урон) -->
+		<ingredient id="4690" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="35700"/>
+		<!-- Меч Духов -->
+		<production id="131" count="1"/>
+	</item>	
+	<item>	
+		<!-- Меч Духов (Крит. Отравление) -->
+		<ingredient id="4691" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="35700"/>
+		<!-- Меч Духов -->
+		<production id="131" count="1"/>
+	</item>	
+	<item>	
+		<!-- Меч Духов (Ускорение) -->
+		<ingredient id="4692" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="35700"/>
+		<!-- Меч Духов -->
+		<production id="131" count="1"/>
+	</item>	
+	<item>	
+		<!-- Меч Налетчика (Фокусировка) -->
+		<ingredient id="4693" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="35700"/>
+		<!-- Меч Налетчика -->
+		<production id="133" count="1"/>
+	</item>	
+	<item>	
+		<!-- Меч Налетчика (Крит. Поглощение HP) -->
+		<ingredient id="4694" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="35700"/>
+		<!-- Меч Налетчика -->
+		<production id="133" count="1"/>
+	</item>	
+	<item>	
+		<!-- Меч Налетчика (Крит. Отравление) -->
+		<ingredient id="4695" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="35700"/>
+		<!-- Меч Налетчика -->
+		<production id="133" count="1"/>
+	</item>	
+	<item>	
+		<!-- Кортик Духовного Пламени (Добавление Маны) -->
+		<ingredient id="7810" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="35700"/>
+		<!-- Кортик Духовного Пламени -->
+		<production id="242" count="1"/>
+	</item>	
+	<item>	
+		<!-- Кортик Духовного Пламени (Магические Оковы) -->
+		<ingredient id="7811" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="35700"/>
+		<!-- Кортик Духовного Пламени -->
+		<production id="242" count="1"/>
+	</item>	
+	<item>	
+		<!-- Кортик Духовного Пламени (Безмолвие) -->
+		<ingredient id="7812" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="35700"/>
+		<!-- Кортик Духовного Пламени -->
+		<production id="242" count="1"/>
+	</item>	
+	<item>	
+		<!-- Боевой Молот Гномов (Злость) -->
+		<ingredient id="4738" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="35700"/>
+		<!-- Боевой Молот Гномов -->
+		<production id="2502" count="1"/>
+	</item>	
+	<item>	
+		<!-- Боевой Молот Гномов (Здоровье) -->
+		<ingredient id="4739" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="35700"/>
+		<!-- Боевой Молот Гномов -->
+		<production id="2502" count="1"/>
+	</item>	
+	<item>	
+		<!-- Боевой Молот Гномов (Ускорение) -->
+		<ingredient id="4740" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="35700"/>
+		<!-- Боевой Молот Гномов -->
+		<production id="2502" count="1"/>
+	</item>	
+	<item>	
+		<!-- Стилет (Крит. Кровопускание) -->
+		<ingredient id="4765" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="35700"/>
+		<!-- Стилет -->
+		<production id="227" count="1"/>
+	</item>	
+	<item>	
+		<!-- Стилет (Крит. Отравление) -->
+		<ingredient id="4766" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="35700"/>
+		<!-- Стилет -->
+		<production id="227" count="1"/>
+	</item>	
+	<item>	
+		<!-- Стилет (Риск. Ускорение) -->
+		<ingredient id="6357" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="35700"/>
+		<!-- Стилет -->
+		<production id="227" count="1"/>
+	</item>	
+	<item>	
+		<!-- Стилет (Смертоносная Сила) -->
+		<ingredient id="4767" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="35700"/>
+		<!-- Стилет -->
+		<production id="227" count="1"/>
+	</item>	
+	<item>	
+		<!-- Кастет (Риск. Уклонение) -->
+		<ingredient id="4798" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="35700"/>
+		<!-- Кастет -->
+		<production id="4233" count="1"/>
+	</item>	
+	<item>	
+		<!-- Кастет (Риск. Ускорение) -->
+		<ingredient id="4799" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="35700"/>
+		<!-- Кастет -->
+		<production id="4233" count="1"/>
+	</item>	
+	<item>	
+		<!-- Кастет (Ускорение) -->
+		<ingredient id="4800" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="35700"/>
+		<!-- Кастет -->
+		<production id="4233" count="1"/>
+	</item>	
+	<item>	
+		<!-- Лук Стихии (Наведение) -->
+		<ingredient id="4813" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="35700"/>
+		<!-- Лук Стихии -->
+		<production id="282" count="1"/>
+	</item>	
+	<item>	
+		<!-- Лук Стихии (Скупость) -->
+		<ingredient id="4814" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="35700"/>
+		<!-- Лук Стихии -->
+		<production id="282" count="1"/>
+	</item>	
+	<item>	
+		<!-- Лук Стихии (Быстрое Восстановление) -->
+		<ingredient id="4815" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="35700"/>
+		<!-- Лук Стихии -->
+		<production id="282" count="1"/>
+	</item>	
+	<item>	
+		<!-- Элитный Эльфийский Лук (Уклонение) -->
+		<ingredient id="4816" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="35700"/>
+		<!-- Элитный Эльфийский Лук -->
+		<production id="285" count="1"/>
+	</item>	
+	<item>	
+		<!-- Элитный Эльфийский Лук (Скупость) -->
+		<ingredient id="4817" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="35700"/>
+		<!-- Элитный Эльфийский Лук -->
+		<production id="285" count="1"/>
+	</item>	
+	<item>	
+		<!-- Элитный Эльфийский Лук (Экономия) -->
+		<ingredient id="4818" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="35700"/>
+		<!-- Элитный Эльфийский Лук -->
+		<production id="285" count="1"/>
+	</item>	
+	<item>	
+		<!-- Бердыш (Крит. Оглушение) -->
+		<ingredient id="4843" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="35700"/>
+		<!-- Бердыш -->
+		<production id="94" count="1"/>
+	</item>	
+	<item>	
+		<!-- Бердыш (Радиус Удара) -->
+		<ingredient id="4844" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="35700"/>
+		<!-- Бердыш -->
+		<production id="94" count="1"/>
+	</item>	
+	<item>	
+		<!-- Бердыш (Легкость) -->
+		<ingredient id="4845" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="35700"/>
+		<!-- Бердыш -->
+		<production id="94" count="1"/>
+	</item>	
+	<item>	
+		<!-- Проклятый Посох (Магические Оковы) -->
+		<ingredient id="4873" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="35700"/>
+		<!-- Проклятый Посох -->
+		<production id="195" count="1"/>
+	</item>	
+	<item>	
+		<!-- Проклятый Посох (Отравление) -->
+		<ingredient id="4874" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="35700"/>
+		<!-- Проклятый Посох -->
+		<production id="195" count="1"/>
+	</item>	
+	<item>	
+		<!-- Проклятый Посох (Маг. Слабость) -->
+		<ingredient id="4875" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="35700"/>
+		<!-- Проклятый Посох -->
+		<production id="195" count="1"/>
+	</item>	
+	<item>	
+		<!-- Жезл Избавления (Воодушевление) -->
+		<ingredient id="7704" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="35700"/>
+		<!-- Жезл Избавления -->
+		<production id="196" count="1"/>
+	</item>	
+	<item>	
+		<!-- Жезл Избавления (Риск., Уклонение) -->
+		<ingredient id="7705" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="35700"/>
+		<!-- Жезл Избавления -->
+		<production id="196" count="1"/>
+	</item>	
+	<item>	
+		<!-- Жезл Избавления (Благословение Тела) -->
+		<ingredient id="7706" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="35700"/>
+		<!-- Жезл Избавления -->
+		<production id="196" count="1"/>
+	</item>	
+	<item>	
+		<!-- Меч Паагрио (Фокусировка) -->
+		<ingredient id="8102" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="35700"/>
+		<!-- Меч Паагрио -->
+		<production id="7882" count="1"/>
+	</item>	
+	<item>	
+		<!-- Меч Паагрио (Здоровье) -->
+		<ingredient id="8103" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="35700"/>
+		<!-- Меч Паагрио -->
+		<production id="7882" count="1"/>
+	</item>	
+	<item>	
+		<!-- Меч Паагрио (Крит. Поглощение HP) -->
+		<ingredient id="8104" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="35700"/>
+		<!-- Меч Паагрио -->
+		<production id="7882" count="1"/>
+	</item>	
+	<item>	
+		<!-- Топор Нирваны (Маг. Сила) -->
+		<ingredient id="7707" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="35700"/>
+		<!-- Топор Нирваны -->
+		<production id="174" count="1"/>
+	</item>	
+	<item>	
+		<!-- Топор Нирваны (Отравление) -->
+		<ingredient id="7708" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="35700"/>
+		<!-- Топор Нирваны -->
+		<production id="174" count="1"/>
+	</item>	
+	<item>	
+		<!-- Топор Нирваны (Маг. Слабость) -->
+		<ingredient id="7709" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="35700"/>
+		<!-- Топор Нирваны -->
+		<production id="174" count="1"/>
+	</item>	
+	<item>	
+		<!-- Дубина Природы (Проницательность) -->
+		<ingredient id="7710" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="35700"/>
+		<!-- Дубина Природы -->
+		<production id="201" count="1"/>
+	</item>	
+	<item>	
+		<!-- Дубина Природы (Ментальный Щит) -->
+		<ingredient id="7711" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="35700"/>
+		<!-- Дубина Природы -->
+		<production id="201" count="1"/>
+	</item>	
+	<item>	
+		<!-- Дубина Природы (Магические Оковы) -->
+		<ingredient id="7712" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="35700"/>
+		<!-- Дубина Природы -->
+		<production id="201" count="1"/>
+	</item>	
+	<item>	
+		<!-- Булава Преисподней (Добавление Маны) -->
+		<ingredient id="7713" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="35700"/>
+		<!-- Булава Преисподней -->
+		<production id="202" count="1"/>
+	</item>	
+	<item>	
+		<!-- Булава Преисподней (Безмолвие) -->
+		<ingredient id="7714" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="35700"/>
+		<!-- Булава Преисподней -->
+		<production id="202" count="1"/>
+	</item>	
+	<item>	
+		<!-- Булава Преисподней (Конверсия) -->
+		<ingredient id="7715" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="35700"/>
+		<!-- Булава Преисподней -->
+		<production id="202" count="1"/>
+	</item>	
+	<item>	
+		<!-- Посох Инферно (Проницательность) -->
+		<ingredient id="7716" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="35700"/>
+		<!-- Посох Инферно -->
+		<production id="198" count="1"/>
+	</item>	
+	<item>	
+		<!-- Посох Инферно (Безмолвие) -->
+		<ingredient id="7717" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="35700"/>
+		<!-- Посох Инферно -->
+		<production id="198" count="1"/>
+	</item>	
+	<item>	
+		<!-- Посох Инферно (Паралич) -->
+		<ingredient id="7718" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="35700"/>
+		<!-- Посох Инферно -->
+		<production id="198" count="1"/>
+	</item>	
+	<item>	
+		<!-- Рог Карика (Крит. Поглощение HP) -->
+		<ingredient id="8125" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="35700"/>
+		<!-- Рог Карика -->
+		<production id="7898" count="1"/>
+	</item>	
+	<item>	
+		<!-- Рог Карика (Ускорение) -->
+		<ingredient id="8124" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="35700"/>
+		<!-- Рог Карика -->
+		<production id="7898" count="1"/>
+	</item>	
+	<item>	
+		<!-- Рог Карика (Фокусировка) -->
+		<ingredient id="8123" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="35700"/>
+		<!-- Рог Карика -->
+		<production id="7898" count="1"/>
+	</item>	
+	<item>	
+		<!-- Секира (Крит. Оглушение) -->
+		<ingredient id="7719" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="35700"/>
+		<!-- Секира -->
+		<production id="95" count="1"/>
+	</item>	
+	<item>	
+		<!-- Секира (Радиус Удара) -->
+		<ingredient id="7720" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="35700"/>
+		<!-- Секира -->
+		<production id="95" count="1"/>
+	</item>	
+	<item>	
+		<!-- Секира (Угол Атаки) -->
+		<ingredient id="7721" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="35700"/>
+		<!-- Секира -->
+		<production id="95" count="1"/>
+	</item>	
+	<item>	
+		<!-- Экскалибур (Наведение) -->
+		<ingredient id="4696" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="45900"/>
+		<!-- Экскалибур -->
+		<production id="75" count="1"/>
+	</item>	
+	<item>	
+		<!-- Экскалибур (Фокусировка) -->
+		<ingredient id="4697" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="45900"/>
+		<!-- Экскалибур -->
+		<production id="75" count="1"/>
+	</item>	
+	<item>	
+		<!-- Экскалибур (Крит. Урон) -->
+		<ingredient id="4698" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="45900"/>
+		<!-- Экскалибур -->
+		<production id="75" count="1"/>
+	</item>	
+	<item>	
+		<!-- Меч Иллюзий (Фокусировка) -->
+		<ingredient id="4699" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="45900"/>
+		<!-- Меч Иллюзий -->
+		<production id="76" count="1"/>
+	</item>	
+	<item>	
+		<!-- Меч Иллюзий (Здоровье) -->
+		<ingredient id="4700" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="45900"/>
+		<!-- Меч Иллюзий -->
+		<production id="76" count="1"/>
+	</item>	
+	<item>	
+		<!-- Меч Иллюзий (Риск. Ускорение) -->
+		<ingredient id="4701" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="45900"/>
+		<!-- Меч Иллюзий -->
+		<production id="76" count="1"/>
+	</item>	
+	<item>	
+		<!-- Цуруги (Фокусировка) -->
+		<ingredient id="4702" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="45900"/>
+		<!-- Цуруги -->
+		<production id="77" count="1"/>
+	</item>	
+	<item>	
+		<!-- Цуруги (Крит. Урон) -->
+		<ingredient id="4703" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="45900"/>
+		<!-- Цуруги -->
+		<production id="77" count="1"/>
+	</item>	
+	<item>	
+		<!-- Цуруги (Ускорение) -->
+		<ingredient id="4704" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="45900"/>
+		<!-- Цуруги -->
+		<production id="77" count="1"/>
+	</item>	
+	<item>	
+		<!-- Меч Кошмаров (Здоровье) -->
+		<ingredient id="4705" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="45900"/>
+		<!-- Меч Кошмаров -->
+		<production id="134" count="1"/>
+	</item>	
+	<item>	
+		<!-- Меч Кошмаров (Фокусировка) -->
+		<ingredient id="4706" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="45900"/>
+		<!-- Меч Кошмаров -->
+		<production id="134" count="1"/>
+	</item>	
+	<item>	
+		<!-- Меч Кошмаров (Легкость) -->
+		<ingredient id="4707" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="45900"/>
+		<!-- Меч Кошмаров -->
+		<production id="134" count="1"/>
+	</item>	
+	<item>	
+		<!-- Топор Войны (Злость) -->
+		<ingredient id="4741" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="45900"/>
+		<!-- Топор Войны -->
+		<production id="162" count="1"/>
+	</item>	
+	<item>	
+		<!-- Топор Войны (Здоровье) -->
+		<ingredient id="4742" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="45900"/>
+		<!-- Топор Войны -->
+		<production id="162" count="1"/>
+	</item>	
+	<item>	
+		<!-- Топор Войны (Ускорение) -->
+		<ingredient id="4743" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="45900"/>
+		<!-- Топор Войны -->
+		<production id="162" count="1"/>
+	</item>	
+	<item>	
+		<!-- Изящный Кинжал (Уклонение) -->
+		<ingredient id="4768" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="45900"/>
+		<!-- Изящный Кинжал -->
+		<production id="231" count="1"/>
+	</item>	
+	<item>	
+		<!-- Изящный Кинжал (Фокусировка) -->
+		<ingredient id="4769" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="45900"/>
+		<!-- Изящный Кинжал -->
+		<production id="231" count="1"/>
+	</item>	
+	<item>	
+		<!-- Изящный Кинжал (Удар в Спину) -->
+		<ingredient id="4770" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="45900"/>
+		<!-- Изящный Кинжал -->
+		<production id="231" count="1"/>
+	</item>	
+	<item>	
+		<!-- Кинжал Тьмы (Уклонение) -->
+		<ingredient id="4771" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="45900"/>
+		<!-- Кинжал Тьмы -->
+		<production id="233" count="1"/>
+	</item>	
+	<item>	
+		<!-- Кинжал Тьмы (Фокусировка) -->
+		<ingredient id="4772" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="45900"/>
+		<!-- Кинжал Тьмы -->
+		<production id="233" count="1"/>
+	</item>	
+	<item>	
+		<!-- Кинжал Тьмы (Крит. Кровопускание) -->
+		<ingredient id="4773" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="45900"/>
+		<!-- Кинжал Тьмы -->
+		<production id="233" count="1"/>
+	</item>	
+	<item>	
+		<!-- Кастетные Клинки (Риск. Уклонение) -->
+		<ingredient id="4792" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="45900"/>
+		<!-- Кастетные Клинки -->
+		<production id="265" count="1"/>
+	</item>	
+	<item>	
+		<!-- Кастетные Клинки (Риск. Ускорение) -->
+		<ingredient id="4793" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="45900"/>
+		<!-- Кастетные Клинки -->
+		<production id="265" count="1"/>
+	</item>	
+	<item>	
+		<!-- Кастетные Клинки (Ускорение) -->
+		<ingredient id="4794" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="45900"/>
+		<!-- Кастетные Клинки -->
+		<production id="265" count="1"/>
+	</item>	
+	<item>	
+		<!-- Длинный Лук Аката (Наведение) -->
+		<ingredient id="4819" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="45900"/>
+		<!-- Длинный Лук Аката -->
+		<production id="283" count="1"/>
+	</item>	
+	<item>	
+		<!-- Длинный Лук Аката (Уклонение) -->
+		<ingredient id="4820" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="45900"/>
+		<!-- Длинный Лук Аката -->
+		<production id="283" count="1"/>
+	</item>	
+	<item>	
+		<!-- Длинный Лук Аката (Скупость) -->
+		<ingredient id="4821" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="45900"/>
+		<!-- Длинный Лук Аката -->
+		<production id="283" count="1"/>
+	</item>	
+	<item>	
+		<!-- Посох Парадии (Магическая Регенерация) -->
+		<ingredient id="4876" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="45900"/>
+		<!-- Посох Парадии -->
+		<production id="197" count="1"/>
+	</item>	
+	<item>	
+		<!-- Посох Парадии (Ментальный Щит) -->
+		<ingredient id="4877" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="45900"/>
+		<!-- Посох Парадии -->
+		<production id="197" count="1"/>
+	</item>	
+	<item>	
+		<!-- Посох Парадии (Магические Оковы) -->
+		<ingredient id="4878" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="45900"/>
+		<!-- Посох Парадии -->
+		<production id="197" count="1"/>
+	</item>	
+	<item>	
+		<!-- Молот Паагрио  (Риск. Уклонение) -->
+		<ingredient id="4879" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="45900"/>
+		<!-- Молот Паагрио -->
+		<production id="199" count="1"/>
+	</item>	
+	<item>	
+		<!-- Молот Паагрио  (Отравление) -->
+		<ingredient id="4880" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="45900"/>
+		<!-- Молот Паагрио -->
+		<production id="199" count="1"/>
+	</item>	
+	<item>	
+		<!-- Молот Паагрио  (Маг. Слабость) -->
+		<ingredient id="4881" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="45900"/>
+		<!-- Молот Паагрио -->
+		<production id="199" count="1"/>
+	</item>	
+	<item>	
+		<!-- Посох Мудреца (Магические Оковы) -->
+		<ingredient id="4882" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="45900"/>
+		<!-- Посох Мудреца -->
+		<production id="200" count="1"/>
+	</item>	
+	<item>	
+		<!-- Посох Мудреца (Отравление) -->
+		<ingredient id="4883" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="45900"/>
+		<!-- Посох Мудреца -->
+		<production id="200" count="1"/>
+	</item>	
+	<item>	
+		<!-- Посох Мудреца (Маг. Слабость) -->
+		<ingredient id="4884" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="45900"/>
+		<!-- Посох Мудреца -->
+		<production id="200" count="1"/>
+	</item>	
+	<item>	
+		<!-- Скорпион (Злость) -->
+		<ingredient id="4846" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="33750"/>
+		<!-- Скорпион -->
+		<production id="301" count="1"/>
+	</item>	
+	<item>	
+		<!-- Скорпион (Крит. Оглушение) -->
+		<ingredient id="4847" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="33750"/>
+		<!-- Скорпион -->
+		<production id="301" count="1"/>
+	</item>	
+	<item>	
+		<!-- Скорпион (Радиус Удара) -->
+		<ingredient id="4848" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="33750"/>
+		<!-- Скорпион -->
+		<production id="301" count="1"/>
+	</item>	
+	<item>	
+		<!-- Селекционер (Крит. Оглушение) -->
+		<ingredient id="4849" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="33750"/>
+		<!-- Селекционер -->
+		<production id="303" count="1"/>
+	</item>	
+	<item>	
+		<!-- Селекционер (Радиус Удара) -->
+		<ingredient id="4850" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="33750"/>
+		<!-- Селекционер -->
+		<production id="303" count="1"/>
+	</item>	
+	<item>	
+		<!-- Селекционер (Угол Атаки) -->
+		<ingredient id="4851" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="33750"/>
+		<!-- Селекционер -->
+		<production id="303" count="1"/>
+	</item>	
+	<item>	
+		<!-- Топор Паагрио (Добавление Маны) -->
+		<ingredient id="4885" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="33750"/>
+		<!-- Топор Паагрио -->
+		<production id="203" count="1"/>
+	</item>	
+	<item>	
+		<!-- Топор Паагрио (Маг. Слабость) -->
+		<ingredient id="4886" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="33750"/>
+		<!-- Топор Паагрио -->
+		<production id="203" count="1"/>
+	</item>	
+	<item>	
+		<!-- Топор Паагрио (Хаос) -->
+		<ingredient id="4887" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="33750"/>
+		<!-- Топор Паагрио -->
+		<production id="203" count="1"/>
+	</item>	
+	<item>	
+		<!-- Длинный Меч Самурая (Фокусировка) -->
+		<ingredient id="4708" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="83250"/>
+		<!-- Длинный Меч Самурая -->
+		<production id="135" count="1"/>
+	</item>	
+	<item>	
+		<!-- Длинный Меч Самурая (Крит. Урон) -->
+		<ingredient id="4709" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="83250"/>
+		<!-- Длинный Меч Самурая -->
+		<production id="135" count="1"/>
+	</item>	
+	<item>	
+		<!-- Длинный Меч Самурая (Ускорение) -->
+		<ingredient id="4710" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="83250"/>
+		<!-- Длинный Меч Самурая -->
+		<production id="135" count="1"/>
+	</item>	
+	<item>	
+		<!-- Меч Затмения (Воодушевление) -->
+		<ingredient id="8114" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="83250"/>
+		<!-- Меч Затмения -->
+		<production id="7888" count="1"/>
+	</item>	
+	<item>	
+		<!-- Меч Затмения (Маг. Сила) -->
+		<ingredient id="8115" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="83250"/>
+		<!-- Меч Затмения -->
+		<production id="7888" count="1"/>
+	</item>	
+	<item>	
+		<!-- Меч Затмения (Безмолвие) -->
+		<ingredient id="8116" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="83250"/>
+		<!-- Меч Затмения -->
+		<production id="7888" count="1"/>
+	</item>	
+	<item>	
+		<!-- Булава Якса (Злость) -->
+		<ingredient id="4744" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="83250"/>
+		<!-- Булава Якса -->
+		<production id="2503" count="1"/>
+	</item>	
+	<item>	
+		<!-- Булава Якса (Здоровье) -->
+		<ingredient id="4745" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="83250"/>
+		<!-- Булава Якса -->
+		<production id="2503" count="1"/>
+	</item>	
+	<item>	
+		<!-- Булава Якса (Риск. Фокусировка) -->
+		<ingredient id="4746" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="83250"/>
+		<!-- Булава Якса -->
+		<production id="2503" count="1"/>
+	</item>	
+	<item>	
+		<!-- Молот Гномов (Злость) -->
+		<ingredient id="8121" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="83250"/>
+		<!-- Молот Гномов -->
+		<production id="7897" count="1"/>
+	</item>	
+	<item>	
+		<!-- Молот Гномов (Здоровье) -->
+		<ingredient id="8120" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="83250"/>
+		<!-- Молот Гномов -->
+		<production id="7897" count="1"/>
+	</item>	
+	<item>	
+		<!-- Молот Гномов (Крит. Кровопускание) -->
+		<ingredient id="8122" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="83250"/>
+		<!-- Молот Гномов -->
+		<production id="7897" count="1"/>
+	</item>	
+	<item>	
+		<!-- Кристальный Кинжал (Крит. Кровопускание) -->
+		<ingredient id="4774" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="83250"/>
+		<!-- Кристальный Кинжал -->
+		<production id="228" count="1"/>
+	</item>	
+	<item>	
+		<!-- Кристальный Кинжал (Крит. Отравление) -->
+		<ingredient id="4775" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="83250"/>
+		<!-- Кристальный Кинжал -->
+		<production id="228" count="1"/>
+	</item>	
+	<item>	
+		<!-- Кристальный Кинжал (Крит. Урон) -->
+		<ingredient id="6358" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="83250"/>
+		<!-- Кристальный Кинжал -->
+		<production id="228" count="1"/>
+	</item>	
+	<item>	
+		<!-- Кристальный Кинжал (Смертоносная Сила) -->
+		<ingredient id="4776" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="83250"/>
+		<!-- Кристальный Кинжал -->
+		<production id="228" count="1"/>
+	</item>	
+	<item>	
+		<!-- Топор Затмения (Конверсия) -->
+		<ingredient id="8138" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="83250"/>
+		<!-- Топор Затмения -->
+		<production id="7891" count="1"/>
+	</item>	
+	<item>	
+		<!-- Топор Затмения (Маг. Сила) -->
+		<ingredient id="8139" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="83250"/>
+		<!-- Топор Затмения -->
+		<production id="7891" count="1"/>
+	</item>	
+	<item>	
+		<!-- Топор Затмения (Магические Оковы) -->
+		<ingredient id="8140" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="83250"/>
+		<!-- Топор Затмения -->
+		<production id="7891" count="1"/>
+	</item>	
+	<item>	
+		<!-- Большая Пата (Крит. Поглощение HP) -->
+		<ingredient id="4795" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="83250"/>
+		<!-- Большая Пата -->
+		<production id="266" count="1"/>
+	</item>	
+	<item>	
+		<!-- Большая Пата (Крит. Отравление) -->
+		<ingredient id="4796" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="83250"/>
+		<!-- Большая Пата -->
+		<production id="266" count="1"/>
+	</item>	
+	<item>	
+		<!-- Большая Пата (Риск. Ускорение) -->
+		<ingredient id="4797" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="83250"/>
+		<!-- Большая Пата -->
+		<production id="266" count="1"/>
+	</item>	
+	<item>	
+		<!-- Лук Превосходства (Наведение) -->
+		<ingredient id="4822" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="83250"/>
+		<!-- Лук Превосходства -->
+		<production id="286" count="1"/>
+	</item>	
+	<item>	
+		<!-- Лук Превосходства (Скупость) -->
+		<ingredient id="4823" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="83250"/>
+		<!-- Лук Превосходства -->
+		<production id="286" count="1"/>
+	</item>	
+	<item>	
+		<!-- Лук Превосходства (Экономия) -->
+		<ingredient id="4824" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="83250"/>
+		<!-- Лук Превосходства -->
+		<production id="286" count="1"/>
+	</item>	
+	<item>	
+		<!-- Секира Орков (Крит. Оглушение) -->
+		<ingredient id="4852" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="83250"/>
+		<!-- Секира Орков -->
+		<production id="299" count="1"/>
+	</item>	
+	<item>	
+		<!-- Секира Орков (Радиус Удара) -->
+		<ingredient id="4853" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="83250"/>
+		<!-- Секира Орков -->
+		<production id="299" count="1"/>
+	</item>	
+	<item>	
+		<!-- Секира Орков (Угол Атаки) -->
+		<ingredient id="4854" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="83250"/>
+		<!-- Секира Орков -->
+		<production id="299" count="1"/>
+	</item>	
+	<item>	
+		<!-- Посох Мертвеца (Магическая Регенерация) -->
+		<ingredient id="4888" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="83250"/>
+		<!-- Посох Мертвеца -->
+		<production id="204" count="1"/>
+	</item>	
+	<item>	
+		<!-- Посох Мертвеца (Ментальный Щит) -->
+		<ingredient id="4889" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="83250"/>
+		<!-- Посох Мертвеца -->
+		<production id="204" count="1"/>
+	</item>	
+	<item>	
+		<!-- Посох Мертвеца (Магические Оковы) -->
+		<ingredient id="4890" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="83250"/>
+		<!-- Посох Мертвеца -->
+		<production id="204" count="1"/>
+	</item>	
+	<item>	
+		<!-- Посох Вурдалака (Риск. Уклонение) -->
+		<ingredient id="4891" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="83250"/>
+		<!-- Посох Вурдалака -->
+		<production id="205" count="1"/>
+	</item>	
+	<item>	
+		<!-- Посох Вурдалака (Добавление Маны) -->
+		<ingredient id="4892" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="83250"/>
+		<!-- Посох Вурдалака -->
+		<production id="205" count="1"/>
+	</item>	
+	<item>	
+		<!-- Посох Вурдалака (Благословение Тела) -->
+		<ingredient id="4893" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="83250"/>
+		<!-- Посох Вурдалака -->
+		<production id="205" count="1"/>
+	</item>	
+	<item>	
+		<!-- Посох Демона (Отравление) -->
+		<ingredient id="4894" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="83250"/>
+		<!-- Посох Демона -->
+		<production id="206" count="1"/>
+	</item>	
+	<item>	
+		<!-- Посох Демона (Маг. Слабость) -->
+		<ingredient id="4895" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="83250"/>
+		<!-- Посох Демона -->
+		<production id="206" count="1"/>
+	</item>	
+	<item>	
+		<!-- Посох Демона (Хаос) -->
+		<ingredient id="4896" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="83250"/>
+		<!-- Посох Демона -->
+		<production id="206" count="1"/>
+	</item>	
+	<item>	
+		<!-- Кешанберк (Наведение) -->
+		<ingredient id="4714" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Кешанберк -->
+		<production id="142" count="1"/>
+	</item>	
+	<item>	
+		<!-- Кешанберк (Фокусировка) -->
+		<ingredient id="4715" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Кешанберк -->
+		<production id="142" count="1"/>
+	</item>	
+	<item>	
+		<!-- Кешанберк (Удар в Спину) -->
+		<ingredient id="4716" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Кешанберк -->
+		<production id="142" count="1"/>
+	</item>	
+	<item>	
+		<!-- Большой Меч (Здоровье) -->
+		<ingredient id="4723" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Большой Меч -->
+		<production id="78" count="1"/>
+	</item>	
+	<item>	
+		<!-- Большой Меч (Крит. Урон) -->
+		<ingredient id="4724" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Большой Меч -->
+		<production id="78" count="1"/>
+	</item>	
+	<item>	
+		<!-- Большой Меч (Фокусировка) -->
+		<ingredient id="4725" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Большой Меч -->
+		<production id="78" count="1"/>
+	</item>	
+	<item>	
+		<!-- Тяжелый Топор Войны (Злость) -->
+		<ingredient id="4747" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Тяжелый Топор Войны -->
+		<production id="91" count="1"/>
+	</item>	
+	<item>	
+		<!-- Тяжелый Топор Войны (Здоровье) -->
+		<ingredient id="4748" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Тяжелый Топор Войны -->
+		<production id="91" count="1"/>
+	</item>	
+	<item>	
+		<!-- Тяжелый Топор Войны (Риск. Фокусировка) -->
+		<ingredient id="4749" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Тяжелый Топор Войны -->
+		<production id="91" count="1"/>
+	</item>	
+	<item>	
+		<!-- Молот Ледяной Бури (Фокусировка) -->
+		<ingredient id="8129" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Молот Ледяной Бури -->
+		<production id="7900" count="1"/>
+	</item>	
+	<item>	
+		<!-- Молот Ледяной Бури (Злость) -->
+		<ingredient id="8130" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Молот Ледяной Бури -->
+		<production id="7900" count="1"/>
+	</item>	
+	<item>	
+		<!-- Молот Ледяной Бури (Крит. Кровопускание) -->
+		<ingredient id="8131" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Молот Ледяной Бури -->
+		<production id="7900" count="1"/>
+	</item>	
+	<item>	
+		<!-- Нож Ада (Магическая Регенерация) -->
+		<ingredient id="7813" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Нож Ада -->
+		<production id="243" count="1"/>
+	</item>	
+	<item>	
+		<!-- Нож Ада (Ментальный Щит) -->
+		<ingredient id="7814" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Нож Ада -->
+		<production id="243" count="1"/>
+	</item>	
+	<item>	
+		<!-- Нож Ада (Маг. Слабость) -->
+		<ingredient id="7815" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Нож Ада -->
+		<production id="243" count="1"/>
+	</item>	
+	<item>	
+		<!-- Рассеиватель Заклинаний (Магические Оковы) -->
+		<ingredient id="8143" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Рассеиватель Заклинания -->
+		<production id="7892" count="1"/>
+	</item>	
+	<item>	
+		<!-- Рассеиватель Заклинаний (Ментальный Щит) -->
+		<ingredient id="8142" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Рассеиватель Заклинания -->
+		<production id="7892" count="1"/>
+	</item>	
+	<item>	
+		<!-- Рассеиватель Заклинаний (Проницательность) -->
+		<ingredient id="8141" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Рассеиватель Заклинания -->
+		<production id="7892" count="1"/>
+	</item>	
+	<item>	
+		<!-- Крис (Уклонение) -->
+		<ingredient id="4777" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Крис -->
+		<production id="229" count="1"/>
+	</item>	
+	<item>	
+		<!-- Крис (Фокусировка) -->
+		<ingredient id="4778" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Крис -->
+		<production id="229" count="1"/>
+	</item>	
+	<item>	
+		<!-- Крис (Удар в Спину) -->
+		<ingredient id="4779" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Крис -->
+		<production id="229" count="1"/>
+	</item>	
+	<item>	
+		<!-- Коготь Артро (Крит. Отравление) -->
+		<ingredient id="4801" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Коготь Артро -->
+		<production id="267" count="1"/>
+	</item>	
+	<item>	
+		<!-- Коготь Артро (Риск. Уклонение) -->
+		<ingredient id="4802" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Коготь Артро -->
+		<production id="267" count="1"/>
+	</item>	
+	<item>	
+		<!-- Коготь Артро (Риск. Ускорение) -->
+		<ingredient id="4803" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Коготь Артро -->
+		<production id="267" count="1"/>
+	</item>	
+	<item>	
+		<!-- Длинный Лук Темных Эльфов (Уклонение) -->
+		<ingredient id="4825" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Длинный Лук Темных Эльфов -->
+		<production id="284" count="1"/>
+	</item>	
+	<item>	
+		<!-- Длинный Лук Темных Эльфов (Крит. Кровопускание) -->
+		<ingredient id="4826" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Длинный Лук Темных Эльфов -->
+		<production id="284" count="1"/>
+	</item>	
+	<item>	
+		<!-- Длинный Лук Темных Эльфов (Скупость) -->
+		<ingredient id="4827" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Длинный Лук Темных Эльфов -->
+		<production id="284" count="1"/>
+	</item>	
+	<item>	
+		<!-- Двуручный Топор (Злость) -->
+		<ingredient id="4855" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Двуручный Топор -->
+		<production id="300" count="1"/>
+	</item>	
+	<item>	
+		<!-- Двуручный Топор (Крит. Оглушение) -->
+		<ingredient id="4856" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Двуручный Топор -->
+		<production id="300" count="1"/>
+	</item>	
+	<item>	
+		<!-- Двуручный Топор (Легкость) -->
+		<ingredient id="4857" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Двуручный Топор -->
+		<production id="300" count="1"/>
+	</item>	
+	<item>	
+		<!-- Посох Духа (Магическая Регенерация) -->
+		<ingredient id="4897" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Посох Духа -->
+		<production id="92" count="1"/>
+	</item>	
+	<item>	
+		<!-- Посох Духа (Ментальный Щит) -->
+		<ingredient id="4898" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Посох Духа -->
+		<production id="92" count="1"/>
+	</item>	
+	<item>	
+		<!-- Посох Духа (Магические Оковы) -->
+		<ingredient id="4899" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Посох Духа -->
+		<production id="92" count="1"/>
+	</item>	
+	<item>	
+		<!-- Меч Вальхаллы (Проницательность) -->
+		<ingredient id="7722" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Меч Вальхаллы -->
+		<production id="148" count="1"/>
+	</item>	
+	<item>	
+		<!-- Меч Вальхаллы (Маг. Слабость) -->
+		<ingredient id="7723" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Меч Вальхаллы -->
+		<production id="148" count="1"/>
+	</item>	
+	<item>	
+		<!-- Меч Вальхаллы (Магическая Регенерация) -->
+		<ingredient id="7724" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Меч Вальхаллы -->
+		<production id="148" count="1"/>
+	</item>	
+	<item>	
+		<!-- Дамаскус (Фокусировка) -->
+		<ingredient id="4717" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Дамаскус -->
+		<production id="79" count="1"/>
+	</item>	
+	<item>	
+		<!-- Дамаскус (Крит. Урон) -->
+		<ingredient id="4718" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Дамаскус -->
+		<production id="79" count="1"/>
+	</item>	
+	<item>	
+		<!-- Дамаскус (Ускорение) -->
+		<ingredient id="4719" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Дамаскус -->
+		<production id="79" count="1"/>
+	</item>	
+	<item>	
+		<!-- Меч Стража (Крит. Поглощение HP) -->
+		<ingredient id="8105" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Меч Стража -->
+		<production id="7883" count="1"/>
+	</item>	
+	<item>	
+		<!-- Меч Стража (Здоровье) -->
+		<ingredient id="8106" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Меч Стража -->
+		<production id="7883" count="1"/>
+	</item>	
+	<item>	
+		<!-- Меч Стража (Крит. Кровопускание) -->
+		<ingredient id="8107" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Меч Стража -->
+		<production id="7883" count="1"/>
+	</item>	
+	<item>	
+		<!-- Топор Мертвеца (Злость) -->
+		<ingredient id="4750" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Топор Мертвеца -->
+		<production id="171" count="1"/>
+	</item>	
+	<item>	
+		<!-- Топор Мертвеца (Здоровье) -->
+		<ingredient id="4751" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Топор Мертвеца -->
+		<production id="171" count="1"/>
+	</item>	
+	<item>	
+		<!-- Топор Мертвеца (Ускорение) -->
+		<ingredient id="4752" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Топор Мертвеца -->
+		<production id="171" count="1"/>
+	</item>	
+	<item>	
+		<!-- Топор Искусства Войны (Здоровье) -->
+		<ingredient id="4753" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Топор Искусства Войны -->
+		<production id="175" count="1"/>
+	</item>	
+	<item>	
+		<!-- Топор Искусства Войны (Риск. Фокусировка) -->
+		<ingredient id="4754" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Топор Искусства Войны -->
+		<production id="175" count="1"/>
+	</item>	
+	<item>	
+		<!-- Топор Искусства Войны (Ускорение) -->
+		<ingredient id="4755" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Топор Искусства Войны -->
+		<production id="175" count="1"/>
+	</item>	
+	<item>	
+		<!-- Слезы Чародея (Проницательность) -->
+		<ingredient id="8117" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Слезы Чародея -->
+		<production id="7889" count="1"/>
+	</item>	
+	<item>	
+		<!-- Слезы Чародея (Маг. Сила) -->
+		<ingredient id="8118" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Слезы Чародея -->
+		<production id="7889" count="1"/>
+	</item>	
+	<item>	
+		<!-- Слезы Чародея (Конверсия) -->
+		<ingredient id="8119" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Слезы Чародея -->
+		<production id="7889" count="1"/>
+	</item>	
+	<item>	
+		<!-- Кинжал Демона (Крит. Кровопускание) -->
+		<ingredient id="4780" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Кинжал Демона -->
+		<production id="234" count="1"/>
+	</item>	
+	<item>	
+		<!-- Кинжал Демона (Крит. Отравление) -->
+		<ingredient id="4781" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Кинжал Демона -->
+		<production id="234" count="1"/>
+	</item>	
+	<item>	
+		<!-- Кинжал Демона (Крит. Урон) -->
+		<ingredient id="6359" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Кинжал Демона -->
+		<production id="234" count="1"/>
+	</item>	
+	<item>	
+		<!-- Кинжал Демона (Смертоносная Сила) -->
+		<ingredient id="4782" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Кинжал Демона -->
+		<production id="234" count="1"/>
+	</item>	
+	<item>	
+		<!-- Цестус Беллиона (Крит. Поглощение HP) -->
+		<ingredient id="4804" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Цестус Беллиона -->
+		<production id="268" count="1"/>
+	</item>	
+	<item>	
+		<!-- Цестус Беллиона (Крит. Отравление) -->
+		<ingredient id="4805" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Цестус Беллиона -->
+		<production id="268" count="1"/>
+	</item>	
+	<item>	
+		<!-- Цестус Беллиона (Риск. Ускорение) -->
+		<ingredient id="4806" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Цестус Беллиона -->
+		<production id="268" count="1"/>
+	</item>	
+	<item>	
+		<!-- Лук Угрозы (Наведение) -->
+		<ingredient id="4828" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Лук Угрозы -->
+		<production id="287" count="1"/>
+	</item>	
+	<item>	
+		<!-- Лук Угрозы (Быстрое Восстановление) -->
+		<ingredient id="4829" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Лук Угрозы -->
+		<production id="287" count="1"/>
+	</item>	
+	<item>	
+		<!-- Лук Угрозы (Экономия) -->
+		<ingredient id="4830" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Лук Угрозы -->
+		<production id="287" count="1"/>
+	</item>	
+	<item>	
+		<!-- Пика (Злость) -->
+		<ingredient id="4858" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Пика -->
+		<production id="97" count="1"/>
+	</item>	
+	<item>	
+		<!-- Пика (Крит. Оглушение) -->
+		<ingredient id="4859" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Пика -->
+		<production id="97" count="1"/>
+	</item>	
+	<item>	
+		<!-- Пика (Радиус Удара) -->
+		<ingredient id="4860" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Пика -->
+		<production id="97" count="1"/>
+	</item>	
+	<item>	
+		<!-- Звезда Боли (Здоровье) -->
+		<ingredient id="8132" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Звезда Боли -->
+		<production id="7901" count="1"/>
+	</item>	
+	<item>	
+		<!-- Звезда Боли (Ускорение) -->
+		<ingredient id="8133" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Звезда Боли -->
+		<production id="7901" count="1"/>
+	</item>	
+	<item>	
+		<!-- Звезда Боли (Риск. Фокусировка) -->
+		<ingredient id="8134" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Звезда Боли -->
+		<production id="7901" count="1"/>
+	</item>	
+	<item>	
+		<!-- Посох Злых Духов (Маг. Фокусировка) -->
+		<ingredient id="4900" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Посох Злых Духов -->
+		<production id="210" count="1"/>
+	</item>	
+	<item>	
+		<!-- Посох Злых Духов (Благословение Тела) -->
+		<ingredient id="4901" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Посох Злых Духов -->
+		<production id="210" count="1"/>
+	</item>	
+	<item>	
+		<!-- Посох Злых Духов (Отравление) -->
+		<ingredient id="4902" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Посох Злых Духов -->
+		<production id="210" count="1"/>
+	</item>	
+	<item>	
+		<!-- Кости Каим Ванула (Добавление Маны) -->
+		<ingredient id="8144" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Кости Каим Ванула -->
+		<production id="7893" count="1"/>
+	</item>	
+	<item>	
+		<!-- Кости Каим Ванула (Безмолвие) -->
+		<ingredient id="8145" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Кости Каим Ванула -->
+		<production id="7893" count="1"/>
+	</item>	
+	<item>	
+		<!-- Кости Каим Ванула (Конверсия) -->
+		<ingredient id="8146" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Кости Каим Ванула -->
+		<production id="7893" count="1"/>
+	</item>	
+	<item>	
+		<!-- Меч Рубежа (Наведение) -->
+		<ingredient id="6307" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="45900"/>
+		<!-- Меч Рубежа -->
+		<production id="132" count="1"/>
+	</item>	
+	<item>	
+		<!-- Меч Рубежа (Крит. Поглощение HP) -->
+		<ingredient id="6308" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="45900"/>
+		<!-- Меч Рубежа -->
+		<production id="132" count="1"/>
+	</item>	
+	<item>	
+		<!-- Меч Рубежа (Здоровье) -->
+		<ingredient id="6309" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="45900"/>
+		<!-- Меч Рубежа -->
+		<production id="132" count="1"/>
+	</item>	
+	<item>	
+		<!-- Меч Шепчущей Смерти (Воодушевление) -->
+		<ingredient id="6310" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="45900"/>
+		<!-- Меч Шепчущей Смерти -->
+		<production id="145" count="1"/>
+	</item>	
+	<item>	
+		<!-- Меч Шепчущей Смерти (Маг. Сила) -->
+		<ingredient id="6311" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="45900"/>
+		<!-- Меч Шепчущей Смерти -->
+		<production id="145" count="1"/>
+	</item>	
+	<item>	
+		<!-- Меч Шепчущей Смерти (Безмолвие) -->
+		<ingredient id="6312" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="45900"/>
+		<!-- Меч Шепчущей Смерти -->
+		<production id="145" count="1"/>
+	</item>	
+	<item>	
+		<!-- Меч Гомункула (Проницательность) -->
+		<ingredient id="6313" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="45900"/>
+		<!-- Меч Гомункула -->
+		<production id="84" count="1"/>
+	</item>	
+	<item>	
+		<!-- Меч Гомункула (Конверсия) -->
+		<ingredient id="6314" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="45900"/>
+		<!-- Меч Гомункула -->
+		<production id="84" count="1"/>
+	</item>	
+	<item>	
+		<!-- Меч Гомункула (Паралич) -->
+		<ingredient id="6315" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="45900"/>
+		<!-- Меч Гомункула -->
+		<production id="84" count="1"/>
+	</item>	
+	<item>	
+		<!-- Клинок Берсерка (Фокусировка) -->
+		<ingredient id="6347" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="83250"/>
+		<!-- Клинок Берсерка -->
+		<production id="5286" count="1"/>
+	</item>	
+	<item>	
+		<!-- Клинок Берсерка (Крит. Урон) -->
+		<ingredient id="6348" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="83250"/>
+		<!-- Клинок Берсерка -->
+		<production id="5286" count="1"/>
+	</item>	
+	<item>	
+		<!-- Клинок Берсерка (Ускорение) -->
+		<ingredient id="6349" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="83250"/>
+		<!-- Клинок Берсерка -->
+		<production id="5286" count="1"/>
+	</item>	
+	<item>	
+		<!-- Посох Даспариона (Добавление Маны) -->
+		<ingredient id="5596" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Посох Даспариона -->
+		<production id="212" count="1"/>
+	</item>	
+	<item>	
+		<!-- Посох Даспариона (Конверсия) -->
+		<ingredient id="5597" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Посох Даспариона -->
+		<production id="212" count="1"/>
+	</item>	
+	<item>	
+		<!-- Посох Даспариона (Проницательность) -->
+		<ingredient id="5598" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Посох Даспариона -->
+		<production id="212" count="1"/>
+	</item>	
+	<item>	
+		<!-- Мастер Инферно (Ускорение) -->
+		<ingredient id="8108" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Мастер Инферно -->
+		<production id="7884" count="1"/>
+	</item>	
+	<item>	
+		<!-- Мастер Инферно (Крит. Урон) -->
+		<ingredient id="8109" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Мастер Инферно -->
+		<production id="7884" count="1"/>
+	</item>	
+	<item>	
+		<!-- Мастер Инферно (Фокусировка) -->
+		<ingredient id="8110" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Мастер Инферно -->
+		<production id="7884" count="1"/>
+	</item>	
+	<item>	
+		<!-- Молот Разрушителя (Здоровье) -->
+		<ingredient id="8126" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Молот Разрушителя -->
+		<production id="7899" count="1"/>
+	</item>	
+	<item>	
+		<!-- Молот Разрушителя (Ускорение) -->
+		<ingredient id="8127" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Молот Разрушителя -->
+		<production id="7899" count="1"/>
+	</item>	
+	<item>	
+		<!-- Молот Разрушителя (Крит. Поглощение HP) -->
+		<ingredient id="8128" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Молот Разрушителя -->
+		<production id="7899" count="1"/>
+	</item>	
+	<item>	
+		<!-- Глаз Духа (Добавление Маны) -->
+		<ingredient id="8147" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Глаз Духа -->
+		<production id="7894" count="1"/>
+	</item>	
+	<item>	
+		<!-- Глаз Духа (Отравление) -->
+		<ingredient id="8148" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Глаз Духа -->
+		<production id="7894" count="1"/>
+	</item>	
+	<item>	
+		<!-- Глаз Духа (Проницательность) -->
+		<ingredient id="8149" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Глаз Духа -->
+		<production id="7894" count="1"/>
+	</item>	
+	<item>	
+		<!-- Метеоритный Дождь (Фокусировка) -->
+		<ingredient id="5599" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Метеоритный Дождь -->
+		<production id="2504" count="1"/>
+	</item>	
+	<item>	
+		<!-- Метеоритный Дождь (Крит. Кровопускание) -->
+		<ingredient id="5600" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Метеоритный Дождь -->
+		<production id="2504" count="1"/>
+	</item>	
+	<item>	
+		<!-- Метеоритный Дождь (Риск. Ускорение) -->
+		<ingredient id="5601" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Метеоритный Дождь -->
+		<production id="2504" count="1"/>
+	</item>	
+	<item>	
+		<!-- Элизиум (Здоровье) -->
+		<ingredient id="5602" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="200000"/>
+		<!-- Элизиум -->
+		<production id="164" count="1"/>
+	</item>	
+	<item>	
+		<!-- Элизиум (Злость) -->
+		<ingredient id="5603" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="200000"/>
+		<!-- Элизиум -->
+		<production id="164" count="1"/>
+	</item>	
+	<item>	
+		<!-- Элизиум (Крит. Поглощение HP) -->
+		<ingredient id="5604" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="200000"/>
+		<!-- Элизиум -->
+		<production id="164" count="1"/>
+	</item>	
+	<item>	
+		<!-- Ветвь Древа Жизни (Конверсия) -->
+		<ingredient id="5605" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="200000"/>
+		<!-- Ветвь Древа Жизни -->
+		<production id="213" count="1"/>
+	</item>	
+	<item>	
+		<!-- Ветвь Древа Жизни (Маг. Урон) -->
+		<ingredient id="5606" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="200000"/>
+		<!-- Ветвь Древа Жизни -->
+		<production id="213" count="1"/>
+	</item>	
+	<item>	
+		<!-- Ветвь Древа Жизни (Проницательность) -->
+		<ingredient id="5607" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="200000"/>
+		<!-- Ветвь Древа Жизни -->
+		<production id="213" count="1"/>
+	</item>	
+	<item>	
+		<!-- Кровавый Лук (Легкость) -->
+		<ingredient id="5608" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Кровавый Лук -->
+		<production id="288" count="1"/>
+	</item>	
+	<item>	
+		<!-- Кровавый Лук (Крит. Кровопускание) -->
+		<ingredient id="5609" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Кровавый Лук -->
+		<production id="288" count="1"/>
+	</item>	
+	<item>	
+		<!-- Кровавый Лук (Добавление Маны) -->
+		<ingredient id="5610" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Кровавый Лук -->
+		<production id="288" count="1"/>
+	</item>	
+	<item>	
+		<!-- Пронзатель Душ (Экономия) -->
+		<ingredient id="5611" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="200000"/>
+		<!-- Пронзатель Душ -->
+		<production id="289" count="1"/>
+	</item>	
+	<item>	
+		<!-- Пронзатель Душ (Быстрое Восстановление) -->
+		<ingredient id="5612" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="200000"/>
+		<!-- Пронзатель Душ -->
+		<production id="289" count="1"/>
+	</item>	
+	<item>	
+		<!-- Пронзатель Душ (Крит. Отравление) -->
+		<ingredient id="5613" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="200000"/>
+		<!-- Пронзатель Душ -->
+		<production id="289" count="1"/>
+	</item>	
+	<item>	
+		<!-- Кровавая Орхидея (Фокусировка) -->
+		<ingredient id="5614" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Кровавая Орхидея -->
+		<production id="235" count="1"/>
+	</item>	
+	<item>	
+		<!-- Кровавая Орхидея (Удар в Спину) -->
+		<ingredient id="5615" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Кровавая Орхидея -->
+		<production id="235" count="1"/>
+	</item>	
+	<item>	
+		<!-- Кровавая Орхидея (Крит. Кровопускание) -->
+		<ingredient id="5616" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Кровавая Орхидея -->
+		<production id="235" count="1"/>
+	</item>	
+	<item>	
+		<!-- Душегуб (Наведение) -->
+		<ingredient id="5617" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="200000"/>
+		<!-- Душегуб -->
+		<production id="236" count="1"/>
+	</item>	
+	<item>	
+		<!-- Душегуб (Крит. Урон) -->
+		<ingredient id="5618" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="200000"/>
+		<!-- Душегуб -->
+		<production id="236" count="1"/>
+	</item>	
+	<item>	
+		<!-- Душегуб (Риск. Ускорение) -->
+		<ingredient id="5619" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="200000"/>
+		<!-- Душегуб -->
+		<production id="236" count="1"/>
+	</item>	
+	<item>	
+		<!-- Кровавый Торнадо (Ускорение) -->
+		<ingredient id="5620" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Кровавый Торнадо -->
+		<production id="269" count="1"/>
+	</item>	
+	<item>	
+		<!-- Кровавый Торнадо (Фокусировка) -->
+		<ingredient id="5621" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Кровавый Торнадо -->
+		<production id="269" count="1"/>
+	</item>	
+	<item>	
+		<!-- Кровавый Торнадо (Злость) -->
+		<ingredient id="5622" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Кровавый Торнадо -->
+		<production id="269" count="1"/>
+	</item>	
+	<item>	
+		<!-- Погибель Дракона (Риск. Уклонение) -->
+		<ingredient id="5623" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="200000"/>
+		<!-- Погибель Дракона -->
+		<production id="270" count="1"/>
+	</item>	
+	<item>	
+		<!-- Погибель Дракона (Наведение) -->
+		<ingredient id="5624" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="200000"/>
+		<!-- Погибель Дракона -->
+		<production id="270" count="1"/>
+	</item>	
+	<item>	
+		<!-- Погибель Дракона (Здоровье) -->
+		<ingredient id="5625" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="200000"/>
+		<!-- Погибель Дракона -->
+		<production id="270" count="1"/>
+	</item>	
+	<item>	
+		<!-- Алебарда (Ускорение) -->
+		<ingredient id="5626" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Алебарда -->
+		<production id="98" count="1"/>
+	</item>	
+	<item>	
+		<!-- Алебарда (Крит. Оглушение) -->
+		<ingredient id="5627" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Алебарда -->
+		<production id="98" count="1"/>
+	</item>	
+	<item>	
+		<!-- Алебарда (Угол Атаки) -->
+		<ingredient id="5628" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Алебарда -->
+		<production id="98" count="1"/>
+	</item>	
+	<item>	
+		<!-- Глефа Таллума (Наведение) -->
+		<ingredient id="5632" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="200000"/>
+		<!-- Глефа Таллума -->
+		<production id="305" count="1"/>
+	</item>	
+	<item>	
+		<!-- Глефа Таллума (Здоровье) -->
+		<ingredient id="5633" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="200000"/>
+		<!-- Глефа Таллума -->
+		<production id="305" count="1"/>
+	</item>	
+	<item>	
+		<!-- Глефа Таллума (Угол Атаки) -->
+		<ingredient id="5634" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="200000"/>
+		<!-- Глефа Таллума -->
+		<production id="305" count="1"/>
+	</item>	
+	<item>	
+		<!-- Клинок Таллума (Крит. Отравление) -->
+		<ingredient id="5635" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Клинок Таллума -->
+		<production id="80" count="1"/>
+	</item>	
+	<item>	
+		<!-- Клинок Таллума (Ускорение) -->
+		<ingredient id="5636" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Клинок Таллума -->
+		<production id="80" count="1"/>
+	</item>	
+	<item>	
+		<!-- Клинок Таллума (Злость) -->
+		<ingredient id="5637" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Клинок Таллума -->
+		<production id="80" count="1"/>
+	</item>	
+	<item>	
+		<!-- Меч Стихий (Маг. Сила) -->
+		<ingredient id="5638" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Меч Стихий -->
+		<production id="150" count="1"/>
+	</item>	
+	<item>	
+		<!-- Меч Стихий (Паралич) -->
+		<ingredient id="5639" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Меч Стихий -->
+		<production id="150" count="1"/>
+	</item>	
+	<item>	
+		<!-- Меч Стихий (Воодушевление) -->
+		<ingredient id="5640" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Меч Стихий -->
+		<production id="150" count="1"/>
+	</item>	
+	<item>	
+		<!-- Легендарный Меч (Маг. Сила) -->
+		<ingredient id="5641" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="200000"/>
+		<!-- Легендарный Меч -->
+		<production id="151" count="1"/>
+	</item>	
+	<item>	
+		<!-- Легендарный Меч (Безмолвие) -->
+		<ingredient id="5642" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="200000"/>
+		<!-- Легендарный Меч -->
+		<production id="151" count="1"/>
+	</item>	
+	<item>	
+		<!-- Легендарный Меч (Проницательность) -->
+		<ingredient id="5643" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="200000"/>
+		<!-- Легендарный Меч -->
+		<production id="151" count="1"/>
+	</item>	
+	<item>	
+		<!-- Убийца Драконов (Здоровье) -->
+		<ingredient id="5644" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="200000"/>
+		<!-- Убийца Драконов -->
+		<production id="81" count="1"/>
+	</item>	
+	<item>	
+		<!-- Убийца Драконов (Крит. Кровопускание) -->
+		<ingredient id="5645" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="200000"/>
+		<!-- Убийца Драконов -->
+		<production id="81" count="1"/>
+	</item>	
+	<item>	
+		<!-- Убийца Драконов (Крит. Поглощение HP) -->
+		<ingredient id="5646" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="200000"/>
+		<!-- Убийца Драконов -->
+		<production id="81" count="1"/>
+	</item>	
+	<item>	
+		<!-- Темный Легион (Крит. Урон) -->
+		<ingredient id="5647" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="200000"/>
+		<!-- Темный Легион -->
+		<production id="2500" count="1"/>
+	</item>	
+	<item>	
+		<!-- Темный Легион (Здоровье) -->
+		<ingredient id="5648" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="200000"/>
+		<!-- Темный Легион -->
+		<production id="2500" count="1"/>
+	</item>	
+	<item>	
+		<!-- Темный Легион (Риск. Фокусировка) -->
+		<ingredient id="5649" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="200000"/>
+		<!-- Темный Легион -->
+		<production id="2500" count="1"/>
+	</item>	
+	<item>	
+		<!-- Крушитель Рока (Здоровье) -->
+		<ingredient id="8135" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="200000"/>
+		<!-- Крушитель Рока -->
+		<production id="7902" count="1"/>
+	</item>	
+	<item>	
+		<!-- Крушитель Рока (Злость) -->
+		<ingredient id="8136" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="200000"/>
+		<!-- Крушитель Рока -->
+		<production id="7902" count="1"/>
+	</item>	
+	<item>	
+		<!-- Крушитель Рока (Риск. Ускорение) -->
+		<ingredient id="8137" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="200000"/>
+		<!-- Крушитель Рока -->
+		<production id="7902" count="1"/>
+	</item>	
+	<item>	
+		<!-- Пылающий Череп Дракона (Проницательность) -->
+		<ingredient id="8150" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="200000"/>
+		<!-- Пылающий Череп Дракона -->
+		<production id="7895" count="1"/>
+	</item>	
+	<item>	
+		<!-- Пылающий Череп Дракона (Маг. Сила) -->
+		<ingredient id="8151" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="200000"/>
+		<!-- Пылающий Череп Дракона -->
+		<production id="7895" count="1"/>
+	</item>	
+	<item>	
+		<!-- Пылающий Череп Дракона (Безмолвие) -->
+		<ingredient id="8152" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="200000"/>
+		<!-- Пылающий Череп Дракона -->
+		<production id="7895" count="1"/>
+	</item>	
+	<item>	
+		<!-- Клинок Сирры (Ускорение) -->
+		<ingredient id="8788" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Клинок Сирры -->
+		<production id="8678" count="1"/>
+	</item>	
+	<item>	
+		<!-- Клинок Сирры (Здоровье) -->
+		<ingredient id="8789" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Клинок Сирры -->
+		<production id="8678" count="1"/>
+	</item>	
+	<item>	
+		<!-- Клинок Сирры (Крит. Отравление) -->
+		<ingredient id="8790" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Клинок Сирры -->
+		<production id="8678" count="1"/>
+	</item>	
+	<item>	
+		<!-- Меч Ипоса (Фокусировка) -->
+		<ingredient id="8791" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Меч Ипоса -->
+		<production id="8679" count="1"/>
+	</item>	
+	<item>	
+		<!-- Меч Ипоса (Ускорение) -->
+		<ingredient id="8792" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Меч Ипоса -->
+		<production id="8679" count="1"/>
+	</item>	
+	<item>	
+		<!-- Меч Ипоса (Здоровье) -->
+		<ingredient id="8793" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Меч Ипоса -->
+		<production id="8679" count="1"/>
+	</item>	
+	<item>	
+		<!-- Топор Баракиэля (Здоровье) -->
+		<ingredient id="8794" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Топор Баракиэля -->
+		<production id="8680" count="1"/>
+	</item>	
+	<item>	
+		<!-- Топор Баракиэля (Ускорение) -->
+		<ingredient id="8795" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Топор Баракиэля -->
+		<production id="8680" count="1"/>
+	</item>	
+	<item>	
+		<!-- Топор Баракиэля (Фокусировка) -->
+		<ingredient id="8796" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Топор Баракиэля -->
+		<production id="8680" count="1"/>
+	</item>	
+	<item>	
+		<!-- Трезубец Чудовища (Фокусировка) -->
+		<ingredient id="8797" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Трезубец Чудовища -->
+		<production id="8681" count="1"/>
+	</item>	
+	<item>	
+		<!-- Трезубец Чудовища (Здоровье) -->
+		<ingredient id="8798" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Трезубец Чудовища -->
+		<production id="8681" count="1"/>
+	</item>	
+	<item>	
+		<!-- Трезубец Чудовища (Злость) -->
+		<ingredient id="8799" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Трезубец Чудовища -->
+		<production id="8681" count="1"/>
+	</item>	
+	<item>	
+		<!-- Буря Наги (Фокусировка) -->
+		<ingredient id="8800" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Буря Наги -->
+		<production id="8682" count="1"/>
+	</item>	
+	<item>	
+		<!-- Буря Наги (Крит. Урон) -->
+		<ingredient id="8801" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Буря Наги -->
+		<production id="8682" count="1"/>
+	</item>	
+	<item>	
+		<!-- Буря Наги (Удар в Спину) -->
+		<ingredient id="8802" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Буря Наги -->
+		<production id="8682" count="1"/>
+	</item>	
+	<item>	
+		<!-- Копье Тифона (Крит. Оглушение) -->
+		<ingredient id="8803" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Копье Тифона -->
+		<production id="8683" count="1"/>
+	</item>	
+	<item>	
+		<!-- Копье Тифона (Радиус Удара) -->
+		<ingredient id="8804" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Копье Тифона -->
+		<production id="8683" count="1"/>
+	</item>	
+	<item>	
+		<!-- Копье Тифона (Угол Удара) -->
+		<ingredient id="8805" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Копье Тифона -->
+		<production id="8683" count="1"/>
+	</item>	
+	<item>	
+		<!-- Лук Шиид (Экономия) -->
+		<ingredient id="8806" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Лук Шиид -->
+		<production id="8684" count="1"/>
+	</item>	
+	<item>	
+		<!-- Лук Шиид (Фокусировка) -->
+		<ingredient id="8807" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Лук Шиид -->
+		<production id="8684" count="1"/>
+	</item>	
+	<item>	
+		<!-- Лук Шиид (Быстрое Восстановление) -->
+		<ingredient id="8808" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Лук Шиид -->
+		<production id="8684" count="1"/>
+	</item>	
+	<item>	
+		<!-- Ураган Собекка (Риск. Ускорение) -->
+		<ingredient id="8809" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Ураган Собекка -->
+		<production id="8685" count="1"/>
+	</item>	
+	<item>	
+		<!-- Ураган Собекка (Ускорение) -->
+		<ingredient id="8810" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Ураган Собекка -->
+		<production id="8685" count="1"/>
+	</item>	
+	<item>	
+		<!-- Ураган Собекка (Крит. Поглощение HP) -->
+		<ingredient id="8811" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Ураган Собекка -->
+		<production id="8685" count="1"/>
+	</item>	
+	<item>	
+		<!-- Язык Темиса (Добавление Маны) -->
+		<ingredient id="8812" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Язык Темиса -->
+		<production id="8686" count="1"/>
+	</item>	
+	<item>	
+		<!-- Язык Темиса (Ментальный Щит) -->
+		<ingredient id="8813" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Язык Темиса -->
+		<production id="8686" count="1"/>
+	</item>	
+	<item>	
+		<!-- Язык Темиса (Маг. Фокусировка) -->
+		<ingredient id="8814" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Язык Темиса -->
+		<production id="8686" count="1"/>
+	</item>	
+	<item>	
+		<!-- Рука Кабрио (Конверсия) -->
+		<ingredient id="8815" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Рука Кабрио -->
+		<production id="8687" count="1"/>
+	</item>	
+	<item>	
+		<!-- Рука Кабрио (Добавление Маны) -->
+		<ingredient id="8816" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Рука Кабрио -->
+		<production id="8687" count="1"/>
+	</item>	
+	<item>	
+		<!-- Рука Кабрио (Безмолвие) -->
+		<ingredient id="8817" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Рука Кабрио -->
+		<production id="8687" count="1"/>
+	</item>	
+	<item>	
+		<!-- Кристалл Дэймона (Добавление Маны) -->
+		<ingredient id="8818" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Кристалл Дэймона -->
+		<production id="8688" count="1"/>
+	</item>	
+	<item>	
+		<!-- Кристалл Дэймона (Проницательность) -->
+		<ingredient id="8819" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Кристалл Дэймона -->
+		<production id="8688" count="1"/>
+	</item>	
+	<item>	
+		<!-- Кристалл Дэймона (Ментальный Щит) -->
+		<ingredient id="8820" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Кристалл Дэймона -->
+		<production id="8688" count="1"/>
+	</item>	
+	<item>	
+		<!-- Длинная Шпага Солдата (Крит. Злость) -->
+		<ingredient id="9229" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="14550"/>
+		<!-- Длинная Шпага Солдата -->
+		<production id="9228" count="1"/>
+	</item>	
+	<item>	
+		<!-- Длинная Шпага Солдата (Фокусировка) -->
+		<ingredient id="9230" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="14500"/>
+		<!-- Длинная Шпага Солдата -->
+		<production id="9228" count="1"/>
+	</item>	
+	<item>	
+		<!-- Длинная Шпага Солдата (Легкость) -->
+		<ingredient id="9231" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="14550"/>
+		<!-- Длинная Шпага Солдата -->
+		<production id="9228" count="1"/>
+	</item>	
+	<item>	
+		<!-- Рапира Шевалье (Наведение) -->
+		<ingredient id="9241" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="14550"/>
+		<!-- Рапира Шевалье -->
+		<production id="9240" count="1"/>
+	</item>	
+	<item>	
+		<!-- Рапира Шевалье (Удар в Спину) -->
+		<ingredient id="9242" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="14500"/>
+		<!-- Рапира Шевалье -->
+		<production id="9240" count="1"/>
+	</item>	
+	<item>	
+		<!-- Рапира Шевалье (Риск. Уклонение) -->
+		<ingredient id="9243" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="14550"/>
+		<!-- Рапира Шевалье -->
+		<production id="9240" count="1"/>
+	</item>	
+	<item>	
+		<!-- Рапира Шевалье (Фокусировка) -->
+		<ingredient id="9245" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="14550"/>
+		<!-- Рапира Шевалье -->
+		<production id="9244" count="1"/>
+	</item>	
+	<item>	
+		<!-- Рапира Шевалье (Крит. Урон) -->
+		<ingredient id="9246" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="14550"/>
+		<!-- Рапира Шевалье -->
+		<production id="9244" count="1"/>
+	</item>	
+	<item>	
+		<!-- Рапира Шевалье (Ускорение) -->
+		<ingredient id="9247" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="14550"/>
+		<!-- Рапира Шевалье -->
+		<production id="9244" count="1"/>
+	</item>	
+	<item>	
+		<!-- Рапира Шевалье (Крит. Урон) -->
+		<ingredient id="9249" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="14550"/>
+		<!-- Рапира Шевалье -->
+		<production id="9248" count="1"/>
+	</item>	
+	<item>	
+		<!-- Рапира Шевалье (Крит. Отравление) -->
+		<ingredient id="9250" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="14550"/>
+		<!-- Рапира Шевалье -->
+		<production id="9248" count="1"/>
+	</item>	
+	<item>	
+		<!-- Рапира Шевалье (Ускорение) -->
+		<ingredient id="9251" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="14550"/>
+		<!-- Рапира Шевалье -->
+		<production id="9248" count="1"/>
+	</item>	
+	<item>	
+		<!-- Рапира Шевалье (Фокусировка) -->
+		<ingredient id="9253" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="14550"/>
+		<!-- Рапира Шевалье -->
+		<production id="9252" count="1"/>
+	</item>	
+	<item>	
+		<!-- Рапира Шевалье (Крит. Поглощение HP) -->
+		<ingredient id="9254" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="14550"/>
+		<!-- Рапира Шевалье -->
+		<production id="9252" count="1"/>
+	</item>	
+	<item>	
+		<!-- Рапира Шевалье (Крит. Отравление) -->
+		<ingredient id="9255" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="14550"/>
+		<!-- Рапира Шевалье -->
+		<production id="9252" count="1"/>
+	</item>	
+	<item>	
+		<!-- Истребитель (Наведение) -->
+		<ingredient id="9265" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="45900"/>
+		<!-- Истребитель -->
+		<production id="9264" count="1"/>
+	</item>	
+	<item>	
+		<!-- Истребитель (Фокусировка) -->
+		<ingredient id="9266" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="45900"/>
+		<!-- Истребитель -->
+		<production id="9264" count="1"/>
+	</item>	
+	<item>	
+		<!-- Истребитель (Крит. Урон) -->
+		<ingredient id="9267" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="45900"/>
+		<!-- Истребитель -->
+		<production id="9264" count="1"/>
+	</item>	
+	<item>	
+		<!-- Истребитель (Фокусировка) -->
+		<ingredient id="9269" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="45900"/>
+		<!-- Истребитель -->
+		<production id="9268" count="1"/>
+	</item>	
+	<item>	
+		<!-- Истребитель (Здоровье) -->
+		<ingredient id="9270" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="45900"/>
+		<!-- Истребитель -->
+		<production id="9268" count="1"/>
+	</item>	
+	<item>	
+		<!-- Истребитель (Риск. Ускорение) -->
+		<ingredient id="9271" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="45900"/>
+		<!-- Истребитель -->
+		<production id="9268" count="1"/>
+	</item>	
+	<item>	
+		<!-- Истребитель (Фокусировка) -->
+		<ingredient id="9273" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="45900"/>
+		<!-- Истребитель -->
+		<production id="9272" count="1"/>
+	</item>	
+	<item>	
+		<!-- Истребитель (Крит. Урон) -->
+		<ingredient id="9274" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="45900"/>
+		<!-- Истребитель -->
+		<production id="9272" count="1"/>
+	</item>	
+	<item>	
+		<!-- Истребитель (Ускорение) -->
+		<ingredient id="9275" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="45900"/>
+		<!-- Истребитель -->
+		<production id="9272" count="1"/>
+	</item>	
+	<item>	
+		<!-- Истребитель (Здоровье) -->
+		<ingredient id="9277" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="45900"/>
+		<!-- Истребитель -->
+		<production id="9276" count="1"/>
+	</item>	
+	<item>	
+		<!-- Истребитель (Фокусировка) -->
+		<ingredient id="9278" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="45900"/>
+		<!-- Истребитель -->
+		<production id="9276" count="1"/>
+	</item>	
+	<item>	
+		<!-- Истребитель (Легкость) -->
+		<ingredient id="9279" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="45900"/>
+		<!-- Истребитель -->
+		<production id="9276" count="1"/>
+	</item>	
+	<item>	
+		<!-- Истребитель (Наведение) -->
+		<ingredient id="9281" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="45900"/>
+		<!-- Истребитель -->
+		<production id="9280" count="1"/>
+	</item>	
+	<item>	
+		<!-- Истребитель (Крит. Поглощение HP) -->
+		<ingredient id="9282" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="45900"/>
+		<!-- Истребитель -->
+		<production id="9280" count="1"/>
+	</item>	
+	<item>	
+		<!-- Истребитель (Здоровье) -->
+		<ingredient id="9283" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="45900"/>
+		<!-- Истребитель -->
+		<production id="9280" count="1"/>
+	</item>	
+	<item>	
+		<!-- Эсток Адмирала (Фокусировка) -->
+		<ingredient id="9293" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="83250"/>
+		<!-- Эсток Адмирала -->
+		<production id="9292" count="1"/>
+	</item>	
+	<item>	
+		<!-- Эсток Адмирала (Крит. Урон) -->
+		<ingredient id="9294" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="83250"/>
+		<!-- Эсток Адмирала -->
+		<production id="9292" count="1"/>
+	</item>	
+	<item>	
+		<!-- Эсток Адмирала (Ускорение) -->
+		<ingredient id="9295" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="83250"/>
+		<!-- Эсток Адмирала -->
+		<production id="9292" count="1"/>
+	</item>	
+	<item>	
+		<!-- Боевая Рапира (Наведение) -->
+		<ingredient id="9305" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Боевая Рапира -->
+		<production id="9304" count="1"/>
+	</item>	
+	<item>	
+		<!-- Боевая Рапира (Фокусировка) -->
+		<ingredient id="9306" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Боевая Рапира -->
+		<production id="9304" count="1"/>
+	</item>	
+	<item>	
+		<!-- Боевая Рапира (Удар в Спину) -->
+		<ingredient id="9307" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Боевая Рапира -->
+		<production id="9304" count="1"/>
+	</item>	
+	<item>	
+		<!-- Колишмард (Фокусировка) -->
+		<ingredient id="9317" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Колишмард -->
+		<production id="9316" count="1"/>
+	</item>	
+	<item>	
+		<!-- Колишмард (Крит. Урон) -->
+		<ingredient id="9318" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Колишмард -->
+		<production id="9316" count="1"/>
+	</item>	
+	<item>	
+		<!-- Колишмард (Ускорение) -->
+		<ingredient id="9319" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Колишмард -->
+		<production id="9316" count="1"/>
+	</item>	
+	<item>	
+		<!-- Шлагер (Крит. Урон) -->
+		<ingredient id="9233" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="14550"/>
+		<!-- Шлагер -->
+		<production id="9232" count="1"/>
+	</item>	
+	<item>	
+		<!-- Шлагер (Фокусировка) -->
+		<ingredient id="9234" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="14550"/>
+		<!-- Шлагер -->
+		<production id="9232" count="1"/>
+	</item>	
+	<item>	
+		<!-- Шлагер (Легкость) -->
+		<ingredient id="9235" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="14550"/>
+		<!-- Шлагер -->
+		<production id="9232" count="1"/>
+	</item>	
+	<item>	
+		<!-- Вечный Клинок (Фокусировка) -->
+		<ingredient id="9285" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="45900"/>
+		<!-- Вечный Клинок -->
+		<production id="9284" count="1"/>
+	</item>	
+	<item>	
+		<!-- Вечный Клинок (Здоровье) -->
+		<ingredient id="9286" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="45900"/>
+		<!-- Вечный Клинок -->
+		<production id="9284" count="1"/>
+	</item>	
+	<item>	
+		<!-- Вечный Клинок (Крит. Поглощение HP) -->
+		<ingredient id="9287" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="45900"/>
+		<!-- Вечный Клинок -->
+		<production id="9284" count="1"/>
+	</item>	
+	<item>	
+		<!-- Клык (Фокусировка) -->
+		<ingredient id="9297" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="83250"/>
+		<!-- Клык -->
+		<production id="9296" count="1"/>
+	</item>	
+	<item>	
+		<!-- Клык (Крит. Урон) -->
+		<ingredient id="9298" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="83250"/>
+		<!-- Клык -->
+		<production id="9296" count="1"/>
+	</item>	
+	<item>	
+		<!-- Клык (Ускорение) -->
+		<ingredient id="9299" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="83250"/>
+		<!-- Клык -->
+		<production id="9296" count="1"/>
+	</item>	
+	<item>	
+		<!-- Безымянная Победа (Здоровье) -->
+		<ingredient id="9309" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Безымянная Победа -->
+		<production id="9308" count="1"/>
+	</item>	
+	<item>	
+		<!-- Безымянная Победа (Крит. Урон) -->
+		<ingredient id="9310" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Безымянная Победа -->
+		<production id="9308" count="1"/>
+	</item>	
+	<item>	
+		<!-- Безымянная Победа (Фокусировка) -->
+		<ingredient id="9311" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Безымянная Победа -->
+		<production id="9308" count="1"/>
+	</item>	
+	<item>	
+		<!-- Расчленитель (Крит. Поглощение HP) -->
+		<ingredient id="9321" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Расчленитель -->
+		<production id="9320" count="1"/>
+	</item>	
+	<item>	
+		<!-- Расчленитель (Здоровье) -->
+		<ingredient id="9322" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Расчленитель -->
+		<production id="9320" count="1"/>
+	</item>	
+	<item>	
+		<!-- Расчленитель (Крит. Кровопускание) -->
+		<ingredient id="9323" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Расчленитель -->
+		<production id="9320" count="1"/>
+	</item>	
+	<item>	
+		<!-- Усиленный Арбалет (Наведение) -->
+		<ingredient id="9237" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="14550"/>
+		<!-- Усиленный Арбалет -->
+		<production id="9236" count="1"/>
+	</item>	
+	<item>	
+		<!-- Усиленный Арбалет (Уклонение) -->
+		<ingredient id="9238" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="14550"/>
+		<!-- Усиленный Арбалет -->
+		<production id="9236" count="1"/>
+	</item>	
+	<item>	
+		<!-- Усиленный Арбалет (Быстрое Восстановление) -->
+		<ingredient id="9239" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="14550"/>
+		<!-- Усиленный Арбалет -->
+		<production id="9236" count="1"/>
+	</item>	
+	<item>	
+		<!-- Баллиста (Наведение) -->
+		<ingredient id="9257" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="35700"/>
+		<!-- Баллиста -->
+		<production id="9256" count="1"/>
+	</item>	
+	<item>	
+		<!-- Баллиста (Скупость) -->
+		<ingredient id="9258" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="35700"/>
+		<!-- Баллиста -->
+		<production id="9256" count="1"/>
+	</item>	
+	<item>	
+		<!-- Баллиста (Быстрое Восстановление) -->
+		<ingredient id="9259" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="35700"/>
+		<!-- Баллиста -->
+		<production id="9256" count="1"/>
+	</item>	
+	<item>	
+		<!-- Баллиста (Уклонение) -->
+		<ingredient id="9261" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="35700"/>
+		<!-- Баллиста -->
+		<production id="9260" count="1"/>
+	</item>	
+	<item>	
+		<!-- Баллиста (Скупость) -->
+		<ingredient id="9262" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="35700"/>
+		<!-- Баллиста -->
+		<production id="9260" count="1"/>
+	</item>	
+	<item>	
+		<!-- Баллиста (Экономия) -->
+		<ingredient id="9263" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="35700"/>
+		<!-- Баллиста -->
+		<production id="9260" count="1"/>
+	</item>	
+	<item>	
+		<!-- Татлум (Наведение) -->
+		<ingredient id="9289" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="45900"/>
+		<!-- Татлум -->
+		<production id="9288" count="1"/>
+	</item>	
+	<item>	
+		<!-- Татлум (Уклонение) -->
+		<ingredient id="9290" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="45900"/>
+		<!-- Татлум -->
+		<production id="9288" count="1"/>
+	</item>	
+	<item>	
+		<!-- Татлум (Скупость) -->
+		<ingredient id="9291" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="45900"/>
+		<!-- Татлум -->
+		<production id="9288" count="1"/>
+	</item>	
+	<item>	
+		<!-- Самострел (Наведение) -->
+		<ingredient id="9301" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="83250"/>
+		<!-- Самострел -->
+		<production id="9300" count="1"/>
+	</item>	
+	<item>	
+		<!-- Самострел (Скупость) -->
+		<ingredient id="9302" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="83250"/>
+		<!-- Самострел -->
+		<production id="9300" count="1"/>
+	</item>	
+	<item>	
+		<!-- Самострел (Экономия) -->
+		<ingredient id="9303" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="83250"/>
+		<!-- Самострел -->
+		<production id="9300" count="1"/>
+	</item>	
+	<item>	
+		<!-- Миротворец (Уклонение) -->
+		<ingredient id="9313" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Миротворец -->
+		<production id="9312" count="1"/>
+	</item>	
+	<item>	
+		<!-- Миротворец (Крит. Кровопускание) -->
+		<ingredient id="9314" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Миротворец -->
+		<production id="9312" count="1"/>
+	</item>	
+	<item>	
+		<!-- Миротворец (Скупость) -->
+		<ingredient id="9315" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Миротворец -->
+		<production id="9312" count="1"/>
+	</item>	
+	<item>	
+		<!-- Цербер (Наведение) -->
+		<ingredient id="9325" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Цербер -->
+		<production id="9324" count="1"/>
+	</item>	
+	<item>	
+		<!-- Цербер (Быстрое Восстановление) -->
+		<ingredient id="9326" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Цербер -->
+		<production id="9324" count="1"/>
+	</item>	
+	<item>	
+		<!-- Цербер (Экономия) -->
+		<ingredient id="9327" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Цербер -->
+		<production id="9324" count="1"/>
+	</item>	
+	<item>	
+		<!-- Белая Молния (Крит. Отравление) -->
+		<ingredient id="9329" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="200000"/>
+		<!-- Белая Молния -->
+		<production id="9328" count="1"/>
+	</item>	
+	<item>	
+		<!-- Белая Молния (Ускорение) -->
+		<ingredient id="9330" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="200000"/>
+		<!-- Белая Молния -->
+		<production id="9328" count="1"/>
+	</item>	
+	<item>	
+		<!-- Белая Молния (Злость) -->
+		<ingredient id="9331" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="200000"/>
+		<!-- Белая Молния -->
+		<production id="9328" count="1"/>
+	</item>	
+	<item>	
+		<!-- Протыкатель (Крит. Урон) -->
+		<ingredient id="9341" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Протыкатель -->
+		<production id="9340" count="1"/>
+	</item>	
+	<item>	
+		<!-- Протыкатель (Здоровье) -->
+		<ingredient id="9342" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Протыкатель -->
+		<production id="9340" count="1"/>
+	</item>	
+	<item>	
+		<!-- Протыкатель (Риск. Фокусировка) -->
+		<ingredient id="9343" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Протыкатель -->
+		<production id="9340" count="1"/>
+	</item>	
+	<item>	
+		<!-- Гравированная Рапира (Ускорение) -->
+		<ingredient id="9353" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Гравированная Рапира -->
+		<production id="9352" count="1"/>
+	</item>	
+	<item>	
+		<!-- Гравированная Рапира (Здоровье) -->
+		<ingredient id="9354" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Гравированная Рапира -->
+		<production id="9352" count="1"/>
+	</item>	
+	<item>	
+		<!-- Гравированная Рапира (Крит. Отравление) -->
+		<ingredient id="9355" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Гравированная Рапира -->
+		<production id="9352" count="1"/>
+	</item>	
+	<item>	
+		<!-- Священная Боль (Ускорение) -->
+		<ingredient id="9333" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="200000"/>
+		<!-- Священная Боль -->
+		<production id="9332" count="1"/>
+	</item>	
+	<item>	
+		<!-- Священная Боль (Крит. Урон) -->
+		<ingredient id="9334" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="200000"/>
+		<!-- Священная Боль -->
+		<production id="9332" count="1"/>
+	</item>	
+	<item>	
+		<!-- Священная Боль (Фокусировка) -->
+		<ingredient id="9335" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="200000"/>
+		<!-- Священная Боль -->
+		<production id="9332" count="1"/>
+	</item>	
+	<item>	
+		<!-- Гробовщик (Здоровье) -->
+		<ingredient id="9345" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Гробовщик -->
+		<production id="9344" count="1"/>
+	</item>	
+	<item>	
+		<!-- Гробовщик (Крит. Кровопускание) -->
+		<ingredient id="9346" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Гробовщик -->
+		<production id="9344" count="1"/>
+	</item>	
+	<item>	
+		<!-- Гробовщик (Крит. Поглощение HP) -->
+		<ingredient id="9347" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Гробовщик -->
+		<production id="9344" count="1"/>
+	</item>	
+	<item>	
+		<!-- Балтганг (Фокусировка) -->
+		<ingredient id="9357" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Балтганг -->
+		<production id="9356" count="1"/>
+	</item>	
+	<item>	
+		<!-- Балтганг (Ускорение) -->
+		<ingredient id="9358" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Балтганг -->
+		<production id="9356" count="1"/>
+	</item>	
+	<item>	
+		<!-- Балтганг (Здоровье) -->
+		<ingredient id="9359" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Балтганг -->
+		<production id="9356" count="1"/>
+	</item>	
+	<item>	
+		<!-- Певец Судьбы (Легкость) -->
+		<ingredient id="9337" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="200000"/>
+		<!-- Певец Судьбы -->
+		<production id="9336" count="1"/>
+	</item>	
+	<item>	
+		<!-- Певец Судьбы (Крит. Кровопускание) -->
+		<ingredient id="9338" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="200000"/>
+		<!-- Певец Судьбы -->
+		<production id="9336" count="1"/>
+	</item>	
+	<item>	
+		<!-- Певец Судьбы (Добавление Маны) -->
+		<ingredient id="9339" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="200000"/>
+		<!-- Певец Судьбы -->
+		<production id="9336" count="1"/>
+	</item>	
+	<item>	
+		<!-- Жнец (Экономия) -->
+		<ingredient id="9349" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Жнец -->
+		<production id="9348" count="1"/>
+	</item>	
+	<item>	
+		<!-- Жнец (Быстрое Восстановление) -->
+		<ingredient id="9350" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Жнец -->
+		<production id="9348" count="1"/>
+	</item>	
+	<item>	
+		<!-- Жнец (Крит. Отравление) -->
+		<ingredient id="9351" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Жнец -->
+		<production id="9348" count="1"/>
+	</item>	
+	<item>	
+		<!-- Песня Мести (Экономия) -->
+		<ingredient id="9361" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Песня Мести -->
+		<production id="9360" count="1"/>
+	</item>	
+	<item>	
+		<!-- Песня Мести (Фокусировка) -->
+		<ingredient id="9362" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Песня Мести -->
+		<production id="9360" count="1"/>
+	</item>	
+	<item>	
+		<!-- Песня Мести (Быстрое Восстановление) -->
+		<ingredient id="9363" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Песня Мести -->
+		<production id="9360" count="1"/>
+	</item>	
+	<item>	
+		<!-- Кешанберк - Разрушение (Наведение) -->
+		<ingredient id="10931" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Кешанберк - Разрушение -->
+		<production id="10930" count="1"/>
+	</item>	
+	<item>	
+		<!-- Кешанберк - Разрушение (Фокусировка) -->
+		<ingredient id="10932" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Кешанберк - Разрушение -->
+		<production id="10930" count="1"/>
+	</item>	
+	<item>	
+		<!-- Кешанберк - Разрушение (Удар в Спину) -->
+		<ingredient id="10933" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Кешанберк - Разрушение -->
+		<production id="10930" count="1"/>
+	</item>	
+	<item>	
+		<!-- Большой Меч - Гром (Здоровье) -->
+		<ingredient id="10871" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Большой Меч - Гром -->
+		<production id="10870" count="1"/>
+	</item>	
+	<item>	
+		<!-- Большой Меч - Гром (Крит. Урон) -->
+		<ingredient id="10872" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Большой Меч - Гром -->
+		<production id="10870" count="1"/>
+	</item>	
+	<item>	
+		<!-- Большой Меч - Гром (Фокусировка) -->
+		<ingredient id="10873" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Большой Меч - Гром -->
+		<production id="10870" count="1"/>
+	</item>	
+	<item>	
+		<!-- Тяжелый Топор Войны - Земля (Злость) -->
+		<ingredient id="10939" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Тяжелый Топор Войны - Земля -->
+		<production id="10938" count="1"/>
+	</item>	
+	<item>	
+		<!-- Тяжелый Топор Войны - Земля (Здоровье) -->
+		<ingredient id="10940" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Тяжелый Топор Войны - Земля -->
+		<production id="10938" count="1"/>
+	</item>	
+	<item>	
+		<!-- Тяжелый Топор Войны - Земля (Риск. Фокусировка) -->
+		<ingredient id="10941" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Тяжелый Топор Войны - Земля -->
+		<production id="10938" count="1"/>
+	</item>	
+	<item>	
+		<!-- Молот Ледяной Бури - Гром (Фокусировка) -->
+		<ingredient id="10907" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Молот Ледяной Бури - Гром -->
+		<production id="10906" count="1"/>
+	</item>	
+	<item>	
+		<!-- Молот Ледяной Бури - Гром (Злость) -->
+		<ingredient id="10908" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Молот Ледяной Бури - Гром -->
+		<production id="10906" count="1"/>
+	</item>	
+	<item>	
+		<!-- Молот Ледяной Бури - Гром (Крит. Кровопускание) -->
+		<ingredient id="10909" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Молот Ледяной Бури - Гром -->
+		<production id="10906" count="1"/>
+	</item>	
+	<item>	
+		<!-- Нож Ада - Замешательство (Магическая Регенерация) -->
+		<ingredient id="10943" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Нож Ада - Замешательство -->
+		<production id="10942" count="1"/>
+	</item>	
+	<item>	
+		<!-- Нож Ада - Замешательство (Ментальный Щит) -->
+		<ingredient id="10944" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Нож Ада - Замешательство -->
+		<production id="10942" count="1"/>
+	</item>	
+	<item>	
+		<!-- Нож Ада - Замешательство (Маг. Слабость) -->
+		<ingredient id="10945" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Нож Ада - Замешательство -->
+		<production id="10942" count="1"/>
+	</item>	
+	<item>	
+		<!-- Рассеиватель Заклинаний - Град (Магические Оковы) -->
+		<ingredient id="10901" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Рассеиватель Заклинаний - Град -->
+		<production id="10898" count="1"/>
+	</item>	
+	<item>	
+		<!-- Рассеиватель Заклинаний - Град (Ментальный Щит) -->
+		<ingredient id="10900" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Рассеиватель Заклинаний - Град -->
+		<production id="10898" count="1"/>
+	</item>	
+	<item>	
+		<!-- Рассеиватель Заклинаний - Град (Проницательность) -->
+		<ingredient id="10899" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Рассеиватель Заклинаний - Град -->
+		<production id="10898" count="1"/>
+	</item>	
+	<item>	
+		<!-- Крис - Замешательство (Уклонение) -->
+		<ingredient id="10927" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Крис - Замешательство -->
+		<production id="10926" count="1"/>
+	</item>	
+	<item>	
+		<!-- Крис - Замешательство (Фокусировка) -->
+		<ingredient id="10928" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Крис - Замешательство -->
+		<production id="10926" count="1"/>
+	</item>	
+	<item>	
+		<!-- Крис - Замешательство (Удар в Спину) -->
+		<ingredient id="10929" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Крис - Замешательство -->
+		<production id="10926" count="1"/>
+	</item>	
+	<item>	
+		<!-- Коготь Артро - Разрушение (Крит. Отравление) -->
+		<ingredient id="10903" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Коготь Артро - Разрушение -->
+		<production id="10902" count="1"/>
+	</item>	
+	<item>	
+		<!-- Коготь Артро - Разрушение (Риск. Уклонение) -->
+		<ingredient id="10904" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Коготь Артро - Разрушение -->
+		<production id="10902" count="1"/>
+	</item>	
+	<item>	
+		<!-- Коготь Артро - Разрушение (Риск. Ускорение) -->
+		<ingredient id="10905" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Коготь Артро - Разрушение -->
+		<production id="10902" count="1"/>
+	</item>	
+	<item>	
+		<!-- Длинный Лук Темных Эльфов - Концентрация (Уклонение) -->
+		<ingredient id="10887" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Длинный Лук Темных Эльфов - Концентрация -->
+		<production id="10886" count="1"/>
+	</item>	
+	<item>	
+		<!-- Длинный Лук Темных Эльфов - Концентрация (Крит. Кровопускание) -->
+		<ingredient id="10888" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Длинный Лук Темных Эльфов - Концентрация -->
+		<production id="10886" count="1"/>
+	</item>	
+	<item>	
+		<!-- Длинный Лук Темных Эльфов - Концентрация (Скупость) -->
+		<ingredient id="10889" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Длинный Лук Темных Эльфов - Концентрация -->
+		<production id="10886" count="1"/>
+	</item>	
+	<item>	
+		<!-- Двуручный Топор - Молния (Злость) -->
+		<ingredient id="10875" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Двуручный Топор - Молния -->
+		<production id="10874" count="1"/>
+	</item>	
+	<item>	
+		<!-- Двуручный Топор - Молния (Крит. Оглушение) -->
+		<ingredient id="10876" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Двуручный Топор - Молния -->
+		<production id="10874" count="1"/>
+	</item>	
+	<item>	
+		<!-- Двуручный Топор - Молния (Легкость) -->
+		<ingredient id="10877" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Двуручный Топор - Молния -->
+		<production id="10874" count="1"/>
+	</item>	
+	<item>	
+		<!-- Посох Духа - Град (Магическая Регенерация) -->
+		<ingredient id="10917" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Посох Духа - Град -->
+		<production id="10916" count="1"/>
+	</item>	
+	<item>	
+		<!-- Посох Духа - Град (Ментальный Щит) -->
+		<ingredient id="10918" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Посох Духа - Град -->
+		<production id="10916" count="1"/>
+	</item>	
+	<item>	
+		<!-- Посох Духа - Град (Магические Оковы) -->
+		<ingredient id="10919" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Посох Духа - Град -->
+		<production id="10916" count="1"/>
+	</item>	
+	<item>	
+		<!-- Меч Вальхаллы - Природа (Проницательность) -->
+		<ingredient id="10894" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Меч Вальхаллы - Природа -->
+		<production id="10893" count="1"/>
+	</item>	
+	<item>	
+		<!-- Меч Вальхаллы - Природа (Маг. Слабость) -->
+		<ingredient id="10895" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Меч Вальхаллы - Природа -->
+		<production id="10893" count="1"/>
+	</item>	
+	<item>	
+		<!-- Меч Вальхаллы - Природа (Магическая Регенерация) -->
+		<ingredient id="10896" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Меч Вальхаллы - Природа -->
+		<production id="10893" count="1"/>
+	</item>	
+	<item>	
+		<!-- Дамаскус - Земля (Фокусировка) -->
+		<ingredient id="10960" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Дамаскус - Земля -->
+		<production id="10959" count="1"/>
+	</item>	
+	<item>	
+		<!-- Дамаскус - Земля (Крит. Урон) -->
+		<ingredient id="10961" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Дамаскус - Земля -->
+		<production id="10959" count="1"/>
+	</item>	
+	<item>	
+		<!-- Дамаскус - Земля (Ускорение) -->
+		<ingredient id="10962" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Дамаскус - Земля -->
+		<production id="10959" count="1"/>
+	</item>	
+	<item>	
+		<!-- Меч Стража - Великая Буря (Крит. Поглощение HP) -->
+		<ingredient id="10956" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Меч Стража - Великая Буря -->
+		<production id="10955" count="1"/>
+	</item>	
+	<item>	
+		<!-- Меч Стража - Великая Буря (Здоровье) -->
+		<ingredient id="10957" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Меч Стража - Великая Буря -->
+		<production id="10955" count="1"/>
+	</item>	
+	<item>	
+		<!-- Меч Стража - Великая Буря (Крит. Кровопускание) -->
+		<ingredient id="10958" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Меч Стража - Великая Буря -->
+		<production id="10955" count="1"/>
+	</item>	
+	<item>	
+		<!-- Топор Мертвеца - Оползень (Злость) -->
+		<ingredient id="10980" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Топор Мертвеца - Оползень -->
+		<production id="10979" count="1"/>
+	</item>	
+	<item>	
+		<!-- Топор Мертвеца - Оползень (Здоровье) -->
+		<ingredient id="10981" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Топор Мертвеца - Оползень -->
+		<production id="10979" count="1"/>
+	</item>	
+	<item>	
+		<!-- Топор Мертвеца - Оползень (Ускорение) -->
+		<ingredient id="10982" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Топор Мертвеца - Оползень -->
+		<production id="10979" count="1"/>
+	</item>	
+	<item>	
+		<!-- Топор Искусства Войны - Оползень (Здоровье) -->
+		<ingredient id="10989" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Топор Искусства Войны - Оползень -->
+		<production id="10988" count="1"/>
+	</item>	
+	<item>	
+		<!-- Топор Искусства Войны - Оползень (Риск. Фокусировка) -->
+		<ingredient id="10990" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Топор Искусства Войны - Оползень -->
+		<production id="10988" count="1"/>
+	</item>	
+	<item>	
+		<!-- Топор Искусства Войны - Оползень (Ускорение) -->
+		<ingredient id="10991" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Топор Искусства Войны - Оползень -->
+		<production id="10988" count="1"/>
+	</item>	
+	<item>	
+		<!-- Слезы Чародея - Одаренность (Проницательность) -->
+		<ingredient id="11006" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Слезы Чародея - Одаренность -->
+		<production id="11005" count="1"/>
+	</item>	
+	<item>	
+		<!-- Слезы Чародея - Одаренность (Маг. Сила) -->
+		<ingredient id="11007" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Слезы Чародея - Одаренность -->
+		<production id="11005" count="1"/>
+	</item>	
+	<item>	
+		<!-- Слезы Чародея - Одаренность (Конверсия) -->
+		<ingredient id="11008" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Слезы Чародея - Одаренность -->
+		<production id="11005" count="1"/>
+	</item>	
+	<item>	
+		<!-- Кинжал Демона - Великая Буря (Крит. Кровопускание) -->
+		<ingredient id="10993" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Кинжал Демона - Великая Буря -->
+		<production id="10992" count="1"/>
+	</item>	
+	<item>	
+		<!-- Кинжал Демона - Великая Буря (Крит. Отравление) -->
+		<ingredient id="10994" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Кинжал Демона - Великая Буря -->
+		<production id="10992" count="1"/>
+	</item>	
+	<item>	
+		<!-- Кинжал Демона - Великая Буря (Крит. Урон) -->
+		<ingredient id="10996" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Кинжал Демона - Великая Буря -->
+		<production id="10992" count="1"/>
+	</item>	
+	<item>	
+		<!-- Кинжал Демона - Великая Буря (Смертоносная Сила) -->
+		<ingredient id="10995" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Кинжал Демона - Великая Буря -->
+		<production id="10992" count="1"/>
+	</item>	
+	<item>	
+		<!-- Цестус Беллиона - Великая Буря (Крит. Поглощение HP) -->
+		<ingredient id="10972" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Цестус Беллиона - Великая Буря -->
+		<production id="10971" count="1"/>
+	</item>	
+	<item>	
+		<!-- Цестус Беллиона - Великая Буря (Крит. Отравление) -->
+		<ingredient id="10973" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Цестус Беллиона - Великая Буря -->
+		<production id="10971" count="1"/>
+	</item>	
+	<item>	
+		<!-- Цестус Беллиона - Великая Буря (Риск. Ускорение) -->
+		<ingredient id="10974" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Цестус Беллиона - Великая Буря -->
+		<production id="10971" count="1"/>
+	</item>	
+	<item>	
+		<!-- Лук Угрозы - Земля (Наведение) -->
+		<ingredient id="11010" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Лук Угрозы - Земля -->
+		<production id="11009" count="1"/>
+	</item>	
+	<item>	
+		<!-- Лук Угрозы - Земля (Быстрое Восстановление) -->
+		<ingredient id="11011" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Лук Угрозы - Земля -->
+		<production id="11009" count="1"/>
+	</item>	
+	<item>	
+		<!-- Лук Угрозы - Земля (Экономия) -->
+		<ingredient id="11012" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Лук Угрозы - Земля -->
+		<production id="11009" count="1"/>
+	</item>	
+	<item>	
+		<!-- Пика - Земля (Злость) -->
+		<ingredient id="10968" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Пика - Земля -->
+		<production id="10967" count="1"/>
+	</item>	
+	<item>	
+		<!-- Пика - Земля (Крит. Оглушение) -->
+		<ingredient id="10969" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Пика - Земля -->
+		<production id="10967" count="1"/>
+	</item>	
+	<item>	
+		<!-- Пика - Земля (Радиус Удара) -->
+		<ingredient id="10970" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Пика - Земля -->
+		<production id="10967" count="1"/>
+	</item>	
+	<item>	
+		<!-- Звезда Боли - Великая Буря (Здоровье) -->
+		<ingredient id="10984" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Звезда Боли - Великая Буря -->
+		<production id="10983" count="1"/>
+	</item>	
+	<item>	
+		<!-- Звезда Боли - Великая Буря (Ускорение) -->
+		<ingredient id="10985" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Звезда Боли - Великая Буря -->
+		<production id="10983" count="1"/>
+	</item>	
+	<item>	
+		<!-- Звезда Боли - Великая Буря (Риск. Фокусировка) -->
+		<ingredient id="10986" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Звезда Боли - Великая Буря -->
+		<production id="10983" count="1"/>
+	</item>	
+	<item>	
+		<!-- Посох Злых Духов - Святой Дух (Маг. Фокусировка) -->
+		<ingredient id="10976" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Посох Злых Духов - Святой Дух -->
+		<production id="10975" count="1"/>
+	</item>	
+	<item>	
+		<!-- Посох Злых Духов - Святой Дух (Благословение Тела) -->
+		<ingredient id="10977" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Посох Злых Духов - Святой Дух -->
+		<production id="10975" count="1"/>
+	</item>	
+	<item>	
+		<!-- Посох Злых Духов - Святой Дух (Отравление) -->
+		<ingredient id="10978" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Посох Злых Духов - Святой Дух -->
+		<production id="10975" count="1"/>
+	</item>	
+	<item>	
+		<!-- Кости Каим Ванула - Земля (Добавление Маны) -->
+		<ingredient id="10998" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Кости Каим Ванула - Земля -->
+		<production id="10997" count="1"/>
+	</item>	
+	<item>	
+		<!-- Кости Каим Ванула - Земля (Добавление Маны) -->
+		<ingredient id="10998" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Кости Каим Ванула - Земля -->
+		<production id="10997" count="1"/>
+	</item>	
+	<item>	
+		<!-- Кости Каим Ванула - Земля (Конверсия) -->
+		<ingredient id="11000" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Кости Каим Ванула - Земля -->
+		<production id="10997" count="1"/>
+	</item>	
+	<item>	
+		<!-- Посох Даспариона - Град (Добавление Маны) -->
+		<ingredient id="11018" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Посох Даспариона - Град -->
+		<production id="11017" count="1"/>
+	</item>	
+	<item>	
+		<!-- Посох Даспариона - Град (Конверсия) -->
+		<ingredient id="11019" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Посох Даспариона - Град -->
+		<production id="11017" count="1"/>
+	</item>	
+	<item>	
+		<!-- Посох Даспариона - Град (Проницательность) -->
+		<ingredient id="11020" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Посох Даспариона - Град -->
+		<production id="11017" count="1"/>
+	</item>	
+	<item>	
+		<!-- Мастер Инферно - Концентрация (Ускорение) -->
+		<ingredient id="11050" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Мастер Инферно - Концентрация -->
+		<production id="11049" count="1"/>
+	</item>	
+	<item>	
+		<!-- Мастер Инферно - Концентрация (Крит. Урон) -->
+		<ingredient id="11051" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Мастер Инферно - Концентрация -->
+		<production id="11049" count="1"/>
+	</item>	
+	<item>	
+		<!-- Мастер Инферно - Концентрация (Фокусировка) -->
+		<ingredient id="11052" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Мастер Инферно - Концентрация -->
+		<production id="11049" count="1"/>
+	</item>	
+	<item>	
+		<!-- Молот Разрушителя - Гром (Здоровье) -->
+		<ingredient id="11063" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Молот Разрушителя - Гром -->
+		<production id="11062" count="1"/>
+	</item>	
+	<item>	
+		<!-- Молот Разрушителя - Гром (Ускорение) -->
+		<ingredient id="11064" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Молот Разрушителя - Гром -->
+		<production id="11062" count="1"/>
+	</item>	
+	<item>	
+		<!-- Молот Разрушителя - Гром (Крит. Поглощение HP) -->
+		<ingredient id="11065" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Молот Разрушителя - Гром -->
+		<production id="11062" count="1"/>
+	</item>	
+	<item>	
+		<!-- Глаз Духа - Град (Добавление Маны) -->
+		<ingredient id="11046" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Глаз Духа - Град -->
+		<production id="11045" count="1"/>
+	</item>	
+	<item>	
+		<!-- Глаз Духа - Град (Отравление) -->
+		<ingredient id="11047" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Глаз Духа - Град -->
+		<production id="11045" count="1"/>
+	</item>	
+	<item>	
+		<!-- Глаз Духа - Град (Проницательность) -->
+		<ingredient id="11048" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Глаз Духа - Град -->
+		<production id="11045" count="1"/>
+	</item>	
+	<item>	
+		<!-- Метеоритный Дождь - Земля (Фокусировка) -->
+		<ingredient id="11030" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Метеоритный Дождь - Земля -->
+		<production id="11029" count="1"/>
+	</item>	
+	<item>	
+		<!-- Метеоритный Дождь - Земля (Крит. Кровопускание) -->
+		<ingredient id="11031" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Метеоритный Дождь - Земля -->
+		<production id="11029" count="1"/>
+	</item>	
+	<item>	
+		<!-- Метеоритный Дождь - Земля (Риск. Ускорение) -->
+		<ingredient id="11032" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Метеоритный Дождь - Земля -->
+		<production id="11029" count="1"/>
+	</item>	
+	<item>	
+		<!-- Элизиум - Великая Буря (Здоровье) -->
+		<ingredient id="11121" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="200000"/>
+		<!-- Элизиум - Великая Буря -->
+		<production id="11120" count="1"/>
+	</item>	
+	<item>	
+		<!-- Элизиум - Великая Буря (Злость) -->
+		<ingredient id="11122" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="200000"/>
+		<!-- Элизиум - Великая Буря -->
+		<production id="11120" count="1"/>
+	</item>	
+	<item>	
+		<!-- Элизиум - Великая Буря (Крит. Поглощение HP) -->
+		<ingredient id="11123" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="200000"/>
+		<!-- Элизиум - Великая Буря -->
+		<production id="11120" count="1"/>
+	</item>	
+	<item>	
+		<!-- Ветвь Древа Жизни - Природа (Конверсия) -->
+		<ingredient id="11105" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="200000"/>
+		<!-- Ветвь Древа Жизни - Природа -->
+		<production id="11104" count="1"/>
+	</item>	
+	<item>	
+		<!-- Ветвь Древа Жизни - Природа (Маг. Урон) -->
+		<ingredient id="11106" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="200000"/>
+		<!-- Ветвь Древа Жизни - Природа -->
+		<production id="11104" count="1"/>
+	</item>	
+	<item>	
+		<!-- Ветвь Древа Жизни - Природа (Проницательность) -->
+		<ingredient id="11107" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="200000"/>
+		<!-- Ветвь Древа Жизни - Природа -->
+		<production id="11104" count="1"/>
+	</item>	
+	<item>	
+		<!-- Кровавый Лук - Концентрация (Легкость) -->
+		<ingredient id="11054" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Кровавый Лук - Концентрация -->
+		<production id="11053" count="1"/>
+	</item>	
+	<item>	
+		<!-- Кровавый Лук - Концентрация (Крит. Кровопускание) -->
+		<ingredient id="11055" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Кровавый Лук - Концентрация -->
+		<production id="11053" count="1"/>
+	</item>	
+	<item>	
+		<!-- Кровавый Лук - Концентрация (Добавление Маны) -->
+		<ingredient id="11056" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Кровавый Лук - Концентрация -->
+		<production id="11053" count="1"/>
+	</item>	
+	<item>	
+		<!-- Пронзатель Душ - Ясновидение (Экономия) -->
+		<ingredient id="11125" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="200000"/>
+		<!-- Пронзатель Душ - Ясновидение -->
+		<production id="11124" count="1"/>
+	</item>	
+	<item>	
+		<!-- Пронзатель Душ - Ясновидение (Быстрое Восстановление) -->
+		<ingredient id="11126" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="200000"/>
+		<!-- Пронзатель Душ - Ясновидение -->
+		<production id="11124" count="1"/>
+	</item>	
+	<item>	
+		<!-- Пронзатель Душ - Ясновидение (Крит. Отравление) -->
+		<ingredient id="11127" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="200000"/>
+		<!-- Пронзатель Душ - Ясновидение -->
+		<production id="11124" count="1"/>
+	</item>	
+	<item>	
+		<!-- Кровавая Орхидея - Замешательство (Фокусировка) -->
+		<ingredient id="11038" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Кровавая Орхидея - Замешательство -->
+		<production id="11037" count="1"/>
+	</item>	
+	<item>	
+		<!-- Кровавая Орхидея - Замешательство (Удар в Спину) -->
+		<ingredient id="11039" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Кровавая Орхидея - Замешательство -->
+		<production id="11037" count="1"/>
+	</item>	
+	<item>	
+		<!-- Кровавая Орхидея - Замешательство (Крит. Кровопускание) -->
+		<ingredient id="11040" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Кровавая Орхидея - Замешательство -->
+		<production id="11037" count="1"/>
+	</item>	
+	<item>	
+		<!-- Душегуб - Пожар (Наведение) -->
+		<ingredient id="11117" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="200000"/>
+		<!-- Душегуб - Пожар -->
+		<production id="11116" count="1"/>
+	</item>	
+	<item>	
+		<!-- Душегуб - Пожар (Крит. Урон) -->
+		<ingredient id="11118" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="200000"/>
+		<!-- Душегуб - Пожар -->
+		<production id="11116" count="1"/>
+	</item>	
+	<item>	
+		<!-- Душегуб - Пожар (Риск. Ускорение) -->
+		<ingredient id="11119" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="200000"/>
+		<!-- Душегуб - Пожар -->
+		<production id="11116" count="1"/>
+	</item>	
+	<item>	
+		<!-- Кровавый Торнадо - Разрушение (Ускорение) -->
+		<ingredient id="11034" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Кровавый Торнадо - Разрушение -->
+		<production id="11033" count="1"/>
+	</item>	
+	<item>	
+		<!-- Кровавый Торнадо - Разрушение (Фокусировка) -->
+		<ingredient id="11035" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Кровавый Торнадо - Разрушение -->
+		<production id="11033" count="1"/>
+	</item>	
+	<item>	
+		<!-- Кровавый Торнадо - Разрушение (Злость) -->
+		<ingredient id="11036" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Кровавый Торнадо - Разрушение -->
+		<production id="11033" count="1"/>
+	</item>	
+	<item>	
+		<!-- Погибель Дракона - Земля (Риск. Уклонение) -->
+		<ingredient id="11093" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="200000"/>
+		<!-- Погибель Дракона - Земля -->
+		<production id="11092" count="1"/>
+	</item>	
+	<item>	
+		<!-- Погибель Дракона - Земля (Наведение) -->
+		<ingredient id="11094" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="200000"/>
+		<!-- Погибель Дракона - Земля -->
+		<production id="11092" count="1"/>
+	</item>	
+	<item>	
+		<!-- Погибель Дракона - Земля (Здоровье) -->
+		<ingredient id="11095" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="200000"/>
+		<!-- Погибель Дракона - Земля -->
+		<production id="11092" count="1"/>
+	</item>	
+	<item>	
+		<!-- Алебарда - Гром (Ускорение) -->
+		<ingredient id="11071" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Алебарда - Гром -->
+		<production id="11070" count="1"/>
+	</item>	
+	<item>	
+		<!-- Алебарда - Гром (Крит. Оглушение) -->
+		<ingredient id="11072" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Алебарда - Гром -->
+		<production id="11070" count="1"/>
+	</item>	
+	<item>	
+		<!-- Алебарда - Гром (Угол Атаки) -->
+		<ingredient id="11073" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Алебарда - Гром -->
+		<production id="11070" count="1"/>
+	</item>	
+	<item>	
+		<!-- Глефа Таллума - Пожар (Наведение) -->
+		<ingredient id="11129" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="200000"/>
+		<!-- Глефа Таллума - Пожар -->
+		<production id="11128" count="1"/>
+	</item>	
+	<item>	
+		<!-- Глефа Таллума - Пожар (Здоровье) -->
+		<ingredient id="11130" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="200000"/>
+		<!-- Глефа Таллума - Пожар -->
+		<production id="11128" count="1"/>
+	</item>	
+	<item>	
+		<!-- Глефа Таллума - Пожар (Угол Атаки) -->
+		<ingredient id="11131" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="200000"/>
+		<!-- Глефа Таллума - Пожар -->
+		<production id="11128" count="1"/>
+	</item>	
+	<item>	
+		<!-- Клинок Таллума - Разрушение (Крит. Отравление) -->
+		<ingredient id="11059" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Клинок Таллума - Разрушение -->
+		<production id="11058" count="1"/>
+	</item>	
+	<item>	
+		<!-- Клинок Таллума - Разрушение (Ускорение) -->
+		<ingredient id="11060" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Клинок Таллума - Разрушение -->
+		<production id="11058" count="1"/>
+	</item>	
+	<item>	
+		<!-- Клинок Таллума - Разрушение (Злость) -->
+		<ingredient id="11061" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Клинок Таллума - Разрушение -->
+		<production id="11058" count="1"/>
+	</item>	
+	<item>	
+		<!-- Меч Стихий - Град (Маг. Сила) -->
+		<ingredient id="11042" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Меч Стихий - Град -->
+		<production id="11041" count="1"/>
+	</item>	
+	<item>	
+		<!-- Меч Стихий - Град (Паралич) -->
+		<ingredient id="11043" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Меч Стихий - Град -->
+		<production id="11041" count="1"/>
+	</item>	
+	<item>	
+		<!-- Меч Стихий - Град (Воодушевление) -->
+		<ingredient id="11044" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Меч Стихий - Град -->
+		<production id="11041" count="1"/>
+	</item>	
+	<item>	
+		<!-- Легендарный Меч - Святой Дух (Маг. Сила) -->
+		<ingredient id="11109" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="200000"/>
+		<!-- Легендарный Меч - Святой Дух -->
+		<production id="11108" count="1"/>
+	</item>	
+	<item>	
+		<!-- Легендарный Меч - Святой Дух (Безмолвие) -->
+		<ingredient id="11110" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="200000"/>
+		<!-- Легендарный Меч - Святой Дух -->
+		<production id="11108" count="1"/>
+	</item>	
+	<item>	
+		<!-- Легендарный Меч - Святой Дух (Проницательность) -->
+		<ingredient id="11111" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="200000"/>
+		<!-- Легендарный Меч - Святой Дух -->
+		<production id="11108" count="1"/>
+	</item>	
+	<item>	
+		<!-- Убийца Драконов - Злой Дух (Здоровье) -->
+		<ingredient id="11097" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="200000"/>
+		<!-- Убийца Драконов - Злой Дух -->
+		<production id="11096" count="1"/>
+	</item>	
+	<item>	
+		<!-- Убийца Драконов - Злой Дух (Крит. Кровопускание) -->
+		<ingredient id="11098" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="200000"/>
+		<!-- Убийца Драконов - Злой Дух -->
+		<production id="11096" count="1"/>
+	</item>	
+	<item>	
+		<!-- Убийца Драконов - Злой Дух (Крит. Поглощение HP) -->
+		<ingredient id="11099" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="200000"/>
+		<!-- Убийца Драконов - Злой Дух -->
+		<production id="11096" count="1"/>
+	</item>	
+	<item>	
+		<!-- Темный Легион - Молния (Крит. Урон) -->
+		<ingredient id="11081" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="200000"/>
+		<!-- Темный Легион - Молния -->
+		<production id="11080" count="1"/>
+	</item>	
+	<item>	
+		<!-- Темный Легион - Молния (Здоровье) -->
+		<ingredient id="11082" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="200000"/>
+		<!-- Темный Легион - Молния -->
+		<production id="11080" count="1"/>
+	</item>	
+	<item>	
+		<!-- Темный Легион - Молния (Риск. Фокусировка) -->
+		<ingredient id="11083" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="200000"/>
+		<!-- Темный Легион - Молния -->
+		<production id="11080" count="1"/>
+	</item>	
+	<item>	
+		<!-- Крушитель Рока - Молния (Здоровье) -->
+		<ingredient id="11089" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="200000"/>
+		<!-- Крушитель Рока - Молния -->
+		<production id="11088" count="1"/>
+	</item>	
+	<item>	
+		<!-- Крушитель Рока - Молния (Злость) -->
+		<ingredient id="11090" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="200000"/>
+		<!-- Крушитель Рока - Молния -->
+		<production id="11088" count="1"/>
+	</item>	
+	<item>	
+		<!-- Крушитель Рока - Молния (Риск. Ускорение) -->
+		<ingredient id="11091" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="200000"/>
+		<!-- Крушитель Рока - Молния -->
+		<production id="11088" count="1"/>
+	</item>	
+	<item>	
+		<!-- Пылающий Череп Дракона - Мудрость (Проницательность) -->
+		<ingredient id="11101" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="200000"/>
+		<!-- Пылающий Череп Дракона - Мудрость -->
+		<production id="11100" count="1"/>
+	</item>	
+	<item>	
+		<!-- Пылающий Череп Дракона - Мудрость (Маг. Сила) -->
+		<ingredient id="11102" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="200000"/>
+		<!-- Пылающий Череп Дракона - Мудрость -->
+		<production id="11100" count="1"/>
+	</item>	
+	<item>	
+		<!-- Пылающий Череп Дракона - Мудрость (Безмолвие) -->
+		<ingredient id="11103" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="200000"/>
+		<!-- Пылающий Череп Дракона - Мудрость -->
+		<production id="11100" count="1"/>
+	</item>	
+	<item>	
+		<!-- Клинок Сирры - Оползень (Ускорение) -->
+		<ingredient id="11170" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Клинок Сирры - Оползень -->
+		<production id="11169" count="1"/>
+	</item>	
+	<item>	
+		<!-- Клинок Сирры - Оползень (Здоровье) -->
+		<ingredient id="11171" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Клинок Сирры - Оползень -->
+		<production id="11169" count="1"/>
+	</item>	
+	<item>	
+		<!-- Клинок Сирры - Оползень (Крит. Отравление) -->
+		<ingredient id="11172" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Клинок Сирры - Оползень -->
+		<production id="11169" count="1"/>
+	</item>	
+	<item>	
+		<!-- Меч Ипоса - Земля (Фокусировка) -->
+		<ingredient id="11162" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Меч Ипоса - Земля -->
+		<production id="11161" count="1"/>
+	</item>	
+	<item>	
+		<!-- Меч Ипоса - Земля (Ускорение) -->
+		<ingredient id="11163" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Меч Ипоса - Земля -->
+		<production id="11161" count="1"/>
+	</item>	
+	<item>	
+		<!-- Меч Ипоса - Земля (Здоровье) -->
+		<ingredient id="11164" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Меч Ипоса - Земля -->
+		<production id="11161" count="1"/>
+	</item>	
+	<item>	
+		<!-- Топор Баракиэля - Пожар (Здоровье) -->
+		<ingredient id="11142" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Топор Баракиэля - Пожар -->
+		<production id="11141" count="1"/>
+	</item>	
+	<item>	
+		<!-- Топор Баракиэля - Пожар (Ускорение) -->
+		<ingredient id="11143" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Топор Баракиэля - Пожар -->
+		<production id="11141" count="1"/>
+	</item>	
+	<item>	
+		<!-- Топор Баракиэля - Пожар (Фокусировка) -->
+		<ingredient id="11144" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Топор Баракиэля - Пожар -->
+		<production id="11141" count="1"/>
+	</item>	
+	<item>	
+		<!-- Трезубец Чудовища - Разрушение (Фокусировка) -->
+		<ingredient id="11150" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Трезубец Чудовища - Разрушение -->
+		<production id="11149" count="1"/>
+	</item>	
+	<item>	
+		<!-- Трезубец Чудовища - Разрушение (Здоровье) -->
+		<ingredient id="11151" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Трезубец Чудовища - Разрушение -->
+		<production id="11149" count="1"/>
+	</item>	
+	<item>	
+		<!-- Трезубец Чудовища - Разрушение (Злость) -->
+		<ingredient id="11152" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Трезубец Чудовища - Разрушение -->
+		<production id="11149" count="1"/>
+	</item>	
+	<item>	
+		<!-- Буря Наги - Зуб (Фокусировка) -->
+		<ingredient id="11134" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Буря Наги - Зуб -->
+		<production id="11133" count="1"/>
+	</item>	
+	<item>	
+		<!-- Буря Наги - Зуб (Крит. Урон) -->
+		<ingredient id="11135" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Буря Наги - Зуб -->
+		<production id="11133" count="1"/>
+	</item>	
+	<item>	
+		<!-- Буря Наги - Зуб (Удар в Спину) -->
+		<ingredient id="11136" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Буря Наги - Зуб -->
+		<production id="11133" count="1"/>
+	</item>	
+	<item>	
+		<!-- Копье Тифона - Оползень (Крит. Оглушение) -->
+		<ingredient id="11178" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Копье Тифона - Оползень -->
+		<production id="11177" count="1"/>
+	</item>	
+	<item>	
+		<!-- Копье Тифона - Оползень (Радиус Удара) -->
+		<ingredient id="11179" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Копье Тифона - Оползень -->
+		<production id="11177" count="1"/>
+	</item>	
+	<item>	
+		<!-- Копье Тифона - Оползень (Угол Удара) -->
+		<ingredient id="11180" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Копье Тифона - Оползень -->
+		<production id="11177" count="1"/>
+	</item>	
+	<item>	
+		<!-- Лук Шиид - Концентрация (Экономия) -->
+		<ingredient id="11158" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Лук Шиид - Концентрация -->
+		<production id="11157" count="1"/>
+	</item>	
+	<item>	
+		<!-- Лук Шиид - Концентрация (Фокусировка) -->
+		<ingredient id="11159" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Лук Шиид - Концентрация -->
+		<production id="11157" count="1"/>
+	</item>	
+	<item>	
+		<!-- Лук Шиид - Концентрация (Быстрое Восстановление) -->
+		<ingredient id="11160" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Лук Шиид - Концентрация -->
+		<production id="11157" count="1"/>
+	</item>	
+	<item>	
+		<!-- Ураган Собекка - Оползень (Риск. Ускорение) -->
+		<ingredient id="11166" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Ураган Собекка - Оползень -->
+		<production id="11165" count="1"/>
+	</item>	
+	<item>	
+		<!-- Ураган Собекка - Оползень (Ускорение) -->
+		<ingredient id="11167" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Ураган Собекка - Оползень -->
+		<production id="11165" count="1"/>
+	</item>	
+	<item>	
+		<!-- Ураган Собекка - Оползень (Крит. Поглощение HP) -->
+		<ingredient id="11168" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Ураган Собекка - Оползень -->
+		<production id="11165" count="1"/>
+	</item>	
+	<item>	
+		<!-- Язык Темиса - Одаренность (Добавление Маны) -->
+		<ingredient id="11183" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Язык Темиса - Одаренность -->
+		<production id="11182" count="1"/>
+	</item>	
+	<item>	
+		<!-- Язык Темиса - Одаренность (Ментальный Щит) -->
+		<ingredient id="11184" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Язык Темиса - Одаренность -->
+		<production id="11182" count="1"/>
+	</item>	
+	<item>	
+		<!-- Язык Темиса - Одаренность (Маг. Фокусировка) -->
+		<ingredient id="11185" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Язык Темиса - Одаренность -->
+		<production id="11182" count="1"/>
+	</item>	
+	<item>	
+		<!-- Рука Кабрио - Одаренность (Конверсия) -->
+		<ingredient id="11187" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Рука Кабрио - Одаренность -->
+		<production id="11186" count="1"/>
+	</item>	
+	<item>	
+		<!-- Рука Кабрио - Одаренность (Добавление Маны) -->
+		<ingredient id="11188" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Рука Кабрио - Одаренность -->
+		<production id="11186" count="1"/>
+	</item>	
+	<item>	
+		<!-- Рука Кабрио - Одаренность (Безмолвие) -->
+		<ingredient id="11189" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Рука Кабрио - Одаренность -->
+		<production id="11186" count="1"/>
+	</item>	
+	<item>	
+		<!-- Кристалл Дэймона - Мудрость (Добавление Маны) -->
+		<ingredient id="11138" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Кристалл Дэймона - Мудрость -->
+		<production id="11137" count="1"/>
+	</item>	
+	<item>	
+		<!-- Кристалл Дэймона - Мудрость (Проницательность) -->
+		<ingredient id="11139" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Кристалл Дэймона - Мудрость -->
+		<production id="11137" count="1"/>
+	</item>	
+	<item>	
+		<!-- Кристалл Дэймона - Мудрость (Ментальный Щит) -->
+		<ingredient id="11140" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Кристалл Дэймона - Мудрость -->
+		<production id="11137" count="1"/>
+	</item>	
+	<item>	
+		<!-- Боевая Рапира - Разрушение (Наведение) -->
+		<ingredient id="10913" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Боевая Рапира - Разрушение -->
+		<production id="10912" count="1"/>
+	</item>	
+	<item>	
+		<!-- Боевая Рапира - Разрушение (Фокусировка) -->
+		<ingredient id="10914" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Боевая Рапира - Разрушение -->
+		<production id="10912" count="1"/>
+	</item>	
+	<item>	
+		<!-- Боевая Рапира - Разрушение (Удар в Спину) -->
+		<ingredient id="10915" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Боевая Рапира - Разрушение -->
+		<production id="10912" count="1"/>
+	</item>	
+	<item>	
+		<!-- Колишмард - Земля (Фокусировка) -->
+		<ingredient id="11002" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Колишмард - Земля -->
+		<production id="11001" count="1"/>
+	</item>	
+	<item>	
+		<!-- Колишмард - Земля (Крит. Урон) -->
+		<ingredient id="11003" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Колишмард - Земля -->
+		<production id="11001" count="1"/>
+	</item>	
+	<item>	
+		<!-- Колишмард - Земля (Ускорение) -->
+		<ingredient id="11004" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Колишмард - Земля -->
+		<production id="11001" count="1"/>
+	</item>	
+	<item>	
+		<!-- Безымянная Победа - Гром (Здоровье) -->
+		<ingredient id="10883" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Безымянная Победа - Гром -->
+		<production id="10882" count="1"/>
+	</item>	
+	<item>	
+		<!-- Безымянная Победа - Гром (Крит. Урон) -->
+		<ingredient id="10884" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Безымянная Победа - Гром -->
+		<production id="10882" count="1"/>
+	</item>	
+	<item>	
+		<!-- Безымянная Победа - Гром (Фокусировка) -->
+		<ingredient id="10885" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Безымянная Победа - Гром -->
+		<production id="10882" count="1"/>
+	</item>	
+	<item>	
+		<!-- Расчленитель - Великая Буря (Крит. Поглощение HP) -->
+		<ingredient id="10964" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Расчленитель - Великая Буря -->
+		<production id="10963" count="1"/>
+	</item>	
+	<item>	
+		<!-- Расчленитель - Великая Буря (Здоровье) -->
+		<ingredient id="10965" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Расчленитель - Великая Буря -->
+		<production id="10963" count="1"/>
+	</item>	
+	<item>	
+		<!-- Расчленитель - Великая Буря (Крит. Кровопускание) -->
+		<ingredient id="10966" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Расчленитель - Великая Буря -->
+		<production id="10963" count="1"/>
+	</item>	
+	<item>	
+		<!-- Миротворец - Концентрация (Уклонение) -->
+		<ingredient id="10935" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Миротворец - Концентрация -->
+		<production id="10934" count="1"/>
+	</item>	
+	<item>	
+		<!-- Миротворец - Концентрация (Крит. Кровопускание) -->
+		<ingredient id="10936" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Миротворец - Концентрация -->
+		<production id="10934" count="1"/>
+	</item>	
+	<item>	
+		<!-- Миротворец - Концентрация (Скупость) -->
+		<ingredient id="10937" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="111000"/>
+		<!-- Миротворец - Концентрация -->
+		<production id="10934" count="1"/>
+	</item>	
+	<item>	
+		<!-- Цербер - Земля (Наведение) -->
+		<ingredient id="11014" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Цербер - Земля -->
+		<production id="11013" count="1"/>
+	</item>	
+	<item>	
+		<!-- Цербер - Земля (Быстрое Восстановление) -->
+		<ingredient id="11015" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Цербер - Земля -->
+		<production id="11013" count="1"/>
+	</item>	
+	<item>	
+		<!-- Цербер - Земля (Экономия) -->
+		<ingredient id="11016" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="169500"/>
+		<!-- Цербер - Земля -->
+		<production id="11013" count="1"/>
+	</item>	
+	<item>	
+		<!-- Белая Молния - Разрушение (Крит. Отравление) -->
+		<ingredient id="11026" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="200000"/>
+		<!-- Белая Молния - Разрушение -->
+		<production id="11025" count="1"/>
+	</item>	
+	<item>	
+		<!-- Белая Молния - Разрушение (Ускорение) -->
+		<ingredient id="11027" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="200000"/>
+		<!-- Белая Молния - Разрушение -->
+		<production id="11025" count="1"/>
+	</item>	
+	<item>	
+		<!-- Белая Молния - Разрушение (Злость) -->
+		<ingredient id="11028" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="200000"/>
+		<!-- Белая Молния - Разрушение -->
+		<production id="11025" count="1"/>
+	</item>	
+	<item>	
+		<!-- Протыкатель - Молния (Крит. Урон) -->
+		<ingredient id="11076" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Протыкатель - Молния -->
+		<production id="11075" count="1"/>
+	</item>	
+	<item>	
+		<!-- Протыкатель - Молния (Здоровье) -->
+		<ingredient id="11077" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Протыкатель - Молния -->
+		<production id="11075" count="1"/>
+	</item>	
+	<item>	
+		<!-- Протыкатель - Молния (Риск. Фокусировка) -->
+		<ingredient id="11078" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Протыкатель - Молния -->
+		<production id="11075" count="1"/>
+	</item>	
+	<item>	
+		<!-- Гравированная Рапира - Оползень (Ускорение) -->
+		<ingredient id="11174" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Гравированная Рапира - Оползень -->
+		<production id="11173" count="1"/>
+	</item>	
+	<item>	
+		<!-- Гравированная Рапира - Оползень (Здоровье) -->
+		<ingredient id="11175" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Гравированная Рапира - Оползень -->
+		<production id="11173" count="1"/>
+	</item>	
+	<item>	
+		<!-- Гравированная Рапира - Оползень (Крит. Отравление) -->
+		<ingredient id="11176" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Гравированная Рапира - Оползень -->
+		<production id="11173" count="1"/>
+	</item>	
+	<item>	
+		<!-- Священная Боль - Концентрация (Ускорение) -->
+		<ingredient id="11067" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="200000"/>
+		<!-- Священная Боль - Концентрация -->
+		<production id="11066" count="1"/>
+	</item>	
+	<item>	
+		<!-- Священная Боль - Концентрация (Крит. Урон) -->
+		<ingredient id="11068" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="200000"/>
+		<!-- Священная Боль - Концентрация -->
+		<production id="11066" count="1"/>
+	</item>	
+	<item>	
+		<!-- Священная Боль - Концентрация (Фокусировка) -->
+		<ingredient id="11069" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="200000"/>
+		<!-- Священная Боль - Концентрация -->
+		<production id="11066" count="1"/>
+	</item>	
+	<item>	
+		<!-- Гробовщик - Злой Дух (Здоровье) -->
+		<ingredient id="11085" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Гробовщик - Злой Дух -->
+		<production id="11084" count="1"/>
+	</item>	
+	<item>	
+		<!-- Гробовщик - Злой Дух (Крит. Кровопускание) -->
+		<ingredient id="11086" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Гробовщик - Злой Дух -->
+		<production id="11084" count="1"/>
+	</item>	
+	<item>	
+		<!-- Гробовщик - Злой Дух (Крит. Поглощение HP) -->
+		<ingredient id="11087" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Гробовщик - Злой Дух -->
+		<production id="11084" count="1"/>
+	</item>	
+	<item>	
+		<!-- Балтганг - Земля (Фокусировка) -->
+		<ingredient id="11154" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Балтганг - Земля -->
+		<production id="11153" count="1"/>
+	</item>	
+	<item>	
+		<!-- Балтганг - Земля (Ускорение) -->
+		<ingredient id="11155" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Балтганг - Земля -->
+		<production id="11153" count="1"/>
+	</item>	
+	<item>	
+		<!-- Балтганг - Земля (Здоровье) -->
+		<ingredient id="11156" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Балтганг - Земля -->
+		<production id="11153" count="1"/>
+	</item>	
+	<item>	
+		<!-- Певец Судьбы - Концентрация (Легкость) -->
+		<ingredient id="11022" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Певец Судьбы - Концентрация -->
+		<production id="11021" count="1"/>
+	</item>	
+	<item>	
+		<!-- Певец Судьбы - Концентрация (Крит. Кровопускание) -->
+		<ingredient id="11023" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Певец Судьбы - Концентрация -->
+		<production id="11021" count="1"/>
+	</item>	
+	<item>	
+		<!-- Певец Судьбы - Концентрация (Добавление Маны) -->
+		<ingredient id="11024" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Певец Судьбы - Концентрация -->
+		<production id="11021" count="1"/>
+	</item>	
+	<item>	
+		<!-- Жнец - Ясновидение (Экономия) -->
+		<ingredient id="11113" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Жнец - Ясновидение -->
+		<production id="11112" count="1"/>
+	</item>	
+	<item>	
+		<!-- Жнец - Ясновидение (Быстрое Восстановление) -->
+		<ingredient id="11114" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Жнец - Ясновидение -->
+		<production id="11112" count="1"/>
+	</item>	
+	<item>	
+		<!-- Жнец - Ясновидение (Крит. Отравление) -->
+		<ingredient id="11115" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Жнец - Ясновидение -->
+		<production id="11112" count="1"/>
+	</item>	
+	<item>	
+		<!-- Песня Мести - Концентрация (Экономия) -->
+		<ingredient id="11146" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Песня Мести - Концентрация -->
+		<production id="11145" count="1"/>
+	</item>	
+	<item>	
+		<!-- Песня Мести - Концентрация (Фокусировка) -->
+		<ingredient id="11147" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Песня Мести - Концентрация -->
+		<production id="11145" count="1"/>
+	</item>	
+	<item>	
+		<!-- Песня Мести - Концентрация (Быстрое Восстановление) -->
+		<ingredient id="11148" count="1"/>
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="210000"/>
+		<!-- Песня Мести - Концентрация -->
+		<production id="11145" count="1"/>
+	</item>	
+</list>		

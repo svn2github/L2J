@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Модифицировать броню класса R99 (PvP, PvE бонус) -->
+
+<list>
+<config showall="false" notax="true" keepenchanted="true" isnew="true" isnewProduction="true"/>
+	<!-- PvP normal w/o SA-->
+	<item>
+		<ingredient id="19698" count="1"/>
+		<ingredient id="35567" count="1"/><!-- Усиливающий камень Айдиоса	PvP -->
+		<ingredient id="35562" count="60"/>
+		<ingredient id="35563" count="40"/>
+		<ingredient id="19440" count="390"/>
+		<ingredient id="17371" count="4685"/>
+		<production id="35002" count="1" chance="100"/>
+	</item>
+	<item>
+		<ingredient id="19699" count="1"/>
+		<ingredient id="35567" count="1"/><!-- Усиливающий камень Айдиоса	PvP -->
+		<ingredient id="35562" count="80"/>
+		<ingredient id="35563" count="40"/>
+		<ingredient id="19440" count="1041"/>
+		<ingredient id="17371" count="12494"/>
+		<production id="35003" count="1" chance="100"/>
+	</item>
+	<item>
+		<ingredient id="19700" count="1"/>
+		<ingredient id="35567" count="1"/><!-- Усиливающий камень Айдиоса	PvP -->
+		<ingredient id="35562" count="80"/>
+		<ingredient id="35563" count="40"/>
+		<ingredient id="19440" count="651"/>
+		<ingredient id="17371" count="7809"/>
+		<production id="35004" count="1" chance="100"/>
+	</item>
+	<item>
+		<ingredient id="19701" count="1"/>
+		<ingredient id="35567" count="1"/><!-- Усиливающий камень Айдиоса	PvP -->
+		<ingredient id="35562" count="60"/>
+		<ingredient id="35563" count="40"/>
+		<ingredient id="19440" count="260"/>
+		<ingredient id="17371" count="3123"/>
+		<production id="35005" count="1" chance="100"/>
+	</item>
+	<item>
+		<ingredient id="19702" count="1"/>
+		<ingredient id="35567" count="1"/><!-- Усиливающий камень Айдиоса	PvP -->
+		<ingredient id="35562" count="60"/>
+		<ingredient id="35563" count="40"/>
+		<ingredient id="19440" count="260"/>
+		<ingredient id="17371" count="3123"/>
+		<production id="35006" count="1" chance="100"/>
+	</item>
+	<item>
+		<ingredient id="19704" count="1"/>
+		<ingredient id="35567" count="1"/><!-- Усиливающий камень Айдиоса	PvP -->
+		<ingredient id="35562" count="60"/>
+		<ingredient id="35563" count="40"/>
+		<ingredient id="19440" count="390"/>
+		<ingredient id="17371" count="4685"/>
+		<production id="35008" count="1" chance="100"/>
+	</item>
+	<item>
+		<ingredient id="19705" count="1"/>
+		<ingredient id="35567" count="1"/><!-- Усиливающий камень Айдиоса	PvP -->
+		<ingredient id="35562" count="80"/>
+		<ingredient id="35563" count="40"/>
+		<ingredient id="19440" count="1041"/>
+		<ingredient id="17371" count="12494"/>
+		<production id="35009" count="1" chance="100"/>
+	</item>
+	<item>
+		<ingredient id="19706" count="1"/>
+		<ingredient id="35567" count="1"/><!-- Усиливающий камень Айдиоса	PvP -->
+		<ingredient id="35562" count="80"/>
+		<ingredient id="35563" count="40"/>
+		<ingredient id="19440" count="651"/>
+		<ingredient id="17371" count="7809"/>
+		<production id="35010" count="1" chance="100"/>
+	</item>
+	<item>
+		<ingredient id="19707" count="1"/>
+		<ingredient id="35567" count="1"/><!-- Усиливающий камень Айдиоса	PvP -->
+		<ingredient id="35562" count="60"/>
+		<ingredient id="35563" count="40"/>
+		<ingredient id="19440" count="260"/>
+		<ingredient id="17371" count="3123"/>
+		<production id="35011" count="1" chance="100"/>
+	</item>
+	<item>
+		<ingredient id="19708" count="1"/>
+		<ingredient id="35567" count="1"/><!-- Усиливающий камень Айдиоса	PvP -->
+		<ingredient id="35562" count="60"/>
+		<ingredient id="35563" count="40"/>
+		<ingredient id="19440" count="260"/>
+		<ingredient id="17371" count="3123"/>
+		<production id="35012" count="1" chance="100"/>
+	</item>
+	<item>
+		<ingredient id="19709" count="1"/>
+		<ingredient id="35567" count="1"/><!-- Усиливающий камень Айдиоса	PvP -->
+		<ingredient id="35562" count="60"/>
+		<ingredient id="35563" count="40"/>
+		<ingredient id="19440" count="390"/>
+		<ingredient id="17371" count="4685"/>
+		<production id="35013" count="1" chance="100"/>
+	</item>
+	<item>
+		<ingredient id="19710" count="1"/>
+		<ingredient id="35567" count="1"/><!-- Усиливающий камень Айдиоса	PvP -->
+		<ingredient id="35562" count="80"/>
+		<ingredient id="35563" count="40"/>
+		<ingredient id="19440" count="1041"/>
+		<ingredient id="17371" count="12494"/>
+		<production id="35014" count="1" chance="100"/>
+	</item>
+	<item>
+		<ingredient id="19711" count="1"/>
+		<ingredient id="35567" count="1"/><!-- Усиливающий камень Айдиоса	PvP -->
+		<ingredient id="35562" count="80"/>
+		<ingredient id="35563" count="40"/>
+		<ingredient id="19440" count="651"/>
+		<ingredient id="17371" count="7809"/>
+		<production id="35015" count="1" chance="100"/>
+	</item>
+	<item>
+		<ingredient id="19712" count="1"/>
+		<ingredient id="35567" count="1"/><!-- Усиливающий камень Айдиоса	PvP -->
+		<ingredient id="35562" count="60"/>
+		<ingredient id="35563" count="40"/>
+		<ingredient id="19440" count="260"/>
+		<ingredient id="17371" count="3123"/>
+		<production id="35016" count="1" chance="100"/>
+	</item>
+	<item>
+		<ingredient id="19713" count="1"/>
+		<ingredient id="35567" count="1"/><!-- Усиливающий камень Айдиоса	PvP -->
+		<ingredient id="35562" count="60"/>
+		<ingredient id="35563" count="40"/>
+		<ingredient id="19440" count="260"/>
+		<ingredient id="17371" count="3123"/>
+		<production id="35017" count="1" chance="100"/>
+	</item>
+	<item>
+		<ingredient id="19906" count="1"/>
+		<ingredient id="35567" count="1"/><!-- Усиливающий камень Айдиоса	PvP -->
+		<ingredient id="35562" count="60"/>
+		<ingredient id="35563" count="40"/>
+		<ingredient id="19440" count="390"/>
+		<ingredient id="17371" count="4685"/>
+		<production id="35018" count="1" chance="100"/>
+	</item>
+	<item>
+		<ingredient id="19907" count="1"/>
+		<ingredient id="35567" count="1"/><!-- Усиливающий камень Айдиоса	PvP -->
+		<ingredient id="35562" count="80"/>
+		<ingredient id="35563" count="40"/>
+		<ingredient id="19440" count="1041"/>
+		<ingredient id="17371" count="12494"/>
+		<production id="35019" count="1" chance="100"/>
+	</item>
+	<item>
+		<ingredient id="19908" count="1"/>
+		<ingredient id="35567" count="1"/><!-- Усиливающий камень Айдиоса	PvP -->
+		<ingredient id="35562" count="80"/>
+		<ingredient id="35563" count="40"/>
+		<ingredient id="19440" count="651"/>
+		<ingredient id="17371" count="7809"/>
+		<production id="35020" count="1" chance="100"/>
+	</item>
+	<item>
+		<ingredient id="19909" count="1"/>
+		<ingredient id="35567" count="1"/><!-- Усиливающий камень Айдиоса	PvP -->
+		<ingredient id="35562" count="60"/>
+		<ingredient id="35563" count="40"/>
+		<ingredient id="19440" count="260"/>
+		<ingredient id="17371" count="3123"/>
+		<production id="35021" count="1" chance="100"/>
+	</item>
+	<item>
+		<ingredient id="19910" count="1"/>
+		<ingredient id="35567" count="1"/><!-- Усиливающий камень Айдиоса	PvP -->
+		<ingredient id="35562" count="60"/>
+		<ingredient id="35563" count="40"/>
+		<ingredient id="19440" count="260"/>
+		<ingredient id="17371" count="3123"/>
+		<production id="35022" count="1" chance="100"/>
+	</item>
+	<item>
+		<ingredient id="19912" count="1"/>
+		<ingredient id="35567" count="1"/><!-- Усиливающий камень Айдиоса	PvP -->
+		<ingredient id="35562" count="60"/>
+		<ingredient id="35563" count="40"/>
+		<ingredient id="19440" count="390"/>
+		<ingredient id="17371" count="4685"/>
+		<production id="35023" count="1" chance="100"/>
+	</item>
+	<item>
+		<ingredient id="19913" count="1"/>
+		<ingredient id="35567" count="1"/><!-- Усиливающий камень Айдиоса	PvP -->
+		<ingredient id="35562" count="80"/>
+		<ingredient id="35563" count="40"/>
+		<ingredient id="19440" count="1041"/>
+		<ingredient id="17371" count="4685"/>
+		<production id="35024" count="1" chance="100"/>
+	</item>
+	<item>
+		<ingredient id="19914" count="1"/>
+		<ingredient id="35567" count="1"/><!-- Усиливающий камень Айдиоса	PvP -->
+		<ingredient id="35562" count="80"/>
+		<ingredient id="35563" count="40"/>
+		<ingredient id="19440" count="651"/>
+		<ingredient id="17371" count="7809"/>
+		<production id="35025" count="1" chance="100"/>
+	</item>
+	<item>
+		<ingredient id="19915" count="1"/>
+		<ingredient id="35567" count="1"/><!-- Усиливающий камень Айдиоса	PvP -->
+		<ingredient id="35562" count="60"/>
+		<ingredient id="35563" count="40"/>
+		<ingredient id="19440" count="260"/>
+		<ingredient id="17371" count="3123"/>
+		<production id="35026" count="1" chance="100"/>
+	</item>
+	<item>
+		<ingredient id="19916" count="1"/>
+		<ingredient id="35567" count="1"/><!-- Усиливающий камень Айдиоса	PvP -->
+		<ingredient id="35562" count="60"/>
+		<ingredient id="35563" count="40"/>
+		<ingredient id="19440" count="260"/>
+		<ingredient id="17371" count="3123"/>
+		<production id="35027" count="1" chance="100"/>
+	</item>
+	<item>
+		<ingredient id="19917" count="1"/>
+		<ingredient id="35567" count="1"/><!-- Усиливающий камень Айдиоса	PvP -->
+		<ingredient id="35562" count="60"/>
+		<ingredient id="35563" count="40"/>
+		<ingredient id="19440" count="390"/>
+		<ingredient id="17371" count="4685"/>
+		<production id="35028" count="1" chance="100"/>
+	</item>
+	<item>
+		<ingredient id="19918" count="1"/>
+		<ingredient id="35567" count="1"/><!-- Усиливающий камень Айдиоса	PvP -->
+		<ingredient id="35562" count="80"/>
+		<ingredient id="35563" count="40"/>
+		<ingredient id="19440" count="1041"/>
+		<ingredient id="17371" count="12494"/>
+		<production id="35029" count="1" chance="100"/>
+	</item>
+	<item>
+		<ingredient id="19919" count="1"/>
+		<ingredient id="35567" count="1"/><!-- Усиливающий камень Айдиоса	PvP -->
+		<ingredient id="35562" count="80"/>
+		<ingredient id="35563" count="40"/>
+		<ingredient id="19440" count="651"/>
+		<ingredient id="17371" count="7809"/>
+		<production id="35030" count="1" chance="100"/>
+	</item>	
+	<item>
+		<ingredient id="19920" count="1"/>
+		<ingredient id="35567" count="1"/><!-- Усиливающий камень Айдиоса	PvP -->
+		<ingredient id="35562" count="60"/>
+		<ingredient id="35563" count="40"/>
+		<ingredient id="19440" count="260"/>
+		<ingredient id="17371" count="3123"/>
+		<production id="35031" count="1" chance="100"/>
+	</item>
+	<item>
+		<ingredient id="19921" count="1"/>
+		<ingredient id="35567" count="1"/><!-- Усиливающий камень Айдиоса	PvP -->
+		<ingredient id="35562" count="60"/>
+		<ingredient id="35563" count="40"/>
+		<ingredient id="19440" count="260"/>
+		<ingredient id="17371" count="3123"/>
+		<production id="35032" count="1" chance="100"/>
+	</item>
+	<item>
+		<ingredient id="19698" count="1"/>
+		<ingredient id="35569" count="1"/><!-- Усиливающий камень Айдиоса	PvE -->
+		<ingredient id="35562" count="60"/>
+		<ingredient id="35563" count="40"/>
+		<ingredient id="19440" count="390"/>
+		<ingredient id="17371" count="4685"/>
+		<production id="35033" count="1" chance="100"/>
+	</item>
+	<item>
+		<ingredient id="19699" count="1"/>
+		<ingredient id="35569" count="1"/><!-- Усиливающий камень Айдиоса	PvE -->
+		<ingredient id="35562" count="80"/>
+		<ingredient id="35563" count="40"/>
+		<ingredient id="19440" count="1041"/>
+		<ingredient id="17371" count="12494"/>
+		<production id="35034" count="1" chance="100"/>
+	</item>
+	<item>
+		<ingredient id="19700" count="1"/>
+		<ingredient id="35569" count="1"/><!-- Усиливающий камень Айдиоса	PvE -->
+		<ingredient id="35562" count="80"/>
+		<ingredient id="35563" count="40"/>
+		<ingredient id="19440" count="651"/>
+		<ingredient id="17371" count="7809"/>
+		<production id="35035" count="1" chance="100"/>
+	</item>
+	<item>
+		<ingredient id="19701" count="1"/>
+		<ingredient id="35569" count="1"/><!-- Усиливающий камень Айдиоса	PvE -->
+		<ingredient id="35562" count="60"/>
+		<ingredient id="35563" count="40"/>
+		<ingredient id="19440" count="260"/>
+		<ingredient id="17371" count="3123"/>
+		<production id="35036" count="1" chance="100"/>
+	</item>
+	<item>
+		<ingredient id="19702" count="1"/>
+		<ingredient id="35569" count="1"/><!-- Усиливающий камень Айдиоса	PvE -->
+		<ingredient id="35562" count="60"/>
+		<ingredient id="35563" count="40"/>
+		<ingredient id="19440" count="260"/>
+		<ingredient id="17371" count="3123"/>
+		<production id="35037" count="1" chance="100"/>
+	</item>
+	<item>
+		<ingredient id="19704" count="1"/>
+		<ingredient id="35569" count="1"/><!-- Усиливающий камень Айдиоса	PvE -->
+		<ingredient id="35562" count="60"/>
+		<ingredient id="35563" count="40"/>
+		<ingredient id="19440" count="390"/>
+		<ingredient id="17371" count="4685"/>
+		<production id="35038" count="1" chance="100"/>
+	</item>
+	<item>
+		<ingredient id="19705" count="1"/>
+		<ingredient id="35569" count="1"/><!-- Усиливающий камень Айдиоса	PvE -->
+		<ingredient id="35562" count="80"/>
+		<ingredient id="35563" count="40"/>
+		<ingredient id="19440" count="1041"/>
+		<ingredient id="17371" count="12494"/>
+		<production id="35039" count="1" chance="100"/>
+	</item>
+	<item>
+		<ingredient id="19706" count="1"/>		
+		<ingredient id="35569" count="1"/><!-- Усиливающий камень Айдиоса	PvE -->
+		<ingredient id="35562" count="80"/>
+		<ingredient id="35563" count="40"/>
+		<ingredient id="19440" count="651"/>
+		<ingredient id="17371" count="7809"/>
+		<production id="35040" count="1" chance="100"/>
+	</item>
+	<item>
+		<ingredient id="19707" count="1"/>
+		<ingredient id="35569" count="1"/><!-- Усиливающий камень Айдиоса	PvE -->
+		<ingredient id="35562" count="60"/>
+		<ingredient id="35563" count="40"/>
+		<ingredient id="19440" count="260"/>
+		<ingredient id="17371" count="3123"/>
+		<production id="35041" count="1" chance="100"/>
+	</item>
+	<item>
+		<ingredient id="19708" count="1"/>
+		<ingredient id="35569" count="1"/><!-- Усиливающий камень Айдиоса	PvE -->
+		<ingredient id="35562" count="60"/>
+		<ingredient id="35563" count="40"/>
+		<ingredient id="19440" count="260"/>
+		<ingredient id="17371" count="3123"/>
+		<production id="35042" count="1" chance="100"/>
+	</item>
+	<item>
+		<ingredient id="19709" count="1"/>
+		<ingredient id="35569" count="1"/><!-- Усиливающий камень Айдиоса	PvE -->
+		<ingredient id="35562" count="60"/>
+		<ingredient id="35563" count="40"/>
+		<ingredient id="19440" count="390"/>
+		<ingredient id="17371" count="4685"/>
+		<production id="35043" count="1" chance="100"/>
+	</item>
+	<item>
+		<ingredient id="19710" count="1"/>
+		<ingredient id="35569" count="1"/><!-- Усиливающий камень Айдиоса	PvE -->
+		<ingredient id="35562" count="80"/>
+		<ingredient id="35563" count="40"/>
+		<ingredient id="19440" count="1041"/>
+		<ingredient id="17371" count="12494"/>
+		<production id="35044" count="1" chance="100"/>
+	</item>
+	<item>
+		<ingredient id="19711" count="1"/>
+		<ingredient id="35569" count="1"/><!-- Усиливающий камень Айдиоса	PvP -->
+		<ingredient id="35562" count="80"/>
+		<ingredient id="35563" count="40"/>
+		<ingredient id="19440" count="651"/>
+		<ingredient id="17371" count="7809"/>
+		<production id="35045" count="1" chance="100"/>
+	</item>
+	<item>
+		<ingredient id="19712" count="1"/>
+		<ingredient id="35569" count="1"/><!-- Усиливающий камень Айдиоса	PvE -->
+		<ingredient id="35562" count="60"/>
+		<ingredient id="35563" count="40"/>
+		<ingredient id="19440" count="260"/>
+		<ingredient id="17371" count="3123"/>
+		<production id="35046" count="1" chance="100"/>
+	</item>
+	<item>
+		<ingredient id="19713" count="1"/>
+		<ingredient id="35569" count="1"/><!-- Усиливающий камень Айдиоса	PvE -->
+		<ingredient id="35562" count="60"/>
+		<ingredient id="35563" count="40"/>
+		<ingredient id="19440" count="260"/>
+		<ingredient id="17371" count="3123"/>
+		<production id="35047" count="1" chance="100"/>
+	</item>
+	<item>
+		<ingredient id="19906" count="1"/>
+		<ingredient id="35569" count="1"/><!-- Усиливающий камень Айдиоса	PvE -->
+		<ingredient id="35562" count="60"/>
+		<ingredient id="35563" count="40"/>
+		<ingredient id="19440" count="390"/>
+		<ingredient id="17371" count="4685"/>
+		<production id="35048" count="1" chance="100"/>
+	</item>
+	<item>
+		<ingredient id="19907" count="1"/>
+		<ingredient id="35569" count="1"/><!-- Усиливающий камень Айдиоса	PvE -->
+		<ingredient id="35562" count="80"/>
+		<ingredient id="35563" count="40"/>
+		<ingredient id="19440" count="1041"/>
+		<ingredient id="17371" count="12494"/>
+		<production id="35049" count="1" chance="100"/>
+	</item>
+	<item>
+		<ingredient id="19908" count="1"/>
+		<ingredient id="35569" count="1"/><!-- Усиливающий камень Айдиоса	PvE -->
+		<ingredient id="35562" count="80"/>
+		<ingredient id="35563" count="40"/>
+		<ingredient id="19440" count="651"/>
+		<ingredient id="17371" count="7809"/>
+		<production id="35050" count="1" chance="100"/>
+	</item>
+	<item>
+		<ingredient id="19909" count="1"/>
+		<ingredient id="35569" count="1"/><!-- Усиливающий камень Айдиоса	PvE -->
+		<ingredient id="35562" count="60"/>
+		<ingredient id="35563" count="40"/>
+		<ingredient id="19440" count="260"/>
+		<ingredient id="17371" count="3123"/>
+		<production id="35051" count="1" chance="100"/>
+	</item>
+	<item>
+		<ingredient id="19910" count="1"/>
+		<ingredient id="35569" count="1"/><!-- Усиливающий камень Айдиоса	PvE -->
+		<ingredient id="35562" count="60"/>
+		<ingredient id="35563" count="40"/>
+		<ingredient id="19440" count="260"/>
+		<ingredient id="17371" count="3123"/>
+		<production id="35052" count="1" chance="100"/>
+	</item>
+	<item>
+		<ingredient id="19912" count="1"/>
+		<ingredient id="35569" count="1"/><!-- Усиливающий камень Айдиоса	PvE -->
+		<ingredient id="35562" count="60"/>
+		<ingredient id="35563" count="40"/>
+		<ingredient id="19440" count="390"/>
+		<ingredient id="17371" count="4685"/>
+		<production id="35053" count="1" chance="100"/>
+	</item>
+	<item>
+		<ingredient id="19913" count="1"/>
+		<ingredient id="35569" count="1"/><!-- Усиливающий камень Айдиоса	PvE -->
+		<ingredient id="35562" count="80"/>
+		<ingredient id="35563" count="40"/>
+		<ingredient id="19440" count="1041"/>
+		<ingredient id="17371" count="12494"/>
+		<production id="35054" count="1" chance="100"/>
+	</item>
+	<item>
+		<ingredient id="19914" count="1"/>
+		<ingredient id="35569" count="1"/><!-- Усиливающий камень Айдиоса	PvE -->
+		<ingredient id="35562" count="80"/>
+		<ingredient id="35563" count="40"/>
+		<ingredient id="19440" count="651"/>
+		<ingredient id="17371" count="7809"/>
+		<production id="35055" count="1" chance="100"/>
+	</item>
+	<item>
+		<ingredient id="19915" count="1"/>
+		<ingredient id="35569" count="1"/><!-- Усиливающий камень Айдиоса	PvE -->
+		<ingredient id="35562" count="60"/>
+		<ingredient id="35563" count="40"/>
+		<ingredient id="19440" count="260"/>
+		<ingredient id="17371" count="3123"/>
+		<production id="35056" count="1" chance="100"/>
+	</item>
+	<item>
+		<ingredient id="19916" count="1"/>
+		<ingredient id="35569" count="1"/><!-- Усиливающий камень Айдиоса	PvE -->
+		<ingredient id="35562" count="60"/>
+		<ingredient id="35563" count="40"/>
+		<ingredient id="19440" count="260"/>
+		<ingredient id="17371" count="3123"/>
+		<production id="35057" count="1" chance="100"/>
+	</item>
+	<item>
+		<ingredient id="19917" count="1"/>
+		<ingredient id="35569" count="1"/><!-- Усиливающий камень Айдиоса	PvE -->
+		<ingredient id="35562" count="60"/>
+		<ingredient id="35563" count="40"/>
+		<ingredient id="19440" count="390"/>
+		<ingredient id="17371" count="4685"/>
+		<production id="35058" count="1" chance="100"/>
+	</item>
+	<item>
+		<ingredient id="19918" count="1"/>
+		<ingredient id="35569" count="1"/><!-- Усиливающий камень Айдиоса	PvE -->
+		<ingredient id="35562" count="80"/>
+		<ingredient id="35563" count="40"/>
+		<ingredient id="19440" count="1041"/>
+		<ingredient id="17371" count="12494"/>
+		<production id="35059" count="1" chance="100"/>
+	</item>
+	<item>
+		<ingredient id="19919" count="1"/>
+		<ingredient id="35569" count="1"/><!-- Усиливающий камень Айдиоса	PvE -->
+		<ingredient id="35562" count="80"/>
+		<ingredient id="35563" count="40"/>
+		<ingredient id="19440" count="651"/>
+		<ingredient id="17371" count="7809"/>
+		<production id="35060" count="1" chance="100"/>
+	</item>
+	<item>
+		<ingredient id="19920" count="1"/>
+		<ingredient id="35569" count="1"/><!-- Усиливающий камень Айдиоса	PvE -->
+		<ingredient id="35562" count="60"/>
+		<ingredient id="35563" count="40"/>
+		<ingredient id="19440" count="260"/>
+		<ingredient id="17371" count="3123"/>
+		<production id="35061" count="1" chance="100"/>
+	</item>
+	<item>
+		<ingredient id="19921" count="1"/>
+		<ingredient id="35569" count="1"/><!-- Усиливающий камень Айдиоса	PvE -->
+		<ingredient id="35562" count="60"/>
+		<ingredient id="35563" count="40"/>
+		<ingredient id="19440" count="260"/>
+		<ingredient id="17371" count="3123"/>
+		<production id="35062" count="1" chance="100"/>
+	</item>
+</list>

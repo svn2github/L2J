@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "../../dtd/start_items.dtd">
+<list>
+	<!-- Human Fighter -->
+	<equipment classId="0">
+		<item id="2369" count="1" equipped="true" />                    <!-- Squire's Sword -->
+		<item id="10" count="1" />                                      <!-- Dagger -->
+		<item id="1146" count="1" equipped="true" />                    <!-- Squire's Shirt -->
+		<item id="1147" count="1" equipped="true" />                    <!-- Squire's Pants -->
+		<item id="5588" count="1" equipped="false"/>                    <!-- Tutorial Guide -->
+		<item id="32226" count="10" equipped="false"/>                  <!-- Свиток Телепорта: Говорящий Остров -->
+		<item id="10650" count="5" equipped="false"/>                   <!-- Adventurer's Scroll of Escape -->
+        <item id="33800" count="1" equipped="false" warehouse="true"/>  <!-- Сертификат Подопечного -->
+        <item id="33801" count="1" equipped="false" warehouse="true"/>  <!-- Пособие Наставника -->
+		<item id="35728" count="1" equipped="false"/> <!-- ПЕРИОД ТЕСТОВ: Сундук Героя -->
+	</equipment>
+	<!-- Human Mystic -->
+	<equipment classId="10">
+		<item id="6" count="1" equipped="true" />                       <!-- Apprentice's Wand -->
+		<item id="425" count="1" equipped="true" />                     <!-- Apprentice's Tunic -->
+		<item id="461" count="1" equipped="true" />                     <!-- Apprentice's Stockings -->
+		<item id="5588" count="1" equipped="false"/>                    <!-- Tutorial Guide -->
+		<item id="32226" count="10" equipped="false"/>                  <!-- Свиток Телепорта: Говорящий Остров -->
+		<item id="10650" count="5" equipped="false"/>                   <!-- Adventurer's Scroll of Escape -->
+        <item id="33800" count="1" equipped="false" warehouse="true"/>  <!-- Сертификат Подопечного -->
+        <item id="33801" count="1" equipped="false" warehouse="true"/>  <!-- Пособие Наставника -->
+		<item id="35728" count="1" equipped="false"/> <!-- ПЕРИОД ТЕСТОВ: Сундук Героя -->
+	</equipment>
+	<!-- Elven Fighter -->
+	<equipment classId="18">
+		<item id="2369" count="1" equipped="true" />                    <!-- Squire's Sword -->
+		<item id="10" count="1" />                                      <!-- Dagger -->
+		<item id="1146" count="1" equipped="true" />                    <!-- Squire's Shirt -->
+		<item id="1147" count="1" equipped="true" />                    <!-- Squire's Pants -->
+		<item id="5588" count="1" equipped="false"/>                    <!-- Tutorial Guide -->
+		<item id="32226" count="10" equipped="false"/>                  <!-- Свиток Телепорта: Говорящий Остров -->
+		<item id="10650" count="5" equipped="false"/>                   <!-- Adventurer's Scroll of Escape -->
+        <item id="33800" count="1" equipped="false" warehouse="true"/>  <!-- Сертификат Подопечного -->
+        <item id="33801" count="1" equipped="false" warehouse="true"/>  <!-- Пособие Наставника -->
+		<item id="35728" count="1" equipped="false"/> <!-- ПЕРИОД ТЕСТОВ: Сундук Героя -->
+	</equipment>
+	<!-- Elven Mystic -->
+	<equipment classId="25">
+		<item id="6" count="1" equipped="true" />                       <!-- Apprentice's Wand -->
+		<item id="425" count="1" equipped="true" />                     <!-- Apprentice's Tunic -->
+		<item id="461" count="1" equipped="true" />                     <!-- Apprentice's Stockings -->
+		<item id="5588" count="1" equipped="false"/>                    <!-- Tutorial Guide -->
+		<item id="32226" count="10" equipped="false"/>                  <!-- Свиток Телепорта: Говорящий Остров -->
+		<item id="10650" count="5" equipped="false"/>                   <!-- Adventurer's Scroll of Escape -->
+        <item id="33800" count="1" equipped="false" warehouse="true"/>  <!-- Сертификат Подопечного -->
+        <item id="33801" count="1" equipped="false" warehouse="true"/>  <!-- Пособие Наставника -->
+		<item id="35728" count="1" equipped="false"/> <!-- ПЕРИОД ТЕСТОВ: Сундук Героя -->
+	</equipment>
+	<!-- Dark Fighter -->
+	<equipment classId="31">
+		<item id="2369" count="1" equipped="true" />                    <!-- Squire's Sword -->
+		<item id="10" count="1" />                                      <!-- Dagger -->
+		<item id="1146" count="1" equipped="true" />                    <!-- Squire's Shirt -->
+		<item id="1147" count="1" equipped="true" />                    <!-- Squire's Pants -->
+		<item id="5588" count="1" equipped="false"/>                    <!-- Tutorial Guide -->
+		<item id="32226" count="10" equipped="false"/>                  <!-- Свиток Телепорта: Говорящий Остров -->
+		<item id="10650" count="5" equipped="false"/>                   <!-- Adventurer's Scroll of Escape -->
+        <item id="33800" count="1" equipped="false" warehouse="true"/>  <!-- Сертификат Подопечного -->
+        <item id="33801" count="1" equipped="false" warehouse="true"/>  <!-- Пособие Наставника -->
+		<item id="35728" count="1" equipped="false"/> <!-- ПЕРИОД ТЕСТОВ: Сундук Героя -->
+	</equipment>
+	<!-- Dark Mystic -->
+	<equipment classId="38">
+		<item id="6" count="1" equipped="true" />                       <!-- Apprentice's Wand -->
+		<item id="425" count="1" equipped="true" />                     <!-- Apprentice's Tunic -->
+		<item id="461" count="1" equipped="true" />                     <!-- Apprentice's Stockings -->
+		<item id="5588" count="1" equipped="false"/>                    <!-- Tutorial Guide -->
+		<item id="32226" count="10" equipped="false"/>                  <!-- Свиток Телепорта: Говорящий Остров -->
+		<item id="10650" count="5" equipped="false"/>                   <!-- Adventurer's Scroll of Escape -->
+        <item id="33800" count="1" equipped="false" warehouse="true"/>  <!-- Сертификат Подопечного -->
+        <item id="33801" count="1" equipped="false" warehouse="true"/>  <!-- Пособие Наставника -->
+		<item id="35728" count="1" equipped="false"/> <!-- ПЕРИОД ТЕСТОВ: Сундук Героя -->
+	</equipment>
+	<!-- Orc Fighter -->
+	<equipment classId="44">
+		<item id="2369" count="1" /> <!-- Squire's Sword -->
+		<item id="2368" count="1" equipped="true" />                    <!-- Training Gloves -->
+		<item id="1146" count="1" equipped="true" />                    <!-- Squire's Shirt -->
+		<item id="1147" count="1" equipped="true" />                    <!-- Squire's Pants -->
+		<item id="5588" count="1" equipped="false"/>                    <!-- Tutorial Guide -->
+		<item id="32226" count="10" equipped="false"/>                  <!-- Свиток Телепорта: Говорящий Остров -->
+		<item id="10650" count="5" equipped="false"/>                   <!-- Adventurer's Scroll of Escape -->
+        <item id="33800" count="1" equipped="false" warehouse="true"/>  <!-- Сертификат Подопечного -->
+        <item id="33801" count="1" equipped="false" warehouse="true"/>  <!-- Пособие Наставника -->
+		<item id="35728" count="1" equipped="false"/> <!-- ПЕРИОД ТЕСТОВ: Сундук Героя -->
+	</equipment>
+	<!-- Orc Mystic -->
+	<!-- NOTE: This is orc_mage (orc_shaman is retail typo) -->
+	<equipment classId="49">
+		<item id="2368" count="1" equipped="true" />                    <!-- Training Gloves -->
+		<item id="425" count="1" equipped="true" />                     <!-- Apprentice's Tunic -->
+		<item id="461" count="1" equipped="true" />                     <!-- Apprentice's Stockings -->
+		<item id="5588" count="1" equipped="false"/>                    <!-- Tutorial Guide -->
+		<item id="32226" count="10" equipped="false"/>                  <!-- Свиток Телепорта: Говорящий Остров -->
+		<item id="10650" count="5" equipped="false"/>                   <!-- Adventurer's Scroll of Escape -->
+        <item id="33800" count="1" equipped="false" warehouse="true"/>  <!-- Сертификат Подопечного -->
+        <item id="33801" count="1" equipped="false" warehouse="true"/>  <!-- Пособие Наставника -->
+		<item id="35728" count="1" equipped="false"/> <!-- ПЕРИОД ТЕСТОВ: Сундук Героя -->
+	</equipment>
+	<!-- Dwarf Fighter -->
+	<equipment classId="53">
+		<item id="2370" count="1" equipped="true" />                    <!-- Guild Member's Club -->
+		<item id="10" count="1" />                                      <!-- Dagger -->
+		<item id="1146" count="1" equipped="true" />                    <!-- Squire's Shirt -->
+		<item id="1147" count="1" equipped="true" />                    <!-- Squire's Pants -->
+		<item id="5588" count="1" equipped="false"/>                    <!-- Tutorial Guide -->
+		<item id="32226" count="10" equipped="false"/>                  <!-- Свиток Телепорта: Говорящий Остров -->
+		<item id="10650" count="5" equipped="false"/>                   <!-- Adventurer's Scroll of Escape -->
+        <item id="33800" count="1" equipped="false" warehouse="true"/>  <!-- Сертификат Подопечного -->
+        <item id="33801" count="1" equipped="false" warehouse="true"/>  <!-- Пособие Наставника -->
+		<item id="35728" count="1" equipped="false"/> <!-- ПЕРИОД ТЕСТОВ: Сундук Героя -->
+	</equipment>
+	<!-- Male Kamael Soldier -->
+	<equipment classId="123">
+		<item id="2369" count="1" equipped="true" />                    <!-- Squire's Sword -->
+		<item id="10" count="1" />                                      <!-- Dagger -->
+		<item id="1146" count="1" equipped="true" />                    <!-- Squire's Shirt -->
+		<item id="1147" count="1" equipped="true" />                    <!-- Squire's Pants -->
+		<item id="5588" count="1" equipped="false"/>                    <!-- Tutorial Guide -->
+		<item id="32226" count="10" equipped="false"/>                  <!-- Свиток Телепорта: Говорящий Остров -->
+		<item id="10650" count="5" equipped="false"/>                   <!-- Adventurer's Scroll of Escape -->
+        <item id="33800" count="1" equipped="false" warehouse="true"/>  <!-- Сертификат Подопечного -->
+        <item id="33801" count="1" equipped="false" warehouse="true"/>  <!-- Пособие Наставника -->
+		<item id="35728" count="1" equipped="false"/> <!-- ПЕРИОД ТЕСТОВ: Сундук Героя -->
+	</equipment>
+	<!-- Female Kamael Soldier -->
+	<equipment classId="124">
+		<item id="2369" count="1" equipped="true" />                    <!-- Squire's Sword -->
+		<item id="10" count="1" />                                      <!-- Dagger -->
+		<item id="1146" count="1" equipped="true" />                    <!-- Squire's Shirt -->
+		<item id="1147" count="1" equipped="true" />                    <!-- Squire's Pants -->
+		<item id="5588" count="1" equipped="false"/>                    <!-- Tutorial Guide -->
+		<item id="32226" count="10" equipped="false"/>                  <!-- Свиток Телепорта: Говорящий Остров -->
+		<item id="10650" count="5" equipped="false"/>                   <!-- Adventurer's Scroll of Escape -->
+        <item id="33800" count="1" equipped="false" warehouse="true"/>  <!-- Сертификат Подопечного -->
+        <item id="33801" count="1" equipped="false" warehouse="true"/>  <!-- Пособие Наставника -->
+		<item id="35728" count="1" equipped="false"/> <!-- ПЕРИОД ТЕСТОВ: Сундук Героя -->
+	</equipment>
+</list>

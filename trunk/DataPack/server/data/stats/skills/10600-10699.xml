@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>      
+	<skill id="10606" levels="1" name="Теневое уклонение">
+	<!-- На 10 секунд дает шанс 90% уклониться от физ. умений ближнего и дальнего боя. Требуется кинжал/парные кинжалы -->
+	    <set name="mpConsume" val="38"/>
+		<set name="reuseDelay" val="120000"/>
+		<set name="hitTime" val="4500"/>
+		<set name="hitCancelTime" val="500"/>
+        <set name="target" val="TARGET_SELF"/>
+		<set name="magicLevel" val="85"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_ACTIVE"/>	
+        <cond msgId="113" addName="1">
+        <using kind="Dagger,Dual Dagger"/>
+        </cond>
+        <for>
+		    <effect count="1" name="Buff" time="10" val="0">
+            <mul order="0x30" stat="pSkillEvasion" val="1.9"/> 
+            </effect>			
+        </for>
+    </skill>   		
+	<skill id="10607" levels="1" name="Максимальный Смертельный Укол">	
+	<!-- На 1 минуту повышает на 20% шанс успешной Смертельной Атаки . Требуется кинжал/парные кинжалы -->
+	    <set name="reuseDelay" val="300000"/>
+		<set name="magicLevel" val="85"/>
+		<set name="hitTime" val="2000" />
+		<set name="hitCancelTime" val="500" />
+		<set name="mpConsume" val="38" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<cond msgId="113" addName="1">
+			<using kind="Dagger,Dual Dagger" />
+		</cond>
+		<for>
+			<effect count="1" name="Buff" time="60" val="0">
+				<mul order="0x30" stat="blowRate" val="1.20" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="10608" levels="4" name="Великий Шанс Крит. Удара">
+	<!-- Время перезарядки умений -5%, Скорость +5. -->
+	    <table name="#Spd">2 3 4 5</table>
+		<table name="#reuse">1.05 1.06 1.07 1.1</table>
+		<table name="#magicLevel">85 90 95 99</table>
+        <set name="magicLevel" val="#magicLevel"/>
+        <set name="operateType" val="OP_PASSIVE"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="target" val="TARGET_SELF"/>
+		<for>
+            <add order="0x40" stat="runSpd" val="#Spd" /> 
+			<mul order="0x30" stat="mReuse" val="#reuse"/>               
+        </for>
+    </skill>
+	<skill id="10653" levels="1" name="Отражение Атаки">
+    <!-- В течение 10 сек. отражает 90% урона от умений ближнего боя. Требуется кинжал/парные кинжалы.-->
+	    <set name="reuseDelay" val="120000"/>
+		<set name="magicLevel" val="79" />
+		<set name="hitTime" val="500" />
+		<set name="hitCancelTime" val="500" />
+		<set name="mpConsume" val="38" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<for>
+			<effect count="1" name="Buff" time="10" val="0">
+				<add order="0x40" stat="counterAttack" val="90" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="10654" levels="1" name="Максимальный Смертельный Укол">	
+	<!-- На 1 минуту повышает на 20% шанс успешной Смертельной Атаки . Требуется кинжал/парные кинжалы -->
+	    <set name="reuseDelay" val="300000"/>
+		<set name="magicLevel" val="85"/>
+		<set name="hitTime" val="2000" />
+		<set name="hitCancelTime" val="500" />
+		<set name="mpConsume" val="72" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<cond msgId="113" addName="1">
+			<using kind="Dagger,Dual Dagger" />
+		</cond>
+		<for>
+			<effect count="1" name="Buff" time="60" val="0">
+				<mul order="0x30" stat="blowRate" val="1.20" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="10655" levels="4" name="Великая Крит. Мощь">
+	<!-- Крит. Урон +5%, Скорость +2. -->
+	    <table name="#Spd">2 3 4 5</table>
+		<table name="#baseCrit">1.05 1.06 1.07 1.1</table>
+		<table name="#magicLevel">85 90 95 99</table>
+        <set name="magicLevel" val="#magicLevel"/>
+        <set name="operateType" val="OP_PASSIVE"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="target" val="TARGET_SELF"/>
+		<for>
+            <add order="0x40" stat="runSpd" val="#Spd" /> 
+			<mul order="0x30" stat="baseCrit" val="#baseCrit"/>               
+        </for>
+    </skill>
+</list>

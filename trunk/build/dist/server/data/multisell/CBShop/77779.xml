@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Оружие Драконов Валакаса -->
+<list>
+  <config showall="true" notax="false" keepenchanted="false" />
+  <item>
+	<ingredient id="13419" count="10"/>
+    <production id="36427" count="1"/>
+  </item>
+  
+   <item>
+	<ingredient id="13419" count="10"/>
+    <production id="36428" count="1"/>
+  </item>
+  
+   <item>
+	<ingredient id="13419" count="10"/>
+    <production id="36429" count="1"/>
+  </item>
+  
+  <item>
+	<ingredient id="13419" count="10"/>
+    <production id="36430" count="1"/>
+  </item>
+  
+  <item>
+	<ingredient id="13419" count="10"/>
+    <production id="36431" count="1"/>
+  </item>
+  
+  <item>
+	<ingredient id="13419" count="10"/>
+    <production id="36432" count="1"/>
+  </item>
+  
+  <item>
+	<ingredient id="13419" count="10"/>
+    <production id="36433" count="1"/>
+  </item>
+</list>

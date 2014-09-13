@@ -1,0 +1,1212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<config showall="false" notax="true" keepenchanted="true" isnew="true"/>
+	<item>
+		<!-- Запечатанная Кираса Династии -->
+		<ingredient id="9514" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="1830000" />
+		<!-- Кираса Династии -->
+		<production id="9416" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Набедренники Династии -->
+		<ingredient id="9515" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="1144000" />
+		<!-- Набедренники Династии -->
+		<production id="9421" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанный Шлем Династии -->
+		<ingredient id="9516" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="686000" />
+		<!-- Шлем Династии -->
+		<production id="9422" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Рукавицы Династии -->
+		<ingredient id="9517" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="457000" />
+		<!-- Рукавицы Династии (Тяжелый) -->
+		<production id="9423" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Сапоги Династии -->
+		<ingredient id="9518" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="457000" />
+		<!-- Сапоги Династии (Тяжелый) -->
+		<production id="9424" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанный Кожаный Доспех Династии -->
+		<ingredient id="9519" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="1372000" />
+		<!-- Кожаный Доспех Династии -->
+		<production id="9425" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Кожаные Поножи Династии -->
+		<ingredient id="9520" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="858000" />
+		<!-- Кожаные Поножи Династии -->
+		<production id="9428" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанный Кожаный Шлем Династии -->
+		<ingredient id="9521" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="686000" />
+		<!-- Кожаный Шлем Династии -->
+		<production id="9429" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Кожаные Перчатки Династии -->
+		<ingredient id="9522" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="457000" />
+		<!-- Кожаные Перчатки Династии (Легкий) -->
+		<production id="9430" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Кожаные Сапоги Династии -->
+		<ingredient id="9523" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="457000" />
+		<!-- Кожаные Сапоги Династии (Легкий) -->
+		<production id="9431" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанная Туника Династии -->
+		<ingredient id="9524" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="1372000" />
+		<!-- Туника Династии -->
+		<production id="9432" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Штаны Династии -->
+		<ingredient id="9525" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="858000" />
+		<!-- Штаны Династии -->
+		<production id="9437" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанная Диадема Династии -->
+		<ingredient id="9526" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="686000" />
+		<!-- Диадема Династии -->
+		<production id="9438" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Перчатки Династии -->
+		<ingredient id="9527" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="457000" />
+		<!-- Перчатки Династии (Магический) -->
+		<production id="9439" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Ботинки Династии -->
+		<ingredient id="9528" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="457000" />
+		<!-- Ботинки Династии (Магический) -->
+		<production id="9440" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанный Щит Династии -->
+		<ingredient id="9529" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="480000" />
+		<!-- Щит Династии -->
+		<production id="9441" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанный Символ Династии -->
+		<ingredient id="13886" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="480000" />
+		<!-- Символ Династии -->
+		<production id="12812" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанная Кираса Династии -->
+		<ingredient id="11568" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="1830000" />
+		<!-- Кираса Династии -->
+		<production id="11527" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Набедренники Династии -->
+		<ingredient id="11559" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="1144000" />
+		<!-- Набедренники Династии -->
+		<production id="11512" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанный Шлем Династии -->
+		<ingredient id="11573" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="686000" />
+		<!-- Шлем Династии -->
+		<production id="11557" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Рукавицы Династии -->
+		<ingredient id="11560" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="457000" />
+		<!-- Рукавицы Династии -->
+		<production id="11513" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Сапоги Династии -->
+		<ingredient id="11567" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="457000" />
+		<!-- Сапоги Династии -->
+		<production id="11526" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанный Кожаный Доспех Династии -->
+		<ingredient id="11564" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="1372000" />
+		<!-- Кожаный Доспех Династии -->
+		<production id="11517" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Кожаные Поножи Династии -->
+		<ingredient id="11563" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="858000" />
+		<!-- Кожаные Поножи Династии -->
+		<production id="11516" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанный Кожаный Шлем Династии -->
+		<ingredient id="11566" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="686000" />
+		<!-- Кожаный Шлем Династии -->
+		<production id="11525" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Кожаные Перчатки Династии -->
+		<ingredient id="11562" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="457000" />
+		<!-- Кожаные Перчатки Династии -->
+		<production id="11515" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Кожаные Сапоги Династии -->
+		<ingredient id="11565" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="457000" />
+		<!-- Кожаные Сапоги Династии -->
+		<production id="11524" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанная Туника Династии -->
+		<ingredient id="11572" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="1372000" />
+		<!-- Туника Династии -->
+		<production id="11547" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Штаны Династии -->
+		<ingredient id="11574" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="858000" />
+		<!-- Штаны Династии -->
+		<production id="11558" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанная Диадема Династии -->
+		<ingredient id="11571" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="686000" />
+		<!-- Диадема Династии -->
+		<production id="11539" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Перчатки Династии -->
+		<ingredient id="11561" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="457000" />
+		<!-- Перчатки Династии -->
+		<production id="11514" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Ботинки Династии -->
+		<ingredient id="11570" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="457000" />
+		<!-- Ботинки Династии -->
+		<production id="11533" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанный Щит Династии -->
+		<ingredient id="11569" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="480000" />
+		<!-- Щит Династии -->
+		<production id="11532" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанный Символ Династии -->
+		<ingredient id="10120" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="480000" />
+		<!-- Символ Династии -->
+		<production id="10119" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанный Символ Венеры -->
+		<ingredient id="13887" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="3062500" />
+		<!-- Символ Венеры -->
+		<production id="12813" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанный Защитник Венеры -->
+		<ingredient id="14111" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="3062500" />
+		<!-- Защитник Венеры -->
+		<production id="13471" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанный Шлем Венеры -->
+		<ingredient id="13143" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="4375000" />
+		<!-- Шлем Венеры -->
+		<production id="13137" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанный Кожаный Шлем Венеры -->
+		<ingredient id="13144" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="4375000" />
+		<!-- Кожаный Шлем Венеры -->
+		<production id="13138" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанная Диадема Венеры -->
+		<ingredient id="13145" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="4375000" />
+		<!-- Диадема Венеры -->
+		<production id="13139" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанная Кираса Венеры -->
+		<ingredient id="14105" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="11667000" />
+		<!-- Кираса Венеры -->
+		<production id="13432" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанная Кожаная Кираса Венеры -->
+		<ingredient id="14106" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="8750000" />
+		<!-- Кожаная Кираса Венеры -->
+		<production id="13433" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанная Туника Венеры -->
+		<ingredient id="14107" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="8750000" />
+		<!-- Туника Венеры -->
+		<production id="13434" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Набедренники Венеры -->
+		<ingredient id="14108" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="7292000" />
+		<!-- Набедренники Венеры -->
+		<production id="13438" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Рукавицы Венеры -->
+		<ingredient id="14109" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="2916750" />
+		<!-- Рукавицы Венеры -->
+		<production id="13439" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Сапоги Венеры -->
+		<ingredient id="14110" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="2916750" />
+		<!-- Сапоги Венеры -->
+		<production id="13440" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Кожаные Брюки Венеры -->
+		<ingredient id="14112" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="5469000" />
+		<!-- Кожаные Брюки Венеры -->
+		<production id="13441" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Кожаные Перчатки Венеры -->
+		<ingredient id="14113" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="2916750" />
+		<!-- Кожаные Перчатки Венеры -->
+		<production id="13442" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Кожаные Сапоги Венеры -->
+		<ingredient id="14114" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="2916750" />
+		<!-- Кожаные Сапоги Венеры -->
+		<production id="13443" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Штаны Венеры -->
+		<ingredient id="14115" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="5469000" />
+		<!-- Штаны Венеры -->
+		<production id="13444" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Перчатки Венеры -->
+		<ingredient id="14116" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="2916750" />
+		<!-- Перчатки Венеры -->
+		<production id="13445" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Ботинки Венеры -->
+		<ingredient id="14117" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="2916750" />
+		<!-- Ботинки Венеры -->
+		<production id="13446" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанный Символ Венеры -->
+		<ingredient id="16356" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="3062500" />
+		<!-- Символ Венеры -->
+		<production id="16322" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанный Щит Венеры -->
+		<ingredient id="16355" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="3062500" />
+		<!-- Щит Венеры -->
+		<production id="16321" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанный Шлем Венеры -->
+		<ingredient id="16340" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="4375000" />
+		<!-- Шлем Венеры -->
+		<production id="16306" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанный Кожаный Шлем Венеры -->
+		<ingredient id="16341" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="4375000" />
+		<!-- Кожаный Шлем Венеры -->
+		<production id="16307" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанная Диадема Венеры -->
+		<ingredient id="16342" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="4375000" />
+		<!-- Диадема Венеры -->
+		<production id="16308" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанная Кираса Венеры -->
+		<ingredient id="16343" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="11667000" />
+		<!-- Кираса Венеры -->
+		<production id="16309" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанная Кожаная Кираса Венеры -->
+		<ingredient id="16344" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="8750000" />
+		<!-- Кожаная Кираса Венеры -->
+		<production id="16310" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанная Туника Венеры -->
+		<ingredient id="16345" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="8750000" />
+		<!-- Туника Венеры -->
+		<production id="16311" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Набедренники Венеры -->
+		<ingredient id="16346" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="7292000" />
+		<!-- Набедренники Венеры -->
+		<production id="16312" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Рукавицы Венеры -->
+		<ingredient id="16349" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="2916750" />
+		<!-- Рукавицы Венеры -->
+		<production id="16315" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Сапоги Венеры -->
+		<ingredient id="16352" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="2916750" />
+		<!-- Сапоги Венеры -->
+		<production id="16318" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Кожаные Брюки Венеры -->
+		<ingredient id="16347" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="5469000" />
+		<!-- Кожаные Брюки Венеры -->
+		<production id="16313" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Кожаные Перчатки Венеры -->
+		<ingredient id="16350" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="2916750" />
+		<!-- Кожаные Перчатки Венеры -->
+		<production id="16316" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Кожаные Сапоги Венеры -->
+		<ingredient id="16353" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="2916750" />
+		<!-- Кожаные Сапоги Венеры -->
+		<production id="16319" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Штаны Венеры -->
+		<ingredient id="16348" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="5469000" />
+		<!-- Штаны Венеры -->
+		<production id="16314" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Перчатки Венеры -->
+		<ingredient id="16351" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="2916750" />
+		<!-- Перчатки Венеры -->
+		<production id="16317" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Ботинки Венеры -->
+		<ingredient id="16354" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="2916750" />
+		<!-- Ботинки Венеры -->
+		<production id="16320" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанный Красивый Шлем Венеры -->
+		<ingredient id="13146" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="4375000" />
+		<!-- Красивый Шлем Венеры -->
+		<production id="13140" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанный Красивый Кожаный Шлем Венеры -->
+		<ingredient id="13147" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="4375000" />
+		<!-- Красивый Кожаный Шлем Венеры -->
+		<production id="13141" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанная Красивая Диадема Венеры -->
+		<ingredient id="13148" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="4375000" />
+		<!-- Красивая Диадема Венеры -->
+		<production id="13142" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанная Красивая Кираса Венеры -->
+		<ingredient id="17006" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="11667000" />
+		<!-- Красивая Кираса Венеры -->
+		<production id="13435" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанная Красивая Кожаная Кираса Венеры -->
+		<ingredient id="17007" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="8750000" />
+		<!-- Красивая Кожаная Кираса Венеры -->
+		<production id="13436" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанная Красивая Туника Венеры -->
+		<ingredient id="17008" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="8750000" />
+		<!-- Красивая Туника Венеры -->
+		<production id="13437" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Красивые Набедренники Венеры -->
+		<ingredient id="17009" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="7292000" />
+		<!-- Красивые Набедренники Венеры -->
+		<production id="13448" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Красивые Рукавицы Венеры -->
+		<ingredient id="17010" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="2916750" />
+		<!-- Красивые Рукавицы Венеры -->
+		<production id="13449" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Красивые Сапоги Венеры -->
+		<ingredient id="17011" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="2916750" />
+		<!-- Красивые Сапоги Венеры -->
+		<production id="13450" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Красивые Кожаные Брюки Венеры -->
+		<ingredient id="17012" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="5469000" />
+		<!-- Красивые Кожаные Брюки Венеры -->
+		<production id="13451" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Красивые Кожаные Перчатки Венеры -->
+		<ingredient id="17013" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="2916750" />
+		<!-- Красивые Кожаные Перчатки Венеры -->
+		<production id="13452" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Красивые Кожаные Сапоги Венеры -->
+		<ingredient id="17014" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="2916750" />
+		<!-- Красивые Кожаные Сапоги Венеры -->
+		<production id="13453" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Красивые Штаны Венеры -->
+		<ingredient id="17015" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="5469000" />
+		<!-- Красивые Штаны Венеры -->
+		<production id="13454" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Красивые Перчатки Венеры -->
+		<ingredient id="17016" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="2916750" />
+		<!-- Красивые Перчатки Венеры -->
+		<production id="13455" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Красивые Ботинки Венеры -->
+		<ingredient id="17017" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="2916750" />
+		<!-- Красивые Ботинки Венеры -->
+		<production id="13456" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанный Символ Дестино -->
+		<ingredient id="15709" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="663000" />
+		<!-- Символ Дестино -->
+		<production id="15622" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанный Щит Дестино -->
+		<ingredient id="15710" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="663000" />
+		<!-- Щит Дестино -->
+		<production id="15621" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанный Шлем Дестино -->
+		<ingredient id="15694" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="947000" />
+		<!-- Шлем Дестино -->
+		<production id="15606" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанный Кожаный Шлем Дестино -->
+		<ingredient id="15695" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="947000" />
+		<!-- Кожаный Шлем Дестино -->
+		<production id="15607" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанная Диадема Дестино -->
+		<ingredient id="15696" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="947000" />
+		<!-- Диадема Дестино -->
+		<production id="15608" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанная Кираса Дестино -->
+		<ingredient id="15697" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="2525000" />
+		<!-- Кираса Дестино -->
+		<production id="15609" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанная Кожаная Кираса Дестино -->
+		<ingredient id="15698" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="1894000" />
+		<!-- Кожаная Кираса Дестино -->
+		<production id="15610" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанная Туника Дестино -->
+		<ingredient id="15699" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="1894000" />
+		<!-- Туника Дестино -->
+		<production id="15611" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Набедренники Дестино -->
+		<ingredient id="15700" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="1578000" />
+		<!-- Набедренники Дестино -->
+		<production id="15612" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Рукавицы Дестино -->
+		<ingredient id="15703" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="631000" />
+		<!-- Рукавицы Дестино -->
+		<production id="15615" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Сапоги Дестино -->
+		<ingredient id="15706" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="631000" />
+		<!-- Сапоги Дестино -->
+		<production id="15618" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Кожаные Брюки Дестино -->
+		<ingredient id="15701" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="1184000" />
+		<!-- Кожаные Брюки Дестино -->
+		<production id="15613" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Кожаные Перчатки Дестино -->
+		<ingredient id="15704" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="631000" />
+		<!-- Кожаные Перчатки Дестино -->
+		<production id="15616" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Кожаные Сапоги Дестино -->
+		<ingredient id="15707" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="631000" />
+		<!-- Кожаные Сапоги Дестино -->
+		<production id="15619" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Штаны Дестино -->
+		<ingredient id="15702" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="1184000" />
+		<!-- Штаны Дестино -->
+		<production id="15614" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Перчатки Дестино -->
+		<ingredient id="15705" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="631000" />
+		<!-- Перчатки Дестино -->
+		<production id="15617" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Ботинки Дестино -->
+		<ingredient id="15708" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="631000" />
+		<!-- Ботинки Дестино -->
+		<production id="15620" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанный Символ Дестино -->
+		<ingredient id="16339" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="663000" />
+		<!-- Символ Дестино -->
+		<production id="16305" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанный Щит Дестино -->
+		<ingredient id="16338" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="663000" />
+		<!-- Щит Дестино -->
+		<production id="16304" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанный Шлем Дестино -->
+		<ingredient id="16323" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="947000" />
+		<!-- Шлем Дестино -->
+		<production id="16289" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанный Кожаный Шлем Дестино -->
+		<ingredient id="16324" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="947000" />
+		<!-- Кожаный Шлем Дестино -->
+		<production id="16290" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанная Диадема Дестино -->
+		<ingredient id="16325" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="947000" />
+		<!-- Диадема Дестино -->
+		<production id="16291" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанная Кираса Дестино -->
+		<ingredient id="16326" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="2525000" />
+		<!-- Кираса Дестино -->
+		<production id="16292" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанная Кожаная Кираса Дестино -->
+		<ingredient id="16327" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="1894000" />
+		<!-- Кожаная Кираса Дестино -->
+		<production id="16293" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанная Туника Дестино -->
+		<ingredient id="16328" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="1894000" />
+		<!-- Туника Дестино -->
+		<production id="16294" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Набедренники Дестино -->
+		<ingredient id="16329" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="1578000" />
+		<!-- Набедренники Дестино -->
+		<production id="16295" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Рукавицы Дестино -->
+		<ingredient id="16332" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="631000" />
+		<!-- Рукавицы Дестино -->
+		<production id="16298" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Сапоги Дестино -->
+		<ingredient id="16335" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="631000" />
+		<!-- Сапоги Дестино -->
+		<production id="16301" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Кожаные Брюки Дестино -->
+		<ingredient id="16330" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="1184000" />
+		<!-- Кожаные Брюки Дестино -->
+		<production id="16296" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Кожаные Перчатки Дестино -->
+		<ingredient id="16333" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="631000" />
+		<!-- Кожаные Перчатки Дестино -->
+		<production id="16299" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Кожаные Сапоги Дестино -->
+		<ingredient id="16336" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="631000" />
+		<!-- Кожаные Сапоги Дестино -->
+		<production id="16302" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Штаны Дестино -->
+		<ingredient id="16331" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="1184000" />
+		<!-- Штаны Дестино -->
+		<production id="16297" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Перчатки Дестино -->
+		<ingredient id="16334" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="631000" />
+		<!-- Перчатки Дестино -->
+		<production id="16300" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Ботинки Дестино -->
+		<ingredient id="16337" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="631000" />
+		<!-- Ботинки Дестино -->
+		<production id="16303" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанный Символ Элегии -->
+		<ingredient id="15742" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="4393000" />
+		<!-- Символ Элегии -->
+		<production id="15588" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанный Щит Элегии -->
+		<ingredient id="15741" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="4393000" />
+		<!-- Щит Элегии -->
+		<production id="15587" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанный Шлем Элегии -->
+		<ingredient id="15726" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="6276000" />
+		<!-- Шлем Элегии -->
+		<production id="15572" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанный Кожаный Шлем Элегии -->
+		<ingredient id="15727" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="6276000" />
+		<!-- Кожаный Шлем Элегии -->
+		<production id="15573" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанная Диадема Элегии -->
+		<ingredient id="15728" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="6276000" />
+		<!-- Диадема Элегии -->
+		<production id="15574" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанная Кираса Элегии -->
+		<ingredient id="15729" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="16736000" />
+		<!-- Кираса Элегии -->
+		<production id="15575" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанная Кожаная Кираса Элегии -->
+		<ingredient id="15730" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="12553000" />
+		<!-- Кожаная Кираса Элегии -->
+		<production id="15576" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанная Туника Элегии -->
+		<ingredient id="15731" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="12553000" />
+		<!-- Туника Элегии -->
+		<production id="15577" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Набедренники Элегии -->
+		<ingredient id="15732" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="10461000" />
+		<!-- Набедренники Элегии -->
+		<production id="15578" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Рукавицы Элегии -->
+		<ingredient id="15735" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="4184000" />
+		<!-- Рукавицы Элегии -->
+		<production id="15581" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Сапоги Элегии -->
+		<ingredient id="15738" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="4184000" />
+		<!-- Сапоги Элегии -->
+		<production id="15584" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Кожаные Брюки Элегии -->
+		<ingredient id="15733" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="7846000" />
+		<!-- Кожаные Брюки Элегии -->
+		<production id="15579" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Кожаные Перчатки Элегии -->
+		<ingredient id="15736" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="4184000" />
+		<!-- Кожаные Перчатки Элегии -->
+		<production id="15582" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Кожаные Сапоги Элегии -->
+		<ingredient id="15739" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="4184000" />
+		<!-- Кожаные Сапоги Элегии -->
+		<production id="15585" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Штаны Элегии -->
+		<ingredient id="15734" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="7846000" />
+		<!-- Штаны Элегии -->
+		<production id="15580" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Перчатки Элегии -->
+		<ingredient id="15737" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="4184000" />
+		<!-- Перчатки Элегии -->
+		<production id="15583" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Ботинки Элегии -->
+		<ingredient id="15740" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="4184000" />
+		<!-- Ботинки Элегии -->
+		<production id="15586" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанный Символ Верпеса -->
+		<ingredient id="15759" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="3664000" />
+		<!-- Символ Верпеса -->
+		<production id="15605" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанный Щит Верпеса -->
+		<ingredient id="15758" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="3664000" />
+		<!-- Щит Верпеса -->
+		<production id="15604" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанный Шлем Верпеса -->
+		<ingredient id="15743" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="5235000" />
+		<!-- Шлем Верпеса -->
+		<production id="15589" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанный Кожаный Шлем Верпеса -->
+		<ingredient id="15744" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="5235000" />
+		<!-- Кожаный Шлем Верпеса -->
+		<production id="15590" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанная Диадема Верпеса -->
+		<ingredient id="15745" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="5235000" />
+		<!-- Диадема Верпеса -->
+		<production id="15591" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанная Кираса Верпеса -->
+		<ingredient id="15746" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="13960000" />
+		<!-- Кираса Верпеса -->
+		<production id="15592" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанная Кожаная Кираса Верпеса -->
+		<ingredient id="15747" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="10470000" />
+		<!-- Кожаная Кираса Верпеса -->
+		<production id="15593" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанная Туника Верпеса -->
+		<ingredient id="15748" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="10470000" />
+		<!-- Туника Верпеса -->
+		<production id="15594" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Набедренники Верпеса -->
+		<ingredient id="15749" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="8725000" />
+		<!-- Набедренники Верпеса -->
+		<production id="15595" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Рукавицы Верпеса -->
+		<ingredient id="15752" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="3490000" />
+		<!-- Рукавицы Верпеса -->
+		<production id="15598" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Сапоги Верпеса -->
+		<ingredient id="15755" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="3490000" />
+		<!-- Сапоги Верпеса -->
+		<production id="15601" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Кожаные Брюки Верпеса -->
+		<ingredient id="15750" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="6543000" />
+		<!-- Кожаные Брюки Верпеса -->
+		<production id="15596" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Кожаные Перчатки Верпеса -->
+		<ingredient id="15753" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="3490000" />
+		<!-- Кожаные Перчатки Верпеса -->
+		<production id="15599" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Кожаные Сапоги Верпеса -->
+		<ingredient id="15756" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="3490000" />
+		<!-- Кожаные Сапоги Верпеса -->
+		<production id="15602" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Штаны Верпеса -->
+		<ingredient id="15751" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="6543000" />
+		<!-- Штаны Верпеса -->
+		<production id="15597" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Перчатки Верпеса -->
+		<ingredient id="15754" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="3490000" />
+		<!-- Перчатки Верпеса -->
+		<production id="15600" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Ботинки Верпеса -->
+		<ingredient id="15757" count="1" />
+		<!-- Адена -->
+		<ingredient id="57" count="3490000" />
+		<!-- Ботинки Верпеса -->
+		<production id="15603" count="1" />
+	</item>
+</list>

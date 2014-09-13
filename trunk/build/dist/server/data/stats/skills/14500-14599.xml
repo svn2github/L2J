@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<skill id="14505" levels="1" name="Enraged Earth Wyrm Appearance">
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="hitTime" val="11000"/>
+		<for/>
+	</skill>
+	<skill id="14571" levels="5" name="Дыхание Шилен">
+		<!--
+			1) Отравление Дыханием Шилен после смерти. Сопротивление тьме +5, восстановление HP +5%. В случае смерти в отравленном состоянии, уровень отравления повышается.\0	a,none\0	a,none\0
+			2) Отравление Дыханием Шилен после смерти. Сопротивление тьме +5, восстановление HP +10%, получение доп. опыта. В случае смерти в отравленном состоянии, уровень отравления повышается.\0	a,none\0	a,none\0
+			3) Все способности уменьшены из-за отравления Дыханием Шилен из-за постоянных смертей. В случае смерти в отравленном состоянии, уровень отравления повышается. Снизить уровень отравления на 2 можно у Темного Судьи, а также у любого Гида для Новичков и Помощника Приключенцев.\0	a,none\0	a,none\0
+			4) Все способности уменьшены из-за отравления Дыханием Шилен из-за постоянных смертей. В случае смерти в отравленном состоянии, уровень отравления повышается. Снизить уровень отравления на 2 можно у Темного Судьи, а также у любого Гида для Новичков и Помощника Приключенцев.\0	a,none\0	a,none\0
+			5) Все способности уменьшены из-за отравления Дыханием Шилен из-за постоянных смертей. В случае смерти в отравленном состоянии, уровень отравления повышается. Снизить уровень отравления на 2 можно у Темного Судьи, а также у любого Гида для Новичков и Помощника Приключенцев.\0	a,none\0	a,none\0
+		-->
+		<table name="#stat">1 1 0.605 0.452 0.299</table>
+		<table name="#Res">5 5 0 0 0</table>
+		<table name="#regHp">5 10 0 0 0</table>	
+		<table name="#time">600 600 300 300 300</table>
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<for>
+			<effect name="Buff" time="#time" count="1" val="0">
+				<add order="0x40" stat="defenceUnholy" val="#Res" />
+				<mul order="0x30" stat="regHp" val="#regHp" />				
+				<mul order="0x30" stat="pAtk" val="#stat" />
+				<mul order="0x30" stat="mAtk" val="#stat" />
+				<mul order="0x30" stat="pDef" val="#stat" />
+				<mul order="0x30" stat="mDef" val="#stat" />
+				<mul order="0x30" stat="pAtkSpd" val="#stat" />
+				<mul order="0x30" stat="mAtkSpd" val="#stat" />
+				<mul order="0x30" stat="runSpd" val="#stat" />
+				<mul order="0x30" stat="rEvas" val="#stat" />
+				<mul order="0x30" stat="cAtk" val="#stat" />
+				<mul order="0x30" stat="accCombat" val="#stat" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="14580" levels="1" name="Chain Skills">
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="PASSIVE"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+	</skill>
+	<skill id="14581" levels="1" name="Cry of Fate - Shield Charge">
+		<set name="power" val="6150"/>
+		<set name="target" val="TARGET_ONE"/>
+		<set name="skillType" val="PDAM"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="hitTime" val="800"/>
+		<set name="mpConsume" val="1"/>
+		<set name="castRange" val="40"/>
+		<for>
+			<effect name="Buff" time="9" val="0" abnormalLvl="1" abnormalType="critical_dmg_down" effectPower="80">
+				<basemul order="0x30" stat="critDamRcpt" val="1.1"/>
+				<!-- TODO: Это стоит уточнить и проверить -->
+				<mul order="0x30" stat="pDef" val="0.9"/>
+				<sub order="0x40" stat="rEvas" val="2"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="14582" levels="1" name="Cry of Fate - Chain Strike">
+		<set name="target" val="TARGET_ONE"/>
+		<set name="skillType" val="DEBUFF"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="hitTime" val="500"/>
+		<set name="mpConsume" val="1"/>
+		<set name="castRange" val="600"/>
+		<!--<for>
+			<effect count="1" name="TargetToMe" time="1" val="0"/>
+		</for>-->
+	</skill>
+	<skill id="14583" levels="1" name="Cry of Fate - Last Judgmen">
+		<set name="power" val="7980"/>
+		<set name="target" val="TARGET_ONE"/>
+		<set name="skillType" val="PDAM"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="hitTime" val="800"/>
+		<set name="mpConsume" val="1"/>
+		<set name="castRange" val="40"/>
+		<set name="overHit" val="true"/>
+		<cond msgId="113" addName="1">
+			<using kind="Dagger,Blunt"/>
+		</cond>
+		<for>
+			<effect name="Debuff" time="9" val="0" abnormalLvl="1" abnormalType="RunSpeedDown" effectPower="80">>
+				<mul order="0x30" stat="runSpd" val="0.9"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="14584" levels="1" name="Chain Skills">
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="PASSIVE"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+	</skill>
+	<skill id="14585" levels="1" name="Cry of Fate - Armor Destruction">
+		<set name="target" val="TARGET_ONE"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="hitTime" val="1090"/>
+		<set name="hitCancelTime" val="200"/>
+		<set name="mpConsume" val="1"/>
+		<set name="castRange" val="40"/>
+		<set name="skillType" val="PDAM"/>
+		<set name="power" val="5662"/>
+		<for>
+			<effect count="1" name="Buff" stackOrder="3" stackType="pDefDown" time="20" val="0">
+				<mul order="0x30" stat="pDef" val="0.85"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="14586" levels="1" name="Cry of Fate - Giant Punch">
+		<set name="hitTime" val="1000"/>
+		<set name="power" val="22179"/>
+		<set name="target" val="TARGET_AREA"/>
+		<set name="overHit" val="true"/>
+		<set name="skillRadius" val="200"/>
+		<set name="skillType" val="PDAM"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="castRange" val="1300"/>
+		<set name="effectRange" val="400"/>
+		<set name="hitTime" val="1000"/>
+		<set name="hitCancelTime" val="300"/>
+		<cond msg="Requires Blunt, Dual Sword, Big Sword, Dual Fist.">
+			<using kind="Blunt, Dual Sword, Big Sword, Dual Fist"/>
+		</cond>
+		<for>
+			<effect name="Stun" abnormalTime="3" val="0" effectPower="65" effectType="STUN" abnormalLvl="1" abnormalType="stun"/>
+		</for>
+	</skill>
+	<skill id="14587" levels="1" name="Cry of Fate - Power Bomber">
+		<set name="target" val="TARGET_ONE"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="hitTime" val="1490"/>
+		<set name="hitCancelTime" val="200"/>
+		<set name="mpConsume" val="1"/>
+		<set name="skillType" val="PDAM"/>
+		<set name="power" val="8102"/>
+		<set name="castRange" val="40"/>
+		<for>
+			<effect name="Stun" time="2" val="0" effectPower="65" effectType="STUN" abnormalLvl="1" abnormalType="stun"/>
+		</for>
+	</skill>
+	<skill id="14588" levels="1" name="Chain Skills">
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="PASSIVE"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+	</skill>
+	<skill id="14589" levels="1" name="Cry of Fate - Heart Breaker">
+		<set name="target" val="TARGET_ONE"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="hitTime" val="829"/>
+		<set name="hitCancelTime" val="699"/>
+		<set name="skillType" val="PDAM"/>
+		<set name="power" val="7127"/>
+		<set name="castRange" val="40"/>
+		<set name="overHit" val="true"/>
+		<set name="lethal1" val="10"/>
+		<!-- Half-Kill -->
+	</skill>
+	<skill id="14590" levels="1" name="Cry of Fate - Dark Paralyze">
+		<set name="target" val="TARGET_ONE"/>
+		<set name="skillType" val="DEBUFF"/>
+		<set name="hitTime" val="1000"/>
+		<set name="hitCancelTime" val="300"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<for>
+			<effect count="1" name="Petrification" stackOrder="-1" stackType="paralyze" time="5" val="0"/>
+		</for>
+	</skill>
+	<skill id="14591" levels="1" name="Cry of Fate - Throwing Sand">
+		<set name="hitTime" val="1500"/>
+		<set name="hitCancelTime" val="300"/>
+		<set name="effectRange" val="1100"/>
+		<set name="isDebuff" val="true"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="effectPoint" val="500"/>
+		<set name="skillType" val="AGGRESSION"/>
+		<set name="castRange" val="800"/>
+		<set name="target" val="TARGET_ONE"/>
+		<cond msg="Using Dagger,Dual Dagger weapon.">
+			<using kind="Dagger,Dual Dagger"/>
+		</cond>
+		<for>
+			<effect name="Debuff" time="5" val="0" effectPower="40" stackOrder="1">
+				<mul order="0x30" stat="accCombat" val="0.8"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="14592" levels="1" name="Chain Skills">
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="PASSIVE"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+	</skill>
+	<skill id="14593" levels="1" name="Cry of Fate - Pinpoint Shot">
+		<set name="hitTime" val="2200"/>
+		<set name="hitCancelTime" val="850"/>
+		<set name="castRange" val="700"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="overHit" val="true"/>
+		<set name="power" val="11099"/>
+		<set name="skillType" val="PDAM"/>
+		<set name="target" val="TARGET_ONE"/>
+		<cond msg="Using Bow,Crossbow weapon.">
+			<using kind="Bow,Crossbow"/>
+		</cond>
+	</skill>
+	<skill id="14594" levels="1" name="Cry of Fate - Quick Fire">
+		<set name="target" val="TARGET_SELF"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="hitTime" val="800"/>
+		<set name="hitCancelTime" val="200"/>
+		<set name="skillType" val="BUFF"/>
+		<for>
+			<effect name="Buff" time="20" val="0" stackOrder="1" stackType="buff">
+				<mul order="0x30" stat="pAtkSpd" val="1.5">
+					<using kind="bow,crossbow"/>
+				</mul>
+			</effect>
+		</for>
+	</skill>
+	<skill id="14595" levels="1" name="Cry of Fate - Recoil Shot">
+		<set name="hitTime" val="2200"/>
+		<set name="hitCancelTime" val="450"/>
+		<set name="castRange" val="900"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="overHit" val="true"/>
+		<set name="power" val="4912"/>
+		<set name="skillType" val="PDAM"/>
+		<set name="target" val="TARGET_ONE"/>
+		<set name="cancelTarget" val="50"/>
+		<set name="flyType" val="THROW_HORIZONTAL"/>
+		<set name="flyRadius" val="400"/>
+		<cond msg="Using Bow,Crossbow weapon.">
+			<using kind="Bow,Crossbow"/>
+		</cond>
+	</skill>
+	<skill id="14596" levels="1" name="Chain Skills">
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="PASSIVE"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+	</skill>
+	<skill id="14597" levels="1" name="Cry of Fate - Elemental Spike">
+		<set name="target" val="TARGET_ONE"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="hitTime" val="2279"/>
+		<set name="hitCancelTime" val="300"/>
+		<set name="mpConsume" val="1"/>
+		<set name="skillType" val="MDAM"/>
+		<set name="power" val="126"/>
+		<set name="castRange" val="550"/>
+		<set name="isMagic" val="true"/>
+		<for>
+			<effect name="Debuff" time="3" val="0" stackOrder="1" stackType="speed_down">
+				<sub order="0x40" stat="defenceFire" val="20"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="14598" levels="1" name="Cry of Fate - Elemental Crash">
+		<set name="castRange" val="600"/>
+		<set name="effectRange" val="600"/>
+		<set name="hitTime" val="2779"/>
+		<set name="hitCancelTime" val="300"/>
+		<set name="isMagic" val="true"/>
+		<set name="isDebuff" val="true"/>
+		<set name="skillType" val="MDAM"/>
+		<set name="power" val="35"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="target" val="TARGET_ONE"/>
+		<for>
+			<effect count="3" name="Fear" stackOrder="-1" stackType="Fear" time="3" val="0"/>
+		</for>
+	</skill>
+	<skill id="14599" levels="1" name="Cry of Fate - Hell Binding">
+		<set name="activateRate" val="60"/>
+		<set name="save" val="3"/>
+		<set name="target" val="TARGET_ONE"/>
+		<set name="skillType" val="MDAM"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="nextAction" val="attack"/>
+		<set name="delayedEffect" val="5459"/>
+		<for>
+			<effect count="1" name="Debuff" time="10" val="0"/>
+		</for>
+	</skill>
+</list>

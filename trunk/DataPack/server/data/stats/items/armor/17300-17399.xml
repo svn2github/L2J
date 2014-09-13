@@ -1,0 +1,1321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "item.dtd">
+<list>
+    <armor id="17304" name="Immortal Helmet" add_name="Heavy">         
+        <set name="crystal_type" value="R"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="608"/>
+        <set name="icon" value="icon.armor_helmet_i00"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="530"/>
+		<set name="price" value="5503000"/>
+        <equip>
+            <slot id="HEAD"/>
+        </equip>
+        <set name="ex_type" value="HELMET"/>
+        <for>
+            <add stat="pDef" order="0x10" value="114"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+		<set name="crystallizable" value="true"/>
+		<crystallization_bonus>
+			<!--Scroll: Enchant Armor (R-grade)-->
+			<item id="17527" count="1" chance="66.0"/>
+			<!--Purple Soul Crystal Fragment (R-grade)-->
+			<item id="19510" count="1" chance="6.0"/>
+			<!--Giant's Reorin's Mold-->
+			<item id="19306" count="1" chance="83.3"/>
+		</crystallization_bonus>		
+    </armor>
+    <armor id="17305" name="Immortal Breastplate" add_name="Heavy">         
+        <set name="crystal_type" value="R"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="3242"/>
+        <set name="icon" value="icon.armor_t501_u_i00"/>
+        <set name="type" value="HEAVY"/>
+        <set name="weight" value="7520"/>
+		<set name="price" value="14674500"/>
+        <equip>
+            <slot id="CHEST"/>
+        </equip>
+        <set name="ex_type" value="UPPER_PIECE"/>
+        <for>
+            <add stat="pDef" order="0x10" value="304"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+		<crystallization_bonus>
+			<!--Scroll: Enchant Weapon (R-grade)-->
+			<item id="17527" count="1" chance="100.0"/>
+			<!--Teal Soul Crystal Fragment (R-grade)-->
+			<item id="19509" count="1" chance="6.0"/>
+			<!--Giant's Arcsmith's Anvil-->
+			<item id="19307" count="1" chance="100.0"/>
+		</crystallization_bonus>
+    </armor>
+    <armor id="17306" name="Immortal Gaiters" add_name="Heavy">         
+        <set name="crystal_type" value="R"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="3040"/>
+        <set name="icon" value="icon.armor_t501_l_i00"/>
+        <set name="type" value="HEAVY"/>
+        <set name="weight" value="3170"/>
+		<set name="price" value="9171500"/>
+        <equip>
+            <slot id="LEGS"/>
+        </equip>
+        <set name="ex_type" value="LOWER_PIECE"/>
+        <for>
+            <add stat="pDef" order="0x10" value="190"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+		<set name="crystallizable" value="true"/>
+		<crystallization_bonus>
+			<!--Scroll: Enchant Weapon (R-grade)-->
+			<item id="17527" count="1" chance="100.0"/>
+			<!--Teal Soul Crystal Fragment (R-grade)-->
+			<item id="19509" count="1" chance="6.0"/>
+			<!--Giant's Arcsmith's Anvil-->
+			<item id="19307" count="1" chance="100.0"/>
+		</crystallization_bonus>
+    </armor>
+    <armor id="17307" name="Immortal Gauntlet" add_name="Heavy">         
+        <set name="crystal_type" value="R"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="405"/>
+        <set name="icon" value="icon.armor_t501_g_i00"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="510"/>
+		<set name="price" value="3668500"/>
+        <equip>
+            <slot id="GLOVES"/>
+        </equip>
+        <set name="ex_type" value="GLOVES"/>
+        <for>
+            <add stat="pDef" order="0x10" value="76"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+		<set name="crystallizable" value="true"/>
+		<crystallization_bonus>
+			<!--Scroll: Enchant Weapon (R-grade)-->
+			<item id="17527" count="1" chance="44.0"/>
+			<!--Purple Soul Crystal Fragment (R-grade)-->
+			<item id="19510" count="1" chance="6.0"/>
+			<!--Giant's Reorin's Mold-->
+			<item id="19306" count="1" chance="83.3"/>
+		</crystallization_bonus>
+    </armor>
+    <armor id="17308" name="Immortal Boots" add_name="Heavy">         
+        <set name="crystal_type" value="R"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="1621"/>
+        <set name="icon" value="icon.armor_t501_b_i00"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="1070"/>
+		<set name="price" value="3668500"/>
+        <equip>
+            <slot id="FEET"/>
+        </equip>
+        <set name="ex_type" value="FEET"/>
+        <for>
+            <add stat="pDef" order="0x10" value="76"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+		<set name="crystallizable" value="true"/>
+		<crystallization_bonus>
+			<!--Scroll: Enchant Weapon (R-grade)-->
+			<item id="17527" count="1" chance="44.0"/>
+			<!--Purple Soul Crystal Fragment (R-grade)-->
+			<item id="19510" count="1" chance="6.0"/>
+			<!--Giant's Reorin's Mold-->
+			<item id="19306" count="1" chance="83.3"/>
+		</crystallization_bonus>
+    </armor>
+    <armor id="17310" name="Immortal Leather Helmet" add_name="Light">         
+        <set name="crystal_type" value="R"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="608"/>
+        <set name="icon" value="icon.armor_leather_helmet_i00"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="530"/>
+		<set name="price" value="5503000"/>
+        <equip>
+            <slot id="HEAD"/>
+        </equip>
+        <set name="ex_type" value="HELMET"/>
+        <for>
+            <add stat="pDef" order="0x10" value="114"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+		<set name="crystallizable" value="true"/>
+		<crystallization_bonus>
+			<!--Scroll: Enchant Armor (R-grade)-->
+			<item id="17527" count="1" chance="66.0"/>
+			<!--Purple Soul Crystal Fragment (R-grade)-->
+			<item id="19510" count="1" chance="6.0"/>
+			<!--Giant's Reorin's Mold-->
+			<item id="19306" count="1" chance="83.3"/>
+		</crystallization_bonus>	
+    </armor>
+    <armor id="17311" name="Immortal Leather Armor" add_name="Light">         
+        <set name="crystal_type" value="R"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="2432"/>
+        <set name="icon" value="icon.armor_t502_u_i00"/>
+        <set name="type" value="LIGHT"/>
+        <set name="weight" value="4140"/>
+		<set name="price" value="14674500"/>
+        <equip>
+            <slot id="CHEST"/>
+        </equip>
+        <set name="ex_type" value="UPPER_PIECE"/>
+        <for>
+            <add stat="pDef" order="0x10" value="243"/>
+	    		<add stat="rEvas" order="0x10" value="5"/>
+	    		<add stat="mrEvas" order="0x10" value="5"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+    </armor>
+    <armor id="17312" name="Immortal Leather Legging" add_name="Light">         
+        <set name="crystal_type" value="R"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="2288"/>
+        <set name="icon" value="icon.armor_t502_l_i00"/>
+        <set name="type" value="LIGHT"/>
+        <set name="weight" value="1320"/>
+		<set name="price" value="9171500"/>
+        <equip>
+            <slot id="LEGS"/>
+        </equip>
+        <set name="ex_type" value="LOWER_PIECE"/>
+        <for>
+            <add stat="pDef" order="0x10" value="152"/>
+	    		<add stat="rEvas" order="0x10" value="3"/>
+	    		<add stat="mrEvas" order="0x10" value="3"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+		<set name="crystallizable" value="true"/>
+		<crystallization_bonus>
+			<!--Scroll: Enchant Weapon (R-grade)-->
+			<item id="17527" count="1" chance="100.0"/>
+			<!--Teal Soul Crystal Fragment (R-grade)-->
+			<item id="19509" count="1" chance="6.0"/>
+			<!--Giant's Arcsmith's Anvil-->
+			<item id="19307" count="1" chance="100.0"/>
+		</crystallization_bonus>
+    </armor>
+    <armor id="17313" name="Immortal Leather Gloves" add_name="Light">         
+        <set name="crystal_type" value="R"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="405"/>
+        <set name="icon" value="icon.armor_t502_g_i00"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="510"/>
+		<set name="price" value="3668500"/>
+        <equip>
+            <slot id="GLOVES"/>
+        </equip>
+        <set name="ex_type" value="GLOVES"/>
+        <for>
+            <add stat="pDef" order="0x10" value="76"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+		<set name="crystallizable" value="true"/>
+		<crystallization_bonus>
+			<!--Scroll: Enchant Weapon (R-grade)-->
+			<item id="17527" count="1" chance="44.0"/>
+			<!--Purple Soul Crystal Fragment (R-grade)-->
+			<item id="19510" count="1" chance="6.0"/>
+			<!--Giant's Reorin's Mold-->
+			<item id="19306" count="1" chance="83.3"/>
+		</crystallization_bonus>
+    </armor>
+    <armor id="17314" name="Immortal Leather Boots" add_name="Light">         
+        <set name="crystal_type" value="R"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="1621"/>
+        <set name="icon" value="icon.armor_t502_b_i00"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="1070"/>
+		<set name="price" value="3668500"/>
+        <equip>
+            <slot id="FEET"/>
+        </equip>
+        <set name="ex_type" value="FEET"/>
+        <for>
+            <add stat="pDef" order="0x10" value="76"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+		<set name="crystallizable" value="true"/>
+		<crystallization_bonus>
+			<!--Scroll: Enchant Weapon (R-grade)-->
+			<item id="17527" count="1" chance="44.0"/>
+			<!--Purple Soul Crystal Fragment (R-grade)-->
+			<item id="19510" count="1" chance="6.0"/>
+			<!--Giant's Reorin's Mold-->
+			<item id="19306" count="1" chance="83.3"/>
+		</crystallization_bonus>
+    </armor>
+    <armor id="17315" name="Immortal Circlet" add_name="Robe">         
+        <set name="crystal_type" value="R"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="608"/>
+        <set name="icon" value="icon.armor_circlet_i00"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="530"/>
+		<set name="price" value="5503000"/>
+        <equip>
+            <slot id="HEAD"/>
+        </equip>
+        <set name="ex_type" value="HELMET"/>
+        <for>
+            <add stat="pDef" order="0x10" value="114"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+		<crystallization_bonus>
+			<!--Scroll: Enchant Armor (R-grade)-->
+			<item id="17527" count="1" chance="66.0"/>
+			<!--Purple Soul Crystal Fragment (R-grade)-->
+			<item id="19510" count="1" chance="6.0"/>
+			<!--Giant's Reorin's Mold-->
+			<item id="19306" count="1" chance="83.3"/>
+		</crystallization_bonus>
+    </armor>
+    <armor id="17316" name="Immortal Tunic" add_name="Robe">         
+        <set name="crystal_type" value="R"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="1621"/>
+        <set name="icon" value="icon.armor_t503_u_i00"/>
+        <set name="type" value="MAGIC"/>
+        <set name="weight" value="1750"/>
+		<set name="price" value="14674500"/>
+        <equip>
+            <slot id="CHEST"/>
+        </equip>
+        <set name="ex_type" value="UPPER_PIECE"/>
+		<for>
+            <add stat="pDef" order="0x10" value="167"/>
+			<add stat="mDef" order="0x10" value="36"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+		<set name="crystallizable" value="true"/>
+		<crystallization_bonus>
+			<!--Scroll: Enchant Armor (R-grade)-->
+			<item id="17527" count="1" chance="100.0"/>
+			<!--Teal Soul Crystal Fragment (R-grade)-->
+			<item id="19509" count="1" chance="6.0"/>
+			<!--Giant's Arcsmith's Anvil-->
+			<item id="19307" count="1" chance="100.0"/>
+		</crystallization_bonus>
+    </armor>
+    <armor id="17317" name="Immortal Stockings" add_name="Robe">         
+        <set name="crystal_type" value="R"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="1520"/>
+        <set name="icon" value="icon.armor_t503_l_i00"/>
+        <set name="type" value="MAGIC"/>
+        <set name="weight" value="850"/>
+		<set name="price" value="9171500"/>
+        <equip>
+            <slot id="LEGS"/>
+        </equip>
+        <set name="ex_type" value="LOWER_PIECE"/>
+		<for>
+            <add stat="pDef" order="0x10" value="104"/>
+			<add stat="mDef" order="0x10" value="24"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+		<set name="crystallizable" value="true"/>
+		<crystallization_bonus>
+			<!--Scroll: Enchant Weapon (R-grade)-->
+			<item id="17527" count="1" chance="100.0"/>
+			<!--Teal Soul Crystal Fragment (R-grade)-->
+			<item id="19509" count="1" chance="6.0"/>
+			<!--Giant's Arcsmith's Anvil-->
+			<item id="19307" count="1" chance="84.33"/>
+		</crystallization_bonus>
+    </armor>
+    <armor id="17318" name="Immortal Gloves" add_name="Robe">         
+        <set name="crystal_type" value="R"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="405"/>
+        <set name="icon" value="icon.armor_t503_g_i00"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="510"/>
+		<set name="price" value="3668500"/>
+        <equip>
+            <slot id="GLOVES"/>
+        </equip>
+        <set name="ex_type" value="GLOVES"/>
+        <for>
+            <add stat="pDef" order="0x10" value="76"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+		<set name="crystallizable" value="true"/>
+		<crystallization_bonus>
+			<!--Scroll: Enchant Weapon (R-grade)-->
+			<item id="17527" count="1" chance="44.0"/>
+			<!--Purple Soul Crystal Fragment (R-grade)-->
+			<item id="19510" count="1" chance="6.0"/>
+			<!--Giant's Reorin's Mold-->
+			<item id="19306" count="1" chance="83.3"/>
+		</crystallization_bonus>
+    </armor>
+    <armor id="17319" name="Immortal Shoes" add_name="Robe">         
+        <set name="crystal_type" value="R"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="1621"/>
+        <set name="icon" value="icon.armor_t503_b_i00"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="1070"/>
+		<set name="price" value="3668500"/>
+        <equip>
+            <slot id="FEET"/>
+        </equip>
+        <set name="ex_type" value="FEET"/>
+        <for>
+            <add stat="pDef" order="0x10" value="76"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+		<set name="crystallizable" value="true"/>
+		<crystallization_bonus>
+			<!--Scroll: Enchant Weapon (R-grade)-->
+			<item id="17527" count="1" chance="44.0"/>
+			<!--Purple Soul Crystal Fragment (R-grade)-->
+			<item id="19510" count="1" chance="6.0"/>
+			<!--Giant's Reorin's Mold-->
+			<item id="19306" count="1" chance="83.3"/>
+		</crystallization_bonus>
+    </armor>
+    <armor id="17320" name="Immortal Sigil" add_name="Robe">         
+        <set name="crystal_type" value="R"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="912"/>
+        <set name="icon" value="icon.weapon_karyen_i00"/>
+        <set name="type" value="SIGIL"/>
+        <set name="ex_type" value="SIGIL"/>
+        <set name="weight" value="920"/>
+        <equip>
+            <slot id="LEFT_HAND"/>
+        </equip>
+        <for>
+            <add stat="pDef" order="0x10" value="19"/>
+            <add stat="rEvas" order="0x10" value="-8.0000"/>
+            <enchant stat="sDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+    </armor>
+    <armor id="17321" name="Immortal Necklace">         
+        <set name="crystal_type" value="R"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="656"/>
+        <set name="icon" value="icon.r1_necklace_i00"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="150"/>
+        <equip>
+            <slot id="NECKLACE"/>
+        </equip>
+        <set name="ex_type" value="NECKLACE"/>
+        <for>
+            <add stat="mDef" order="0x10" value="123"/>
+            <enchant stat="mDef" order="0x0C" value="0"/>
+        </for>
+    </armor>
+    <armor id="17322" name="Immortal Earring">         
+        <set name="crystal_type" value="R"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="490"/>
+        <set name="icon" value="icon.r1_earring_i00"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="150"/>
+        <equip>
+            <slot id="RIGHT_EAR"/>
+            <slot id="LEFT_EAR"/>
+        </equip>
+        <set name="ex_type" value="EARRING"/>
+        <for>
+            <add stat="mDef" order="0x10" value="92"/>
+            <enchant stat="mDef" order="0x0C" value="0"/>
+        </for>
+    </armor>
+    <armor id="17323" name="Immortal Ring">         
+        <set name="crystal_type" value="R"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="330"/>
+        <set name="icon" value="icon.r1_ring_i00"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="150"/>
+        <equip>
+            <slot id="RIGHT_FINGER"/>
+            <slot id="LEFT_FINGER"/>
+        </equip>
+        <set name="ex_type" value="RING"/>
+        <for>
+            <add stat="mDef" order="0x10" value="62"/>
+            <enchant stat="mDef" order="0x0C" value="0"/>
+        </for>
+    </armor>
+    <armor id="17338" name="Twilight Helmet" add_name="Heavy">         
+        <set name="crystal_type" value="R"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="672"/>
+        <set name="icon" value="icon.armor_helmet_i00"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="530"/>
+		<set name="price" value="13326500"/>
+        <equip>
+            <slot id="HEAD"/>
+        </equip>
+        <set name="ex_type" value="HELMET"/>
+        <for>
+            <add stat="pDef" order="0x10" value="126"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+		<set name="crystallizable" value="true"/>
+		<crystallization_bonus>
+			<!--Scroll: Enchant Armor (R-grade)-->
+			<item id="17527" count="1" chance="66.0"/>
+			<!--Purple Soul Crystal Fragment (R-grade)-->
+			<item id="19510" count="1" chance="6.0"/>
+			<!--Giant's Reorin's Mold-->
+			<item id="19306" count="1" chance="83.3"/>
+		</crystallization_bonus>
+    </armor>
+    <armor id="17339" name="Twilight Breastplate" add_name="Heavy">         
+        <set name="crystal_type" value="R"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="3573"/>
+        <set name="icon" value="icon.armor_t601_u_i00"/>
+        <set name="type" value="HEAVY"/>
+        <set name="weight" value="7520"/>
+		<set name="price" value="35537000"/>
+        <equip>
+            <slot id="CHEST"/>
+        </equip>
+        <set name="ex_type" value="UPPER_PIECE"/>
+        <for>
+            <add stat="pDef" order="0x10" value="335"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+		<set name="crystallizable" value="true"/>
+		<crystallization_bonus>
+			<!--Scroll: Enchant Weapon (R-grade)-->
+			<item id="17527" count="1" chance="100.0"/>
+			<!--Teal Soul Crystal Fragment (R-grade)-->
+			<item id="19509" count="1" chance="6.0"/>
+			<!--Giant's Arcsmith's Anvil-->
+			<item id="19307" count="1" chance="100.0"/>
+		</crystallization_bonus>
+    </armor>
+    <armor id="17340" name="Twilight Gaiters" add_name="Heavy">         
+        <set name="crystal_type" value="R"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="3344"/>
+        <set name="icon" value="icon.armor_t601_l_i00"/>
+        <set name="type" value="HEAVY"/>
+        <set name="weight" value="3170"/>
+		<set name="price" value="22210500"/>
+        <equip>
+            <slot id="LEGS"/>
+        </equip>
+        <set name="ex_type" value="LOWER_PIECE"/>
+        <for>
+            <add stat="pDef" order="0x10" value="209"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+		<set name="crystallizable" value="true"/>
+		<crystallization_bonus>
+			<!--Scroll: Enchant Weapon (R-grade)-->
+			<item id="17527" count="1" chance="100.0"/>
+			<!--Teal Soul Crystal Fragment (R-grade)-->
+			<item id="19509" count="1" chance="6.0"/>
+			<!--Giant's Arcsmith's Anvil-->
+			<item id="19307" count="1" chance="100.0"/>
+		</crystallization_bonus>
+    </armor>
+    <armor id="17341" name="Twilight Gauntlet" add_name="Heavy">         
+        <set name="crystal_type" value="R"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="448"/>
+        <set name="icon" value="icon.armor_t601_g_i00"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="510"/>
+		<set name="price" value="8884000"/>
+        <equip>
+            <slot id="GLOVES"/>
+        </equip>
+        <set name="ex_type" value="GLOVES"/>
+        <for>
+            <add stat="pDef" order="0x10" value="84"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+		<set name="crystallizable" value="true"/>
+		<crystallization_bonus>
+			<!--Scroll: Enchant Weapon (R-grade)-->
+			<item id="17527" count="1" chance="44.0"/>
+			<!--Purple Soul Crystal Fragment (R-grade)-->
+			<item id="19510" count="1" chance="6.0"/>
+			<!--Giant's Reorin's Mold-->
+			<item id="19306" count="1" chance="83.3"/>
+		</crystallization_bonus>
+    </armor>
+    <armor id="17342" name="Twilight Boots" add_name="Heavy">         
+        <set name="crystal_type" value="R"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="1792"/>
+        <set name="icon" value="icon.armor_t601_b_i00"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="1070"/>
+		<set name="price" value="8884000"/>
+        <equip>
+            <slot id="FEET"/>
+        </equip>
+        <set name="ex_type" value="FEET"/>
+        <for>
+            <add stat="pDef" order="0x10" value="84"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+		<set name="crystallizable" value="true"/>
+		<crystallization_bonus>
+			<!--Scroll: Enchant Weapon (R-grade)-->
+			<item id="17527" count="1" chance="44.0"/>
+			<!--Purple Soul Crystal Fragment (R-grade)-->
+			<item id="19510" count="1" chance="6.0"/>
+			<!--Giant's Reorin's Mold-->
+			<item id="19306" count="1" chance="83.3"/>
+		</crystallization_bonus>
+    </armor>
+    <armor id="17344" name="Twilight Leather Helmet" add_name="Light">         
+        <set name="crystal_type" value="R"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="672"/>
+        <set name="icon" value="icon.armor_leather_helmet_i00"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="530"/>
+		<set name="price" value="13326500"/>
+        <equip>
+            <slot id="HEAD"/>
+        </equip>
+        <set name="ex_type" value="HELMET"/>
+        <for>
+            <add stat="pDef" order="0x10" value="126"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+		<set name="crystallizable" value="true"/>
+		<crystallization_bonus>
+			<!--Scroll: Enchant Armor (R-grade)-->
+			<item id="17527" count="1" chance="66.0"/>
+			<!--Purple Soul Crystal Fragment (R-grade)-->
+			<item id="19510" count="1" chance="6.0"/>
+			<!--Giant's Reorin's Mold-->
+			<item id="19306" count="1" chance="83.3"/>
+		</crystallization_bonus>	
+    </armor>
+    <armor id="17345" name="Twilight Leather Armor" add_name="Light">         
+        <set name="crystal_type" value="R"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="2677"/>
+        <set name="icon" value="icon.armor_t602_u_i00"/>
+        <set name="type" value="LIGHT"/>
+        <set name="weight" value="4140"/>
+		<set name="price" value="35537000"/>
+        <equip>
+            <slot id="CHEST"/>
+        </equip>
+        <set name="ex_type" value="UPPER_PIECE"/>
+        <for>
+            <add stat="pDef" order="0x10" value="268"/>
+	    	<add stat="rEvas" order="0x10" value="5"/>
+	    	<add stat="mrEvas" order="0x10" value="5"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+		<set name="crystallizable" value="true"/>
+		<crystallization_bonus>
+			<!--Scroll: Enchant Weapon (R-grade)-->
+			<item id="17527" count="1" chance="100.0"/>
+			<!--Teal Soul Crystal Fragment (R-grade)-->
+			<item id="19509" count="1" chance="6.0"/>
+			<!--Giant's Arcsmith's Anvil-->
+			<item id="19307" count="1" chance="100.0"/>
+		</crystallization_bonus>
+    </armor>
+    <armor id="17346" name="Twilight Leather Legging" add_name="Light">         
+        <set name="crystal_type" value="R"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="2512"/>
+        <set name="icon" value="icon.armor_t602_l_i00"/>
+        <set name="type" value="LIGHT"/>
+        <set name="weight" value="1320"/>
+		<set name="price" value="22210500"/>
+        <equip>
+            <slot id="LEGS"/>
+        </equip>
+        <set name="ex_type" value="LOWER_PIECE"/>
+        <for>
+            <add stat="pDef" order="0x10" value="168"/>
+	    		<add stat="rEvas" order="0x10" value="3"/>
+	    		<add stat="mrEvas" order="0x10" value="3"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+		<set name="crystallizable" value="true"/>
+		<crystallization_bonus>
+			<!--Scroll: Enchant Weapon (R-grade)-->
+			<item id="17527" count="1" chance="100.0"/>
+			<!--Teal Soul Crystal Fragment (R-grade)-->
+			<item id="19509" count="1" chance="6.0"/>
+			<!--Giant's Arcsmith's Anvil-->
+			<item id="19307" count="1" chance="100.0"/>
+		</crystallization_bonus>
+    </armor>
+    <armor id="17347" name="Twilight Leather Gloves" add_name="Light">         
+        <set name="crystal_type" value="R"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="448"/>
+        <set name="icon" value="icon.armor_t602_g_i00"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="510"/>
+		<set name="price" value="8884000"/>
+        <equip>
+            <slot id="GLOVES"/>
+        </equip>
+        <set name="ex_type" value="GLOVES"/>
+        <for>
+            <add stat="pDef" order="0x10" value="84"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+		<set name="crystallizable" value="true"/>
+		<crystallization_bonus>
+			<!--Scroll: Enchant Weapon (R-grade)-->
+			<item id="17527" count="1" chance="44.0"/>
+			<!--Purple Soul Crystal Fragment (R-grade)-->
+			<item id="19510" count="1" chance="6.0"/>
+			<!--Giant's Reorin's Mold-->
+			<item id="19306" count="1" chance="83.3"/>
+		</crystallization_bonus>
+    </armor>
+    <armor id="17348" name="Twilight Leather Boots" add_name="Light">         
+        <set name="crystal_type" value="R"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="1792"/>
+        <set name="icon" value="icon.armor_t602_b_i00"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="1070"/>
+		<set name="price" value="8884000"/>
+        <equip>
+            <slot id="FEET"/>
+        </equip>
+        <set name="ex_type" value="FEET"/>
+        <for>
+            <add stat="pDef" order="0x10" value="84"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+		<set name="crystallizable" value="true"/>
+		<crystallization_bonus>
+			<!--Scroll: Enchant Weapon (R-grade)-->
+			<item id="17527" count="1" chance="44.0"/>
+			<!--Purple Soul Crystal Fragment (R-grade)-->
+			<item id="19510" count="1" chance="6.0"/>
+			<!--Giant's Reorin's Mold-->
+			<item id="19306" count="1" chance="83.3"/>
+		</crystallization_bonus>
+    </armor>
+    <armor id="17349" name="Twilight Circlet" add_name="Robe">         
+        <set name="crystal_type" value="R"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="672"/>
+        <set name="icon" value="icon.armor_circlet_i00"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="530"/>
+		<set name="price" value="13326500"/>
+        <equip>
+            <slot id="HEAD"/>
+        </equip>
+        <set name="ex_type" value="HELMET"/>
+        <for>
+            <add stat="pDef" order="0x10" value="126"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+		<set name="crystallizable" value="true"/>
+		<crystallization_bonus>
+			<!--Scroll: Enchant Armor (R-grade)-->
+			<item id="17527" count="1" chance="66.0"/>
+			<!--Purple Soul Crystal Fragment (R-grade)-->
+			<item id="19510" count="1" chance="6.0"/>
+			<!--Giant's Reorin's Mold-->
+			<item id="19306" count="1" chance="83.3"/>
+		</crystallization_bonus>
+    </armor>
+    <armor id="17350" name="Twilight Tunic" add_name="Robe">         
+        <set name="crystal_type" value="R"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="1792"/>
+        <set name="icon" value="icon.armor_t603_u_i00"/>
+        <set name="type" value="MAGIC"/>
+        <set name="weight" value="1750"/>
+		<set name="price" value="35537000"/>
+        <equip>
+            <slot id="CHEST"/>
+        </equip>
+        <set name="ex_type" value="UPPER_PIECE"/>
+		<for>
+            <add stat="pDef" order="0x10" value="184"/>
+			<add stat="mDef" order="0x10" value="41"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+		<set name="crystallizable" value="true"/>
+		<crystallization_bonus>
+			<!--Scroll: Enchant Armor (R-grade)-->
+			<item id="17527" count="1" chance="100.0"/>
+			<!--Teal Soul Crystal Fragment (R-grade)-->
+			<item id="19509" count="1" chance="6.0"/>
+			<!--Giant's Arcsmith's Anvil-->
+			<item id="19307" count="1" chance="100.0"/>
+		</crystallization_bonus>
+    </armor>
+    <armor id="17351" name="Twilight Stockings" add_name="Robe">         
+        <set name="crystal_type" value="R"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="1680"/>
+        <set name="icon" value="icon.armor_t603_l_i00"/>
+        <set name="type" value="MAGIC"/>
+        <set name="weight" value="850"/>
+		<set name="price" value="22210500"/>
+        <equip>
+            <slot id="LEGS"/>
+        </equip>
+        <set name="ex_type" value="LOWER_PIECE"/>
+		<for>
+			<add stat="pDef" order="0x10" value="115"/>
+			<add stat="mDef" order="0x10" value="27"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+		<set name="crystallizable" value="true"/>
+		<crystallization_bonus>
+			<!--Scroll: Enchant Weapon (R-grade)-->
+			<item id="17527" count="1" chance="100.0"/>
+			<!--Teal Soul Crystal Fragment (R-grade)-->
+			<item id="19509" count="1" chance="6.0"/>
+			<!--Giant's Arcsmith's Anvil-->
+			<item id="19307" count="1" chance="100.0"/>
+		</crystallization_bonus>
+    </armor>
+    <armor id="17352" name="Twilight Gloves" add_name="Robe">         
+        <set name="crystal_type" value="R"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="448"/>
+        <set name="icon" value="icon.armor_t603_g_i00"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="510"/>
+		<set name="price" value="8884000"/>
+        <equip>
+            <slot id="GLOVES"/>
+        </equip>
+        <set name="ex_type" value="GLOVES"/>
+        <for>
+            <add stat="pDef" order="0x10" value="84"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+		<set name="crystallizable" value="true"/>
+		<crystallization_bonus>
+			<!--Scroll: Enchant Weapon (R-grade)-->
+			<item id="17527" count="1" chance="44.0"/>
+			<!--Purple Soul Crystal Fragment (R-grade)-->
+			<item id="19510" count="1" chance="6.0"/>
+			<!--Giant's Reorin's Mold-->
+			<item id="19306" count="1" chance="83.3"/>
+		</crystallization_bonus>
+    </armor>
+    <armor id="17353" name="Twilight Shoes" add_name="Robe">         
+        <set name="crystal_type" value="R"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="1792"/>
+        <set name="icon" value="icon.armor_t603_b_i00"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="1070"/>
+		<set name="price" value="8884000"/>
+        <equip>
+            <slot id="FEET"/>
+        </equip>
+        <set name="ex_type" value="FEET"/>
+        <for>
+            <add stat="pDef" order="0x10" value="84"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+		<set name="crystallizable" value="true"/>
+		<crystallization_bonus>
+			<!--Scroll: Enchant Weapon (R-grade)-->
+			<item id="17527" count="1" chance="44.0"/>
+			<!--Purple Soul Crystal Fragment (R-grade)-->
+			<item id="19510" count="1" chance="6.0"/>
+			<!--Giant's Reorin's Mold-->
+			<item id="19306" count="1" chance="83.3"/>
+		</crystallization_bonus>
+    </armor>
+    <armor id="17354" name="Twilight Sigil" add_name="Robe">         
+        <set name="crystal_type" value="R"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="1008"/>
+        <set name="icon" value="icon.weapon_dynaksus_i00"/>
+        <set name="type" value="SIGIL"/>
+        <set name="ex_type" value="SIGIL"/>
+        <set name="weight" value="920"/>
+        <equip>
+            <slot id="LEFT_HAND"/>
+        </equip>
+        <for>
+            <add stat="pDef" order="0x10" value="21"/>
+            <add stat="rEvas" order="0x10" value="-8.0000"/>
+            <enchant stat="sDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+    </armor>
+    <armor id="17355" name="Twilight Necklace">         
+        <set name="crystal_type" value="R"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="741"/>
+        <set name="icon" value="icon.r2_necklace_i00"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="150"/>
+        <equip>
+            <slot id="NECKLACE"/>
+        </equip>
+        <set name="ex_type" value="NECKLACE"/>
+        <for>
+            <add stat="mDef" order="0x10" value="139"/>
+            <enchant stat="mDef" order="0x0C" value="0"/>
+        </for>
+    </armor>
+    <armor id="17356" name="Twilight Earring">         
+        <set name="crystal_type" value="R"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="560"/>
+        <set name="icon" value="icon.r2_earring_i00"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="150"/>
+        <equip>
+            <slot id="RIGHT_EAR"/>
+            <slot id="LEFT_EAR"/>
+        </equip>
+        <set name="ex_type" value="EARRING"/>
+        <for>
+            <add stat="mDef" order="0x10" value="105"/>
+            <enchant stat="mDef" order="0x0C" value="0"/>
+        </for>
+    </armor>
+    <armor id="17357" name="Twilight Ring">         
+        <set name="crystal_type" value="R"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="373"/>
+        <set name="icon" value="icon.r2_ring_i00"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="150"/>
+        <equip>
+            <slot id="RIGHT_FINGER"/>
+            <slot id="LEFT_FINGER"/>
+        </equip>
+        <set name="ex_type" value="RING"/>
+        <for>
+            <add stat="mDef" order="0x10" value="70"/>
+            <enchant stat="mDef" order="0x0C" value="0"/>
+        </for>
+    </armor>
+    <armor id="17358" name="Belt of Insolence">         
+        <set name="crystal_type" value="B"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="280"/>
+        <set name="icon" value="icon.belt_of_oman"/>
+        <set name="type" value="LIGHT"/>
+        <set name="weight" value="440"/>
+        <equip>
+            <slot id="BELT"/>
+        </equip>
+        <set name="ex_type" value="BELT"/>
+        <for>
+            <add stat="pDef" order="0x10" value="14"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+    </armor>
+    <armor id="17359" name="T-shirt of Insolence ">         
+        <set name="crystal_type" value="B"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="60"/>
+        <set name="icon" value="icon.tshirt_of_oman"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="130"/>
+        <equip>
+            <slot id="NONE"/>
+        </equip>
+        <set name="ex_type" value="OTHER_ITEMS"/>
+        <for>
+            <add stat="pDef" order="0x10" value="30"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+    </armor>
+    <armor id="17360" name="Bracelet of Insolence ">         
+        <set name="crystal_type" value="B"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="0"/>
+        <set name="icon" value="icon.bracelet_of_oman"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="150"/>
+        <equip>
+            <slot id="RIGHT_BRACELET"/>
+        </equip>
+        <set name="ex_type" value="BRACELET"/>
+    </armor>
+    <armor id="17361" name="Necklace of Insolence ">         
+        <set name="crystal_type" value="B"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="190"/>
+        <set name="icon" value="icon.necklace_of_oman"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="150"/>
+        <equip>
+            <slot id="NECKLACE"/>
+        </equip>
+        <set name="ex_type" value="NECKLACE"/>
+        <for>
+            <add stat="mDef" order="0x10" value="95"/>
+            <enchant stat="mDef" order="0x0C" value="0"/>
+        </for>
+    </armor>
+    <armor id="17362" name="Ring of Insolence I">         
+        <set name="crystal_type" value="B"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="96"/>
+        <set name="icon" value="icon.ring_of_oman"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="150"/>
+        <equip>
+            <slot id="RIGHT_FINGER"/>
+            <slot id="LEFT_FINGER"/>
+        </equip>
+        <set name="ex_type" value="RING"/>
+        <for>
+            <add stat="mDef" order="0x10" value="48"/>
+            <enchant stat="mDef" order="0x0C" value="0"/>
+        </for>
+    </armor>
+    <armor id="17363" name="Ring of Insolence II">         
+        <set name="crystal_type" value="B"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="96"/>
+        <set name="icon" value="icon.ring_of_oman"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="150"/>
+        <equip>
+            <slot id="RIGHT_FINGER"/>
+            <slot id="LEFT_FINGER"/>
+        </equip>
+        <set name="ex_type" value="RING"/>
+        <for>
+            <add stat="mDef" order="0x10" value="48"/>
+            <enchant stat="mDef" order="0x0C" value="0"/>
+        </for>
+    </armor>
+    <armor id="17364" name="Ring of Insolence III">         
+        <set name="crystal_type" value="B"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="96"/>
+        <set name="icon" value="icon.ring_of_oman"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="150"/>
+        <equip>
+            <slot id="RIGHT_FINGER"/>
+            <slot id="LEFT_FINGER"/>
+        </equip>
+        <set name="ex_type" value="RING"/>
+        <for>
+            <add stat="mDef" order="0x10" value="48"/>
+            <enchant stat="mDef" order="0x0C" value="0"/>
+        </for>
+    </armor>
+    <armor id="17365" name="Ring of Insolence IV">         
+        <set name="crystal_type" value="B"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="96"/>
+        <set name="icon" value="icon.ring_of_oman"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="150"/>
+        <equip>
+            <slot id="RIGHT_FINGER"/>
+            <slot id="LEFT_FINGER"/>
+        </equip>
+        <set name="ex_type" value="RING"/>
+        <for>
+            <add stat="mDef" order="0x10" value="48"/>
+            <enchant stat="mDef" order="0x0C" value="0"/>
+        </for>
+    </armor>
+    <armor id="17366" name="Ring of Insolence V">         
+        <set name="crystal_type" value="B"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="96"/>
+        <set name="icon" value="icon.ring_of_oman"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="150"/>
+        <equip>
+            <slot id="RIGHT_FINGER"/>
+            <slot id="LEFT_FINGER"/>
+        </equip>
+        <set name="ex_type" value="RING"/>
+        <for>
+            <add stat="mDef" order="0x10" value="48"/>
+            <enchant stat="mDef" order="0x0C" value="0"/>
+        </for>
+    </armor>
+    <armor id="17367" name="Ring of Insolence VI">         
+        <set name="crystal_type" value="B"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="96"/>
+        <set name="icon" value="icon.ring_of_oman"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="150"/>
+        <equip>
+            <slot id="RIGHT_FINGER"/>
+            <slot id="LEFT_FINGER"/>
+        </equip>
+        <set name="ex_type" value="RING"/>
+        <for>
+            <add stat="mDef" order="0x10" value="48"/>
+            <enchant stat="mDef" order="0x0C" value="0"/>
+        </for>
+    </armor>
+    <armor id="17368" name="Ring of Insolence VIII">         
+        <set name="crystal_type" value="B"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="96"/>
+        <set name="icon" value="icon.ring_of_oman"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="150"/>
+        <equip>
+            <slot id="RIGHT_FINGER"/>
+            <slot id="LEFT_FINGER"/>
+        </equip>
+        <set name="ex_type" value="RING"/>
+        <for>
+            <add stat="mDef" order="0x10" value="48"/>
+            <enchant stat="mDef" order="0x0C" value="0"/>
+        </for>
+    </armor>
+    <armor id="17369" name="Ring of Insolence VIII">         
+        <set name="crystal_type" value="B"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="96"/>
+        <set name="icon" value="icon.ring_of_oman"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="150"/>
+        <equip>
+            <slot id="RIGHT_FINGER"/>
+            <slot id="LEFT_FINGER"/>
+        </equip>
+        <set name="ex_type" value="RING"/>
+        <for>
+            <add stat="mDef" order="0x10" value="48"/>
+            <enchant stat="mDef" order="0x0C" value="0"/>
+        </for>
+    </armor>
+    <armor id="17370" name="Ring of Insolence IX">         
+        <set name="crystal_type" value="B"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="96"/>
+        <set name="icon" value="icon.ring_of_oman"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="150"/>
+        <equip>
+            <slot id="RIGHT_FINGER"/>
+            <slot id="LEFT_FINGER"/>
+        </equip>
+        <set name="ex_type" value="RING"/>
+        <for>
+            <add stat="mDef" order="0x10" value="48"/>
+            <enchant stat="mDef" order="0x0C" value="0"/>
+        </for>
+    </armor>
+    <armor id="17380" name="Fairy Agathion Bracelet ">         
+        <set name="crystal_type" value="NONE"/>
+        <set name="icon" value="icon.agathion_magmeld_teleport"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="150"/>
+        <equip>
+            <slot id="LEFT_BRACELET"/>
+        </equip>
+        <set name="ex_type" value="BRACELET"/>
+		<skills>
+            <skill id="14288" level="1"/>
+            <skill id="14187" level="1"/>
+            <skill id="8527" level="1"/>
+			<skill id="3267" level="1"/>
+        </skills>
+    </armor>
+    <armor id="17396" name="Seraph Helmet" add_name="Heavy">         
+        <set name="crystal_type" value="R95"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="834"/>
+        <set name="icon" value="icon.armor_helmet_i00"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="530"/>
+        <equip>
+            <slot id="HEAD"/>
+        </equip>
+        <set name="ex_type" value="HELMET"/>
+        <for>
+            <add stat="pDef" order="0x10" value="139"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+    </armor>
+    <armor id="17397" name="Seraph Breastplate" add_name="Heavy">         
+        <set name="crystal_type" value="R95"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="4440"/>
+        <set name="icon" value="icon.armor_t401_u_i00"/>
+        <set name="type" value="HEAVY"/>
+        <set name="weight" value="7520"/>
+		<set name="price" value="76654000"/>
+        <equip>
+            <slot id="CHEST"/>
+        </equip>
+        <set name="ex_type" value="UPPER_PIECE"/>
+        <for>
+            <add stat="pDef" order="0x10" value="370"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+		<set name="crystallizable" value="true"/>
+		<crystallization_bonus>
+			<!--Scroll: Enchant Weapon (R-grade)-->
+			<item id="17527" count="3" chance="100.0"/>
+			<!--Teal Soul Crystal Fragment (R95-grade)-->
+			<item id="19512" count="1" chance="7.0"/>
+			<!--Ancient Arcsmith's Anvil-->
+			<item id="19516" count="1" chance="100.0"/>
+		</crystallization_bonus>
+    </armor>
+    <armor id="17398" name="Seraph Gaiters" add_name="Heavy">         
+        <set name="crystal_type" value="R95"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="4158"/>
+        <set name="icon" value="icon.armor_t401_l_i00"/>
+        <set name="type" value="HEAVY"/>
+        <set name="weight" value="3170"/>
+		<set name="price" value="47909000"/>
+        <equip>
+            <slot id="LEGS"/>
+        </equip>
+        <set name="ex_type" value="LOWER_PIECE"/>
+        <for>
+            <add stat="pDef" order="0x10" value="231"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+		<set name="crystallizable" value="true"/>
+		<crystallization_bonus>
+			<!--Scroll: Enchant Weapon (R-grade)-->
+			<item id="17527" count="3" chance="100.0"/>
+			<!--Teal Soul Crystal Fragment (R95-grade)-->
+			<item id="19512" count="1" chance="7.0"/>
+			<!--Ancient Arcsmith's Anvil-->
+			<item id="19516" count="1" chance="100.0"/>
+		</crystallization_bonus>
+    </armor>
+    <armor id="17399" name="Seraph Gauntlet" add_name="Heavy">         
+        <set name="crystal_type" value="R95"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="558"/>
+        <set name="icon" value="icon.armor_t401_g_i00"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="510"/>
+		<set name="price" value="19163500"/>
+        <equip>
+            <slot id="GLOVES"/>
+        </equip>
+        <set name="ex_type" value="GLOVES"/>
+        <for>
+            <add stat="pDef" order="0x10" value="93"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+		<set name="crystallizable" value="true"/>
+		<crystallization_bonus>
+			<!--Scroll: Enchant Weapon (R-grade)-->
+			<item id="17527" count="3" chance="67.0"/>
+			<!--Purple Soul Crystal Fragment (R95-grade)-->
+			<item id="19513" count="1" chance="7.0"/>
+			<!--Ancient Reorin's Mold-->
+			<item id="19515" count="1" chance="100.0"/>
+		</crystallization_bonus>
+    </armor>
+</list>

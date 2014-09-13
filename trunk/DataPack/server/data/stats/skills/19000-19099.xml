@@ -1,0 +1,624 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list>	
+	<skill id="19001" levels="1" name="Проверка - Кровопускание">
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>	
+	<skill id="19002" levels="1" name="Якорь">
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="19003" levels="4" name="Сопротивление Клана">
+		<table name="#Def">3 4 5 6</table>
+		<set name="isClanSkill" val="true" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<set name="minPledgeClass" val="5" />  <!-- Старейшена -->
+		<set name="isCommon" val="true" />
+		<for>
+			<add order="0x40" stat="defenceHoly" val="#Def" />
+			<add order="0x40" stat="defenceUnholy" val="#Def" />
+		</for>
+	</skill>
+	<skill id="19004" levels="5" name="Защита от Эффектов Клана">
+		<table name="#Def">3 4 5 6 7</table>
+		<set name="isClanSkill" val="true" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<set name="minPledgeClass" val="5" />  <!-- Старейшена -->
+		<set name="isCommon" val="true" />
+		<for>
+			<add order="0x40" stat="debuffResist" val="#Def" />
+		</for>
+	</skill>
+	<skill id="19005" levels="5" name="Контроль Мышц Клана">
+		<table name="#Def">12 13 14 15 16</table>
+		<set name="isClanSkill" val="true" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<set name="minPledgeClass" val="5" />  <!-- Старейшена -->
+		<set name="isCommon" val="true" />
+		<for>
+			<add order="0x40" stat="paralyzeResist" val="#Def" />
+		</for>
+	</skill>
+	<skill id="19006" levels="5" name="Контроль Разума Клана">
+		<table name="#Def">12 13 14 15 16</table>
+		<set name="isClanSkill" val="true" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<set name="minPledgeClass" val="5" />  <!-- Старейшена -->
+		<set name="isCommon" val="true" />
+		<for>			
+			<add order="0x40" stat="mentalResist" val="#Def" />
+		</for>
+	</skill>
+	<skill id="19007" levels="1" name="Призыв Клана">
+		<set name="isClanSkill" val="true" />
+		<set name="reuseDelay" val="1800000" />
+		<set name="hitTime" val="15000" />
+		<set name="minPledgeClass" val="8" /> <!-- Виконт -->
+		<set name="target" val="TARGET_CLAN_ONLY"/>
+        <set name="skillType" val="CALL"/>
+        <set name="operateType" val="OP_ACTIVE"/>
+        <set name="party" val="true"/>
+        <set name="skillRadius" val="-2"/>
+        <set name="isReuseDelayPermanent" val="true"/>
+        <set name="itemConsumeId" val="1785"/>
+        <set name="itemConsumeCount" val="10"/>
+	</skill>	
+	<skill id="19008" levels="1" name="Защитник Клана">
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="19009" levels="1" name="Рождение Клана">
+		<table name="#px"> 1.05 </table>
+		<table name="#mx"> 1.06 </table>
+		<table name="#reg"> 5 </table>
+		<set name="operateType" val="OP_TOGGLE" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="CONT" />
+		<for>
+			<!--<effect name="ClanBirth" abnormalTime="3600" val="0" abnormalLvl="1" abnormalType="clan_renewal">-->
+			<effect count="0x7fffffff" name="ClanBirth" time="5" val="0">
+				<mul order="0x30" stat="pAtk" val="#px" />
+				<mul order="0x30" stat="pDef" val="#px" />
+				<mul order="0x30" stat="mDef" val="#px" />
+				<mul order="0x30" stat="mAtk" val="#mx" />
+				<add order="0x40" stat="regHp" val="#reg" />
+				<add order="0x40" stat="regMp" val="#reg" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="19010" levels="1" name="Копия Клана">
+		<set name="isClanSkill" val="true" />
+		<table name="#mpConsume2">65</table>
+		<set name="reuseDelay" val="14400000" />
+		<set name="hitTime" val="1000" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="skillType" val="BUFF" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="minPledgeClass" val="10" /> <!-- Маркиз -->
+	</skill>	
+	<skill id="19011" levels="1" name="Легенда Клана">
+        <set name="operateType" val="OP_PASSIVE" />
+        <set name="isClanSkill" val="true" />
+        <set name="target" val="TARGET_SELF" />
+        <set name="skillType" val="BUFF" />
+        <for>
+            <add order="0x40" stat="pAtk" val="218">
+                <player percentHp="30" />
+            </add>
+            <add order="0x40" stat="pDef" val="145">
+                <player percentHp="30" />
+            </add>
+        </for>
+    </skill>
+	<skill id="19012" levels="1" name="Скрыть Клан">
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="19013" levels="1" name="Очищение Клана">
+		<set name="isClanSkill" val="true" />
+		<table name="#mpConsume2">65</table>
+		<set name="reuseDelay" val="3600000" />
+		<set name="hitTime" val="1500" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="skillType" val="BUFF" />
+		<set name="target" val="TARGET_CLAN_ONLY" />		
+        <set name="skillRadius" val="2000"/>
+		<set name="minPledgeClass" val="10" /> <!-- Маркиз -->		
+        <set name="itemConsumeId" val="1785"/>
+        <set name="itemConsumeCount" val="50"/>
+        <for>
+            <effect count="1" name="DispelEffects" time="0" val="0">
+                <def name="dispelType" val="cleanse"/>
+                <def name="cancelRate" val="100"/>
+                <def name="negateCount" val="10"/>
+            </effect>
+        </for>
+	</skill>
+	<skill id="19014" levels="1" name="Предельная Защита Клана">
+		<set name="isClanSkill" val="true" />
+		<table name="#mpConsume2">65</table>
+		<set name="reuseDelay" val="14400000" />
+		<set name="hitTime" val="1500" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="skillType" val="BUFF" />
+		<set name="target" val="TARGET_CLAN_ONLY" />		
+        <set name="itemConsumeId" val="1785"/>
+        <set name="itemConsumeCount" val="50"/>		
+        <set name="skillRadius" val="1500"/>
+		<set name="minPledgeClass" val="10" /> <!-- Король -->		
+		<for>
+			<effect count="1" name="Invulnerable" abnormal="invul2" stackOrder="-1" stackType="invul" time="30" val="0" />
+		</for>
+	</skill>
+	<skill id="19015" levels="1" name="Дружба Клана">
+		<set name="isClanSkill" val="true" />
+		<table name="#mpConsume2">65</table>
+		<set name="reuseDelay" val="3600000" />
+		<set name="hitTime" val="2500" />
+		<set name="mpConsume2" val="#mpConsume2" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="skillType" val="BUFF" />
+		<set name="target" val="TARGET_CLAN_ONLY" />
+		<set name="minPledgeClass" val="10" /> <!-- Маркиз -->		
+        <set name="itemConsumeId" val="1785"/>
+        <set name="itemConsumeCount" val="100"/>		
+        <set name="skillRadius" val="2000"/>
+		<for>
+			<effect count="1" name="Buff" time="1200" val="0">
+				<mul order="0x30" stat="rCrit" val="1.03" />
+				<add order="0x40" stat="mCritRate" val="20" />
+			</effect>
+		</for>
+	</skill>	
+	<skill id="19016" levels="1" name="Границы Клана">
+		<set name="isClanSkill" val="true" />
+		<table name="#mpConsume2">65</table>
+		<set name="reuseDelay" val="3600000" />
+		<set name="hitTime" val="2500" />
+		<set name="mpConsume2" val="#mpConsume2" />	
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="skillType" val="BUFF" />
+		<set name="target" val="TARGET_CLAN_ONLY" />
+		<set name="minPledgeClass" val="10" />	
+        <set name="itemConsumeId" val="1785"/>
+        <set name="itemConsumeCount" val="100"/>		
+        <set name="skillRadius" val="2000"/>
+		<for>
+			<effect count="1" name="Buff" time="1200" val="0">
+				<mul order="0x30" stat="pAtk" val="1.03" />
+				<mul order="0x30" stat="pDef" val="1.03" />
+			</effect>
+		</for>
+	</skill>	
+	<skill id="19017" levels="1" name="Узники Клана">
+		<set name="isClanSkill" val="true" />
+		<table name="#mpConsume2">65</table>
+		<set name="reuseDelay" val="3600000" />
+		<set name="hitTime" val="1500" />
+		<set name="mpConsume2" val="#mpConsume2" />	
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="skillType" val="DEBUFF" />
+		<set name="target" val="TARGET_AREA" />
+		<set name="minPledgeClass" val="10" />
+        <set name="itemConsumeId" val="1785"/>
+        <set name="itemConsumeCount" val="100"/>		
+        <set name="skillRadius" val="500"/>
+		<for>
+			<effect count="1" name="Buff" time="60" val="0">				
+				<mul order="0x30" stat="runSpd" val="0.77" />
+			</effect>
+		</for>
+	</skill>	
+	<skill id="19018" levels="1" name="Иксион">
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+		<skill id="19034" levels="1" name="Печать Света">
+		<!--
+			Уровень: 1; Описание: Ставить Печать Силой Света на Древнюю Реликвию, защищающую от гнева.
+		-->
+		<set name="reuseDelay" val="5000"/>
+		<set name="hitTime" val="180000"/>
+		<set name="magicLevel" val="30"/>
+		<set name="magicType" val="SPECIAL"/>
+		<set name="icon" val="icon.skill0246"/>
+		<set name="castRange" val="85"/>
+		<set name="hitCancelTime" val="500"/>
+		<set name="mpConsume1" val="50"/>
+		<set name="target" val="TARGET_HOLY"/>
+		<set name="skillType" val="TAKECASTLE"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="isCommon" val="true"/>
+		<set name="isSkillTimePermanent" val="true"/>
+		<set name="isReuseDelayPermanent" val="true"/>
+		<set name="castle_side" val="LIGHT"/>
+	</skill>
+	<skill id="19036" levels="1" name="Благословение Света">
+		<!--
+			19036	1	u,Благословение Света\0	u,+3% опыта, получаемого через благословение Хранителя Света.\0	a,none\0	a,none\0
+			Последние изменения 16.03.2013/05:03, редактировал Mifesto
+		-->
+		<set name="icon" val="icon.etc_pi_gift_box_i04"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="target" val="TARGET_ONE"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="magicType" val="MAGIC"/>
+		<for>
+			<effect count="1" name="Buff" time="3600" val="0">
+				<add order="0x40" stat="ExpMultiplier" val="0.03" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="19035" levels="1" name="Печать Тьмы">
+		<!--
+			Уровень: 1; Описание: Ставить Печать Силой Тьмы на Древнюю Реликвию, защищающую от гнева.
+		-->
+		<set name="reuseDelay" val="5000"/>
+		<set name="hitTime" val="180000"/>
+		<set name="magicLevel" val="30"/>
+		<set name="magicType" val="SPECIAL"/>
+		<set name="icon" val="icon.skill0246"/>
+		<set name="castRange" val="85"/>
+		<set name="hitCancelTime" val="500"/>
+		<set name="mpConsume1" val="50"/>
+		<set name="target" val="TARGET_HOLY"/>
+		<set name="skillType" val="TAKECASTLE"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="isCommon" val="true"/>
+		<set name="isSkillTimePermanent" val="true"/>
+		<set name="isReuseDelayPermanent" val="true"/>
+		<set name="castle_side" val="DARK"/>
+	</skill>
+	<skill id="19037" levels="1" name="Плащ Света">
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<set name="isCommon" val="true" />
+		<for>
+			<add stat="STR" order="0x10" val="3"/>
+			<add stat="CON" order="0x10" val="3"/>
+			<add stat="DEX" order="0x10" val="3"/>
+			<add stat="INT" order="0x10" val="3"/>
+			<add stat="WIT" order="0x10" val="3"/>
+			<add stat="MEN" order="0x10" val="3"/>
+			<mul order="0x30" stat="pvpPhysDefenceBonus" val="1.15" />
+			<mul order="0x30" stat="pvpPhysSkillDefenceBonus" val="1.15" />
+			<mul order="0x30" stat="pvpMagicSkillDefenceBonus" val="1.15" />
+		</for>
+	</skill>
+	<skill id="19038" levels="1" name="Cold Cloak of Darkness">
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<set name="isCommon" val="true" />
+		<for>
+			<add stat="STR" order="0x10" val="3"/>
+			<add stat="CON" order="0x10" val="3"/>
+			<add stat="DEX" order="0x10" val="3"/>
+			<add stat="INT" order="0x10" val="3"/>
+			<add stat="WIT" order="0x10" val="3"/>
+			<add stat="MEN" order="0x10" val="3"/>
+			<mul order="0x30" stat="pvpPhysDefenceBonus" val="1.15" />
+			<mul order="0x30" stat="pvpPhysSkillDefenceBonus" val="1.15" />
+			<mul order="0x30" stat="pvpMagicSkillDefenceBonus" val="1.15" />
+		</for>
+	</skill>
+	<skill id="19039" levels="1" name="Cloak of Light">
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<set name="isCommon" val="true" />
+		<for>
+			<add stat="STR" order="0x10" val="2"/>
+			<add stat="CON" order="0x10" val="2"/>
+			<add stat="DEX" order="0x10" val="2"/>
+			<add stat="INT" order="0x10" val="2"/>
+			<add stat="WIT" order="0x10" val="2"/>
+			<add stat="MEN" order="0x10" val="2"/>
+			<mul order="0x30" stat="pvpPhysDefenceBonus" val="1.05" />
+			<mul order="0x30" stat="pvpPhysSkillDefenceBonus" val="1.05" />
+			<mul order="0x30" stat="pvpMagicSkillDefenceBonus" val="1.05" />
+		</for>
+	</skill>
+	<skill id="19040" levels="1" name="Cloak of Darkness">
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<set name="isCommon" val="true" />
+		<for>
+			<add stat="STR" order="0x10" val="2"/>
+			<add stat="CON" order="0x10" val="2"/>
+			<add stat="DEX" order="0x10" val="2"/>
+			<add stat="INT" order="0x10" val="2"/>
+			<add stat="WIT" order="0x10" val="2"/>
+			<add stat="MEN" order="0x10" val="2"/>
+			<mul order="0x30" stat="pvpPhysDefenceBonus" val="1.05" />
+			<mul order="0x30" stat="pvpPhysSkillDefenceBonus" val="1.05" />
+			<mul order="0x30" stat="pvpMagicSkillDefenceBonus" val="1.05" />
+		</for>
+	</skill>
+	<skill id="19041" levels="1" name="Scroll of Escape: Castle">
+		<set name="magicType" val="SPECIAL" />
+		<set name="magicLevel" val="1" />
+		<set name="hitTime" val="20000" />
+		<set name="hitCancelTime" val="500" />
+		<set name="isHandler" val="true" />
+		<set name="castle" val="true" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="RECALL" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="19074" levels="1" name="Защитник Клана">
+		<set name="isClanSkill" val="true" />
+		<table name="#mpConsume2">100</table>
+		<set name="reuseDelay" val="43200000" />
+		<set name="hitTime" val="4000" />
+		<set name="mpConsume2" val="#mpConsume2" />		
+		<set name="castRange" val="400" />
+		<set name="magicLevel" val="1" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="skillType" val="BUFF" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="minPledgeClass" val="5" /> <!-- Король -->
+	</skill>	
+	<skill id="19075" levels="1" name="Отношения Клана">
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>		
+	<skill id="19076" levels="1" name="Награда Академии Клана">
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="19080" levels="1" name="Сигель Иксион">
+	<!-- Превращает в Иксиона. -->
+        <set name="magicType" val="MAGIC" />
+        <set name="icon" val="icon.skilltransform1" />
+        <set name="reuseDelay" val="144000" />
+        <set name="hitTime" val="2500" />
+        <set name="mpConsume2" val="44" />
+        <set name="target" val="TARGET_SELF" />
+        <set name="skillType" val="TRANSFORMATION" />
+        <set name="isReuseDelayPermanent" val="true" />
+        <set name="addSkills" val="619;1" /> <!-- пока неизвестно какие скиллы у него -->
+        <set name="npcId" val="19048" />
+        <set name="operateType" val="OP_ACTIVE" />
+        <set name="isCommon" val="true" />
+        <cond msgId="1509">
+        <player olympiad="true" />
+        </cond>
+        <for>
+            <effect count="1" name="Transformation" time="1800" val="508">
+            </effect>
+        </for>   
+	</skill>
+	<skill id="19087" levels="1" name="Альгиз Иксион">
+	<!-- Превращает в Иксиона. -->
+        <set name="magicType" val="MAGIC" />
+        <set name="icon" val="icon.skilltransform1" />
+        <set name="reuseDelay" val="144000" />
+        <set name="hitTime" val="2500" />
+        <set name="mpConsume2" val="44" />
+        <set name="target" val="TARGET_SELF" />
+        <set name="skillType" val="TRANSFORMATION" />
+        <set name="isReuseDelayPermanent" val="true" />
+        <set name="addSkills" val="619;1" /> <!-- пока неизвестно какие скиллы у него -->
+        <set name="npcId" val="19055" />
+        <set name="operateType" val="OP_ACTIVE" />
+        <set name="isCommon" val="true" />
+        <cond msgId="1509">    
+        <player olympiad="true" />
+        </cond>
+        <for>
+            <effect count="1" name="Transformation" time="1800" val="516">
+            </effect>
+        </for>
+    </skill>
+    <skill id="19081" levels="1" name="Иксион Тира">
+    <!-- Превращает в Иксиона. -->
+        <set name="magicType" val="MAGIC" />
+        <set name="icon" val="icon.skilltransform1" />
+        <set name="reuseDelay" val="144000" />
+        <set name="hitTime" val="2500" />
+        <set name="mpConsume" val="44" />
+        <set name="target" val="TARGET_SELF" />
+        <set name="skillType" val="TRANSFORMATION" />
+        <set name="isReuseDelayPermanent" val="true" />
+        <set name="addSkills" val="619;1" /> <!-- пока неизвестно какие скиллы у него -->
+        <set name="npcId" val="19050" />
+        <set name="operateType" val="OP_ACTIVE" />
+        <set name="isCommon" val="true" />
+        <cond msgId="1509">
+        <player olympiad="true" />
+        </cond>
+        <for>
+            <effect count="1" name="Transformation" time="1800" val="510">
+            </effect>
+        </for>
+    </skill>
+    <skill id="19082" levels="1" name="Иксион Одала">
+		<!-- Превращает в Иксиона. -->
+        <set name="magicType" val="MAGIC" />
+        <set name="icon" val="icon.skilltransform1" />
+        <set name="reuseDelay" val="144000" />
+        <set name="hitTime" val="2500" />
+        <set name="mpConsume" val="44" />
+        <set name="target" val="TARGET_SELF" />
+        <set name="skillType" val="TRANSFORMATION" />
+        <set name="isReuseDelayPermanent" val="true" />
+        <set name="addSkills" val="619;1" /> <!-- пока неизвестно какие скиллы у него -->
+        <set name="npcId" val="19051" />
+        <set name="operateType" val="OP_ACTIVE" />
+        <set name="isCommon" val="true" />
+        <cond msgId="1509">
+        <player olympiad="true" />
+        </cond>
+        <for>
+            <effect count="1" name="Transformation" time="1800" val="511">
+            </effect>
+        </for>
+    </skill>
+    <skill id="19083" levels="1" name="Иксион Эура">
+    <!-- Превращает в Иксиона. -->
+        <set name="magicType" val="MAGIC" />
+        <set name="icon" val="icon.skilltransform1" />
+        <set name="reuseDelay" val="144000" />
+        <set name="hitTime" val="2500" />
+        <set name="mpConsume" val="44" />
+        <set name="target" val="TARGET_SELF" />
+        <set name="skillType" val="TRANSFORMATION" />
+        <set name="isReuseDelayPermanent" val="true" />
+        <set name="addSkills" val="619;1" /> <!-- пока неизвестно какие скиллы у него -->
+        <set name="npcId" val="19049" />
+        <set name="operateType" val="OP_ACTIVE" />
+        <set name="isCommon" val="true" />
+        <cond msgId="1509">
+        <player olympiad="true" />
+        </cond>
+        <for>
+            <effect count="1" name="Transformation" time="1800" val="512">
+            </effect>
+        </for>
+    </skill>
+    <skill id="19084" levels="1" name="Иксион Фео">
+    <!-- Превращает в Иксиона. -->
+        <set name="magicType" val="MAGIC" />
+        <set name="icon" val="icon.skilltransform1" />
+        <set name="reuseDelay" val="144000" />
+        <set name="hitTime" val="2500" />
+        <set name="mpConsume" val="44" />
+        <set name="target" val="TARGET_SELF" />
+        <set name="skillType" val="TRANSFORMATION" />
+        <set name="isReuseDelayPermanent" val="true" />
+        <set name="addSkills" val="619;1" /> <!-- пока неизвестно какие скиллы у него -->
+        <set name="npcId" val="19052" />
+        <set name="operateType" val="OP_ACTIVE" />
+        <set name="isCommon" val="true" />
+        <cond msgId="1509">
+        <player olympiad="true" />
+        </cond>
+        <for>
+            <effect count="1" name="Transformation" time="1800" val="513">
+            </effect>
+        </for>
+    </skill>
+    <skill id="19085" levels="1" name="Иксион Иса">
+    <!-- Превращает в Иксиона. -->
+        <set name="magicType" val="MAGIC" />
+        <set name="icon" val="icon.skilltransform1" />
+        <set name="reuseDelay" val="144000" />
+        <set name="hitTime" val="2500" />
+        <set name="mpConsume" val="44" />
+        <set name="target" val="TARGET_SELF" />
+        <set name="skillType" val="TRANSFORMATION" />
+        <set name="isReuseDelayPermanent" val="true" />
+        <set name="addSkills" val="619;1" /> <!-- пока неизвестно какие скиллы у него -->
+        <set name="npcId" val="19053" />
+        <set name="operateType" val="OP_ACTIVE" />
+        <set name="isCommon" val="true" />
+        <cond msgId="1509">
+        <player olympiad="true" />
+        </cond>
+        <for>
+            <effect count="1" name="Transformation" time="1800" val="514">
+            </effect>
+        </for>
+    </skill>
+    <skill id="19086" levels="1" name="Иксион Веньо">
+    <!-- Превращает в Иксиона. -->
+        <set name="magicType" val="MAGIC" />
+        <set name="icon" val="icon.skilltransform1" />
+        <set name="reuseDelay" val="144000" />
+        <set name="hitTime" val="2500" />
+        <set name="mpConsume" val="44" />
+        <set name="target" val="TARGET_SELF" />
+        <set name="skillType" val="TRANSFORMATION" />
+        <set name="isReuseDelayPermanent" val="true" />
+        <set name="addSkills" val="619;1" /> <!-- пока неизвестно какие скиллы у него -->
+        <set name="npcId" val="19054" />
+        <set name="operateType" val="OP_ACTIVE" />
+        <set name="isCommon" val="true" />
+        <cond msgId="1509">
+        <player olympiad="true" />
+        </cond>
+        <for>
+            <effect count="1" name="Transformation" time="1800" val="515">
+            </effect>
+        </for>
+    </skill>
+    <skill id="19089" levels="4" name="Призвать Стального Вепря">
+        <table name="#npcId">15058 15059 15060 15061</table>
+        <set name="mpConsume2" val="530" />
+        <set name="itemConsumeId" val="17371" />
+        <set name="itemConsumeCount" val="600" />
+        <set name="target" val="TARGET_SELF" />
+        <set name="reuseDelay" val="7200000" />
+        <set name="hitTime" val="180000" />
+        <set name="skillType" val="SUMMON" />
+        <set name="operateType" val="OP_ACTIVE" />
+        <set name="lifeTime" val="1200000" />
+        <set name="npcId" val="#npcId" />
+    </skill>
+    <skill id="19090" levels="4" name="Призвать Стального Вепря">
+        <table name="#npcId">15062 15063 15064 15065</table>
+        <set name="mpConsume2" val="530" />
+        <set name="itemConsumeCount" val="500" />
+        <set name="itemConsumeId" val="17371" />
+        <set name="target" val="TARGET_SELF" />
+        <set name="reuseDelay" val="7200000" />
+        <set name="hitTime" val="180000" />
+        <set name="skillType" val="SUMMON" />
+        <set name="operateType" val="OP_ACTIVE" />
+        <set name="lifeTime" val="1200000" />
+        <set name="npcId" val="#npcId" />
+    </skill>
+	<skill id="19092" levels="1" name="Массовое Возвращение">
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>		
+	<skill id="19093" levels="1" name="Колчан Стрел с Дополнительным  Зарядом">
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>	
+	<skill id="19094" levels="1" name="Колчан Стрел с Усиленной Разрушительной Силой">
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>		
+	<skill id="19095" levels="1" name="Колчан Стрел с Увеличенной Вредоносностью">
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>	
+	<skill id="19096" levels="1" name="Дополнительный Удар">
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>		
+	<skill id="19097" levels="1" name="Высший Критический Удар">
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>		
+	<skill id="19098" levels="1" name="Пускание Крови">
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+</list>

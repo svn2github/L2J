@@ -1,0 +1,795 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "item.dtd">
+<list>
+	<etcitem id="34900" name="Таинственный Знак">
+		<!-- Слабое ощущение силы тьмы. Для передачи таинственному лакею (он есть в каждой деревне). Нельзя обменять, выбросить, продать. Можно положить в личное хранилище. -->
+		<set name="icon" value="icon.etc_coins_black_i00" />
+		<set name="type" value="OTHER"/>
+		<set name="class" value="OTHER"/>
+		<set name="weight" value="0"/>
+		<set name="dropable" value="false"/>
+		<set name="tradable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+
+	<etcitem id="34901" name="Манифест Альянса">
+		<!-- Необходим для увеличения уровня Клана до 4. Доступно только Лорду Клана. Нельзя обменять, выбросить, продать. Можно положить в личное хранилище. -->
+		<set name="icon" value="icon.etc_paper_white_i00" />
+		<set name="type" value="OTHER"/>
+		<set name="class" value="OTHER"/>
+		<set name="weight" value="0"/>
+		<set name="dropable" value="false"/>
+		<set name="tradable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+
+	<etcitem id="34902" name="Печать Амбиций">
+		<!-- Необходим для увеличения уровня Клана до 5. Доступно только Лорду Клана. Нельзя обменять, выбросить, продать. Можно положить в личное хранилище. -->
+		<set name="icon" value="icon.etc_paper_blue_i00" />
+		<set name="type" value="OTHER"/>
+		<set name="class" value="OTHER"/>
+		<set name="weight" value="0"/>
+		<set name="dropable" value="false"/>
+		<set name="tradable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+
+	<etcitem id="34903" name="Таинственная Тень">
+		<!-- Для использования в Соревнованиях Таинственный Особняк. Позволяет снять с себя отрицательного эффект. Нельзя обменять, выбросить, продать. Можно положить в личное хранилище. -->
+		<set name="icon" value="icon.weapon_apprentices_spellbook_i00" />
+		<set name="type" value="OTHER"/>
+		<set name="class" value="OTHER"/>
+		<set name="weight" value="0"/>
+		<set name="dropable" value="false"/>
+		<set name="tradable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+
+	<etcitem id="34904" name="Таинственная Сила">
+		<!-- Для использования в Соревнованиях Таинственный Особняк. Урон противнику равен уровню НР вашего героя. CP/HP/MP +10. Нельзя обменять, выбросить, продать. Можно положить в личное хранилище. -->
+		<set name="icon" value="icon.weapon_apprentices_spellbook_i00" />
+		<set name="type" value="OTHER"/>
+		<set name="class" value="OTHER"/>
+		<set name="weight" value="0"/>
+		<set name="dropable" value="false"/>
+		<set name="tradable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+
+	<etcitem id="34905" name="Особый Питомец Клана">
+		<!-- Призывает питомца развивающегося клана (Рахун). В течение 72 часов репутация клана +100. Призыв возможен только с PC участника клана. -->
+		<set name="icon" value="icon.accessory_necklace_of_pet_i00" />
+		<set name="type" value="OTHER"/>
+		<set name="class" value="OTHER"/>
+		<set name="weight" value="10"/>
+	</etcitem>
+
+	<etcitem id="34906" name="Особый Питомец Клана">
+		<!-- Призывает питомца развивающегося клана (Белый кот). В течение 72 часов репутация клана +100. Призыв возможен только с PC участника клана. -->
+		<set name="icon" value="icon.accessory_necklace_of_pet_i00" />
+		<set name="type" value="OTHER"/>
+		<set name="class" value="OTHER"/>
+		<set name="weight" value="10"/>
+	</etcitem>
+
+	<etcitem id="34907" name="Особый Питомец Клана">
+		<!-- Призывает питомца развивающегося клана (Пустынный лис). В течение 72 часов репутация клана +100. Призыв возможен только с PC участника клана. -->
+		<set name="icon" value="icon.accessory_necklace_of_pet_i00" />
+		<set name="type" value="OTHER"/>
+		<set name="class" value="OTHER"/>
+		<set name="weight" value="10"/>
+	</etcitem>
+
+	<etcitem id="34908" name="Бойцовский Питомец Клана">
+		<!-- Призывает питомца воюющего клана. В течение 30 секунду уменьшает НР питомца до 0. Репутация клана и героя +10. Призыв возможен только с PC участника клана. -->
+		<set name="icon" value="icon.accessory_necklace_of_pet_i00" />
+		<set name="type" value="OTHER"/>
+		<set name="class" value="OTHER"/>
+		<set name="weight" value="10"/>
+	</etcitem>
+
+	<etcitem id="34909" name="Знак Партизан ">
+		<!-- Выдается за помощь партизанам. Необходим для входа в зону Таути. -->
+		<set name="icon" value="icon.scroll_of_verification_i00" />
+		<set name="type" value="OTHER"/>
+		<set name="class" value="OTHER"/>
+		<set name="weight" value="0"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+
+	<etcitem id="34910" name="Знак Акху">
+		<!-- Выдается за помощь Акху. Необходим для входа в зону Таути (Рубеж). -->
+		<set name="icon" value="icon.scroll_of_verification_i01" />
+		<set name="type" value="OTHER"/>
+		<set name="class" value="OTHER"/>
+		<set name="weight" value="0"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+
+	<etcitem id="34911" name="Полномочия Правителей">
+		<!-- Выдается победилелю гонок, организованных в Таинственном Особняке. Использование возможно только в период чемпионата. Нельзя обменять, выбросить, продать. Можно положить в личное хранилище. -->
+		<set name="icon" value="icon.etc_spell_books_red_i00" />
+		<set name="type" value="OTHER"/>
+		<set name="class" value="OTHER"/>
+		<set name="weight" value="0"/>
+		<set name="dropable" value="false"/>
+		<set name="tradable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+
+	<etcitem id="34912" name="Камень Призыва">
+		<!-- Для использования в Задании Дворянина. Двойной клик позволяет призвать Дух Воды. -->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="type" value="OTHER"/>
+	</etcitem>
+
+	<etcitem id="34913" name="Мешок с Материалами">
+		<!-- Содержит 4 вида материалов для производства предмета, очищающего воду Богини Воды Евы. -->
+		<set name="icon" value="BranchSys2.icon.etc_ancient_treasure_sack_i00" />
+		<set name="type" value="OTHER"/>
+		<set name="class" value="OTHER"/>
+		<set name="weight" value="10"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+
+	<etcitem id="34914" name="Доставка ресурсов - Аден">
+		<!-- Короб для транспортировки ресурсов расположение войск. Если доставить его революционерам, можно получить награду. Нельзя, выбросить, обменять, продать. -->
+		<set name="icon" value="icon.etc_jewel_box_i00" />
+		<set name="type" value="OTHER"/>
+		<set name="class" value="OTHER"/>
+		<set name="weight" value="10"/>
+		<set name="dropable" value="false"/>
+		<set name="tradable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+
+	<etcitem id="34915" name="Доставка твердых ресурсов - Аден">
+		<!-- Универсальный короб для транспортировки ресурсов. Если доставить его революционерам, можно получить награду. Нельзя, выбросить, обменять, продать. -->
+		<set name="icon" value="icon.etc_treasure_box_i02" />
+		<set name="type" value="OTHER"/>
+		<set name="class" value="OTHER"/>
+		<set name="weight" value="10"/>
+		<set name="dropable" value="false"/>
+		<set name="tradable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+
+	<etcitem id="34916" name="Коробка для доставки">
+		<!-- Короб для транспортировки ресурсов расположение войск. Если доставить его революционерам, можно получить награду. Нельзя, выбросить, обменять, продать. -->
+		<set name="icon" value="icon.etc_jewel_box_i00" />
+		<set name="type" value="OTHER"/>
+		<set name="class" value="OTHER"/>
+		<set name="weight" value="10"/>
+		<set name="dropable" value="false"/>
+		<set name="tradable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+
+	<etcitem id="34917" name="Улучшенная Коробка для Доставки">
+		<!-- Универсальный короб для транспортировки ресурсов. Если доставить его революционерам, можно получить награду. Нельзя, выбросить, обменять, продать. -->
+		<set name="icon" value="icon.etc_treasure_box_i02" />
+		<set name="type" value="OTHER"/>
+		<set name="class" value="OTHER"/>
+		<set name="weight" value="10"/>
+		<set name="dropable" value="false"/>
+		<set name="tradable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+
+	<etcitem id="34918" name="Сундук сокровищ Правителя Адена">
+		<!-- Сундук сокровищ Правителя Адена. Щелкнуть по нему дважды для получения награды. -->
+		<set name="icon" value="icon.etc_treasure_box_i00" />
+		<set name="type" value="OTHER"/>
+		<set name="class" value="OTHER"/>
+		<set name="weight" value="10"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+
+	<etcitem id="34919" name="Котомка">
+		<!-- Двойной щелчок для получения награды. -->
+		<set name="icon" value="icon.etc_pouch_brown_i00" />
+		<set name="type" value="OTHER"/>
+		<set name="class" value="OTHER"/>
+		<set name="weight" value="10"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+
+	<etcitem id="34920" name="Сундук сокровищ Правителя Руны">
+		<!-- Сундук сокровищ Правителя Руны. Щелкнуть дважды для получения награды. -->
+		<set name="icon" value="icon.etc_treasure_box_i01" />
+		<set name="type" value="OTHER"/>
+		<set name="class" value="OTHER"/>
+		<set name="weight" value="10"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+
+	<etcitem id="34927" name="Синий Сундук Хранителя Мира">
+		<!-- Это награда за победу над Демонами Измерения в Лабиринте Картии. Чтобы открыть, щелкните по нему дважды. -->
+		<set name="icon" value="icon.event_hero_treasure_box_i00" />
+		<set name="type" value="OTHER"/>
+		<set name="class" value="OTHER"/>
+		<set name="weight" value="10"/>
+		<set name="stackable" value="true"/>
+		<set name="tradeable" value="false"/>
+	</etcitem>
+
+	<etcitem id="34928" name="Красный Сундук Хранителя Мира">
+		<!-- Это награда за победу над Демонами Измерения в Лабиринте Картии. Чтобы открыть, щелкните по нему дважды. -->
+		<set name="icon" value="icon.event_hero_treasure_box_i00" />
+		<set name="type" value="OTHER"/>
+		<set name="class" value="OTHER"/>
+		<set name="weight" value="10"/>
+		<set name="stackable" value="true"/>
+		<set name="tradeable" value="false"/>
+	</etcitem>
+
+	<etcitem id="34929" name="Золотистый Сундук Хранителя Мира">
+		<!-- Это награда за победу над Демонами Измерения в Лабиринте Картии. Чтобы открыть, щелкните по нему дважды. -->
+		<set name="icon" value="icon.event_hero_treasure_box_i00" />
+		<set name="type" value="OTHER"/>
+		<set name="class" value="OTHER"/>
+		<set name="weight" value="10"/>
+		<set name="stackable" value="true"/>
+		<set name="tradeable" value="false"/>
+	</etcitem>
+
+	<etcitem id="34930" name="Синий Сундук Странника Мира">
+		<!-- Это награда за победу над Демонами Измерения в Лабиринте Картии. Чтобы открыть, щелкните по нему дважды. -->
+		<set name="icon" value="icon.event_hero_treasure_box_i00" />
+		<set name="type" value="OTHER"/>
+		<set name="class" value="OTHER"/>
+		<set name="weight" value="10"/>
+		<set name="stackable" value="true"/>
+		<set name="tradeable" value="false"/>
+	</etcitem>
+
+	<etcitem id="34931" name="Красный Сундук Странника Мира">
+		<!-- Это награда за победу над Демонами Измерения в Лабиринте Картии. Чтобы открыть, щелкните по нему дважды. -->
+		<set name="icon" value="icon.event_hero_treasure_box_i00" />
+		<set name="type" value="OTHER"/>
+		<set name="class" value="OTHER"/>
+		<set name="weight" value="10"/>
+		<set name="stackable" value="true"/>
+		<set name="tradeable" value="false"/>
+	</etcitem>
+
+	<etcitem id="34932" name="Золотистый Сундук Странника Мира">
+		<!-- Это награда за победу над Демонами Измерения в Лабиринте Картии. Чтобы открыть, щелкните по нему дважды. -->
+		<set name="icon" value="icon.event_hero_treasure_box_i00" />
+		<set name="type" value="OTHER"/>
+		<set name="class" value="OTHER"/>
+		<set name="weight" value="10"/>
+		<set name="stackable" value="true"/>
+		<set name="tradeable" value="false"/>
+	</etcitem>
+
+	<etcitem id="34933" name="Подарок Кранкена.">
+		<!-- Подарок,наполненный Духом Кранкена. Можно получить Свиток: Модифицировать Оружие (R) или Свиток: Модифицировать Доспех (R). -->
+		<set name="icon" value="icon.etc_pouch_gold_i00" />
+		<set name="type" value="OTHER"/>
+		<set name="class" value="OTHER"/>
+		<set name="weight" value="10"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+
+	<etcitem id="34934" name="Подарок Фобры">
+		<!-- Подарок,наполненный Духом Фобры. Можно получить Свиток: Модифицировать Оружие (R) или Свиток: Модифицировать Доспехи (R). -->
+		<set name="icon" value="icon.etc_pouch_gold_i00" />
+		<set name="type" value="OTHER"/>
+		<set name="class" value="OTHER"/>
+		<set name="weight" value="10"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+	<etcitem id="34940" name="Свиток: Модифицировать Головной Убор Ивент">
+		<!-- Магическая Защита Головного Убора +2, при модификации на +4 и выше эффект сильно увеличивается. Безопасная модификация до +3. Можно обменять, выбросить, положить в личное хранилище.  -->
+		<set name="icon" value="icon.etc_scroll_of_enchant_armor_i05" />
+		<set name="type" value="OTHER"/>
+		<set name="class" value="OTHER"/>
+		<set name="weight" value="10"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+
+	<etcitem id="34941" name="Камень Жизни для Головных Уборов Ивент">
+		<!-- Камень Жизни для Головных Уборов. Можно обменять, выбросить, положить в личное хранилище.  -->
+		<set name="icon" value="icon.life_dust_hairacc_general" />
+		<set name="type" value="OTHER"/>
+		<set name="class" value="OTHER"/>
+		<set name="weight" value="100"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+
+	<etcitem id="34942" name="Коробка с Краской Гигантов Ур. 2 Ивент">
+		<!-- Содержит: Силу Гиганта Ур. 2, ЛВК Ур. 2, НР, ИНТ, МДР, одну из Красок Духа. Можно обменять/выбросить/уничтожить. -->
+		<set name="icon" value="icon.present_of_destination_event" />
+		<set name="type" value="OTHER"/>
+		<set name="class" value="OTHER"/>
+		<set name="weight" value="10"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+
+	<etcitem id="34943" name="Коробка с Легендарной Краской Ур. 2 Ивент">
+		<!-- Содержит: Легендарную Силу Ур. 2, ЛВК Ур. 2, НР, ИНТ, МДР, одну из Красок Духа. Можно обменять/выбросить/уничтожить. -->
+		<set name="icon" value="icon.present_of_destination_event" />
+		<set name="type" value="OTHER"/>
+		<set name="class" value="OTHER"/>
+		<set name="weight" value="10"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+
+	<etcitem id="34944" name="Коробка с Древней Краской Ур. 2 Ивент">
+		<!-- Содержит: Древнюю Силу Ур. 2, ЛВК Ур. 2, НР, ИНТ, МДР, одну из Красок Духа. Можно обменять/выбросить/уничтожить. -->
+		<set name="icon" value="icon.present_of_destination_event" />
+		<set name="type" value="OTHER"/>
+		<set name="class" value="OTHER"/>
+		<set name="weight" value="10"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+
+	<etcitem id="34945" name="Коробка с Краской Гигантов Ур. 3 Ивент">
+		<!-- Содержит: Силу Гиганта Ур. 3, ЛВК Ур. 3, НР, ИНТ, МДР, одну из Красок Духа. Можно обменять/выбросить/уничтожить. -->
+		<set name="icon" value="icon.present_of_destination_event" />
+		<set name="type" value="OTHER"/>
+		<set name="class" value="OTHER"/>
+		<set name="weight" value="10"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+
+	<etcitem id="34946" name="Коробка с Легендарной Краской Ур. 3 Ивент">
+		<!-- Содержит: Легендарную Силу Ур. 3, ЛВК Ур. 3, НР, ИНТ, МДР, одну из Красок Духа. Можно обменять/выбросить/уничтожить. -->
+		<set name="icon" value="icon.present_of_destination_event" />
+		<set name="type" value="OTHER"/>
+		<set name="class" value="OTHER"/>
+		<set name="weight" value="10"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+
+	<etcitem id="34947" name="Коробка с Древней Краской Ур. 3 Ивент">
+		<!-- Содержит: Древнюю Силу Ур. 3, ЛВК Ур. 3, НР, ИНТ, МДР, одну из Красок Духа. Можно обменять/выбросить/уничтожить. -->
+		<set name="icon" value="icon.present_of_destination_event" />
+		<set name="type" value="OTHER"/>
+		<set name="class" value="OTHER"/>
+		<set name="weight" value="10"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+
+	<etcitem id="34948" name="Сундук со Свитком Телепорта: деревня Ивент">
+		<!-- Содержит: Свиток Телепорта: деревня 1 шт. Можно обменять/выбросить/уничтожить. -->
+		<set name="icon" value="icon.event_hero_treasure_box_i00" />
+		<set name="type" value="OTHER"/>
+		<set name="class" value="OTHER"/>
+		<set name="weight" value="10"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+
+	<etcitem id="34950" name="Коробка с Краской Гигантов Ур. 4 Ивент">
+		<!-- Содержит: Силу Гиганта Ур. 4, ЛВК Ур. 4, НР, ИНТ, МДР, одну из Красок Духа. Можно обменять/выбросить/уничтожить. -->
+		<set name="icon" value="icon.present_of_destination_event" />
+		<set name="type" value="OTHER"/>
+		<set name="class" value="OTHER"/>
+		<set name="weight" value="10"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+
+	<etcitem id="34951" name="Коробка с Легендарной Краской Ур. 4 Ивент">
+		<!-- Содержит: Легендарную Силу Ур. 4, ЛВК Ур. 4, НР, ИНТ, МДР, одну из Красок Духа. Можно обменять/выбросить/уничтожить. -->
+		<set name="icon" value="icon.present_of_destination_event" />
+		<set name="type" value="OTHER"/>
+		<set name="class" value="OTHER"/>
+		<set name="weight" value="10"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+
+	<etcitem id="34952" name="Коробка с Древней Краской Ур. 4 Ивент">
+		<!-- Содержит: Древнюю Силу Ур. 4, ЛВК Ур. 4, НР, ИНТ, МДР, одну из Красок Духа. Можно обменять/выбросить/уничтожить. -->
+		<set name="icon" value="icon.present_of_destination_event" />
+		<set name="type" value="OTHER"/>
+		<set name="class" value="OTHER"/>
+		<set name="weight" value="10"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+
+	<etcitem id="34953" name="Коробка с Краской Гигантов Ур. 5 Ивент">
+		<!-- Содержит: Силу Гиганта Ур. 5, ЛВК Ур. 5, НР, ИНТ, МДР, одну из Красок Духа. Можно обменять/выбросить/уничтожить. -->
+		<set name="icon" value="icon.present_of_destination_event" />
+		<set name="type" value="OTHER"/>
+		<set name="class" value="OTHER"/>
+		<set name="weight" value="10"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+
+	<etcitem id="34954" name="Коробка с Легендарной Краской Ур. 5 Ивент">
+		<!-- Содержит: Легендарную Силу Ур. 5, ЛВК Ур. 5, НР, ИНТ, МДР, одну из Красок Духа. Можно обменять/выбросить/уничтожить. -->
+		<set name="icon" value="icon.present_of_destination_event" />
+		<set name="type" value="OTHER"/>
+		<set name="class" value="OTHER"/>
+		<set name="weight" value="10"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+
+	<etcitem id="34955" name="Коробка с Древней Краской Ур. 5 Ивент">
+		<!-- Содержит: Древнюю Силу Ур. 5, ЛВК Ур. 5, НР, ИНТ, МДР, одну из Красок Духа. Можно обменять/выбросить/уничтожить. -->
+		<set name="icon" value="icon.present_of_destination_event" />
+		<set name="type" value="OTHER"/>
+		<set name="class" value="OTHER"/>
+		<set name="weight" value="10"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+
+	<etcitem id="34956" name="М Сообщение - L2день">
+		<!-- Предмет дня L2. Составить специальное послание и отнести его Коту-ангелу.  -->
+		<set name="icon" value="icon.etc_alphabet_m_i00" />
+		<set name="type" value="OTHER"/>
+		<set name="class" value="OTHER"/>
+		<set name="weight" value="0"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+
+	<etcitem id="34957" name="Документ Ковальдира">
+		<!-- Это послание отправлено Ковальдиром из Базы Альянса Кецеруса для Шизраку, заключенного в семенах Адского Огня. Для передачи Шизраку. -->
+		<set name="icon" value="icon.etc_letter_white_i00" />
+		<set name="type" value="QUEST"/>
+		<set name="class" value="OTHER"/>
+		<set name="weight" value="0"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+
+	<etcitem id="34958" name="Проклятая Петра">
+		<!-- Энерг жизни Софы, содержащая Энергию Огня. Отличается нестабильным состоянием. Для передачи Акху. -->
+		<set name="icon" value="icon.etc_torch_on_i09" />
+		<set name="type" value="QUEST"/>
+		<set name="class" value="OTHER"/>
+		<set name="weight" value="0"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+
+	<etcitem id="34959" name="Петра">
+		<!-- Энерг жизни Софы, содержащая Энергию Огня. Для передачи Акху. -->
+		<set name="icon" value="icon.etc_torch_on_i00" />
+		<set name="type" value="QUEST"/>
+		<set name="class" value="OTHER"/>
+		<set name="weight" value="0"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+
+	<etcitem id="34960" name="Осколок Таути">
+		<!-- Малый Осколок Таути. Для передачи Фергюсону. -->
+		<set name="icon" value="icon.piece_of_emery_i00" />
+		<set name="type" value="QUEST"/>
+		<set name="class" value="OTHER"/>
+		<set name="weight" value="0"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+
+	<etcitem id="34961" name="">
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="type" value="OTHER"/>
+	</etcitem>
+
+	<etcitem id="34962" name="Следы от Порошка">
+		<!-- Можно получить после посадки Дерева Помощи. -->
+		<set name="icon" value="icon.etc_powder_orange_i00" />
+		<set name="type" value="OTHER"/>
+		<set name="class" value="OTHER"/>
+		<set name="weight" value="0"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+
+	<etcitem id="34963" name="Таинственные Семена">
+		<!-- Неизвестные Семена Растений. Необходимы для того, чтобы расцвели цветы. -->
+		<set name="icon" value="icon.etc_coda_seed_i00" />
+		<set name="type" value="OTHER"/>
+		<set name="class" value="OTHER"/>
+		<set name="weight" value="0"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+
+	<etcitem id="34964" name="Цветы Тысячи Учений">
+		<!-- Белые цветы Тысячи Учений. Название берет свое начало из распространенной легенды о чистой Душе - белой, как снег, получившей божественное спасение.  -->
+		<set name="icon" value="icon.etc_flower_i00" />
+		<set name="type" value="OTHER"/>
+		<set name="class" value="OTHER"/>
+		<set name="weight" value="0"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+
+	<etcitem id="34965" name="День Лилли">
+		<!-- Желтый цветок, именуемый День Лилии. Считается, что эти цветы помогают избавляться от печалей и забот. -->
+		<set name="icon" value="icon.etc_flower_i02" />
+		<set name="type" value="OTHER"/>
+		<set name="class" value="OTHER"/>
+		<set name="weight" value="0"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+
+	<etcitem id="34966" name="Пион">
+		<!-- Красный Цветок Пиона. Эти цветы называют символом богатства и благородства. -->
+		<set name="icon" value="icon.etc_flower_i01" />
+		<set name="type" value="OTHER"/>
+		<set name="class" value="OTHER"/>
+		<set name="weight" value="0"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+
+	<etcitem id="34967" name="Петуния">
+		<!-- Розовый Цветок Петуньи. При взгляде на него в душе возникает чувство умиротворения. -->
+		<set name="icon" value="icon.etc_flower_i03" />
+		<set name="type" value="OTHER"/>
+		<set name="class" value="OTHER"/>
+		<set name="weight" value="0"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+
+	<etcitem id="34968" name="Фиалка">
+		<!-- Пурпурный Цветок Фиалки. Цветок символизирует мысли и заботу о дорогом человеке.  -->
+		<set name="icon" value="icon.etc_flower_i04" />
+		<set name="type" value="OTHER"/>
+		<set name="class" value="OTHER"/>
+		<set name="weight" value="0"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+
+	<etcitem id="34969" name="Ирис">
+		<!-- Голубой Цветок Ириса. Имеет значение ожидания хороших известий.  -->
+		<set name="icon" value="icon.etc_flower_i05" />
+		<set name="type" value="OTHER"/>
+		<set name="class" value="OTHER"/>
+		<set name="weight" value="0"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+
+	<etcitem id="34970" name="Куон">
+		<!-- Черный Цветок Куона. Из-за черного цвета его значение ошибочно толкуют как знак смерти, но на самом деле он символизирует память об умерших. -->
+		<set name="icon" value="icon.etc_flower_i06" />
+		<set name="type" value="OTHER"/>
+		<set name="class" value="OTHER"/>
+		<set name="weight" value="0"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+
+	<etcitem id="34971" name="Мясо Мертвеца">
+		<!-- Кусок Мяса Мертвеца. Выдается за победу над Монстрами Нежети в Крепости Гильотины. Для передачи Смотрителю Крепости Гильотины Родерику. -->
+		<set name="icon" value="icon.etc_bodypart_liver_i00" />
+		<set name="type" value="OTHER"/>
+		<set name="class" value="OTHER"/>
+		<set name="weight" value="0"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+
+	<etcitem id="34972" name="Приказ Харлана (книга) ">
+		<!-- Приказ для Смотрителя Крепости Гильотины Эндриго, отправленное стражем Диона Харланом. Для детального осмотра щелкните дважды по предмету.  -->
+		<set name="icon" value="icon.etc_spell_books_assistance_i00" />
+		<set name="type" value="OTHER"/>
+		<set name="class" value="OTHER"/>
+		<set name="weight" value="0"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+
+	<etcitem id="34973" name="Отчет Эндриго">
+		<!-- Отчет для Смотрителя Крепости Гильотины Родерику, отправленное Смотрителем Крепости Гильотины Эндриго. Для детального осмотра щелкните по предмету дважды.  -->
+		<set name="icon" value="icon.mercenary_certification_i00" />
+		<set name="type" value="OTHER"/>
+		<set name="class" value="OTHER"/>
+		<set name="weight" value="0"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+
+	<etcitem id="34974" name="Стебель Мандрагоры">
+		<!-- Выдается за преодоление Страданий Мандрагоры в Крепости Гильотины. Для передачи Темным Эльфам и Датфене из Крепости Гильотины.  -->
+		<set name="icon" value="icon.etc_branch_gold_i00" />
+		<set name="type" value="OTHER"/>
+		<set name="class" value="OTHER"/>
+		<set name="weight" value="0"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+
+	<etcitem id="34975" name="Корень Мандрагоры">
+		<!-- Выдается за преодоление Страданий Мандрагоры в Крепости Гильотины. Для передачи Темным Эльфам и Датфене из Крепости Гильотины.  -->
+		<set name="icon" value="icon.etc_ginseng_gray_i00" />
+		<set name="type" value="OTHER"/>
+		<set name="class" value="OTHER"/>
+		<set name="weight" value="0"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+
+	<etcitem id="34976" name="Треснувшая Петра">
+		<!-- Выдается за охоту в локации Семена Адского Пламени. Можно обменять на Петру у Контрабандиста Кокрана из Базы Альянса Кецеруса. -->
+		<set name="icon" value="icon.etc_torch_off_i00" />
+		<set name="type" value="OTHER"/>
+		<set name="class" value="OTHER"/>
+		<set name="weight" value="0"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+
+	<etcitem id="34977" name="Огненное Колесо">
+		<!-- Собирается в локации Семена Адского Пламени. В Семенах Адского Пламени заключена сила. Можно обменять на полезные товары у у Контрабандиста Кокрана из Базы Альянса Кецеруса. -->
+		<set name="icon" value="icon.etc_leash_i00" />
+		<set name="type" value="OTHER"/>
+		<set name="class" value="OTHER"/>
+		<set name="weight" value="0"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+
+	<etcitem id="34978" name="Свиток Телепорта: Горячие Источники">
+		<set name="freightable" value="true"/>
+		<set name="class" value="CONSUMABLE"/>
+		<set name="dropable" value="false"/>
+		<set name="icon" value="icon.etc_scroll_of_return_i00"/>
+		<set name="stackable" value="true"/>
+		<set name="tradeable" value="false"/>
+		<set name="type" value="SCROLL"/>
+		<set name="weight" value="30"/>
+		<skills>
+			<skill id="9446" level="1"/>
+		</skills>
+		<cond msgId="1508">
+			<not>
+				<player olympiad="true"/>
+			</not>
+		</cond>
+	</etcitem>
+
+	<etcitem id="34979" name="Свиток Телепорта: Кузница Богов">
+		<set name="freightable" value="true"/>
+		<set name="class" value="CONSUMABLE"/>
+		<set name="dropable" value="false"/>
+		<set name="icon" value="icon.etc_scroll_of_return_i00"/>
+		<set name="stackable" value="true"/>
+		<set name="tradeable" value="false"/>
+		<set name="type" value="SCROLL"/>
+		<set name="weight" value="30"/>
+		<skills>
+			<skill id="9447" level="1"/>
+		</skills>
+		<cond msgId="1508">
+			<not>
+				<player olympiad="true"/>
+			</not>
+		</cond>
+	</etcitem>
+
+	<etcitem id="34980" name="Свиток Телепорта: Кристальный Остров">
+		<set name="freightable" value="true"/>
+		<set name="class" value="CONSUMABLE"/>
+		<set name="dropable" value="false"/>
+		<set name="icon" value="icon.etc_scroll_of_return_i00"/>
+		<set name="stackable" value="true"/>
+		<set name="tradeable" value="false"/>
+		<set name="type" value="SCROLL"/>
+		<set name="weight" value="30"/>
+		<skills>
+			<skill id="9448" level="1"/>
+		</skills>
+		<cond msgId="1508">
+			<not>
+				<player olympiad="true"/>
+			</not>
+		</cond>
+	</etcitem>
+
+	<etcitem id="34981" name="Свиток Телепорта:Замок Аден (осада)">
+		<set name="freightable" value="true"/>
+		<set name="class" value="CONSUMABLE"/>
+		<set name="dropable" value="false"/>
+		<set name="icon" value="icon.etc_scroll_of_return_i00"/>
+		<set name="stackable" value="true"/>
+		<set name="tradeable" value="false"/>
+		<set name="type" value="SCROLL"/>
+		<set name="weight" value="30"/>
+		<skills>
+			<skill id="9449" level="1"/>
+		</skills>
+		<cond msgId="1508">
+			<not>
+				<player olympiad="true"/>
+			</not>
+		</cond>
+	</etcitem>
+
+	<etcitem id="34982" name="Свиток Телепорта: Замок Руна (осада)">
+		<set name="freightable" value="true"/>
+		<set name="class" value="CONSUMABLE"/>
+		<set name="dropable" value="false"/>
+		<set name="icon" value="icon.etc_scroll_of_return_i00"/>
+		<set name="stackable" value="true"/>
+		<set name="tradeable" value="false"/>
+		<set name="type" value="SCROLL"/>
+		<set name="weight" value="30"/>
+		<cond msgId="1508">
+			<not>
+				<player olympiad="true"/>
+			</not>
+		</cond>
+	</etcitem>
+
+	<etcitem id="34913" name="">
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="type" value="QUEST"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+
+	<etcitem id="34983" name="Получение права на дворянство">
+		<!--  -->
+		<set name="icon" value="icon.etc_nobless_teleport_coupon_i00" />
+		<set name="type" value="OTHER"/>
+		<set name="class" value="OTHER"/>
+		<set name="weight" value="0"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+
+	<etcitem id="34990" name="Weapon Piece">
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="0"/>
+		<set name="tradeable" value="true"/>
+		<set name="dropable" value="true"/>
+		<set name="sellable" value="true"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="OTHER"/>
+	</etcitem>
+	<etcitem id="34991" name="Armor Piece">
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="0"/>
+		<set name="tradeable" value="true"/>
+		<set name="dropable" value="true"/>
+		<set name="sellable" value="true"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="OTHER"/>
+	</etcitem>
+	<etcitem id="34992" name="Accessory Gem">
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="0"/>
+		<set name="tradeable" value="true"/>
+		<set name="dropable" value="true"/>
+		<set name="sellable" value="true"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="OTHER"/>
+	</etcitem>
+
+	<etcitem id="34993" name="Улучшенный Кокс">
+		<!-- Используется в качестве материала для изготовления предметов Ранга A и B. -->
+		<set name="icon" value="icon.etc_synthetic_cokes_i00" />
+		<set name="type" value="OTHER"/>
+		<set name="class" value="OTHER"/>
+		<set name="weight" value="0"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+
+	<etcitem id="34994" name="Самоцвет">
+		<!--  -->
+		<set name="icon" value="icon.etc_crystal_ball_silver_i00" />
+		<set name="type" value="OTHER"/>
+		<set name="class" value="OTHER"/>
+		<set name="weight" value="0"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+
+	<etcitem id="34995" name="Расписка об Обмене Головного Убора">
+		<!-- При помощи Члена Союза Восстановления Адена/Лидера Альянса можно обменять на: Ушки Кролика, Ушки Енота, Кошачьи Ушки, Модную Шляпу, Нимб Ангела, Диадема Демона, Глазную Повязку Пирата, Глазную Повязку Бандита, Глазную Повязку, Праздничный Колпак, Элегантный Обруч Ангела, Элегантные Рога Черта. -->
+		<set name="icon" value="icon.etc_piece_of_paper_white_i00" />
+		<set name="type" value="OTHER"/>
+		<set name="class" value="OTHER"/>
+		<set name="weight" value="0"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+</list>

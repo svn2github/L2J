@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "item.dtd">
+<list>
+  <armor id="36946" name="Серьга линдвиора"> 
+	<!-- MP +59, шанс обратить в камень при атаке и сопротивление окаменению +50%, отталкивающая/опрокидывающая атака и сопротивление отталкиванию/опрокидыванию +40%, притягивающая атака и сопротивление притягиванию +40%, Физ. Крит. Атк. +10%, Маг. Крит. Атк. +10%, отражение особых магич./физ. состояний +10%, с 10% вероятностью отражает магический урон и возвращает его атакующему объекту. Скорость +5, ЛВК +3, МДР +3, увеличение защиты от тьмы/ветра. Позволяет использовать умение, рассеивающие отталкивание/опрокидывание, а также мгновенно увеличивающее сопротивление отталкиванию/опрокидыванию до 100%. При надевании двух таких серег эффект не суммируется. -->
+        <set name="crystal_type" value="R"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="1205"/>
+        <set name="augmentable" value="false"/>        
+        <set name="type" value="NONE"/>
+        <set name="weight" value="150"/>
+        <equip>
+            <slot id="RIGHT_EAR"/>
+            <slot id="LEFT_EAR"/>
+        </equip>
+        <skills>
+            <skill id="13524" level="1"/>
+        </skills>
+        <set name="ex_type" value="EARRING"/>
+        <for>
+            <add stat="mDef" order="0x10" value="170"/>
+            <add stat="maxMp" order="0x10" value="59"/>		
+            <enchant stat="mDef" order="0x0C" value="0"/>          
+		</for>
+</armor>
+</list>

@@ -1,0 +1,2620 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "spawn.dtd">
+<!--Задумка спавна (c)Mangol,(c)KilRoy-->
+<list>
+	<!-- Говорящий остров начало-->
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114547" y="254264" z="-1528" h="38688" />
+		<npc id="33454" /><!--Newbie Helper-->
+	</spawn>
+		<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-108598" y="247384" z="-3224" h="30325" />
+		<npc id="20151" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-109596" y="247678" z="-2848" h="37212" />
+		<npc id="20091" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-109669" y="247384" z="-2904" h="17579" />
+		<npc id="20119" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-109511" y="247312" z="-2944" h="11138" />
+		<npc id="20119" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-108720" y="247689" z="-3176" h="31157" />
+		<npc id="20119" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-108917" y="247583" z="-3080" h="38483" />
+		<npc id="20091" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-109310" y="246810" z="-3008" h="16383" />
+		<npc id="33199" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-109186" y="246768" z="-3000" h="19574" />
+		<npc id="33002" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-109794" y="249855" z="-2872" h="46292" />
+		<npc id="20119" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110310" y="249390" z="-2688" h="6129" />
+		<npc id="20120" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-109239" y="249390" z="-2952" h="9709" />
+		<npc id="20151" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-109860" y="248332" z="-2696" h="29628" />
+		<npc id="20119" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-109777" y="248052" z="-2752" h="12616" />
+		<npc id="20120" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-109326" y="247989" z="-2880" h="5952" />
+		<npc id="20120" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-109834" y="247892" z="-2768" h="3191" />
+		<npc id="20091" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-109269" y="248538" z="-2840" h="13126" />
+		<npc id="20151" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-109199" y="249532" z="-2968" h="3997" />
+		<npc id="20151" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-108961" y="251324" z="-2888" h="40185" />
+		<npc id="20091" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-109326" y="250834" z="-2848" h="50436" />
+		<npc id="20151" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-109461" y="250640" z="-2888" h="42022" />
+		<npc id="20119" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-109140" y="250354" z="-2952" h="62528" />
+		<npc id="20151" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110078" y="251890" z="-2016" h="51500" />
+		<npc id="33024" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110454" y="251805" z="-2000" h="13172" />
+		<npc id="33018" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110450" y="251871" z="-2000" h="13172" />
+		<npc id="33018" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110308" y="251792" z="-2016" h="13172" />
+		<npc id="33018" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110304" y="251858" z="-2016" h="13172" />
+		<npc id="33018" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110369" y="251862" z="-2000" h="13172" />
+		<npc id="33018" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110373" y="251796" z="-2000" h="13172" />
+		<npc id="33018" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-108479" y="247630" z="-3224" h="17560" />
+		<npc id="20120" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-107218" y="247575" z="-3344" h="25143" />
+		<npc id="20120" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-107527" y="246646" z="-3352" h="29060" />
+		<npc id="20151" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-108218" y="247660" z="-3200" h="60235" />
+		<npc id="20120" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-108386" y="247295" z="-2904" h="46989" />
+		<npc id="20091" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-106687" y="247820" z="-3320" h="35075" />
+		<npc id="20091" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-108281" y="249820" z="-3056" h="10965" />
+		<npc id="20120" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-106678" y="248742" z="-3232" h="25625" />
+		<npc id="20091" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-106556" y="249231" z="-3224" h="41599" />
+		<npc id="20091" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-107688" y="248731" z="-3208" h="29720" />
+		<npc id="33448" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-107705" y="248904" z="-3208" h="37104" />
+		<npc id="33454" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-107780" y="249018" z="-3200" h="36125" />
+		<npc id="33202" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-107779" y="248968" z="-3208" h="35908" />
+		<npc id="33124" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-108485" y="251324" z="-3000" h="50392" />
+		<npc id="20120" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-108485" y="251550" z="-3072" h="8084" />
+		<npc id="20091" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-108371" y="250163" z="-3048" h="32547" />
+		<npc id="20120" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-108265" y="251789" z="-3264" h="3715" />
+		<npc id="20091" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-106902" y="250607" z="-3576" h="22942" />
+		<npc id="20120" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-106175" y="247430" z="-3464" h="4398" />
+		<npc id="20119" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-106371" y="247780" z="-3376" h="113" />
+		<npc id="20119" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-106361" y="247712" z="-3392" h="5172" />
+		<npc id="20119" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-106198" y="247502" z="-3464" h="19687" />
+		<npc id="20151" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-106305" y="246551" z="-3368" h="48831" />
+		<npc id="20151" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-105661" y="246914" z="-3552" h="18177" />
+		<npc id="20091" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-105639" y="245761" z="-3624" h="37058" />
+		<npc id="20120" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-104795" y="247730" z="-3672" h="64056" />
+		<npc id="33575" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-104670" y="246355" z="-3768" h="7037" />
+		<npc id="33573" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-104474" y="247112" z="-3760" h="63193" />
+		<npc id="33571" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-105274" y="247584" z="-3624" h="64530" />
+		<npc id="33286" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-105210" y="247610" z="-3632" h="59900" />
+		<npc id="33219" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-105564" y="248506" z="-3624" h="24468" />
+		<npc id="20119" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-106400" y="248414" z="-3336" h="22516" />
+		<npc id="20091" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-105657" y="248948" z="-3648" h="50617" />
+		<npc id="20119" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-106416" y="248095" z="-3360" h="47094" />
+		<npc id="20091" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-104451" y="248112" z="-3744" h="63927" />
+		<npc id="33572" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110072" y="249390" z="-2736" h="2740" />
+		<npc id="20119" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-106388" y="247319" z="-3416" h="53046" />
+		<npc id="20120" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-109256" y="246856" z="-3049" h="0" />
+		<npc id="33202" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-108598" y="246646" z="-3104" h="47546" />
+		<npc id="20151" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-108360" y="247794" z="-3200" h="18987" />
+		<npc id="20120" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-108128" y="250985" z="-3136" h="2150" />
+		<npc id="20151" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-108009" y="250646" z="-3168" h="23545" />
+		<npc id="20151" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-109001" y="248855" z="-2960" h="51357" />
+		<npc id="20091" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-108009" y="250307" z="-3064" h="18489" />
+		<npc id="20119" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-109239" y="248855" z="-2864" h="54860" />
+		<npc id="20091" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-109358" y="248641" z="-2816" h="29515" />
+		<npc id="20120" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-109001" y="249283" z="-3008" h="37880" />
+		<npc id="20119" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-109547" y="246075" z="-2960" h="16371" />
+		<npc id="33198" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-109551" y="246029" z="-2960" h="15654" />
+		<npc id="33198" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-109556" y="251098" z="-2736" h="16733" />
+		<npc id="20120" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-107881" y="248658" z="-3224" h="59140" />
+		<npc id="12077" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-109556" y="250307" z="-2896" h="59152" />
+		<npc id="20120" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-106471" y="248087" z="-3336" h="36089" />
+		<npc id="20120" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-108961" y="250420" z="-2976" h="22286" />
+		<npc id="20119" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110896" y="251872" z="-1968" h="228" />
+		<npc id="33000" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110597" y="251792" z="-1976" h="13172" />
+		<npc id="33018" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110864" y="251808" z="-1976" h="8900" />
+		<npc id="33002" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110563" y="251313" z="-2072" h="63632" />
+		<npc id="33203" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110659" y="251861" z="-1976" h="13172" />
+		<npc id="33018" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110740" y="251870" z="-1968" h="13172" />
+		<npc id="33018" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110593" y="251857" z="-1976" h="13172" />
+		<npc id="33018" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110663" y="251796" z="-1976" h="13172" />
+		<npc id="33018" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110744" y="251805" z="-1968" h="13172" />
+		<npc id="33018" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110820" y="251755" z="-1976" h="43732" />
+		<npc id="33000" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110832" y="251856" z="-1968" h="35924" />
+		<npc id="33022" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110072" y="248641" z="-2680" h="60357" />
+		<npc id="20120" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-109556" y="250759" z="-2848" h="26718" />
+		<npc id="20151" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-109080" y="250872" z="-2888" h="61398" />
+		<npc id="20151" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-106139" y="247575" z="-3472" h="4950" />
+		<npc id="20091" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-109318" y="250081" z="-2928" h="18335" />
+		<npc id="20120" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-106637" y="247319" z="-3392" h="31543" />
+		<npc id="20119" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110072" y="248962" z="-2648" h="1975" />
+		<npc id="20119" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-108009" y="250759" z="-3208" h="65286" />
+		<npc id="20091" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-105973" y="246423" z="-3456" h="45491" />
+		<npc id="20119" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-108009" y="250646" z="-3168" h="29358" />
+		<npc id="20091" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-106803" y="247831" z="-3312" h="22241" />
+		<npc id="20151" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-108723" y="251098" z="-2936" h="22327" />
+		<npc id="20120" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-106388" y="247831" z="-3368" h="5055" />
+		<npc id="20119" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-109913" y="250420" z="-2840" h="15715" />
+		<npc id="20151" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-109218" y="245135" z="-2920" h="20603" />
+		<npc id="33198" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-109331" y="245399" z="-2920" h="21567" />
+		<npc id="33198" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-109715" y="248641" z="-2744" h="16043" />
+		<npc id="20151" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-106471" y="248215" z="-3336" h="7644" />
+		<npc id="20120" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-107765" y="247466" z="-3288" h="52738" />
+		<npc id="20151" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-108128" y="250533" z="-3104" h="28613" />
+		<npc id="20151" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-109794" y="250646" z="-2832" h="32503" />
+		<npc id="20120" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-109358" y="248855" z="-2840" h="11404" />
+		<npc id="20119" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-106056" y="247447" z="-3480" h="34570" />
+		<npc id="20119" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-108479" y="247712" z="-3208" h="46349" />
+		<npc id="20091" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-109312" y="247384" z="-2968" h="64465" />
+		<npc id="20120" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-109715" y="247892" z="-2776" h="56288" />
+		<npc id="20091" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-109001" y="248320" z="-2936" h="56551" />
+		<npc id="20119" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-109437" y="250533" z="-2896" h="11182" />
+		<npc id="20119" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-109550" y="246810" z="-2992" h="52221" />
+		<npc id="20119" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-109834" y="249283" z="-2752" h="49156" />
+		<npc id="20120" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-108122" y="247876" z="-3200" h="46749" />
+		<npc id="20119" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-108882" y="249176" z="-3048" h="59929" />
+		<npc id="20151" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-108882" y="248427" z="-2976" h="18930" />
+		<npc id="20120" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-106554" y="247447" z="-3392" h="26066" />
+		<npc id="20151" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-108009" y="249855" z="-3064" h="54968" />
+		<npc id="20091" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-108717" y="247466" z="-3216" h="40304" />
+		<npc id="20120" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-109312" y="247220" z="-3024" h="5843" />
+		<npc id="20091" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-108525" y="248641" z="-3200" h="11734" />
+		<npc id="20091" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-106139" y="246551" z="-3424" h="951" />
+		<npc id="20119" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-109358" y="248641" z="-2816" h="13694" />
+		<npc id="20119" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-105334" y="246060" z="-3640" h="18237" />
+		<npc id="20091" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-108644" y="248748" z="-3160" h="50717" />
+		<npc id="20120" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-108003" y="247712" z="-3216" h="4909" />
+		<npc id="20120" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-108598" y="247712" z="-3216" h="53275" />
+		<npc id="20151" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-108003" y="247794" z="-3216" h="26783" />
+		<npc id="20151" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-109001" y="249176" z="-3024" h="21108" />
+		<npc id="20091" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-108003" y="246564" z="-3248" h="32541" />
+		<npc id="20091" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-109312" y="246974" z="-3040" h="57272" />
+		<npc id="20119" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-109834" y="247785" z="-2808" h="24567" />
+		<npc id="20151" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-109721" y="249136" z="-2728" h="13898" />
+		<npc id="20119" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-109596" y="248748" z="-2752" h="14631" />
+		<npc id="20119" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-109497" y="249405" z="-2888" h="34658" />
+		<npc id="20120" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-106789" y="242488" z="-2448" h="46800" />
+		<npc id="33203" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-108955" y="246564" z="-3008" h="40009" />
+		<npc id="20120" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-108598" y="247384" z="-3224" h="8361" />
+		<npc id="20119" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-109193" y="247548" z="-2976" h="7588" />
+		<npc id="20151" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-109312" y="246728" z="-2912" h="5521" />
+		<npc id="20119" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110697" y="239850" z="-2920" h="35514" />
+		<npc id="22995" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110642" y="239846" z="-2920" h="41059" />
+		<npc id="22995" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110464" y="240513" z="-2920" h="16910" />
+		<npc id="23122" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-106890" y="239434" z="-2112" h="49608" />
+		<npc id="33198" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-106890" y="239444" z="-2112" h="49608" />
+		<npc id="33198" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110619" y="240555" z="-2920" h="5970" />
+		<npc id="22993" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110983" y="240563" z="-2920" h="16358" />
+		<npc id="22993" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111002" y="240568" z="-2920" h="10900" />
+		<npc id="22993" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110746" y="240616" z="-2920" h="42715" />
+		<npc id="22993" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110873" y="240555" z="-2920" h="59671" />
+		<npc id="23122" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110351" y="238899" z="-2920" h="9335" />
+		<npc id="22995" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-107761" y="237457" z="-2528" h="36773" />
+		<npc id="33198" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-108171" y="237432" z="-2632" h="32976" />
+		<npc id="33198" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-108222" y="237348" z="-2632" h="33342" />
+		<npc id="33198" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-108379" y="237340" z="-2688" h="32605" />
+		<npc id="33198" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-108678" y="237434" z="-2800" h="31926" />
+		<npc id="33198" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-104615" y="237919" z="-1656" h="32767" />
+		<npc id="33203" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-104447" y="238311" z="-1616" h="34433" />
+		<npc id="33203" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110365" y="239762" z="-2920" h="3836" />
+		<npc id="22993" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-107420" y="237857" z="-2440" h="9408" />
+		<npc id="33198" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-107406" y="237875" z="-2440" h="9408" />
+		<npc id="33198" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-107419" y="237858" z="-2440" h="9408" />
+		<npc id="33198" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-107338" y="237851" z="-2432" h="8764" />
+		<npc id="33198" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-107334" y="237856" z="-2424" h="8733" />
+		<npc id="33198" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110405" y="239143" z="-2920" h="32059" />
+		<npc id="22995" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110492" y="240433" z="-2920" h="29401" />
+		<npc id="22993" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110405" y="238655" z="-2920" h="14570" />
+		<npc id="22993" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111238" y="234073" z="-3224" h="29334" />
+		<npc id="23122" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110567" y="238716" z="-2920" h="28090" />
+		<npc id="22995" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111070" y="239185" z="-2920" h="21817" />
+		<npc id="22993" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111411" y="233996" z="-3240" h="35526" />
+		<npc id="22994" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110917" y="234022" z="-3192" h="49055" />
+		<npc id="23122" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111060" y="233635" z="-3200" h="1186" />
+		<npc id="22994" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111149" y="234097" z="-3216" h="61472" />
+		<npc id="19154" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111496" y="233880" z="-3248" h="30785" />
+		<npc id="19154" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111011" y="234055" z="-3200" h="2387" />
+		<npc id="19153" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111032" y="233638" z="-3200" h="33956" />
+		<npc id="19153" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111151" y="233847" z="-3216" h="52019" />
+		<npc id="19153" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111152" y="233869" z="-3216" h="54482" />
+		<npc id="19152" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111024" y="233638" z="-3200" h="33798" />
+		<npc id="19152" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111762" y="238365" z="-2880" h="57896" />
+		<npc id="23122" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110999" y="239265" z="-2920" h="15332" />
+		<npc id="22995" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111641" y="238471" z="-2888" h="49306" />
+		<npc id="23122" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110865" y="238429" z="-2920" h="52684" />
+		<npc id="23122" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-112359" y="238428" z="-2880" h="16530" />
+		<npc id="22994" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-112411" y="238234" z="-2864" h="17500" />
+		<npc id="23122" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110891" y="238960" z="-2920" h="37821" />
+		<npc id="19154" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-112267" y="238422" z="-2880" h="37705" />
+		<npc id="22994" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-112102" y="239196" z="-2920" h="58889" />
+		<npc id="19154" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111905" y="239145" z="-2920" h="62069" />
+		<npc id="19154" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-112419" y="238308" z="-2864" h="50270" />
+		<npc id="19153" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-112359" y="238440" z="-2880" h="49300" />
+		<npc id="19152" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-112356" y="238280" z="-2864" h="40099" />
+		<npc id="19152" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-112309" y="238400" z="-2880" h="4936" />
+		<npc id="19153" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-106647" y="235464" z="-3192" h="3571" />
+		<npc id="33203" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110991" y="233572" z="-3200" h="31813" />
+		<npc id="22994" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111792" y="238486" z="-2888" h="25011" />
+		<npc id="22994" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111691" y="233837" z="-3264" h="17943" />
+		<npc id="23122" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111832" y="240136" z="-2920" h="19185" />
+		<npc id="22995" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-112575" y="233873" z="-3080" h="12351" />
+		<npc id="23122" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-112524" y="239884" z="-2920" h="46629" />
+		<npc id="22993" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111295" y="240306" z="-2920" h="904" />
+		<npc id="23122" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-112212" y="240181" z="-2920" h="29060" />
+		<npc id="22993" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110746" y="240250" z="-2920" h="50202" />
+		<npc id="22993" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110837" y="238777" z="-2920" h="15598" />
+		<npc id="22993" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111225" y="240436" z="-2920" h="35651" />
+		<npc id="22993" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111411" y="233625" z="-3240" h="19246" />
+		<npc id="23122" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110999" y="238594" z="-2920" h="45721" />
+		<npc id="22993" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111381" y="240189" z="-2920" h="62603" />
+		<npc id="23122" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-112524" y="240372" z="-2920" h="10781" />
+		<npc id="23122" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111508" y="239884" z="-2920" h="42663" />
+		<npc id="22993" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111381" y="240067" z="-2920" h="26358" />
+		<npc id="22995" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110945" y="238533" z="-2920" h="61443" />
+		<npc id="22993" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111621" y="234208" z="-3264" h="14156" />
+		<npc id="23122" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111381" y="240006" z="-2920" h="63908" />
+		<npc id="22993" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110567" y="239326" z="-2920" h="48689" />
+		<npc id="22995" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-112016" y="240494" z="-2920" h="48986" />
+		<npc id="22993" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-116361" y="256878" z="-1520" h="2555" />
+		<npc id="30767" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-116177" y="257317" z="-1512" h="56732" />
+		<npc id="31690" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-116136" y="257166" z="-1512" h="56919" />
+		<npc id="31688" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-115705" y="257365" z="-1408" h="28476" />
+		<npc id="32966" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-115865" y="257543" z="-1408" h="33704" />
+		<npc id="33122" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-115541" y="257556" z="-1288" h="20380" />
+		<npc id="33122" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-115200" y="257280" z="-1224" h="36264" />
+		<npc id="33122" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114709" y="257023" z="-1136" h="33704" />
+		<npc id="33022" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114950" y="257021" z="-1136" h="0" />
+		<npc id="33022" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-116400" y="256048" z="-1464" h="46836" />
+		<npc id="33249" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-116467" y="258209" z="-1504" h="64830" />
+		<npc id="33203" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-116686" y="258182" z="-1520" h="31910" />
+		<npc id="33203" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-116205" y="258040" z="-1512" h="8146" />
+		<npc id="33203" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-116534" y="258364" z="-1504" h="24327" />
+		<npc id="33203" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-116041" y="258216" z="-1512" h="57717" />
+		<npc id="33203" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-116090" y="257935" z="-1512" h="54597" />
+		<npc id="33203" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-116326" y="258135" z="-1512" h="26397" />
+		<npc id="33203" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-115212" y="260013" z="-1192" h="0" />
+		<npc id="33022" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-115205" y="259823" z="-1192" h="0" />
+		<npc id="33022" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-115205" y="258828" z="-1192" h="0" />
+		<npc id="33022" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-115212" y="259032" z="-1192" h="0" />
+		<npc id="33022" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-113424" y="256240" z="-1496" h="32256" />
+		<npc id="33237" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114160" y="257038" z="-1136" h="47939" />
+		<npc id="33238" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114467" y="257010" z="-1136" h="47939" />
+		<npc id="33223" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-113130" y="257529" z="-1288" h="33176" />
+		<npc id="32966" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-113920" y="257216" z="-1136" h="51804" />
+		<npc id="33245" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-113339" y="257453" z="-1288" h="51804" />
+		<npc id="33122" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-113664" y="257536" z="-1280" h="20380" />
+		<npc id="32966" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114336" y="257136" z="-1136" h="36264" />
+		<npc id="33221" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114016" y="257152" z="-1136" h="20380" />
+		<npc id="33125" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-113792" y="257027" z="-1136" h="33176" />
+		<npc id="33022" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114032" y="257022" z="-1136" h="0" />
+		<npc id="33022" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114112" y="259088" z="-1192" h="31988" />
+		<npc id="33247" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-113526" y="258843" z="-1192" h="32768" />
+		<npc id="33022" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-113533" y="260021" z="-1192" h="32768" />
+		<npc id="33022" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-113534" y="259033" z="-1192" h="32768" />
+		<npc id="33022" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-113540" y="259846" z="-1192" h="32768" />
+		<npc id="33022" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-112115" y="256890" z="-1440" h="29393" />
+		<npc id="12077" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111988" y="257240" z="-1376" h="0" />
+		<npc id="16051" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111397" y="256400" z="-1432" h="36032" />
+		<npc id="33000" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111329" y="256136" z="-1440" h="36032" />
+		<npc id="33000" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111429" y="256238" z="-1440" h="36032" />
+		<npc id="33000" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111364" y="256193" z="-1440" h="36032" />
+		<npc id="33000" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111453" y="256365" z="-1432" h="36032" />
+		<npc id="33000" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111484" y="256305" z="-1432" h="36032" />
+		<npc id="33000" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111328" y="256238" z="-1440" h="36032" />
+		<npc id="33000" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111347" y="256349" z="-1432" h="36032" />
+		<npc id="33000" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111383" y="256304" z="-1432" h="36032" />
+		<npc id="33000" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111242" y="256232" z="-1440" h="36032" />
+		<npc id="33000" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111278" y="256187" z="-1440" h="36032" />
+		<npc id="33000" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111292" y="256283" z="-1432" h="36032" />
+		<npc id="33000" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111506" y="256121" z="-1440" h="8386" />
+		<npc id="33002" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-112256" y="256960" z="-1456" h="33680" />
+		<npc id="30006" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114539" y="260101" z="-1192" h="33222" />
+		<npc id="14937" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-116455" y="257971" z="-1520" h="53895" />
+		<npc id="33203" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-117068" y="245609" z="-1992" h="35788" />
+		<npc id="20093" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-118085" y="245125" z="-2000" h="1390" />
+		<npc id="20093" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-118508" y="244859" z="-2016" h="11641" />
+		<npc id="20093" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-116968" y="244707" z="-2128" h="0" />
+		<npc id="19152" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-117733" y="245272" z="-2016" h="20000" />
+		<npc id="33202" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-117694" y="245310" z="-2024" h="20000" />
+		<npc id="33124" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-118209" y="247671" z="-2152" h="27275" />
+		<npc id="20093" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-118278" y="247671" z="-2112" h="37974" />
+		<npc id="20094" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-117630" y="246225" z="-2232" h="55690" />
+		<npc id="20096" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-117440" y="246574" z="-2296" h="23568" />
+		<npc id="20096" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-117566" y="245974" z="-2160" h="60875" />
+		<npc id="20094" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-117470" y="246092" z="-2184" h="52628" />
+		<npc id="20094" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-117973" y="247240" z="-2192" h="41574" />
+		<npc id="20094" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114869" y="243608" z="-7968" h="16000" />
+		<npc id="33482" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114711" y="243564" z="-7944" h="16000" />
+		<npc id="33477" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114845" y="243591" z="-7960" h="16000" />
+		<npc id="33481" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114809" y="243578" z="-7952" h="16000" />
+		<npc id="33480" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114710" y="245444" z="-7968" h="49152" />
+		<npc id="33004" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-115764" y="246743" z="-3192" h="26659" />
+		<npc id="20120" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-115992" y="246345" z="-3216" h="57124" />
+		<npc id="20093" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-116538" y="246912" z="-2968" h="25106" />
+		<npc id="20093" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114816" y="246269" z="-3560" h="21474" />
+		<npc id="20119" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-115508" y="245982" z="-3360" h="64885" />
+		<npc id="20120" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-115405" y="245992" z="-3376" h="51465" />
+		<npc id="20120" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114541" y="243597" z="-7968" h="16000" />
+		<npc id="33485" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114577" y="243593" z="-7960" h="16000" />
+		<npc id="33484" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114612" y="243580" z="-7952" h="16000" />
+		<npc id="33483" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114351" y="245553" z="-3648" h="49606" />
+		<npc id="20119" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-113627" y="245582" z="-3712" h="43710" />
+		<npc id="20119" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-113324" y="245097" z="-3768" h="56780" />
+		<npc id="33203" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-113728" y="244872" z="-7968" h="31000" />
+		<npc id="33372" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-113728" y="244829" z="-7960" h="31000" />
+		<npc id="33372" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-113721" y="244788" z="-7952" h="31000" />
+		<npc id="33372" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-113744" y="244516" z="-7968" h="31000" />
+		<npc id="33372" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-113732" y="244550" z="-7960" h="31000" />
+		<npc id="33372" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-113713" y="244682" z="-7944" h="31000" />
+		<npc id="32138" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-113719" y="244582" z="-7952" h="31000" />
+		<npc id="33372" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114602" y="243798" z="-7968" h="21592" />
+		<npc id="33486" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114632" y="243825" z="-7968" h="54537" />
+		<npc id="33487" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114682" y="246403" z="-3592" h="10172" />
+		<npc id="20093" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-113734" y="245846" z="-3688" h="59916" />
+		<npc id="20119" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-113059" y="247351" z="-3704" h="18142" />
+		<npc id="20494" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-113989" y="247253" z="-3608" h="10673" />
+		<npc id="20091" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-113636" y="247273" z="-3648" h="59570" />
+		<npc id="20494" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-113431" y="247535" z="-3320" h="5750" />
+		<npc id="20091" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-113989" y="247347" z="-3520" h="40530" />
+		<npc id="20091" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114082" y="247253" z="-3544" h="49953" />
+		<npc id="20091" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114014" y="247680" z="-7872" h="13665" />
+		<npc id="33193" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-118193" y="241086" z="-2736" h="65406" />
+		<npc id="22996" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-118568" y="244797" z="-2016" h="62761" />
+		<npc id="20093" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-118353" y="241093" z="-2736" h="62875" />
+		<npc id="22996" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-117179" y="240711" z="-2736" h="2683" />
+		<npc id="22996" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-112594" y="246313" z="-3584" h="28486" />
+		<npc id="20494" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-112408" y="246407" z="-3512" h="1926" />
+		<npc id="20494" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114433" y="245666" z="-3640" h="36617" />
+		<npc id="20093" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111074" y="240653" z="-2920" h="35814" />
+		<npc id="23122" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111889" y="240677" z="-2920" h="30127" />
+		<npc id="22993" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-117569" y="241227" z="-2736" h="22293" />
+		<npc id="22994" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-116039" y="246193" z="-3168" h="18480" />
+		<npc id="20120" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-117569" y="240840" z="-2736" h="38068" />
+		<npc id="22996" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114516" y="246336" z="-3640" h="44573" />
+		<npc id="20093" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-117652" y="246884" z="-2320" h="17647" />
+		<npc id="20094" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-113495" y="255751" z="-1496" h="25269" />
+		<npc id="33228" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-113617" y="255360" z="-1496" h="49144" />
+		<npc id="16035" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114270" y="256143" z="-1408" h="14990" />
+		<npc id="12077" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-115003" y="254265" z="-1496" h="0" />
+		<npc id="31563" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-116128" y="254240" z="-1496" h="19036" />
+		<npc id="33022" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-115744" y="254464" z="-1504" h="11840" />
+		<npc id="33252" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-115120" y="255776" z="-1488" h="7480" />
+		<npc id="33020" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-115184" y="255362" z="-1496" h="0" />
+		<npc id="33490" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-115072" y="255120" z="-1496" h="57876" />
+		<npc id="33025" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-115286" y="255058" z="-1496" h="0" />
+		<npc id="33491" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-116697" y="255513" z="-1424" h="0" />
+		<npc id="32980" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114364" y="255194" z="-1520" h="49435" />
+		<npc id="14932" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114165" y="255055" z="-1528" h="17099" />
+		<npc id="12077" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114444" y="255043" z="-1528" h="16384" />
+		<npc id="32648" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-113361" y="255997" z="-1496" h="32768" />
+		<npc id="30004" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-113440" y="255952" z="-1496" h="5188" />
+		<npc id="33236" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114340" y="254306" z="-1552" h="28452" />
+		<npc id="33122" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114388" y="254501" z="-1552" h="61740" />
+		<npc id="32966" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114608" y="254832" z="-1528" h="61740" />
+		<npc id="33276" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114080" y="254928" z="-1528" h="49328" />
+		<npc id="33274" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114624" y="254912" z="-1528" h="28452" />
+		<npc id="33277" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114112" y="254832" z="-1528" h="38024" />
+		<npc id="33275" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114208" y="254352" z="-1528" h="12068" />
+		<npc id="33273" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114160" y="254400" z="-1520" h="35532" />
+		<npc id="33272" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114160" y="254545" z="-1528" h="59067" />
+		<npc id="33268" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114544" y="254512" z="-1528" h="32767" />
+		<npc id="33271" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114208" y="254416" z="-1528" h="60080" />
+		<npc id="33269" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114355" y="255041" z="-1528" h="16384" />
+		<npc id="32975" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114500" y="254076" z="-1528" h="48689" />
+		<npc id="33123" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114538" y="255013" z="-1528" h="2555" />
+		<npc id="32478" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114547" y="254264" z="-1528" h="38688" />
+		<npc id="33454" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-113509" y="254960" z="-1496" h="37605" />
+		<npc id="33284" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-113706" y="255890" z="-1504" h="20037" />
+		<npc id="33240" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-113520" y="255104" z="-1496" h="51488" />
+		<npc id="33232" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-113664" y="255584" z="-1496" h="56420" />
+		<npc id="33235" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-113618" y="255326" z="-1496" h="32768" />
+		<npc id="30005" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-113459" y="253959" z="-1496" h="32768" />
+		<npc id="30283" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110922" y="253996" z="-1784" h="49708" />
+		<npc id="27457" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111126" y="253995" z="-1760" h="49244" />
+		<npc id="27457" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110816" y="253997" z="-1792" h="48592" />
+		<npc id="27457" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111017" y="253994" z="-1776" h="49316" />
+		<npc id="27457" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110703" y="253996" z="-1792" h="49700" />
+		<npc id="27457" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111536" y="255265" z="-1416" h="24288" />
+		<npc id="33018" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111374" y="255374" z="-1432" h="24288" />
+		<npc id="33018" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111443" y="255376" z="-1432" h="24288" />
+		<npc id="33018" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111634" y="255351" z="-1424" h="63400" />
+		<npc id="33007" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111533" y="255401" z="-1432" h="24288" />
+		<npc id="33018" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111534" y="255333" z="-1416" h="24288" />
+		<npc id="33018" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111285" y="255350" z="-1424" h="24288" />
+		<npc id="33018" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111444" y="255308" z="-1416" h="24288" />
+		<npc id="33018" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111309" y="255282" z="-1424" h="24288" />
+		<npc id="33018" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111376" y="255306" z="-1416" h="24288" />
+		<npc id="33018" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111457" y="255252" z="-1416" h="24288" />
+		<npc id="33018" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111322" y="255226" z="-1408" h="24288" />
+		<npc id="33018" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111378" y="255239" z="-1416" h="24288" />
+		<npc id="33018" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111384" y="255882" z="-1440" h="35768" />
+		<npc id="32974" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111333" y="254152" z="-1736" h="44661" />
+		<npc id="33023" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-112336" y="254832" z="-1504" h="24444" />
+		<npc id="33114" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-112400" y="254896" z="-1504" h="0" />
+		<npc id="33115" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111988" y="257240" z="-1376" h="15525" />
+		<npc id="14663" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114579" y="260101" z="-1192" h="0" />
+		<npc id="14937" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114771" y="252666" z="-1544" h="0" />
+		<npc id="33580" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-115200" y="252832" z="-1512" h="26124" />
+		<npc id="33281" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-115200" y="252784" z="-1512" h="10008" />
+		<npc id="33022" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-115350" y="252923" z="-1496" h="0" />
+		<npc id="30149" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-115142" y="253571" z="-1496" h="0" />
+		<npc id="32166" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114912" y="253632" z="-1496" h="53036" />
+		<npc id="33026" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-115808" y="253856" z="-1504" h="60284" />
+		<npc id="33250" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-115744" y="253856" z="-1504" h="32884" />
+		<npc id="33251" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-116160" y="253536" z="-1504" h="9272" />
+		<npc id="33282" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114801" y="252636" z="-1544" h="64427" />
+		<npc id="33579" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114808" y="252218" z="-1520" h="49153" />
+		<npc id="33022" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114231" y="253381" z="-1528" h="56305" />
+		<npc id="16041" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114259" y="253612" z="-1528" h="53451" />
+		<npc id="33581" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114383" y="253554" z="-1536" h="41219" />
+		<npc id="33530" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-113792" y="252688" z="-1536" h="19244" />
+		<npc id="33287" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114050" y="252713" z="-1536" h="33744" />
+		<npc id="33116" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114041" y="252566" z="-1560" h="33178" />
+		<npc id="33202" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114084" y="252504" z="-1560" h="47047" />
+		<npc id="33124" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-113885" y="252208" z="-1560" h="49153" />
+		<npc id="33022" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-113552" y="253936" z="-1496" h="55788" />
+		<npc id="33227" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-113627" y="253669" z="-1496" h="57534" />
+		<npc id="33285" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-113856" y="253680" z="-1496" h="32648" />
+		<npc id="33229" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-113536" y="253825" z="-1424" h="32057" />
+		<npc id="33226" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-113550" y="253830" z="-1496" h="16384" />
+		<npc id="19218" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-113577" y="253780" z="-1496" h="11604" />
+		<npc id="33225" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-113625" y="253606" z="-1496" h="6344" />
+		<npc id="30001" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-113580" y="253130" z="-1496" h="19160" />
+		<npc id="30002" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114685" y="252350" z="-1560" h="15879" />
+		<npc id="33587" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111476" y="253710" z="-1712" h="0" />
+		<npc id="27457" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111456" y="253479" z="-1744" h="0" />
+		<npc id="27457" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111044" y="252595" z="-1864" h="43261" />
+		<npc id="33203" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111466" y="253590" z="-1720" h="0" />
+		<npc id="27457" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111444" y="253355" z="-1752" h="0" />
+		<npc id="27457" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111331" y="254133" z="-1736" h="27931" />
+		<npc id="33201" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110976" y="253491" z="-1768" h="589" />
+		<npc id="33201" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110987" y="253325" z="-1768" h="62423" />
+		<npc id="33201" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111293" y="252912" z="-1784" h="44568" />
+		<npc id="33024" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110758" y="253461" z="-1736" h="10250" />
+		<npc id="33464" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110704" y="253662" z="-1792" h="19286" />
+		<npc id="32981" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110768" y="252912" z="-1760" h="8672" />
+		<npc id="33000" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110948" y="253313" z="-1768" h="32073" />
+		<npc id="33023" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110923" y="253494" z="-1776" h="32073" />
+		<npc id="33023" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110768" y="252816" z="-1776" h="42596" />
+		<npc id="33022" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111408" y="253264" z="-1760" h="6892" />
+		<npc id="33000" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111328" y="253136" z="-1776" h="3980" />
+		<npc id="33002" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111328" y="253088" z="-1776" h="16172" />
+		<npc id="33022" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111280" y="253072" z="-1776" h="56600" />
+		<npc id="33000" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111040" y="252224" z="-1944" h="59752" />
+		<npc id="33000" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110992" y="252144" z="-1960" h="6076" />
+		<npc id="33022" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110704" y="252368" z="-1976" h="54876" />
+		<npc id="33000" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110624" y="252432" z="-1976" h="0" />
+		<npc id="33000" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110731" y="251951" z="-1960" h="13172" />
+		<npc id="33018" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110650" y="251943" z="-1968" h="13172" />
+		<npc id="33018" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110596" y="253644" z="-1784" h="0" />
+		<npc id="33006" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114400" y="251934" z="-1608" h="16383" />
+		<npc id="12077" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110324" y="253565" z="-1776" h="33236" />
+		<npc id="27457" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110952" y="253596" z="-1776" h="0" />
+		<npc id="33006" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110259" y="254075" z="-1776" h="37977" />
+		<npc id="33024" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110880" y="253596" z="-1776" h="0" />
+		<npc id="33006" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110317" y="253455" z="-1485" h="32552" />
+		<npc id="27457" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110209" y="253921" z="-1776" h="49153" />
+		<npc id="33018" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110215" y="253854" z="-1776" h="49153" />
+		<npc id="33018" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110336" y="253775" z="-1776" h="49153" />
+		<npc id="33018" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110279" y="253781" z="-1776" h="49153" />
+		<npc id="33018" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110212" y="253774" z="-1776" h="49153" />
+		<npc id="33018" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110285" y="253838" z="-1776" h="49153" />
+		<npc id="33018" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110279" y="253905" z="-1776" h="49153" />
+		<npc id="33018" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110342" y="253832" z="-1784" h="49153" />
+		<npc id="33018" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110263" y="253685" z="-1776" h="15416" />
+		<npc id="33007" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110336" y="253900" z="-1776" h="49153" />
+		<npc id="33018" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110256" y="252496" z="-1984" h="39096" />
+		<npc id="33002" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110464" y="252064" z="-1992" h="48811" />
+		<npc id="33007" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110446" y="251937" z="-1992" h="13172" />
+		<npc id="33018" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110584" y="251938" z="-1976" h="13172" />
+		<npc id="33018" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110299" y="251924" z="-2000" h="13172" />
+		<npc id="33018" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110365" y="251928" z="-1992" h="13172" />
+		<npc id="33018" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110528" y="252458" z="-1984" h="54000" />
+		<npc id="33000" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110424" y="252523" z="-1984" h="54000" />
+		<npc id="33194" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110672" y="253628" z="-1784" h="0" />
+		<npc id="33006" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-108604" y="251324" z="-2976" h="34316" />
+		<npc id="20151" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-108723" y="250985" z="-2936" h="14248" />
+		<npc id="20151" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-108472" y="251335" z="-3000" h="35938" />
+		<npc id="20119" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-108655" y="250422" z="-3032" h="25872" />
+		<npc id="20091" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-108629" y="250967" z="-2968" h="14102" />
+		<npc id="20091" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-108898" y="250802" z="-2912" h="38776" />
+		<npc id="20091" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-108953" y="251311" z="-2888" h="54473" />
+		<npc id="20120" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-109199" y="250533" z="-2912" h="61785" />
+		<npc id="20120" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-108377" y="251632" z="-3168" h="12658" />
+		<npc id="20120" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-108128" y="251211" z="-3136" h="65024" />
+		<npc id="20151" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-108961" y="250307" z="-2968" h="6099" />
+		<npc id="20119" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-108128" y="250872" z="-3152" h="36983" />
+		<npc id="20119" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-117537" y="255537" z="-1296" h="62000" />
+		<npc id="32156" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-117399" y="255848" z="-1296" h="62000" />
+		<npc id="32161" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-117632" y="255400" z="-1296" h="62000" />
+		<npc id="32148" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-117606" y="255131" z="-1296" h="62000" />
+		<npc id="32151" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-118006" y="255835" z="-1320" h="64033" />
+		<npc id="30565" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-117705" y="255802" z="-1304" h="62000" />
+		<npc id="33553" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-118145" y="255166" z="-1320" h="14991" />
+		<npc id="32146" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-118285" y="255232" z="-1320" h="7314" />
+		<npc id="32157" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-118017" y="255965" z="-1320" h="60763" />
+		<npc id="32153" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-118122" y="255715" z="-1320" h="57893" />
+		<npc id="32160" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-117340" y="255060" z="-1424" h="61572" />
+		<npc id="33107" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-117362" y="256209" z="-1296" h="62000" />
+		<npc id="32144" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-117410" y="256082" z="-1296" h="62000" />
+		<npc id="32159" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-117647" y="256367" z="-1320" h="44861" />
+		<npc id="32147" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-117800" y="256422" z="-1320" h="58961" />
+		<npc id="32150" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-116944" y="256288" z="-1416" h="59452" />
+		<npc id="33108" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114572" y="259806" z="-1192" h="47800" />
+		<npc id="14929" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114856" y="249856" z="-1720" h="30047" />
+		<npc id="33230" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-115322" y="250225" z="-1704" h="41291" />
+		<npc id="33230" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-115002" y="249918" z="-1712" h="15118" />
+		<npc id="33230" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-115485" y="250100" z="-1680" h="42134" />
+		<npc id="33230" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-115811" y="249975" z="-1672" h="2303" />
+		<npc id="33231" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114833" y="250225" z="-1720" h="52047" />
+		<npc id="33230" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-115485" y="250225" z="-1688" h="59710" />
+		<npc id="33230" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-116789" y="248975" z="-1904" h="28562" />
+		<npc id="33230" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-116626" y="248975" z="-1880" h="34206" />
+		<npc id="33230" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114833" y="249850" z="-1696" h="41085" />
+		<npc id="33230" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-116626" y="249100" z="-1872" h="58085" />
+		<npc id="33230" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114712" y="247778" z="-7872" h="26144" />
+		<npc id="23113" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114666" y="248319" z="-7872" h="35453" />
+		<npc id="23114" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114594" y="247713" z="-7872" h="5990" />
+		<npc id="23114" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114673" y="248105" z="-7872" h="31134" />
+		<npc id="23114" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114612" y="247821" z="-7872" h="8191" />
+		<npc id="23113" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114549" y="248039" z="-7872" h="5457" />
+		<npc id="23114" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114844" y="248327" z="-7872" h="0" />
+		<npc id="23113" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-116463" y="248475" z="-1880" h="38958" />
+		<npc id="33230" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-115069" y="249621" z="-1696" h="0" />
+		<npc id="33574" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-115485" y="249100" z="-1728" h="46050" />
+		<npc id="33231" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-116137" y="248975" z="-1752" h="4617" />
+		<npc id="33231" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-115322" y="248850" z="-1744" h="59695" />
+		<npc id="33231" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-115485" y="248975" z="-1736" h="27856" />
+		<npc id="33230" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114833" y="249475" z="-1680" h="50424" />
+		<npc id="33230" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114717" y="249834" z="-1696" h="65472" />
+		<npc id="33237" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-116300" y="249100" z="-1760" h="17297" />
+		<npc id="33230" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-116300" y="248975" z="-1800" h="49497" />
+		<npc id="33230" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114540" y="247733" z="-7872" h="51708" />
+		<npc id="23113" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-113487" y="249706" z="-1816" h="18044" />
+		<npc id="32469" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114507" y="249600" z="-1704" h="16067" />
+		<npc id="33230" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114507" y="249725" z="-1704" h="58898" />
+		<npc id="33231" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-117490" y="248062" z="-2080" h="35412" />
+		<npc id="20094" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114547" y="254124" z="-1528" h="16383" />
+		<npc id="12312" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114211" y="255526" z="-1512" h="57345" />
+		<npc id="12311" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110399" y="253426" z="-1776" h="24027" />
+		<npc id="33006" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110453" y="253391" z="-1776" h="53413" />
+		<npc id="33006" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111054" y="253170" z="-1776" h="12088" />
+		<npc id="33006" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111107" y="253167" z="-1776" h="12425" />
+		<npc id="33006" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-113639" y="255188" z="-1496" h="16383" />
+		<npc id="14666" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-115058" y="253475" z="-1488" h="16383" />
+		<npc id="12077" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-118247" y="248025" z="-2112" h="11154" />
+		<npc id="20094" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-117810" y="248525" z="-1944" h="16426" />
+		<npc id="20093" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-116789" y="249350" z="-1888" h="15318" />
+		<npc id="33230" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-117714" y="247828" z="-2152" h="38227" />
+		<npc id="20093" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-116994" y="248163" z="-1992" h="21817" />
+		<npc id="20093" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-116966" y="248083" z="-2016" h="10900" />
+		<npc id="20093" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-117502" y="248539" z="-1968" h="40800" />
+		<npc id="33206" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-117542" y="248815" z="-1936" h="7037" />
+		<npc id="33002" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-117483" y="248887" z="-1936" h="6542" />
+		<npc id="33113" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-117584" y="248896" z="-1944" h="453" />
+		<npc id="33002" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-117115" y="248975" z="-1928" h="39234" />
+		<npc id="32970" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-116952" y="248475" z="-1944" h="55699" />
+		<npc id="33231" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-117441" y="249225" z="-1936" h="35591" />
+		<npc id="33230" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-117278" y="249225" z="-1944" h="62992" />
+		<npc id="33231" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-118106" y="247833" z="-2168" h="6049" />
+		<npc id="20093" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-118341" y="247785" z="-2104" h="52148" />
+		<npc id="20094" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-117808" y="247248" z="-2288" h="49153" />
+		<npc id="20094" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-115489" y="246493" z="-3096" h="35937" />
+		<npc id="20120" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-115631" y="246669" z="-3264" h="55972" />
+		<npc id="20120" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-115743" y="246799" z="-3176" h="21907" />
+		<npc id="20120" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-113804" y="245693" z="-3704" h="12897" />
+		<npc id="20093" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114433" y="246470" z="-3664" h="56218" />
+		<npc id="20093" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114126" y="246077" z="-3680" h="61484" />
+		<npc id="20093" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114324" y="246120" z="-3664" h="8352" />
+		<npc id="20119" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114682" y="246068" z="-3608" h="57302" />
+		<npc id="20093" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-118602" y="244917" z="-2016" h="64756" />
+		<npc id="20094" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-119373" y="247754" z="-1472" h="12824" />
+		<npc id="12781" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-119576" y="246440" z="-1232" h="43096" />
+		<npc id="33022" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-119757" y="246373" z="-1232" h="8191" />
+		<npc id="33116" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-119666" y="246152" z="-1232" h="22583" />
+		<npc id="33270" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-119839" y="246364" z="-968" h="843" />
+		<npc id="33238" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-119816" y="246292" z="-968" h="843" />
+		<npc id="33223" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-119891" y="246246" z="-968" h="25288" />
+		<npc id="33107" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-117545" y="246424" z="-2272" h="38757" />
+		<npc id="20096" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-117976" y="247172" z="-2184" h="34248" />
+		<npc id="20093" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-117724" y="247268" z="-2296" h="40073" />
+		<npc id="20093" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-118670" y="245157" z="-1984" h="64333" />
+		<npc id="20093" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-120489" y="243869" z="-2200" h="8134" />
+		<npc id="20093" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-120173" y="243620" z="-2168" h="63564" />
+		<npc id="20093" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-119560" y="244238" z="-2136" h="9182" />
+		<npc id="20096" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-119552" y="244355" z="-2128" h="15141" />
+		<npc id="20094" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-119590" y="244479" z="-2112" h="3734" />
+		<npc id="20094" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-119686" y="244453" z="-2104" h="35727" />
+		<npc id="20096" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-117439" y="245365" z="-2040" h="62785" />
+		<npc id="20094" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-120056" y="243986" z="-2184" h="5362" />
+		<npc id="20094" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-117776" y="245974" z="-2104" h="46963" />
+		<npc id="20094" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-120068" y="243979" z="-2184" h="10412" />
+		<npc id="19152" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-117755" y="245824" z="-2080" h="45852" />
+		<npc id="20096" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-117475" y="248513" z="-1976" h="59806" />
+		<npc id="20094" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-118976" y="244887" z="-2032" h="48157" />
+		<npc id="20094" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-115709" y="246343" z="-3288" h="63038" />
+		<npc id="20093" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-115324" y="246243" z="-3392" h="60100" />
+		<npc id="20093" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-115467" y="246307" z="-3352" h="32199" />
+		<npc id="20093" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-117993" y="245426" z="-2000" h="3608" />
+		<npc id="20093" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-117789" y="245426" z="-2008" h="51773" />
+		<npc id="20094" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-116039" y="246343" z="-3200" h="47691" />
+		<npc id="20093" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-117789" y="244976" z="-1960" h="41646" />
+		<npc id="20093" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-117898" y="248657" z="-1936" h="64836" />
+		<npc id="20093" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-118619" y="244662" z="-2032" h="37179" />
+		<npc id="20094" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114765" y="246001" z="-3592" h="61827" />
+		<npc id="20093" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-119848" y="244014" z="-2184" h="11368" />
+		<npc id="19153" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-119584" y="244273" z="-2136" h="59508" />
+		<npc id="20094" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-120384" y="243995" z="-2176" h="26594" />
+		<npc id="19153" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-120375" y="243948" z="-2192" h="53005" />
+		<npc id="19152" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-118341" y="247881" z="-2128" h="11469" />
+		<npc id="20093" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-117603" y="240679" z="-2736" h="20879" />
+		<npc id="22994" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-118247" y="248073" z="-2096" h="38734" />
+		<npc id="20094" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-118153" y="247929" z="-2136" h="47264" />
+		<npc id="20094" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-119129" y="244887" z="-2008" h="57499" />
+		<npc id="20094" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-110085" y="248347" z="-2696" h="28904" />
+		<npc id="20119" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-109971" y="248636" z="-2696" h="6666" />
+		<npc id="20119" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111988" y="257240" z="-1376" h="16070" />
+		<npc id="16035" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114558" y="253605" z="-1536" h="42394" />
+		<npc id="12077" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111109" y="253164" z="-1776" h="12720" />
+		<npc id="33006" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111988" y="257200" z="-1376" h="16383" />
+		<npc id="14930" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-112028" y="257240" z="-1376" h="0" />
+		<npc id="14930" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-111948" y="257280" z="-1376" h="40961" />
+		<npc id="14930" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114962" y="226564" z="-2864" h="16282" />
+		<npc id="33549" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-115519" y="227172" z="-2856" h="32768" />
+		<npc id="33403" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114384" y="227105" z="-2864" h="2104" />
+		<npc id="14937" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114166" y="226615" z="-2864" h="40961" />
+		<npc id="14836" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-113778" y="226579" z="-2856" h="16384" />
+		<npc id="33397" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114341" y="227156" z="-2864" h="49153" />
+		<npc id="16034" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114036" y="226182" z="-2856" h="32768" />
+		<npc id="33404" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-113730" y="227135" z="-2856" h="16384" />
+		<npc id="33400" />
+	</spawn>
+	<!-- Говорящий остров конец-->
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-104240" y="222064" z="-3437" h="16384" />
+		<npc id="30407" /><!--Mesella-->
+	</spawn>
+<!-- Подграничье -->
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-115142" y="226652" z="-2864" h="16282" />
+		<npc id="33205" /><!--Ye Sagira Teleport Device-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114962" y="226564" z="-2864" h="16282" />
+		<npc id="33549" /><!---->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-115519" y="227172" z="-2856" h="32768" />
+		<npc id="33403" /><!--Powerful Magic Summoner-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114883" y="227669" z="-2856" h="16384" />
+		<npc id="33398" /><!--Powerful Melee Damage Dealer-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-115275" y="227493" z="-2856" h="32768" />
+		<npc id="33401" /><!--Powerful Magic Damage Dealer-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114445" y="226867" z="-2840" h="64600" />
+		<npc id="33492" /><!--Ravidoff-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114036" y="226182" z="-2856" h="32768" />
+		<npc id="33404" /><!--Powerful Magic Healer-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114647" y="227058" z="-2840" h="16282" />
+		<npc id="33488" /><!--Akram-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-113730" y="227135" z="-2856" h="16384" />
+		<npc id="33400" /><!--Powerful Bow/Crossbow Sharpshooters-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-113778" y="226579" z="-2856" h="16384" />
+		<npc id="33397" /><!--Powerful Defensive Tanks-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-113961" y="227492" z="-2856" h="32768" />
+		<npc id="33402" /><!--Powerful Magic Buffer-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-114385" y="227675" z="-2856" h="16384" />
+		<npc id="33399" /><!--Powerful Dagger Melee Damage Dealer-->
+	</spawn>
+</list>

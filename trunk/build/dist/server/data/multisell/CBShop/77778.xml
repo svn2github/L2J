@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Оружие Драконов Антараса-->
+<list>
+  <config showall="true" notax="false" keepenchanted="false" />
+ <item>
+	<ingredient id="13419" count="10"/>
+    <production id="36420" count="1"/>
+  </item>
+  
+ <item>
+	<ingredient id="13419" count="10"/>
+    <production id="36421" count="1"/>
+  </item>
+  
+   <item>
+	<ingredient id="13419" count="10"/>
+    <production id="36418" count="1"/>
+  </item>
+
+   <item>
+	<ingredient id="13419" count="10"/>
+    <production id="36419" count="1"/>
+  </item>
+  
+   <item>
+	<ingredient id="13419" count="10"/>
+    <production id="36422" count="1"/>
+  </item>
+  
+   <item>
+	<ingredient id="13419" count="10"/>
+    <production id="36423" count="1"/>
+  </item>
+  
+  <item>
+	<ingredient id="13419" count="10"/>
+    <production id="36424" count="1"/>
+  </item>
+  
+  <item>
+	<ingredient id="13419" count="10"/>
+    <production id="36417" count="1"/>
+  </item>
+  
+  <item>
+	<ingredient id="13419" count="10"/>
+    <production id="36425" count="1"/>
+  </item>
+  
+  <item>
+	<ingredient id="13419" count="10"/>
+    <production id="36426" count="1"/>
+  </item>
+</list>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "spawn.dtd">
+<!--Задумка спавна (c)Mangol,(c)KilRoy-->
+<list>	
+	<spawn count="5" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-41152" y="65329" zmin="-3553" zmax="-2953" />
+			<add x="-40689" y="62884" zmin="-3553" zmax="-2953" />
+			<add x="-36912" y="62934" zmin="-3553" zmax="-2953" />
+			<add x="-36874" y="65323" zmin="-3553" zmax="-2953" />
+		</territory>
+		<npc id="20034" /><!--Prowler-->
+	</spawn>
+	<spawn count="6" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-43441" y="61755" zmin="-3553" zmax="-2953" />
+			<add x="-45162" y="63396" zmin="-3553" zmax="-2953" />
+			<add x="-44995" y="65278" zmin="-3553" zmax="-2953" />
+			<add x="-41294" y="65278" zmin="-3553" zmax="-2953" />
+			<add x="-40793" y="62846" zmin="-3553" zmax="-2953" />
+		</territory>
+		<npc id="20034" /><!--Prowler-->
+	</spawn>
+	<spawn count="5" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-39611" y="56702" zmin="-3552" zmax="-2952" />
+			<add x="-37030" y="53223" zmin="-3552" zmax="-2952" />
+			<add x="-33126" y="54054" zmin="-3552" zmax="-2952" />
+			<add x="-33024" y="57527" zmin="-3552" zmax="-2952" />
+		</territory>
+		<npc id="20379" /><!--Stone Soldier-->
+	</spawn>
+	<spawn count="4" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-35961" y="57286" zmin="-3552" zmax="-2952" />
+			<add x="-37371" y="60405" zmin="-3552" zmax="-2952" />
+			<add x="-36805" y="61748" zmin="-3552" zmax="-2952" />
+			<add x="-33008" y="61831" zmin="-3552" zmax="-2952" />
+			<add x="-33047" y="57628" zmin="-3552" zmax="-2952" />
+		</territory>
+		<npc id="20379" /><!--Stone Soldier-->
+	</spawn>
+	<spawn count="4" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-40036" y="60001" zmin="-3552" zmax="-2952" />
+			<add x="-37483" y="60331" zmin="-3552" zmax="-2952" />
+			<add x="-36075" y="57321" zmin="-3552" zmax="-2952" />
+			<add x="-39592" y="56845" zmin="-3552" zmax="-2952" />
+			<add x="-41071" y="58816" zmin="-3552" zmax="-2952" />
+		</territory>
+		<npc id="20379" /><!--Stone Soldier-->
+	</spawn>
+	<spawn count="3" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-36842" y="61865" zmin="-3711" zmax="-3111" />
+			<add x="-36760" y="65345" zmin="-3711" zmax="-3111" />
+			<add x="-32970" y="65313" zmin="-3711" zmax="-3111" />
+			<add x="-32983" y="61954" zmin="-3711" zmax="-3111" />
+		</territory>
+		<npc id="20379" /><!--Stone Soldier-->
+	</spawn>
+	<spawn count="4" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-43419" y="61660" zmin="-3553" zmax="-2953" />
+			<add x="-42939" y="59911" zmin="-3553" zmax="-2953" />
+			<add x="-41225" y="58878" zmin="-3553" zmax="-2953" />
+			<add x="-40099" y="60109" zmin="-3553" zmax="-2953" />
+			<add x="-40701" y="62744" zmin="-3553" zmax="-2953" />
+		</territory>
+		<npc id="20379" /><!--Stone Soldier-->
+	</spawn>
+	<spawn count="4" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-36842" y="61865" zmin="-3711" zmax="-3111" />
+			<add x="-36760" y="65345" zmin="-3711" zmax="-3111" />
+			<add x="-32970" y="65313" zmin="-3711" zmax="-3111" />
+			<add x="-32983" y="61954" zmin="-3711" zmax="-3111" />
+		</territory>
+		<npc id="20380" /><!--Stone Guardian-->
+	</spawn>
+	<spawn count="5" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-41152" y="65329" zmin="-3553" zmax="-2953" />
+			<add x="-40689" y="62884" zmin="-3553" zmax="-2953" />
+			<add x="-36912" y="62934" zmin="-3553" zmax="-2953" />
+			<add x="-36874" y="65323" zmin="-3553" zmax="-2953" />
+		</territory>
+		<npc id="20380" /><!--Stone Guardian-->
+	</spawn>
+	<spawn count="6" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-43441" y="61755" zmin="-3553" zmax="-2953" />
+			<add x="-45162" y="63396" zmin="-3553" zmax="-2953" />
+			<add x="-44995" y="65278" zmin="-3553" zmax="-2953" />
+			<add x="-41294" y="65278" zmin="-3553" zmax="-2953" />
+			<add x="-40793" y="62846" zmin="-3553" zmax="-2953" />
+		</territory>
+		<npc id="20380" /><!--Stone Guardian-->
+	</spawn>
+	<spawn count="5" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-35961" y="57286" zmin="-3552" zmax="-2952" />
+			<add x="-37371" y="60405" zmin="-3552" zmax="-2952" />
+			<add x="-36805" y="61748" zmin="-3552" zmax="-2952" />
+			<add x="-33008" y="61831" zmin="-3552" zmax="-2952" />
+			<add x="-33047" y="57628" zmin="-3552" zmax="-2952" />
+		</territory>
+		<npc id="20392" /><!--Redeye Bat-->
+	</spawn>
+	<spawn count="4" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-40036" y="60001" zmin="-3552" zmax="-2952" />
+			<add x="-37483" y="60331" zmin="-3552" zmax="-2952" />
+			<add x="-36075" y="57321" zmin="-3552" zmax="-2952" />
+			<add x="-39592" y="56845" zmin="-3552" zmax="-2952" />
+			<add x="-41071" y="58816" zmin="-3552" zmax="-2952" />
+		</territory>
+		<npc id="20392" /><!--Redeye Bat-->
+	</spawn>
+	<spawn count="5" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-36842" y="61865" zmin="-3711" zmax="-3111" />
+			<add x="-36760" y="65345" zmin="-3711" zmax="-3111" />
+			<add x="-32970" y="65313" zmin="-3711" zmax="-3111" />
+			<add x="-32983" y="61954" zmin="-3711" zmax="-3111" />
+		</territory>
+		<npc id="20392" /><!--Redeye Bat-->
+	</spawn>
+	<spawn count="6" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-43419" y="61660" zmin="-3553" zmax="-2953" />
+			<add x="-42939" y="59911" zmin="-3553" zmax="-2953" />
+			<add x="-41225" y="58878" zmin="-3553" zmax="-2953" />
+			<add x="-40099" y="60109" zmin="-3553" zmax="-2953" />
+			<add x="-40701" y="62744" zmin="-3553" zmax="-2953" />
+		</territory>
+		<npc id="20392" /><!--Redeye Bat-->
+	</spawn>
+	<spawn count="8" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-39611" y="56702" zmin="-3552" zmax="-2952" />
+			<add x="-37030" y="53223" zmin="-3552" zmax="-2952" />
+			<add x="-33126" y="54054" zmin="-3552" zmax="-2952" />
+			<add x="-33024" y="57527" zmin="-3552" zmax="-2952" />
+		</territory>
+		<npc id="20433" /><!--Festering Bat-->
+	</spawn>
+	<spawn count="1" respawn="480" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-52696" y="42072" zmin="-3476" zmax="-2976" />
+			<add x="-52264" y="39452" zmin="-3476" zmax="-2976" />
+			<add x="-50628" y="40272" zmin="-3476" zmax="-2976" />
+			<add x="-50824" y="41952" zmin="-3476" zmax="-2976" />
+		</territory>
+		<npc id="27036" /><!--Calpico-->
+	</spawn>	
+</list>	

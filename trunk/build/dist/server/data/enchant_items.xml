@@ -1,0 +1,255 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "enchant_items.dtd">
+<list>
+	<!--Стандартные настройки для енчанта, -1 в макс , означает нелимитирова-->
+	<default chance="66" magic_chance="44" max_enchant="20" succ_eff_ench_min="6" succ_eff_ench_max="15" is_alt_formula = "false"/>
+
+	<!--Common Enchant Scrolls-->
+	<!--Scroll: Enchant Weapon (D-Grade)-->
+	<enchant_scroll id="955" on_fail="CRYSTALS" type="WEAPON" succ_eff_ench_min="7" grade="D"/>
+
+	<!--Scroll: Enchant Armor (D-Grade)-->
+	<enchant_scroll id="956" on_fail="CRYSTALS" type="ARMOR" grade="D"/>
+
+	<!--Scroll: Enchant Weapon (C-Grade)-->
+	<enchant_scroll id="951" on_fail="CRYSTALS" type="WEAPON" succ_eff_ench_min="7" grade="C"/>
+
+	<!--Scroll: Enchant Armor (C-Grade)-->
+	<enchant_scroll id="952" on_fail="CRYSTALS" type="ARMOR" grade="C"/>
+
+	<!--Scroll: Enchant Weapon (B-Grade)-->
+	<enchant_scroll id="947" on_fail="CRYSTALS" type="WEAPON" succ_eff_ench_min="7" grade="B"/>
+
+	<!--Scroll: Enchant Armor (B-Grade)-->
+	<enchant_scroll id="948" on_fail="CRYSTALS" type="ARMOR" grade="B"/>
+
+	<!--Scroll: Enchant Weapon (A-Grade)-->
+	<enchant_scroll id="729" on_fail="CRYSTALS" type="WEAPON" succ_eff_ench_min="7" grade="A"/>
+
+	<!--Scroll: Enchant Armor (A-Grade)-->
+	<enchant_scroll id="730" on_fail="CRYSTALS" type="ARMOR" grade="A"/>
+
+	<!--Scroll: Enchant Weapon (S-Grade)-->
+	<enchant_scroll id="959" on_fail="CRYSTALS" type="WEAPON" succ_eff_ench_min="7" grade="S"/>
+
+	<!--Scroll: Enchant Armor (S-Grade)-->
+	<enchant_scroll id="960" on_fail="CRYSTALS" type="ARMOR" grade="S"/>
+
+	<!--Crystal Enchant Scrolls-->
+	<!--Crystal Scroll: Enchant Weapon (D-Grade)-->
+	<enchant_scroll id="957" on_fail="CRYSTALS" type="WEAPON" succ_eff_ench_min="7" grade="D"/>
+
+	<!--Crystal Scroll: Enchant Armor (D-Grade)-->
+	<enchant_scroll id="958" on_fail="CRYSTALS" type="ARMOR" grade="D"/>
+
+	<!--Crystal Scroll: Enchant Weapon (C-Grade)-->
+	<enchant_scroll id="953" on_fail="CRYSTALS" type="WEAPON" succ_eff_ench_min="7" grade="C"/>
+
+	<!--Crystal Scroll: Enchant Armor (C-Grade)-->
+	<enchant_scroll id="954" on_fail="CRYSTALS" type="ARMOR" grade="C"/>
+
+	<!--Crystal Scroll: Enchant Weapon (B-Grade)-->
+	<enchant_scroll id="949" on_fail="CRYSTALS" type="WEAPON" succ_eff_ench_min="7" grade="B"/>
+
+	<!--Crystal Scroll: Enchant Armor (B-Grade)-->
+	<enchant_scroll id="950" on_fail="CRYSTALS" type="ARMOR" grade="B"/>
+
+	<!--Crystal Scroll: Enchant Weapon (A-Grade)-->
+	<enchant_scroll id="731" on_fail="CRYSTALS" type="WEAPON" succ_eff_ench_min="7" grade="A"/>
+
+	<!--Crystal Scroll: Enchant Armor (A-Grade)-->
+	<enchant_scroll id="732" on_fail="CRYSTALS" type="ARMOR" grade="A"/>
+
+	<!--Crystal Scroll: Enchant Weapon (S-Grade)-->
+	<enchant_scroll id="961" on_fail="CRYSTALS" type="WEAPON" succ_eff_ench_min="7" grade="S"/>
+
+	<!--Crystal Scroll: Enchant Armor (S-Grade)-->
+	<enchant_scroll id="962" on_fail="CRYSTALS" type="ARMOR" grade="S"/>
+
+	<!--Blessed Enchant Scrolls-->
+	<!--Blessed Scroll: Enchant Weapon (D-Grade)-->
+	<enchant_scroll id="6575" on_fail="DROP_ENCHANT" type="WEAPON" succ_eff_ench_min="7" grade="D"/>
+
+	<!--Blessed Scroll: Enchant Armor (D-Grade)-->
+	<enchant_scroll id="6576" on_fail="DROP_ENCHANT" type="ARMOR" grade="D"/>
+
+	<!--Blessed Scroll: Enchant Weapon (C-Grade)-->
+	<enchant_scroll id="6573" on_fail="DROP_ENCHANT" type="WEAPON" succ_eff_ench_min="7" grade="C"/>
+
+	<!--Blessed Scroll: Enchant Armor (C-Grade)-->
+	<enchant_scroll id="6574" on_fail="DROP_ENCHANT" type="ARMOR" grade="C"/>
+
+	<!--Blessed Scroll: Enchant Weapon (B-Grade)-->
+	<enchant_scroll id="6571" on_fail="DROP_ENCHANT" type="WEAPON" succ_eff_ench_min="7" grade="B"/>
+
+	<!--Blessed Scroll: Enchant Armor (B-Grade)-->
+	<enchant_scroll id="6572" on_fail="DROP_ENCHANT" type="ARMOR" grade="B"/>
+
+	<!--Blessed Scroll: Enchant Weapon (A-Grade)-->
+	<enchant_scroll id="6569" on_fail="DROP_ENCHANT" type="WEAPON" succ_eff_ench_min="7" grade="A"/>
+
+	<!--Blessed Scroll: Enchant Armor (A-Grade)-->
+	<enchant_scroll id="6570" on_fail="DROP_ENCHANT" type="ARMOR" grade="A"/>
+
+	<!--Blessed Scroll: Enchant Weapon (S-Grade)-->
+	<enchant_scroll id="6577" on_fail="DROP_ENCHANT" type="WEAPON" succ_eff_ench_min="7" grade="S"/>
+
+	<!--Blessed Scroll: Enchant Armor (S-Grade)-->
+	<enchant_scroll id="6578" on_fail="DROP_ENCHANT" type="ARMOR" grade="S"/>
+	
+	<!--Blessed Scroll: Enchant Weapon (R-Grade)-->
+	<enchant_scroll id="19447" on_fail="DROP_ENCHANT" type="WEAPON" succ_eff_ench_min="7" grade="R"/>
+
+	<!--Blessed Scroll: Enchant Armor (R-Grade)-->
+	<enchant_scroll id="19448" on_fail="DROP_ENCHANT" type="ARMOR" grade="R"/>
+	
+	<!--Item-Mall Enchant Scrolls-->
+	<!--Scroll: Enchant Weapon (D-Grade)-->
+	<enchant_scroll id="22006" on_fail="CRYSTALS" type="WEAPON" succ_eff_ench_min="7" grade="D" chance="76" magic_chance="54"/>
+
+	<!--Scroll: Enchant Armor (D-Grade)-->
+	<enchant_scroll id="22010" on_fail="CRYSTALS" type="ARMOR" grade="D" chance="76"/>
+
+	<!--Scroll: Enchant Weapon (C-Grade)-->
+	<enchant_scroll id="22007" on_fail="CRYSTALS" type="WEAPON" succ_eff_ench_min="7" grade="C" chance="76" magic_chance="54"/>
+
+	<!--Scroll: Enchant Armor (C-Grade)-->
+	<enchant_scroll id="22011" on_fail="CRYSTALS" type="ARMOR" grade="C" chance="76"/>
+
+	<!--Scroll: Enchant Weapon (B-Grade)-->
+	<enchant_scroll id="22008" on_fail="CRYSTALS" type="WEAPON" succ_eff_ench_min="7" grade="B" chance="76" magic_chance="54"/>
+
+	<!--Scroll: Enchant Armor (B-Grade)-->
+	<enchant_scroll id="22012" on_fail="CRYSTALS" type="ARMOR" grade="B" chance="76"/>
+
+	<!--Scroll: Enchant Weapon (A-Grade)-->
+	<enchant_scroll id="22009" on_fail="CRYSTALS" type="WEAPON" succ_eff_ench_min="7" grade="A" chance="76" magic_chance="54"/>
+
+	<!--Scroll: Enchant Armor (A-Grade)-->
+	<enchant_scroll id="22013" on_fail="CRYSTALS" type="ARMOR" grade="A" chance="76"/>
+
+	<!--Scroll: Enchant Weapon (S-Grade)-->
+	<enchant_scroll id="20517" on_fail="CRYSTALS" type="WEAPON" succ_eff_ench_min="7" grade="S" chance="76" magic_chance="54"/>
+
+	<!--Scroll: Enchant Armor (S-Grade)-->
+	<enchant_scroll id="20518" on_fail="CRYSTALS" type="ARMOR" grade="S" chance="76"/>
+
+	<!--Scroll: Enchant Weapon (R-Grade)-->
+	<enchant_scroll id="17526" on_fail="CRYSTALS" type="WEAPON" succ_eff_ench_min="7" grade="R" chance="76" magic_chance="54"/>
+
+	<!--Scroll: Enchant Armor (R-Grade)-->
+	<enchant_scroll id="17527" on_fail="CRYSTALS" type="ARMOR" grade="R" chance="76"/>
+	
+	<!--Ancient Enchant Scrolls-->
+	<!--Ancient Scroll: Enchant Weapon (B-Grade)-->
+	<enchant_scroll id="22014" on_fail="NOTHING" type="WEAPON" succ_eff_ench_min="7" grade="B" chance="76" magic_chance="54" max_enchant="16"/>
+
+	<!--Ancient Scroll: Enchant Armor (B-Grade)-->
+	<enchant_scroll id="22016" on_fail="NOTHING" type="ARMOR" grade="B" chance="76" max_enchant="16"/>
+
+	<!--Ancient Scroll: Enchant Weapon (A-Grade)-->
+	<enchant_scroll id="22015" on_fail="NOTHING" type="WEAPON" succ_eff_ench_min="7" grade="A" chance="76" magic_chance="54" max_enchant="16"/>
+
+	<!--Ancient Scroll: Enchant Armor (A-Grade)-->
+	<enchant_scroll id="22017" on_fail="NOTHING" type="ARMOR" grade="A" chance="76" max_enchant="16"/>
+
+	<!--Ancient Scroll: Enchant Weapon (S-Grade)-->
+	<enchant_scroll id="20519" on_fail="NOTHING" type="WEAPON" succ_eff_ench_min="7" grade="S" chance="76" magic_chance="54" max_enchant="16"/>
+
+	<!--Ancient Scroll: Enchant Armor (S-Grade)-->
+	<enchant_scroll id="20520" on_fail="NOTHING" type="ARMOR" grade="S" chance="76" max_enchant="16"/>
+
+	<!--Divine Enchant Scrolls-->
+	<!--Divine Scroll: Enchant Weapon (B-Grade)-->
+	<enchant_scroll id="22018" on_fail="NOTHING" type="WEAPON" succ_eff_ench_min="7" grade="B" chance="100" magic_chance="100"/>
+
+	<!--Divine Scroll: Enchant Armor (B-Grade)-->
+	<enchant_scroll id="22020" on_fail="NOTHING" type="ARMOR" grade="B" chance="100"/>
+
+	<!--Divine Scroll: Enchant Weapon (A-Grade)-->
+	<enchant_scroll id="22019" on_fail="NOTHING" type="WEAPON" succ_eff_ench_min="7" grade="A" chance="100" magic_chance="100"/>
+
+	<!--Divine Scroll: Enchant Armor (A-Grade)-->
+	<enchant_scroll id="22021" on_fail="NOTHING" type="ARMOR" grade="A" chance="100"/>
+
+	<!--Divine Scroll: Enchant Weapon (S-Grade)-->
+	<enchant_scroll id="20521" on_fail="NOTHING" type="WEAPON" succ_eff_ench_min="7" grade="S" chance="100" magic_chance="100"/>
+
+	<!--Divine Scroll: Enchant Armor (S-Grade)-->
+	<enchant_scroll id="20522" on_fail="NOTHING" type="ARMOR" grade="S" chance="100"/>
+
+	<!--Enchant Scrolls of Destruction-->
+	<!--Scroll: Enchant Weapon of Destruction (D-Grade)-->
+	<enchant_scroll id="22229" on_fail="NOTHING" type="WEAPON" succ_eff_ench_min="7" grade="D" max_enchant="15"/>
+
+	<!--Scroll: Enchant Armor of Destruction (D-Grade)-->
+	<enchant_scroll id="22230" on_fail="NOTHING" type="ARMOR" grade="D" max_enchant="6"/>
+
+	<!--Scroll: Enchant Weapon of Destruction (C-Grade)-->
+	<enchant_scroll id="22227" on_fail="NOTHING" type="WEAPON" succ_eff_ench_min="7" grade="C" max_enchant="15"/>
+
+	<!--Scroll: Enchant Armor of Destruction (C-Grade)-->
+	<enchant_scroll id="22228" on_fail="NOTHING" type="ARMOR" grade="C" max_enchant="6"/>
+
+	<!--Scroll: Enchant Weapon of Destruction (B-Grade)-->
+	<enchant_scroll id="22225" on_fail="NOTHING" type="WEAPON" succ_eff_ench_min="7" grade="B" max_enchant="15"/>
+
+	<!--Scroll: Enchant Armor of Destruction (B-Grade)-->
+	<enchant_scroll id="22226" on_fail="NOTHING" type="ARMOR" grade="B" max_enchant="6"/>
+
+	<!--Scroll: Enchant Weapon of Destruction (A-Grade)-->
+	<enchant_scroll id="22223" on_fail="NOTHING" type="WEAPON" succ_eff_ench_min="7" grade="A" max_enchant="15"/>
+
+	<!--Scroll: Enchant Armor of Destruction (A-Grade)-->
+	<enchant_scroll id="22224" on_fail="NOTHING" type="ARMOR" grade="A" max_enchant="6"/>
+
+	<!--Scroll: Enchant Weapon of Destruction (S-Grade)-->
+	<enchant_scroll id="22221" on_fail="NOTHING" type="WEAPON" succ_eff_ench_min="7" grade="S" max_enchant="15"/>
+
+	<!--Scroll: Enchant Armor of Destruction (S-Grade)-->
+	<enchant_scroll id="22222" on_fail="NOTHING" type="ARMOR" grade="S" max_enchant="6"/>
+	
+	<!--Scroll: Enchant Weapon of Destruction (R-Grade)-->
+	<enchant_scroll id="33478" on_fail="NOTHING" type="WEAPON" succ_eff_ench_min="7" grade="R" max_enchant="15"/>
+
+	<!--Scroll: Enchant Armor of Destruction (R-Grade)-->
+	<enchant_scroll id="33479" on_fail="NOTHING" type="ARMOR" grade="R" max_enchant="6"/>	
+
+	<!--Special Enchant Scrolls-->
+	<!--Master Yogi's Scroll: Enchant Weapon-->
+	<enchant_scroll id="13540" on_fail="CRYSTALS" max_enchant="28" succ_eff_ench_min="4" succ_eff_ench_max="28" show_fail_effect="true">
+		<item_list>
+			<item id="13539"/>  <!--Staff of Master Yogi-->
+		</item_list>
+	</enchant_scroll>
+
+	<!--Olf's T-shirt Enchant Scroll-->
+	<enchant_scroll id="21581" on_fail="CRYSTALS" max_enchant="10">
+		<item_list>
+			<item id="21580"/> <!--Olf's T-shirt-->
+		</item_list>
+	</enchant_scroll>
+
+	<!--Blessed Olf's T-shirt Enchant Scroll-->
+	<enchant_scroll id="21582" on_fail="DROP_ENCHANT" max_enchant="10">
+		<item_list>
+			<item id="21580"/> <!--Olf's T-shirt-->
+		</item_list>
+	</enchant_scroll>
+
+	<!--Event - Herdsman's Love Scroll-->
+	<enchant_scroll id="15381" on_fail="CRYSTALS" max_enchant="50">
+		<item_list>
+			<item id="15383"/> <!--Weaver's Multi-colored Clothes 7 day-->
+			<item id="15384"/> <!--Weaver's Multi-colored Clothes 30 day-->
+			<item id="15385"/> <!--Weaver's Multi-colored Clothes 60 day-->
+			<item id="15386"/> <!--Weaver's Multi-colored Clothes 90 day-->
+			<item id="15387"/> <!--Weaver's Multi-colored Clothes Permanent-->
+			<item id="15388"/> <!--Weaver's Multi-colored Clothes (Event) 7 day-->
+			<item id="15389"/> <!--Weaver's Multi-colored Clothes (Event) 30 day-->
+			<item id="15390"/> <!--Weaver's Multi-colored Clothes (Event) 60 day-->
+			<item id="15391"/> <!--Weaver's Multi-colored Clothes (Event) 90 day-->
+			<item id="15392"/> <!--Weaver's Multi-colored Clothes (Event) Permanent-->
+		</item_list>
+	</enchant_scroll>
+</list>

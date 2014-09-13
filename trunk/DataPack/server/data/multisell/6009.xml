@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Оружие Драконов -->
+<list>
+  <config showall="true" notax="false" keepenchanted="false" />
+
+  <!-- Острие Антараса	Среднего Качества -->
+  <item>
+    <ingredient id="36417" count="1"/>
+	<ingredient id="36414" count="50"/>
+	<ingredient id="36550" count="1560"/>
+	<ingredient id="36565" count="1560"/>
+	<ingredient id="36545" count="1560"/>
+	<ingredient id="36515" count="100"/>
+	<ingredient id="35563" count="300"/>
+	<ingredient id="19440" count="7000"/>
+    <production id="36441" count="1"/>
+  </item>
+
+  <!-- Эспадон Антараса	Среднего Качества -->
+  <item>
+    <ingredient id="36418" count="1"/>
+	<ingredient id="36414" count="50"/>
+	<ingredient id="36550" count="1560"/>
+	<ingredient id="36565" count="1560"/>
+	<ingredient id="36545" count="1560"/>
+	<ingredient id="36515" count="100"/>
+	<ingredient id="35563" count="300"/>
+	<ingredient id="19440" count="7000"/>
+    <production id="36442" count="1"/>
+  </item>
+
+  <!-- Бросок Антараса	Среднего Качества -->
+  <item>
+    <ingredient id="36419" count="1"/>
+	<ingredient id="36414" count="50"/>
+	<ingredient id="36550" count="1560"/>
+	<ingredient id="36565" count="1560"/>
+	<ingredient id="36545" count="1560"/>
+	<ingredient id="36515" count="100"/>
+	<ingredient id="35563" count="300"/>
+	<ingredient id="19440" count="7000"/>
+    <production id="36443" count="1"/>
+  </item>
+
+  <!-- Расчленитель Антараса	Среднего Качества -->
+  <item>
+    <ingredient id="36420" count="1"/>
+	<ingredient id="36414" count="50"/>
+	<ingredient id="36550" count="1560"/>
+	<ingredient id="36565" count="1560"/>
+	<ingredient id="36545" count="1560"/>
+	<ingredient id="36515" count="100"/>
+	<ingredient id="35563" count="300"/>
+	<ingredient id="19440" count="7000"/>
+    <production id="36444" count="1"/>
+  </item>
+
+  <!-- Резак Антараса	Среднего Качества -->
+  <item>
+    <ingredient id="36421" count="1"/>
+	<ingredient id="36414" count="50"/>
+	<ingredient id="36550" count="1560"/>
+	<ingredient id="36565" count="1560"/>
+	<ingredient id="36545" count="1560"/>
+	<ingredient id="36515" count="100"/>
+	<ingredient id="35563" count="300"/>
+	<ingredient id="19440" count="7000"/>
+    <production id="36445" count="1"/>
+  </item>
+
+  <!-- Буревестник Антараса	Среднего Качества -->
+  <item>
+    <ingredient id="36422" count="1"/>
+	<ingredient id="36414" count="50"/>
+	<ingredient id="36550" count="1560"/>
+	<ingredient id="36565" count="1560"/>
+	<ingredient id="36545" count="1560"/>
+	<ingredient id="36515" count="100"/>
+	<ingredient id="35563" count="300"/>
+	<ingredient id="19440" count="7000"/>
+    <production id="36446" count="1"/>
+  </item>
+
+  <!-- Воитель Антараса	Среднего Качества -->
+  <item>
+    <ingredient id="36423" count="1"/>
+	<ingredient id="36414" count="50"/>
+	<ingredient id="36550" count="1560"/>
+	<ingredient id="36565" count="1560"/>
+	<ingredient id="36545" count="1560"/>
+	<ingredient id="36515" count="100"/>
+	<ingredient id="35563" count="300"/>
+	<ingredient id="19440" count="7000"/>
+    <production id="36447" count="1"/>
+  </item>
+  
+    <!-- Мститель Антараса	Среднего Качества -->
+  <item>
+    <ingredient id="36424" count="1"/>
+	<ingredient id="36414" count="50"/>
+	<ingredient id="36550" count="1560"/>
+	<ingredient id="36565" count="1560"/>
+	<ingredient id="36545" count="1560"/>
+	<ingredient id="36515" count="100"/>
+	<ingredient id="35563" count="300"/>
+	<ingredient id="19440" count="7000"/>
+    <production id="36448" count="1"/>
+  </item>
+  
+    <!-- Парные Дубины Антараса	Среднего Качества -->
+  <item>
+    <ingredient id="36425" count="1"/>
+	<ingredient id="36414" count="50"/>
+	<ingredient id="36550" count="1560"/>
+	<ingredient id="36565" count="1560"/>
+	<ingredient id="36545" count="1560"/>
+	<ingredient id="36515" count="100"/>
+	<ingredient id="35563" count="300"/>
+	<ingredient id="19440" count="7000"/>
+    <production id="36449" count="1"/>
+  </item>
+  
+    <!-- Парные Мечи Антараса	Среднего Качества -->
+  <item>
+    <ingredient id="36426" count="1"/>
+	<ingredient id="36414" count="50"/>
+	<ingredient id="36550" count="1560"/>
+	<ingredient id="36565" count="1560"/>
+	<ingredient id="36545" count="1560"/>
+	<ingredient id="36515" count="100"/>
+	<ingredient id="35563" count="300"/>
+	<ingredient id="19440" count="7000"/>
+    <production id="36450" count="1"/>
+  </item>
+</list>

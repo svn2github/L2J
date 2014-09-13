@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<config showall="true" notax="false" keepenchanted="false" />
+	<item>
+		<ingredient count="696" id="-200" />
+		<!-- Адена -->
+		<ingredient count="1392000" id="57" />
+		<!-- Шлем Апеллы -->
+		<production count="1" id="7860" />
+	</item>
+	<item>
+		<ingredient count="2708" id="-200" />
+		<!-- Адена -->
+		<ingredient count="5416000" id="57" />
+		<!-- Латный Доспех Апеллы -->
+		<production count="1" id="7861" />
+	</item>
+	<item>
+		<!-- null -->
+		<ingredient count="464" id="-200" />
+		<!-- Адена -->
+		<ingredient count="928000" id="57" />
+		<!-- Рукавицы Апеллы (Тяжелый) -->
+		<production count="1" id="7862" />
+	</item>
+	<item>
+		<ingredient count="464" id="-200" />
+		<!-- Адена -->
+		<ingredient count="928000" id="57" />
+		<!-- Солереты Апеллы (Тяжелый) -->
+		<production count="1" id="7863" />
+	</item>
+	<item>
+		<ingredient count="2032" id="-200" />
+		<!-- Адена -->
+		<ingredient count="4064000" id="57" />
+		<!-- Панцирь Апеллы -->
+		<production count="1" id="7864" />
+	</item>
+	<item>
+		<ingredient count="464" id="-200" />
+		<!-- Адена -->
+		<ingredient count="928000" id="57" />
+		<!-- Кожаные Перчатки Апеллы (Легкий) -->
+		<production count="1" id="7865" />
+	</item>
+	<item>
+		<ingredient count="464" id="-200" />
+		<!-- Адена -->
+		<ingredient count="928000" id="57" />
+		<!-- Ботинки Апеллы (Легкий) -->
+		<production count="1" id="7866" />
+	</item>
+	<item>
+		<ingredient count="2032" id="-200" />
+		<!-- Адена -->
+		<ingredient count="4064000" id="57" />
+		<!-- Накидка Апеллы -->
+		<production count="1" id="7867" />
+	</item>
+	<item>
+		<ingredient count="464" id="-200" />
+		<!-- Адена -->
+		<ingredient count="928000" id="57" />
+		<!-- Шелковые Перчатки Апеллы (Магический) -->
+		<production count="1" id="7868" />
+	</item>
+	<item>
+		<ingredient count="464" id="-200" />
+		<!-- Адена -->
+		<ingredient count="928000" id="57" />
+		<!-- Сандалии Апеллы (Магический) -->
+		<production count="1" id="7869" />
+	</item>
+	<item>
+		<ingredient count="1046" id="-200" />
+		<!-- Рыцарский Эполет -->
+		<ingredient count="26" id="9912" />
+		<!-- Адена -->
+		<ingredient count="2096000" id="57" />
+		<!-- Улучшенный Шлем Апеллы -->
+		<production count="1" id="9830" />
+	</item>
+	<item>
+		<ingredient count="4532" id="-200" />
+		<!-- Рыцарский Эполет -->
+		<ingredient count="115" id="9912" />
+		<!-- Адена -->
+		<ingredient count="9087000" id="57" />
+		<!-- Улучшенный Латный Доспех Апеллы -->
+		<production count="1" id="9831" />
+	</item>
+	<item>
+		<ingredient count="697" id="-200" />
+		<!-- Рыцарский Эполет -->
+		<ingredient count="18" id="9912" />
+		<!-- Адена -->
+		<ingredient count="1397160" id="57" />
+		<!-- Улучшенные Рукавицы Апеллы (Тяжелый) -->
+		<production count="1" id="9832" />
+	</item>
+	<item>
+		<ingredient count="697" id="-200" />
+		<!-- Рыцарский Эполет -->
+		<ingredient count="18" id="9912" />
+		<!-- Адена -->
+		<ingredient count="1397160" id="57" />
+		<!-- Улучшенные Солереты Апеллы (Тяжелый) -->
+		<production count="1" id="9833" />
+	</item>
+	<item>
+		<ingredient count="3399" id="-200" />
+		<!-- Рыцарский Эполет -->
+		<ingredient count="86" id="9912" />
+		<!-- Адена -->
+		<ingredient count="6816800" id="57" />
+		<!-- Улучшенный Панцирь Апеллы -->
+		<production count="1" id="9834" />
+	</item>
+	<item>
+		<ingredient count="697" id="-200" />
+		<!-- Рыцарский Эполет -->
+		<ingredient count="18" id="9912" />
+		<!-- Адена -->
+		<ingredient count="1397160" id="57" />
+		<!-- Улучшенные Кожаные Перчатки Апеллы (Легкий) -->
+		<production count="1" id="9835" />
+	</item>
+	<item>
+		<ingredient count="697" id="-200" />
+		<!-- Рыцарский Эполет -->
+		<ingredient count="18" id="9912" />
+		<!-- Адена -->
+		<ingredient count="1397160" id="57" />
+		<!-- Улучшенные Ботинки Апеллы (Легкий) -->
+		<production count="1" id="9836" />
+	</item>
+	<item>
+		<ingredient count="3399" id="-200" />
+		<!-- Рыцарский Эполет -->
+		<ingredient count="86" id="9912" />
+		<!-- Адена -->
+		<ingredient count="6815800" id="57" />
+		<!-- Улучшенная Накидка Апеллы -->
+		<production count="1" id="9837" />
+	</item>
+	<item>
+		<ingredient count="697" id="-200" />
+		<!-- Рыцарский Эполет -->
+		<ingredient count="18" id="9912" />
+		<!-- Адена -->
+		<ingredient count="1397160" id="57" />
+		<!-- Улучшенные Шелковые Перчатки Апеллы (Магический) -->
+		<production count="1" id="9838" />
+	</item>
+	<item>
+		<ingredient count="697" id="-200" />
+		<!-- Рыцарский Эполет -->
+		<ingredient count="18" id="9912" />
+		<!-- Адена -->
+		<ingredient count="1397160" id="57" />
+		<!-- Улучшенные Сандалии Апеллы (Магический) -->
+		<production count="1" id="9839" />
+	</item>
+</list>

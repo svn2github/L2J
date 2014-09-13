@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "spawn.dtd">
+<!--Задумка спавна (c)Mangol,(c)KilRoy-->
+<list>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-44015" y="79683" z="-3652" h="47152" />
+		<npc id="30419" /><!--Arkenia-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-44225" y="79721" z="-3652" h="47152" />
+		<npc id="30421" /><!--Varika-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-44358" y="79442" z="-3709" h="48000" />
+		<npc id="30661" /><!--Mysterious Dark Elf-->
+	</spawn>
+</list>	

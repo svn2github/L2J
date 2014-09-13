@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "item.dtd">
+<list>
+	<etcitem id="35640" name="Nucleus of Darkness">
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.tiat_seal_i00"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="QUEST"/>
+	</etcitem>
+	<etcitem id="35641" name="Mysterious Supply Box - Magic Pin (B, C grade)">
+		<set name="icon" value="icon.event_hero_treasure_box_i00" />
+		<set name="class" value="OTHER"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="100"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+	<etcitem id="35642" name="Mysterious Supply Box - Magic Pouch (B, C grade)">
+		<set name="icon" value="icon.event_hero_treasure_box_i00" />
+		<set name="class" value="OTHER"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="100"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+	<etcitem id="35643" name="Mysterious Supply Box - Belt (B, C grade)">
+		<set name="icon" value="icon.event_hero_treasure_box_i00" />
+		<set name="class" value="OTHER"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="100"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+	<etcitem id="35644" name="Mysterious Supply Box - Magic Pin (S, A grade)">
+		<set name="icon" value="icon.event_hero_treasure_box_i00" />
+		<set name="class" value="OTHER"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="100"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+	<etcitem id="35645" name="Mysterious Supply Box - Magic Pouch (S, A grade)">
+		<set name="icon" value="icon.event_hero_treasure_box_i00" />
+		<set name="class" value="OTHER"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="100"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+	<etcitem id="35646" name="Mysterious Supply Box - Belt (S, A grade)">
+		<set name="icon" value="icon.event_hero_treasure_box_i00" />
+		<set name="class" value="OTHER"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="100"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+	<etcitem id="35647" name="Mysterious Supply Box - Magic Rune Clip (S, A grade)">
+		<set name="icon" value="icon.event_hero_treasure_box_i00" />
+		<set name="class" value="OTHER"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="100"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+	<etcitem id="35648" name="Mysterious Supply Box - Magic Ornament (S, A grade)">
+		<set name="icon" value="icon.event_hero_treasure_box_i00" />
+		<set name="class" value="OTHER"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="100"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+	<etcitem id="35649" name="Запечатанный Талисман Вожделения">
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="OTHER"/>
+	</etcitem>
+	<etcitem id="35650" name="Bratty Angma Summon Scroll">
+		<set name="icon" value="icon.etc_scroll_white_i00" />
+		<set name="class" value="OTHER"/>
+		<set name="type" value="OTHER"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+	<etcitem id="35651" name="Bratty Angma Summon Scroll">
+		<set name="icon" value="icon.etc_scroll_white_i00" />
+		<set name="class" value="OTHER"/>
+		<set name="type" value="OTHER"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+	<etcitem id="35652" name="Bratty Angma Summon Scroll">
+		<set name="icon" value="icon.etc_scroll_white_i00" />
+		<set name="class" value="OTHER"/>
+		<set name="type" value="OTHER"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+	<etcitem id="35653" name="Bratty Angma Summon Scroll">
+		<set name="icon" value="icon.etc_scroll_white_i00" />
+		<set name="class" value="OTHER"/>
+		<set name="type" value="OTHER"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+	<etcitem id="35668" name="Core of Twisted Magic">
+		<set name="icon" value="icon.etc_fruit_juice_glass_bottle_i07" />
+		<set name="class" value="OTHER"/>
+		<set name="type" value="OTHER"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+	<etcitem id="35669" name="Благословение Кота-Ангела">
+	<!--При использовании Физ. Атк. +5%, Маг. Атк. +20%, Физ. Защ. +5%, Маг. Защ. +5%, Скор. Атк. +5%, Скор. Маг. +5%, Макс. HP/MP +5%, получаемые SP и опыт +30%. 
+	Время действия: 60 мин. Нельзя обменять/выбросить/уничтожить. Можно положить в личное хранилище. Нельзя использовать на олимпиаде.
+	Не может использоваться вместе с подарком Коллекционера Букв.-->
+		<set name="icon" value="icon.skilltransform4" />
+		<set name="class" value="CONSUMABLE"/>
+		<set name="type" value="SCROLL"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="stackable" value="false"/>
+		<set name="weight" value="5"/>
+		<set name="temporal" value="true"/>
+		<set name="durability" value="43200"/>
+        <skills>
+            <skill id="9487" level="1"/>
+        </skills>
+	</etcitem>
+</list>

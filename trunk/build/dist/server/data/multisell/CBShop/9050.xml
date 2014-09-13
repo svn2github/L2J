@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Vesper Jewels -->
+<!-- © 2010 by mathuza -->
+
+<list maintainEnchantment="true">
+
+  <!-- Vesper Necklace -->
+  <item id="1">
+    <ingredient id="13419" count="1"/>
+    <production id="14164" count="1"/>
+  </item>
+
+  <!-- Vesper Earring -->
+  <item id="2">
+    <ingredient id="13419" count="1"/>
+    <production id="14163" count="1"/>
+  </item>
+
+  <!-- Vesper Ring -->
+  <item id="3">
+    <ingredient id="13419" count="1"/>
+    <production id="14165" count="1"/>
+  </item>
+
+
+</list>

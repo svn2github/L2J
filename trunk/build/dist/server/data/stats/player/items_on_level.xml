@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "../../dtd/items_on_level.dtd">
+<list>
+	<survey level="1">
+		<item id="20418" count="1" /> 
+	</survey>
+	<survey level="20">
+		<item id="22578" count="1" />  
+	</survey>
+	<survey level="40">
+		<item id="22583" count="1" /> 
+		<item id="22600" count="1" /> 
+		<item id="22592" count="1" /> 
+		<item id="33800" count="1" /> 
+	</survey>
+	<survey level="45">
+		<item id="22579" count="1" /> 
+	</survey>
+	<survey level="50">
+		<item id="22584" count="1" />
+		<item id="22594" count="1" />
+		<item id="22602" count="1" /> 
+	</survey>
+	<survey level="55">
+		<item id="22580" count="1" />
+		<item id="22594" count="1" />
+		<item id="22602" count="1" /> 
+	</survey>
+	<survey level="60">
+		<item id="22585" count="1" /> 
+		<item id="22596" count="1" /> 
+		<item id="22604" count="1" /> 
+	</survey>
+	<survey level="65">
+		<item id="22596" count="1" /> 
+		<item id="22604" count="1" />
+	</survey>
+	<survey level="70">
+		<item id="22596" count="1" /> 
+		<item id="22604" count="1" /> 
+		<item id="22581" count="1" /> 
+	</survey>
+	<survey level="76">
+		<item id="20863" count="1" /> 
+		<item id="22586" count="1" /> 
+		<item id="21816" count="1" /> 
+		<item id="22619" count="1" /> 
+	</survey>
+	<survey level="80">
+		<item id="23127" count="1" />
+		<item id="23128" count="1" />
+		<item id="23129" count="1" />
+		<item id="20448" count="1" />
+	</survey>
+	<survey level="85">
+		<item id="20429" count="1" />
+	</survey>
+</list>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+    <item id="7">
+		<ingredient id="13419" count="1"/>
+		<production id="15592" count="1"/>
+		<production id="15595" count="1"/>
+		<production id="15598" count="1"/>
+		<production id="15601" count="1"/>
+		<production id="15589" count="1"/>
+	</item>
+	<item id="3">
+		<ingredient id="13419" count="1"/>
+		<production id="15593" count="1"/>
+		<production id="15596" count="1"/>
+		<production id="15599" count="1"/>
+		<production id="15590" count="1"/>
+		<production id="15602" count="1"/>
+	</item>
+	<!-- Верпес Лайт  -->
+	<item id="7">
+		<ingredient id="13419" count="1"/>
+		<production id="15594" count="1"/>
+		<production id="15591" count="1"/>
+		<production id="15600" count="1"/>
+		<production id="15597" count="1"/>
+		<production id="15603" count="1"/>
+	</item>
+	<!-- Верпес Роба  -->
+	<item id="8">
+		<ingredient id="13419" count="1"/>
+		<production id="15605" count="1"/>
+	</item>
+	<!-- Верпес Щит-->
+	<item id="8">
+		<ingredient id="13419" count="1"/>
+		<production id="15604" count="1"/>
+	</item>
+	<!-- Верпес Щит-->
+
+</list>

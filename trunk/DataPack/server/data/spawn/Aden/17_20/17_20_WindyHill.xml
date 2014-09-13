@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "spawn.dtd">
+<!--Задумка спавна (c)Mangol,(c)KilRoy-->
+<list>
+	<spawn count="8" respawn="26" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-86504" y="79992" zmin="-3468" zmax="-2768" />
+			<add x="-85396" y="77059" zmin="-3468" zmax="-2768" />
+			<add x="-82576" y="78607" zmin="-3468" zmax="-2768" />
+			<add x="-83388" y="80324" zmin="-3468" zmax="-2768" />
+		</territory>
+		<npc id="20078" /><!--Whispering Wind-->
+	</spawn>
+	<spawn count="7" respawn="26" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-88451" y="82848" zmin="-3404" zmax="-2604" />
+			<add x="-86565" y="80140" zmin="-3404" zmax="-2604" />
+			<add x="-84055" y="80386" zmin="-3404" zmax="-2604" />
+			<add x="-84969" y="83450" zmin="-3404" zmax="-2604" />
+		</territory>
+		<npc id="20078" /><!--Whispering Wind-->
+	</spawn>
+	<spawn count="8" respawn="26" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-95690" y="94435" zmin="-3664" zmax="-2864" />
+			<add x="-93901" y="90791" zmin="-3664" zmax="-2864" />
+			<add x="-90477" y="92238" zmin="-3664" zmax="-2864" />
+			<add x="-90431" y="94766" zmin="-3664" zmax="-2864" />
+		</territory>
+		<npc id="21023" /><!--Sobbing Wind-->
+	</spawn>
+	<spawn count="6" respawn="26" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-81886" y="92024" zmin="-3806" zmax="-3006" />
+			<add x="-80102" y="88181" zmin="-3806" zmax="-3006" />
+			<add x="-72603" y="93682" zmin="-3806" zmax="-3006" />
+			<add x="-75304" y="96574" zmin="-3806" zmax="-3006" />
+		</territory>
+		<npc id="21023" /><!--Sobbing Wind-->
+	</spawn>
+	<spawn count="7" respawn="26" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-75142" y="96677" zmin="-3817" zmax="-3217" />
+			<add x="-72692" y="97934" zmin="-3817" zmax="-3217" />
+			<add x="-65929" y="97881" zmin="-3817" zmax="-3217" />
+			<add x="-72256" y="93591" zmin="-3817" zmax="-3217" />
+		</territory>
+		<npc id="21023" /><!--Sobbing Wind-->
+	</spawn>
+	<spawn count="4" respawn="26" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-78664" y="93630" zmin="-3807" zmax="-3307" />
+			<add x="-77642" y="90973" zmin="-3807" zmax="-3307" />
+			<add x="-74177" y="93006" zmin="-3807" zmax="-3307" />
+			<add x="-76129" y="95443" zmin="-3807" zmax="-3307" />
+		</territory>
+		<npc id="21023" /><!--Sobbing Wind-->
+	</spawn>
+	<spawn count="6" respawn="26" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-84655" y="90284" zmin="-3807" zmax="-3107" />
+			<add x="-83120" y="86429" zmin="-3807" zmax="-3107" />
+			<add x="-80061" y="87494" zmin="-3807" zmax="-3107" />
+			<add x="-81537" y="90996" zmin="-3807" zmax="-3107" />
+		</territory>
+		<npc id="21024" /><!--Babbling Wind-->
+	</spawn>
+	<spawn count="9" respawn="26" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-89487" y="87115" zmin="-3649" zmax="-2849" />
+			<add x="-88922" y="90976" zmin="-3649" zmax="-2849" />
+			<add x="-85804" y="91641" zmin="-3649" zmax="-2849" />
+			<add x="-84093" y="87998" zmin="-3649" zmax="-2849" />
+		</territory>
+		<npc id="21024" /><!--Babbling Wind-->
+	</spawn>
+	<spawn count="8" respawn="26" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-89042" y="91007" zmin="-3649" zmax="-2849" />
+			<add x="-90577" y="92038" zmin="-3649" zmax="-2849" />
+			<add x="-93832" y="90666" zmin="-3649" zmax="-2849" />
+			<add x="-92087" y="87486" zmin="-3649" zmax="-2849" />
+			<add x="-89632" y="87343" zmin="-3649" zmax="-2849" />
+		</territory>
+		<npc id="21024" /><!--Babbling Wind-->
+	</spawn>
+	<spawn count="6" respawn="26" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-95690" y="94435" zmin="-3664" zmax="-2864" />
+			<add x="-93901" y="90791" zmin="-3664" zmax="-2864" />
+			<add x="-90477" y="92238" zmin="-3664" zmax="-2864" />
+			<add x="-90431" y="94766" zmin="-3664" zmax="-2864" />
+		</territory>
+		<npc id="21024" /><!--Babbling Wind-->
+	</spawn>
+	<spawn count="6" respawn="26" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-81886" y="92024" zmin="-3806" zmax="-3006" />
+			<add x="-80102" y="88181" zmin="-3806" zmax="-3006" />
+			<add x="-72603" y="93682" zmin="-3806" zmax="-3006" />
+			<add x="-75304" y="96574" zmin="-3806" zmax="-3006" />
+		</territory>
+		<npc id="21024" /><!--Babbling Wind-->
+	</spawn>
+	<spawn count="7" respawn="26" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-75142" y="96677" zmin="-3817" zmax="-3217" />
+			<add x="-72692" y="97934" zmin="-3817" zmax="-3217" />
+			<add x="-65929" y="97881" zmin="-3817" zmax="-3217" />
+			<add x="-72256" y="93591" zmin="-3817" zmax="-3217" />
+		</territory>
+		<npc id="21024" /><!--Babbling Wind-->
+	</spawn>
+	<spawn count="3" respawn="26" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-88451" y="82848" zmin="-3404" zmax="-2604" />
+			<add x="-86565" y="80140" zmin="-3404" zmax="-2604" />
+			<add x="-84055" y="80386" zmin="-3404" zmax="-2604" />
+			<add x="-84969" y="83450" zmin="-3404" zmax="-2604" />
+		</territory>
+		<npc id="21025" /><!--Giggling Wind-->
+	</spawn>
+	<spawn count="9" respawn="26" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-84976" y="83589" zmin="-3628" zmax="-2928" />
+			<add x="-83806" y="85813" zmin="-3628" zmax="-2928" />
+			<add x="-81074" y="86217" zmin="-3628" zmax="-2928" />
+			<add x="-81851" y="81857" zmin="-3628" zmax="-2928" />
+		</territory>
+		<npc id="21025" /><!--Giggling Wind-->
+	</spawn>
+	<spawn count="6" respawn="26" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-84655" y="90284" zmin="-3807" zmax="-3107" />
+			<add x="-83120" y="86429" zmin="-3807" zmax="-3107" />
+			<add x="-80061" y="87494" zmin="-3807" zmax="-3107" />
+			<add x="-81537" y="90996" zmin="-3807" zmax="-3107" />
+		</territory>
+		<npc id="21025" /><!--Giggling Wind-->
+	</spawn>
+	<spawn count="7" respawn="26" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-89355" y="87040" zmin="-3578" zmax="-2678" />
+			<add x="-87819" y="83186" zmin="-3578" zmax="-2678" />
+			<add x="-84760" y="84250" zmin="-3578" zmax="-2678" />
+			<add x="-86230" y="87531" zmin="-3578" zmax="-2678" />
+		</territory>
+		<npc id="21025" /><!--Giggling Wind-->
+	</spawn>
+	<spawn count="9" respawn="26" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-89487" y="87115" zmin="-3649" zmax="-2849" />
+			<add x="-88922" y="90976" zmin="-3649" zmax="-2849" />
+			<add x="-85804" y="91641" zmin="-3649" zmax="-2849" />
+			<add x="-84093" y="87998" zmin="-3649" zmax="-2849" />
+		</territory>
+		<npc id="21025" /><!--Giggling Wind-->
+	</spawn>
+	<spawn count="7" respawn="26" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-89042" y="91007" zmin="-3649" zmax="-2849" />
+			<add x="-90577" y="92038" zmin="-3649" zmax="-2849" />
+			<add x="-93832" y="90666" zmin="-3649" zmax="-2849" />
+			<add x="-92087" y="87486" zmin="-3649" zmax="-2849" />
+			<add x="-89632" y="87343" zmin="-3649" zmax="-2849" />
+		</territory>
+		<npc id="21025" /><!--Giggling Wind-->
+	</spawn>
+	<spawn count="3" respawn="26" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-81886" y="92024" zmin="-3806" zmax="-3006" />
+			<add x="-80102" y="88181" zmin="-3806" zmax="-3006" />
+			<add x="-72603" y="93682" zmin="-3806" zmax="-3006" />
+			<add x="-75304" y="96574" zmin="-3806" zmax="-3006" />
+		</territory>
+		<npc id="21025" /><!--Giggling Wind-->
+	</spawn>
+	<spawn count="2" respawn="26" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-78664" y="93630" zmin="-3807" zmax="-3307" />
+			<add x="-77642" y="90973" zmin="-3807" zmax="-3307" />
+			<add x="-74177" y="93006" zmin="-3807" zmax="-3307" />
+			<add x="-76129" y="95443" zmin="-3807" zmax="-3307" />
+		</territory>
+		<npc id="21025" /><!--Giggling Wind-->
+	</spawn>
+	<spawn count="6" respawn="26" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-86504" y="79992" zmin="-3468" zmax="-2768" />
+			<add x="-85396" y="77059" zmin="-3468" zmax="-2768" />
+			<add x="-82576" y="78607" zmin="-3468" zmax="-2768" />
+			<add x="-83388" y="80324" zmin="-3468" zmax="-2768" />
+		</territory>
+		<npc id="21026" /><!--Singing Wind-->
+	</spawn>
+	<spawn count="8" respawn="26" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-88451" y="82848" zmin="-3404" zmax="-2604" />
+			<add x="-86565" y="80140" zmin="-3404" zmax="-2604" />
+			<add x="-84055" y="80386" zmin="-3404" zmax="-2604" />
+			<add x="-84969" y="83450" zmin="-3404" zmax="-2604" />
+		</territory>
+		<npc id="21026" /><!--Singing Wind-->
+	</spawn>
+	<spawn count="9" respawn="26" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-84976" y="83589" zmin="-3628" zmax="-2928" />
+			<add x="-83806" y="85813" zmin="-3628" zmax="-2928" />
+			<add x="-81074" y="86217" zmin="-3628" zmax="-2928" />
+			<add x="-81851" y="81857" zmin="-3628" zmax="-2928" />
+		</territory>
+		<npc id="21026" /><!--Singing Wind-->
+	</spawn>
+	<spawn count="3" respawn="26" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-84655" y="90284" zmin="-3807" zmax="-3107" />
+			<add x="-83120" y="86429" zmin="-3807" zmax="-3107" />
+			<add x="-80061" y="87494" zmin="-3807" zmax="-3107" />
+			<add x="-81537" y="90996" zmin="-3807" zmax="-3107" />
+		</territory>
+		<npc id="21026" /><!--Singing Wind-->
+	</spawn>
+	<spawn count="7" respawn="26" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-89355" y="87040" zmin="-3578" zmax="-2678" />
+			<add x="-87819" y="83186" zmin="-3578" zmax="-2678" />
+			<add x="-84760" y="84250" zmin="-3578" zmax="-2678" />
+			<add x="-86230" y="87531" zmin="-3578" zmax="-2678" />
+		</territory>
+		<npc id="21026" /><!--Singing Wind-->
+	</spawn>
+	<spawn count="10" respawn="35" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-75020" y="81880" zmin="-3496" zmax="-3096" />
+			<add x="-74916" y="84452" zmin="-3496" zmax="-3096" />
+			<add x="-73744" y="84516" zmin="-3496" zmax="-3096" />
+			<add x="-73764" y="81816" zmin="-3496" zmax="-3096" />
+		</territory>
+		<npc id="27054" /><!--Umbar Orc (Quest Monster)-->
+	</spawn>
+	<spawn count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="-81247" y="75607" z="-3360" h="0" />
+		<npc id="27165" /><!--Abyssal Jewel 1-->
+	</spawn>	
+</list>

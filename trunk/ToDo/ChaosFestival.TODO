@@ -1,0 +1,1232 @@
+package l2god.scripts.instances;
+
+import java.util.Calendar;
+import java.util.Collections;
+import java.util.Comparator;
+import java.util.Iterator;
+import java.util.List;
+import java.util.Map;
+import java.util.concurrent.Future;
+import javolution.util.FastList;
+import javolution.util.FastMap;
+import l2god.config.scripts.ConfigChaosFestival;
+import l2god.gameserver.ThreadPoolManager;
+import l2god.gameserver.cache.HtmCache;
+import l2god.gameserver.datatables.sql.ChaosFestivalTable;
+import l2god.gameserver.engine.hookengine.AbstractHookImpl;
+import l2god.gameserver.engine.hookengine.HookType;
+import l2god.gameserver.engine.hookengine.IHook;
+import l2god.gameserver.engine.hookengine.IHookContainer;
+import l2god.gameserver.instancemanager.HookManager;
+import l2god.gameserver.instancemanager.InstanceManager;
+import l2god.gameserver.instancemanager.InstanceManager.InstanceWorld;
+import l2god.gameserver.instancemanager.WorldManager;
+import l2god.gameserver.model.actor.L2Character;
+import l2god.gameserver.model.actor.L2Npc;
+import l2god.gameserver.model.actor.L2Summon;
+import l2god.gameserver.model.actor.appearance.PcAppearance;
+import l2god.gameserver.model.actor.controller.object.InstanceController;
+import l2god.gameserver.model.actor.controller.player.ObserverController;
+import l2god.gameserver.model.actor.controller.player.ObserverController.ObserveType;
+import l2god.gameserver.model.actor.instance.L2PcInstance;
+import l2god.gameserver.model.holders.ChaosFestivalEntry;
+import l2god.gameserver.model.items.base.proptypes.ProcessType;
+import l2god.gameserver.model.items.itemcontainer.PcInventory;
+import l2god.gameserver.model.player.base.ClassId;
+import l2god.gameserver.model.player.formation.clan.L2Clan;
+import l2god.gameserver.model.skills.SkillTable;
+import l2god.gameserver.model.skills.base.L2Skill;
+import l2god.gameserver.model.skills.base.proptypes.L2TargetType;
+import l2god.gameserver.model.world.Instance;
+import l2god.gameserver.model.world.InstanceZoneId;
+import l2god.gameserver.model.world.quest.Quest;
+import l2god.gameserver.model.world.zone.Location;
+import l2god.gameserver.network.game.components.SystemMessageId;
+import l2god.gameserver.network.game.serverpackets.NpcHtmlMessage;
+import l2god.gameserver.network.game.serverpackets.SystemMessage;
+import l2god.gameserver.network.game.serverpackets.packet.curioushouse.ExCuriousHouseEnter;
+import l2god.gameserver.network.game.serverpackets.packet.curioushouse.ExCuriousHouseLeave;
+import l2god.gameserver.network.game.serverpackets.packet.curioushouse.ExCuriousHouseMemberList;
+import l2god.gameserver.network.game.serverpackets.packet.curioushouse.ExCuriousHouseMemberUpdate;
+import l2god.gameserver.network.game.serverpackets.packet.curioushouse.ExCuriousHouseRemainTime;
+import l2god.gameserver.network.game.serverpackets.packet.curioushouse.ExCuriousHouseResult;
+import l2god.gameserver.network.game.serverpackets.packet.curioushouse.ExCuriousHouseResult.PlayerState;
+import l2god.gameserver.network.game.serverpackets.packet.curioushouse.ExCuriousHouseState;
+import l2god.gameserver.network.game.serverpackets.packet.curioushouse.ExCuriousHouseState.ChaosFestivalInviteState;
+import l2god.gameserver.util.Rnd;
+import org.apache.log4j.Level;
+import org.apache.log4j.Logger;
+import org.jetbrains.annotations.Nullable;
+
+public class ChaosFestival extends Quest
+{
+  private static final int[] ARENAS = { InstanceZoneId.ARENA_1.getId(), InstanceZoneId.ARENA_2.getId(), InstanceZoneId.ARENA_3.getId(), InstanceZoneId.ARENA_4.getId() };
+
+  private static final Location[][] LOCS = { { new Location(-82630, -259280, -3328), new Location(-82179, -259732, -3328), new Location(-81736, -259292, -3328), new Location(-82174, -258850, -3328) }, { new Location(-81259, -245270, -3324), new Location(-82585, -245264, -3324), new Location(-82577, -246079, -3326), new Location(-81275, -246075, -3324) }, { new Location(-9593, -220697, -7664), new Location(-8562, -220710, -7670), new Location(-8577, -219705, -7670), new Location(-9540, -219710, -7672) }, { new Location(-212014, 244496, 2117), new Location(-212019, 245300, 2117), new Location(-212907, 244896, 2038), new Location(-214072, 244892, 2032), new Location(-214909, 245300, 2112), new Location(-214908, 244485, 2117) } };
+
+  private static final int[][][][] SPAWN_LOCS = { { { { -81687, -246264, -3327 }, { -81144, -245085, -3327 } }, { { -82706, -246265, -3327 }, { -82165, -245084, -3327 } } }, { { { -82007, -259115, -3327 }, { -81208, -258481, -3327 } }, { { -83155, -260093, -3327 }, { -81994, -259461, -3327 } }, { { -83256, -260095, -3327 }, { -82358, -259465, -3327 } }, { { -83158, -259112, -3327 }, { -82355, -258481, -3327 } } }, { { { -9816, -220960, -7671 }, { -8308, -220589, -7671 } }, { { -8694, -220549, -7671 }, { -8303, -219836, -7671 } }, { { -9821, -219835, -7671 }, { -8367, -219449, -7671 } }, { { -9815, -220575, -7671 }, { -9415, -219835, -7671 } } }, { { { -215197, 244686, 2119 }, { -211850, 244327, 2119 } }, { { -215081, 245458, 2119 }, { -211982, 245081, 2119 } } } };
+  private static long _initialTime;
+  private static long _invitationEndTime;
+  private static long _teleportTime;
+  private static ChaosFestivalStatus _festivalStatus;
+  private static final List<L2PcInstance> _invitedPlayers = new FastList();
+  private static final Map<Integer, Boolean> _invitedPlayersMap = new FastMap();
+  private static final Map<Integer, Long> _inviteAcceptTime = new FastMap();
+  private static final List<L2PcInstance> _fightingNow = new FastList();
+
+  private static IHook _playerFestivalHook = new PlayerFestivalHook();
+  private static Future<?> _inviteTask = null;
+  private static Future<?> _teleportTask = null;
+  private static Future<?> _endTask = null;
+
+
+  public void startChallenge(final List<L2PcInstance> players, final ChaosFestivalWorld world)
+  {
+    world.status = 1;
+
+    for (L2PcInstance player : players)
+    {
+      player.sendPacket(new NpcHtmlMessage(5, HtmCache.getInstance().getHtm(player.getLang(), "default/grankain_lumiere011.htm")));
+      player.sendPacket(new ExCuriousHouseEnter());
+      if (players.size() > 1) {
+        player.sendPacket(new ExCuriousHouseMemberList(players));
+      }
+      if ((player.isFlying()) && (player.getTransformationId() > 0)) {
+        player.untransform();
+      }
+
+      player.setIsCanMove(false);
+      player.setInsideZone((byte)0, true);
+      player.setInsideZone((byte)20, true);
+      player.setInsideZone((byte)12, true);
+      player.setInsideZone((byte)21, true);
+      player.setInsideZone((byte)23, true);
+      player.setInsideZone((byte)14, true);
+      player.getAppearance().setInvisible();
+
+      for (L2Summon summon : player.getPets())
+      {
+        summon.getLocationController().setVisible(false);
+      }
+
+      world.allowed.add(Integer.valueOf(player.getObjectId()));
+      world.members.add(player);
+      _fightingNow.add(player);
+
+      world.playerStartLocations.put(Integer.valueOf(player.getObjectId()), player.getLoc());
+      player.setTarget(null);
+      Location loc = LOCS[world.mapIndex][Rnd.get(LOCS[world.mapIndex].length)];
+      player.teleToInstance(loc, world.instanceId);
+
+      player.sendPacket(new ExCuriousHouseEnter());
+
+      player.disableSkillsOfTargetType(L2TargetType.TARGET_ALLY);
+      player.disableSkillsOfTargetType(L2TargetType.TARGET_CLAN);
+      player.disableSkillsOfTargetType(L2TargetType.TARGET_CLAN_MEMBER);
+
+      for (L2Summon summon : player.getPets())
+      {
+        summon.disableSkillsOfTargetType(L2TargetType.TARGET_ALLY);
+        summon.disableSkillsOfTargetType(L2TargetType.TARGET_CLAN);
+        summon.disableSkillsOfTargetType(L2TargetType.TARGET_CLAN_MEMBER);
+      }
+
+      player.getInventory().addItem(ProcessType.QUEST, 35991, 1L, player, null, true);
+      player.getInventory().addItem(ProcessType.QUEST, 35992, 1L, player, null, true);
+      player.getInventory().addItem(ProcessType.QUEST, 35993, 1L, player, null, true);
+
+      player.getHookContainer().addHook(HookType.ON_SUMMON_SPAWN, _playerFestivalHook);
+      player.getHookContainer().addHook(HookType.ON_DIE, _playerFestivalHook);
+      player.getHookContainer().addHook(HookType.ON_ATTACK, _playerFestivalHook);
+      player.getHookContainer().addHook(HookType.ON_ENTER_INSTANCE, _playerFestivalHook);
+    }
+
+    ThreadPoolManager.getInstance().scheduleGeneral(new Runnable()
+    {
+      public void run()
+      {
+        if (world.status > 1) {
+          return;
+        }
+
+        if ((ConfigChaosFestival.CHAOS_FESTIVAL_MONSTER_ID > 0) && (Rnd.get() <= ConfigChaosFestival.CHAOS_FESTIVAL_MONSTER_APPEAR_CHANCE / 100.0D))
+        {
+          int count = Rnd.get(ConfigChaosFestival.CHAOS_FESTIVAL_MONSTER_COUNT[0], ConfigChaosFestival.CHAOS_FESTIVAL_MONSTER_COUNT[1]);
+          for (int i = 0; i < count; i++)
+          {
+            int[] loc = ChaosFestival.this.randomSpawnLoc(world);
+
+            if (loc != null)
+            {
+              world.npcs.add(addSpawn(ConfigChaosFestival.CHAOS_FESTIVAL_MONSTER_ID, loc[0], loc[1], loc[2], 0, false, 0L, false, world.instanceId));
+              world.monsterCount += 1;
+            }
+          }
+        }
+
+        int index = 1;
+        for (L2PcInstance player : players)
+        {
+          player.setIsCanMove(true);
+
+          if (ConfigChaosFestival.CHAOS_FESTIVAL_HIDE_PLAYER_NAMES)
+          {
+            player.getAppearance().setVisibleName("Player" + String.valueOf(index));
+            player.getAppearance().ownerSeesRealName();
+          }
+
+          if (ConfigChaosFestival.CHAOS_FESTIVAL_HIDE_DISTINCTIONS)
+          {
+            player.setHideInfo(true);
+            player.getAppearance().setVisibleTitle(null);
+            player.getAppearance().disableNameColor();
+            player.getAppearance().disableTitleColor();
+          }
+
+          player.getLocationController().setVisible(true);
+          player.getAppearance().setVisible();
+
+          for (L2Summon summon : player.getPets())
+          {
+            summon.getLocationController().setVisible(true);
+          }
+
+          SkillTable.getInstance().getInfo(7115, 1).getEffects(player, player);
+
+          SystemMessage msg = SystemMessage.getSystemMessage(1496);
+          player.sendPacket(msg);
+
+          world.timerTask = ThreadPoolManager.getInstance().scheduleGeneralAtFixedRate(new Runnable()
+          {
+            private int _time = 360;
+
+            public void run()
+            {
+              if (val$world.status > 1)
+              {
+                if (val$world.timerTask != null)
+                {
+                  val$world.timerTask.cancel(false);
+                  val$world.timerTask = null;
+                }
+                return;
+              }
+
+              if (_time > 0)
+              {
+                for (Iterator i$ = val$world.members.iterator(); i$.hasNext(); ) { player = (L2PcInstance)i$.next();
+
+                  player.sendPacket(new ExCuriousHouseRemainTime(_time));
+
+                  for (L2PcInstance member : val$world.members)
+                    player.sendPacket(new ExCuriousHouseMemberUpdate(member));
+                }
+                L2PcInstance player;
+                _time -= 1;
+              }
+              else if (val$world.timerTask != null)
+              {
+                val$world.timerTask.cancel(false);
+                val$world.timerTask = null;
+              }
+            }
+          }
+          , 0L, 1000L);
+        }
+
+        if ((players.size() <= 1) && (world.monsterCount <= 0))
+        {
+          endChallenge(world);
+        }
+
+        ThreadPoolManager.getInstance().scheduleGeneral(new Runnable()
+        {
+          private int _iteration = 0;
+
+          public void run()
+          {
+            if (val$world.status > 1) {
+              return;
+            }
+            int[] loc = ChaosFestival.this.randomSpawnLoc(val$world);
+
+            if (loc != null)
+            {
+              switch (_iteration)
+              {
+              case 0:
+                for (byte i = 0; i < ConfigChaosFestival.CHAOS_FESTIVAL_FIRST_HERB_BOX_COUNT; i = (byte)(i + 1))
+                {
+                  addSpawn(19292, loc[0], loc[1], loc[2], 0, false, 340L, false, val$world.instanceId);
+                }
+
+                ThreadPoolManager.getInstance().scheduleGeneral(this, 100000L);
+                break;
+              case 1:
+                for (byte i = 0; i < ConfigChaosFestival.CHAOS_FESTIVAL_SECOND_HERB_BOX_COUNT; i = (byte)(i + 1))
+                {
+                  addSpawn(19292, loc[0], loc[1], loc[2], 0, false, 240L, false, val$world.instanceId);
+                }
+
+                ThreadPoolManager.getInstance().scheduleGeneral(this, 120000L);
+                break;
+              case 2:
+                for (byte i = 0; i < ConfigChaosFestival.CHAOS_FESTIVAL_THIRD_HERB_BOX_COUNT; i = (byte)(i + 1))
+                {
+                  addSpawn(19292, loc[0], loc[1], loc[2], 0, false, 240L, false, val$world.instanceId);
+                }
+
+                ThreadPoolManager.getInstance().scheduleGeneral(this, 120000L);
+              }
+            }
+          }
+        }
+        , 20000L);
+
+        ThreadPoolManager.getInstance().scheduleGeneral(new Runnable()
+        {
+          public void run()
+          {
+            endChallenge(val$world);
+          }
+        }
+        , 360000L);
+      }
+    }
+    , ConfigChaosFestival.CHAOS_FESTIVAL_PREPARATION_TIME * 1000);
+
+    ThreadPoolManager.getInstance().scheduleGeneral(new Runnable()
+    {
+      private int _counter = 0;
+      private int _secs = 60;
+
+      public void run()
+      {
+        if (world.status > 1) {
+          return;
+        }
+        if (_secs > 0)
+        {
+          SystemMessage msg = SystemMessage.getSystemMessage(1495);
+          msg.addNumber(_secs);
+
+          for (L2PcInstance player : players)
+          {
+            if (isFightingNow(player)) {
+              player.sendPacket(msg);
+            }
+          }
+          if (_counter == 0)
+          {
+            ThreadPoolManager.getInstance().scheduleGeneral(this, 30000L);
+            _secs -= 30;
+          }
+          else if (_counter < 3)
+          {
+            ThreadPoolManager.getInstance().scheduleGeneral(this, 10000L);
+            _secs -= 10;
+          }
+          else if (_counter == 3)
+          {
+            ThreadPoolManager.getInstance().scheduleGeneral(this, 5000L);
+            _secs -= 5;
+          }
+          else
+          {
+            ThreadPoolManager.getInstance().scheduleGeneral(this, 1000L);
+            _secs -= 1;
+          }
+        }
+
+        _counter += 1;
+      }
+    }
+    , 0L);
+
+    ThreadPoolManager.getInstance().scheduleGeneral(new Runnable()
+    {
+      private final int[] _messages = { 3744, 3745, 3746 };
+      private int _currentMessageIndex = 0;
+
+      public void run()
+      {
+        if (world.status > 1) {
+          return;
+        }
+        SystemMessage msg = SystemMessage.getSystemMessage(_messages[_currentMessageIndex]);
+        for (L2PcInstance player : players)
+        {
+          if (isFightingNow(player))
+            player.sendPacket(msg);
+        }
+        _currentMessageIndex += 1;
+
+        if (_currentMessageIndex < _messages.length)
+          ThreadPoolManager.getInstance().scheduleGeneral(this, 4000L);
+      }
+    }
+    , 5000L);
+  }
+
+  public String onKill(L2Npc npc, L2PcInstance killer, boolean isPet)
+  {
+    ChaosFestivalWorld world = (ChaosFestivalWorld)InstanceManager.getInstance().getInstanceWorld(npc, ChaosFestivalWorld.class);
+
+    if (world != null)
+    {
+      int kills = world.monsterKills.containsKey(Integer.valueOf(killer.getObjectId())) ? ((Integer)world.monsterKills.get(Integer.valueOf(killer.getObjectId()))).intValue() : 0;
+      world.monsterKills.put(Integer.valueOf(killer.getObjectId()), Integer.valueOf(++kills));
+      world.monsterCount -= 1;
+
+      if (world.monsterCount <= 0) {
+        endChallenge(world);
+      }
+    }
+    return null;
+  }
+
+  public void endChallenge(final ChaosFestivalWorld world)
+  {
+    if (world.status != 1) {
+      return;
+    }
+    world.status = 2;
+
+    for (L2Npc npc : world.npcs)
+    {
+      if (npc != null)
+      {
+        npc.getLocationController().delete();
+      }
+
+    }
+
+    final List winners = new FastList();
+    L2PcInstance lastSurvivor = null;
+    final List losers = new FastList();
+    L2PcInstance bestKiller = null;
+    int maxKills = -1;
+    try
+    {
+      boolean isWinner;
+      if (world.members.size() > 1)
+      {
+        isWinner = false;
+        for (L2PcInstance player : world.members)
+        {
+          if ((maxKills < 0) || ((world.kills.containsKey(Integer.valueOf(player.getObjectId()))) && (((Integer)world.kills.get(Integer.valueOf(player.getObjectId()))).intValue() > maxKills)))
+          {
+            bestKiller = player;
+            maxKills = world.kills.containsKey(Integer.valueOf(player.getObjectId())) ? ((Integer)world.kills.get(Integer.valueOf(player.getObjectId()))).intValue() : 0;
+          }
+
+          if ((!world.died.contains(Integer.valueOf(player.getObjectId()))) && (!player.isDead()))
+          {
+            isWinner = true;
+            winners.add(player);
+          }
+          else
+          {
+            lastSurvivor = player;
+            losers.add(player);
+          }
+
+          HookManager.getInstance().notifyEvent(HookType.ON_CHAOS_BATTLE_END, player.getHookContainer(), new Object[] { player, Boolean.valueOf(isWinner) });
+        }
+      }
+      else if (world.members.size() == 1)
+      {
+        L2PcInstance player = (L2PcInstance)world.members.get(0);
+        boolean isWinner = false;
+        if ((world.allowed.size() == 1) || ((world.monsterKills.get(Integer.valueOf(player.getObjectId())) != null) && (((Integer)world.monsterKills.get(Integer.valueOf(player.getObjectId()))).intValue() >= 5)))
+        {
+          winners.add(player);
+          isWinner = true;
+        }
+
+        HookManager.getInstance().notifyEvent(HookType.ON_CHAOS_BATTLE_END, player.getHookContainer(), new Object[] { player, Boolean.valueOf(isWinner) });
+      }
+
+      for (L2PcInstance player : world.members)
+      {
+        if (player.isDead()) {
+          player.doRevive();
+        }
+        if (player != null)
+        {
+          SystemMessage msg = SystemMessage.getSystemMessage(1499);
+          msg.addNumber(30);
+          player.sendPacket(msg);
+
+          ExCuriousHouseResult.PlayerState state = losers.contains(player) ? ExCuriousHouseResult.PlayerState.LOSE : winners.contains(player) ? ExCuriousHouseResult.PlayerState.WIN : ExCuriousHouseResult.PlayerState.TIE;
+          player.sendPacket(new ExCuriousHouseResult(player, world.members, state, world.kills, world.survivorTimes));
+        }
+      }
+
+      if (world.timerTask != null)
+      {
+        world.timerTask.cancel(true);
+        world.timerTask = null;
+      }
+
+      if (lastSurvivor != null)
+        losers.remove(lastSurvivor);
+      SystemMessage msg;
+      if (winners.size() != 1)
+      {
+        msg = SystemMessage.getSystemMessage(1498);
+        for (L2PcInstance player : world.members)
+        {
+          player.sendPacket(msg);
+        }
+      }
+      else
+      {
+        SystemMessage msg = SystemMessage.getSystemMessage(1497);
+        msg.addPcName((L2PcInstance)winners.get(0));
+        for (L2PcInstance player : world.members)
+        {
+          if (player != null) {
+            player.sendPacket(msg);
+          }
+        }
+        for (int i = ConfigChaosFestival.CHAOS_FESTIVAL_MYST_BOX_MIN_COUNT; i <= ConfigChaosFestival.CHAOS_FESTIVAL_MYST_BOX_MAX_COUNT; i++)
+        {
+          int[] loc = randomSpawnLoc(world);
+          addSpawn(19267, loc[0], loc[1], loc[2], 0, false, 0L, false, world.instanceId);
+        }
+      }
+    }
+    catch (Exception e)
+    {
+      _log.error("Error during ending Chaos Festival battle.", e);
+    }
+
+    final L2PcInstance fBestKiller = bestKiller;
+    final L2PcInstance fLastSurvivor = lastSurvivor;
+
+    ThreadPoolManager.getInstance().scheduleGeneral(new Runnable()
+    {
+      public void run()
+      {
+        Iterator i$;
+        if (fBestKiller != null)
+        {
+          for (i$ = ConfigChaosFestival.CHAOS_FESTIVAL_BEST_KILLER_REWARD_ITEMS.iterator(); i$.hasNext(); ) { int id = ((Integer)i$.next()).intValue();
+
+            fBestKiller.addItem(ProcessType.QUEST, id, 1L, null, true);
+          }
+        }
+        Iterator i$;
+        if (fLastSurvivor != null)
+        {
+          for (i$ = ConfigChaosFestival.CHAOS_FESTIVAL_LAST_SURVIVOR_REWARD_BUFFS.iterator(); i$.hasNext(); ) { int id = ((Integer)i$.next()).intValue();
+
+            L2Skill skill = SkillTable.getInstance().getInfo(id, 1);
+            skill.getEffects(fLastSurvivor, fLastSurvivor);
+          }
+        }
+
+        for (Iterator i$ = winners.iterator(); i$.hasNext(); ) { winner = (L2PcInstance)i$.next();
+
+          for (i$ = ConfigChaosFestival.CHAOS_FESTIVAL_WINNER_REWARD_BUFFS.iterator(); i$.hasNext(); ) { int id = ((Integer)i$.next()).intValue();
+
+            L2Skill skill = SkillTable.getInstance().getInfo(id, 1);
+            skill.getEffects(winner, winner);
+          }
+        }
+        L2PcInstance winner;
+        Iterator i$;
+        for (Iterator i$ = losers.iterator(); i$.hasNext(); ) { loser = (L2PcInstance)i$.next();
+
+          for (i$ = ConfigChaosFestival.CHAOS_FESTIVAL_LOSER_REWARD_BUFFS.iterator(); i$.hasNext(); ) { int id = ((Integer)i$.next()).intValue();
+
+            L2Skill skill = SkillTable.getInstance().getInfo(id, 1);
+            skill.getEffects(loser, loser);
+          }
+        }
+        L2PcInstance loser;
+        Iterator i$;
+        for (L2PcInstance player : world.members)
+        {
+          exitChallenge(player);
+        }
+
+        InstanceManager.getInstance().destroyInstance(world.instanceId);
+      }
+    }
+    , 30000L);
+  }
+
+  public void exitChallenge(L2PcInstance player)
+  {
+    ChaosFestivalWorld world = (ChaosFestivalWorld)InstanceManager.getInstance().getInstanceWorld(player, ChaosFestivalWorld.class);
+
+    if (world != null)
+    {
+      if (player.isDead())
+      {
+        player.doRevive();
+      }
+
+      player.getHookContainer().removeHook(HookType.ON_DISCONNECT, _playerFestivalHook);
+      player.getHookContainer().removeHook(HookType.ON_DELETEME, _playerFestivalHook);
+      player.getHookContainer().removeHook(HookType.ON_SUMMON_SPAWN, _playerFestivalHook);
+      player.getHookContainer().removeHook(HookType.ON_DIE, _playerFestivalHook);
+      player.getHookContainer().removeHook(HookType.ON_HP_CHANGED, _playerFestivalHook);
+      player.getHookContainer().removeHook(HookType.ON_ENTER_INSTANCE, _playerFestivalHook);
+
+      player.getAppearance().setVisible();
+      player.setInsideZone((byte)0, false);
+      player.setInsideZone((byte)20, false);
+      player.setInsideZone((byte)12, false);
+      player.setInsideZone((byte)21, false);
+      player.setInsideZone((byte)23, false);
+      player.setInsideZone((byte)14, false);
+
+      if (player.isDead()) {
+        player.doRevive(100.0D);
+      }
+      player.setIsCanMove(true);
+      if (ConfigChaosFestival.CHAOS_FESTIVAL_HIDE_PLAYER_NAMES)
+      {
+        player.getAppearance().setVisibleName(null);
+        player.getAppearance().ownerSeesDisplayName();
+      }
+
+      if (ConfigChaosFestival.CHAOS_FESTIVAL_HIDE_DISTINCTIONS)
+      {
+        player.setHideInfo(false);
+        player.getAppearance().enableNameColor();
+        player.getAppearance().enableTitleColor();
+      }
+
+      for (L2Summon summon : player.getPets())
+      {
+        summon.getLocationController().setVisible(true);
+        summon.setCurrentHp(summon.getMaxHp());
+        summon.setCurrentMp(summon.getMaxMp());
+      }
+
+      player.setCurrentCp(player.getMaxCp());
+      player.setCurrentHp(player.getMaxHp());
+      player.setCurrentMp(player.getMaxMp());
+
+      if ((!world.isDone) && (_inviteAcceptTime.containsKey(Integer.valueOf(player.getObjectId()))) && (System.currentTimeMillis() - ((Long)_inviteAcceptTime.get(Integer.valueOf(player.getObjectId()))).longValue() > 420000L))
+      {
+        banPlayer(player);
+      }
+
+      player.enableSkillsOfTargetType(L2TargetType.TARGET_ALLY);
+      player.enableSkillsOfTargetType(L2TargetType.TARGET_CLAN);
+      player.enableSkillsOfTargetType(L2TargetType.TARGET_CLAN_MEMBER);
+
+      for (L2Summon summon : player.getPets())
+      {
+        summon.getLocationController().setVisible(true);
+        summon.disableSkillsOfTargetType(L2TargetType.TARGET_ALLY);
+        summon.disableSkillsOfTargetType(L2TargetType.TARGET_CLAN);
+        summon.disableSkillsOfTargetType(L2TargetType.TARGET_CLAN_MEMBER);
+      }
+
+      Instance instance = InstanceManager.getInstance().getInstance(world.instanceId);
+      if (instance != null) {
+        instance.removePlayer(Integer.valueOf(player.getObjectId()));
+      }
+      player.getInstanceController().setInstanceId(0);
+      if (world.playerStartLocations.containsKey(Integer.valueOf(player.getObjectId()))) {
+        player.teleToLocation((Location)world.playerStartLocations.get(Integer.valueOf(player.getObjectId())));
+      }
+      if (world.members.contains(player)) {
+        world.members.remove(player);
+      }
+      if (world.members.size() <= 1) {
+        getInstance().endChallenge(world);
+      }
+      if (world.kills.containsKey(Integer.valueOf(player.getObjectId()))) {
+        world.kills.remove(Integer.valueOf(player.getObjectId()));
+      }
+      if (world.died.contains(Integer.valueOf(player.getObjectId()))) {
+        world.died.remove(player.getObjectId());
+      }
+      if (world.survivorTimes.containsKey(Integer.valueOf(player.getObjectId()))) {
+        world.survivorTimes.remove(Integer.valueOf(player.getObjectId()));
+      }
+      if (_fightingNow.contains(player)) {
+        _fightingNow.remove(player);
+      }
+      if (_invitedPlayers.contains(player)) {
+        _invitedPlayers.remove(player);
+      }
+      if (_invitedPlayersMap.containsKey(Integer.valueOf(player.getObjectId()))) {
+        _invitedPlayersMap.remove(Integer.valueOf(player.getObjectId()));
+      }
+      player.sendPacket(new ExCuriousHouseState(ExCuriousHouseState.ChaosFestivalInviteState.IDLE));
+    }
+
+    player.sendPacket(new ExCuriousHouseLeave());
+
+    if (_invitedPlayersMap.containsKey(Integer.valueOf(player.getObjectId())))
+    {
+      _invitedPlayers.remove(player);
+      _invitedPlayersMap.remove(Integer.valueOf(player.getObjectId()));
+    }
+  }
+
+  public void cleanUp()
+  {
+    if (_inviteTask != null)
+    {
+      _inviteTask.cancel(true);
+      _inviteTask = null;
+    }
+
+    if (_teleportTask != null)
+    {
+      _teleportTask.cancel(true);
+      _teleportTask = null;
+    }
+
+    if (_endTask != null)
+    {
+      _endTask.cancel(true);
+      _endTask = null;
+    }
+
+    _invitedPlayers.clear();
+    _invitedPlayersMap.clear();
+    _initialTime = 0L;
+    _inviteAcceptTime.clear();
+    _festivalStatus = ChaosFestivalStatus.SCHEDULED;
+    _fightingNow.clear();
+  }
+
+  public boolean isFightingNow(L2PcInstance player)
+  {
+    return _fightingNow.contains(player);
+  }
+
+  public boolean canParticipate(L2PcInstance player)
+  {
+    if (player.isGM()) {
+      return true;
+    }
+    if ((ChaosFestivalTable.getInstance().getEntry(player).getSkipRounds() > 0) || (ChaosFestivalTable.getInstance().getEntry(player).getTotalBans() >= ConfigChaosFestival.CHAOS_FESTIVAL_TOTAL_BANS_LIMIT)) {
+      return false;
+    }
+    if ((player.getClan() == null) || (player.getClan().getLevel() < 3)) {
+      return false;
+    }
+    if ((player.getLevel() < 85) || (player.getClassId().level() < 4))
+    {
+      SystemMessage msg = SystemMessage.getSystemMessage(3733);
+      msg.addNumber(85);
+      player.sendPacket(msg);
+      return false;
+    }
+
+    return true;
+  }
+
+  public void addMember(L2PcInstance player)
+  {
+    player.getHookContainer().addHook(HookType.ON_DISCONNECT, _playerFestivalHook);
+    player.getHookContainer().addHook(HookType.ON_DELETEME, _playerFestivalHook);
+    _invitedPlayers.add(player);
+    _invitedPlayersMap.put(Integer.valueOf(player.getObjectId()), Boolean.valueOf(true));
+    player.sendPacket(SystemMessage.getSystemMessage(3732));
+    player.sendPacket(SystemMessageId.getSystemMessageId(3890));
+    player.sendPacket(new ExCuriousHouseState(ExCuriousHouseState.ChaosFestivalInviteState.PREPARE));
+  }
+
+  public boolean isRegistered(L2PcInstance player)
+  {
+    return _invitedPlayersMap.containsKey(Integer.valueOf(player.getObjectId()));
+  }
+
+  public void testStartFestival()
+  {
+    cleanUp();
+
+    _inviteTask = ThreadPoolManager.getInstance().scheduleGeneral(new PlayerInviteTask(), 0L);
+    _teleportTask = ThreadPoolManager.getInstance().scheduleGeneral(new TeleportTask(), 15000L);
+
+    _initialTime = System.currentTimeMillis();
+    _invitationEndTime = _initialTime + 10000L;
+    _teleportTime = _invitationEndTime + 5000L;
+  }
+
+  public void testSaveData()
+  {
+    ChaosFestivalTable.getInstance().cleanUp();
+  }
+
+  private void schedule()
+  {
+    if (!ConfigChaosFestival.CHAOS_FESTIVAL_ENABLED) {
+      return;
+    }
+    Calendar now = Calendar.getInstance();
+    int hour = now.get(10);
+    Calendar schedule;
+    if ((hour >= ConfigChaosFestival.CHAOS_FESTIVAL_START_HOUR) && (hour < ConfigChaosFestival.CHAOS_FESTIVAL_END_HOUR))
+    {
+      int minute = now.get(12);
+
+      if (((minute >= 0) && (minute < 5)) || ((minute >= 20) && (minute < 25)) || ((minute >= 40) && (minute < 45)))
+      {
+        int teleportMinute = (minute + 5) / 5 * 5 + 5;
+        Calendar teleportTime = Calendar.getInstance();
+        teleportTime.set(12, teleportMinute);
+        teleportTime.set(13, 0);
+        teleportTime.set(14, 0);
+
+        _inviteTask = ThreadPoolManager.getInstance().scheduleGeneralAtFixedRate(new PlayerInviteTask(), 0L, 30000L);
+        _teleportTask = ThreadPoolManager.getInstance().scheduleGeneral(new TeleportTask(), teleportTime.getTimeInMillis() - System.currentTimeMillis());
+        _endTask = ThreadPoolManager.getInstance().scheduleGeneral(new EndTask(), teleportTime.getTimeInMillis() - System.currentTimeMillis() + 360000L);
+
+        Calendar schedule = now;
+        schedule.add(14, 30000);
+        _initialTime = teleportTime.getTimeInMillis() - 600000L;
+      }
+      else
+      {
+        int inviteMinute = (minute + 20) / 20 * 20 % 60;
+        Calendar inviteTime = Calendar.getInstance();
+        inviteTime.set(12, inviteMinute);
+        inviteTime.set(13, 0);
+        inviteTime.set(14, 0);
+
+        _inviteTask = ThreadPoolManager.getInstance().scheduleGeneralAtFixedRate(new PlayerInviteTask(), inviteTime.getTimeInMillis() - System.currentTimeMillis(), 30000L);
+        _teleportTask = ThreadPoolManager.getInstance().scheduleGeneral(new TeleportTask(), inviteTime.getTimeInMillis() - System.currentTimeMillis() + 600000L);
+        _endTask = ThreadPoolManager.getInstance().scheduleGeneral(new EndTask(), inviteTime.getTimeInMillis() - System.currentTimeMillis() + 600000L + 360000L);
+
+        Calendar schedule = inviteTime;
+        _initialTime = schedule.getTimeInMillis();
+      }
+
+    }
+    else
+    {
+      Calendar nextSchedule = Calendar.getInstance();
+      nextSchedule.set(10, ConfigChaosFestival.CHAOS_FESTIVAL_START_HOUR);
+      nextSchedule.set(12, 0);
+      nextSchedule.set(13, 0);
+      nextSchedule.set(14, 0);
+
+      _inviteTask = ThreadPoolManager.getInstance().scheduleGeneralAtFixedRate(new PlayerInviteTask(), nextSchedule.getTimeInMillis() - System.currentTimeMillis(), 30000L);
+      _teleportTask = ThreadPoolManager.getInstance().scheduleGeneral(new TeleportTask(), nextSchedule.getTimeInMillis() - System.currentTimeMillis() + 600000L);
+      _endTask = ThreadPoolManager.getInstance().scheduleGeneral(new EndTask(), nextSchedule.getTimeInMillis() - System.currentTimeMillis() + 600000L + 360000L);
+
+      schedule = nextSchedule;
+      _initialTime = schedule.getTimeInMillis();
+    }
+
+    _festivalStatus = ChaosFestivalStatus.SCHEDULED;
+    _invitationEndTime = _initialTime + 300000L;
+    _teleportTime = _invitationEndTime + 300000L;
+    _playerFestivalHook = new PlayerFestivalHook();
+
+    String hours = "0" + String.valueOf(schedule.get(10));
+    String minutes = "0" + String.valueOf(schedule.get(12));
+    _log.log(Level.INFO, "Chaos festival scheduled for running at " + hours + ":" + minutes);
+  }
+
+  public ChaosFestival()
+  {
+    schedule();
+
+    if (ConfigChaosFestival.CHAOS_FESTIVAL_MONSTER_ID > 0)
+    {
+      addKillId(ConfigChaosFestival.CHAOS_FESTIVAL_MONSTER_ID);
+    }
+  }
+
+  public ChaosFestivalStatus getStatus()
+  {
+    return _festivalStatus;
+  }
+
+  public static void main(String[] args)
+  {
+    _chaosFestivalInstance = new ChaosFestival();
+  }
+
+  public static ChaosFestival getInstance()
+  {
+    return _chaosFestivalInstance;
+  }
+
+  public static class EndTask
+    implements Runnable
+  {
+    public void run()
+    {
+      ChaosFestival.getInstance().cleanUp();
+      ChaosFestival.getInstance().schedule();
+    }
+  }
+
+  public static class TeleportTask
+    implements Runnable
+  {
+    public void run()
+    {
+      if (ChaosFestival._inviteTask != null)
+      {
+        ChaosFestival._inviteTask.cancel(true);
+        ChaosFestival.access$602(null);
+      }
+
+      ChaosFestival.access$102(ChaosFestival.ChaosFestivalStatus.RUNNING);
+
+      checkPlayers();
+      reducePenalties();
+    }
+
+    public void reducePenalties()
+    {
+      for (ChaosFestivalEntry entry : ChaosFestivalTable.getInstance().getFestivalEntries().values())
+      {
+        if (entry.getSkipRounds() > 0)
+          entry.setSkipRounds(entry.getSkipRounds() - 1);
+      }
+    }
+
+    private void checkPlayers()
+    {
+      Collections.shuffle(ChaosFestival._invitedPlayers);
+
+      if (ConfigChaosFestival.CHAOS_FESTIVAL_BALANCE) {
+        Collections.sort(ChaosFestival._invitedPlayers, new ChaosFestival.PlayerComparator());
+      }
+      List members = null;
+      int i = 0; for (int j = ChaosFestival._invitedPlayers.size(); i < j; i++)
+      {
+        if (i % ConfigChaosFestival.CHAOS_FESTIVAL_MAX_PLAYERS_PER_MATCH == 0)
+        {
+          if ((members != null) && (members.size() > 0)) {
+            teleportPlayers(members);
+          }
+          members = new FastList();
+        }
+
+        try
+        {
+          if (ChaosFestival._invitedPlayers.get(i) != null)
+            members.add(ChaosFestival._invitedPlayers.get(i));
+        }
+        catch (NullPointerException ignored) {
+        }
+      }
+      if ((members != null) && (members.size() > 0))
+        teleportPlayers(members);
+    }
+
+    private void teleportPlayers(List<L2PcInstance> players)
+    {
+      for (L2PcInstance player : players)
+      {
+        if (!player.isGM())
+        {
+          if ((player.getInstanceId() > 0) || (!player.isInventoryUnder(0.8D, true)) || (player.getClan() == null) || (player.getLevel() < 85) || (player.getClassId().level() < 4) || (player.hasBadReputation()))
+          {
+            ChaosFestival.getInstance().banPlayer(player);
+            ChaosFestival._invitedPlayers.remove(player);
+            ChaosFestival._invitedPlayersMap.remove(Integer.valueOf(player.getObjectId()));
+            players.remove(player);
+          }
+        }
+        else
+        {
+          if (player.isMounted())
+          {
+            player.dismount();
+          }
+
+          for (L2Summon summon : player.getPets())
+          {
+            if (summon.isPet())
+            {
+              summon.getLocationController().decay();
+            }
+            else {
+              summon.setCurrentHp(summon.getMaxHp());
+              summon.setCurrentMp(summon.getMaxMp());
+            }
+          }
+
+          if (player.getParty() != null)
+          {
+            player.leaveParty();
+          }
+
+          player.setCurrentCp(player.getMaxCp());
+          player.setCurrentHp(player.getMaxHp());
+          player.setCurrentMp(player.getMaxMp());
+
+          for (L2Skill skill : player.getSkills().values())
+          {
+            long reuse = player.getSkillRemainingReuseTime(skill.getReuseHashCode());
+            if ((reuse > 0L) && (reuse - System.currentTimeMillis() < 15000L))
+            {
+              player.enableSkill(skill);
+            }
+
+          }
+
+          if ((player.isFlying()) && (player.getTransformationId() > 0))
+          {
+            player.untransform();
+          }
+
+          if (player.isInDuel())
+          {
+            player.setIsInDuel(0);
+          }
+        }
+      }
+      ChaosFestival.getInstance().enterInstance(players);
+    }
+  }
+
+  public static class PlayerInviteTask
+    implements Runnable
+  {
+    private int _counter = 0;
+
+    public void run()
+    {
+      if (_counter == 0)
+      {
+        ThreadPoolManager.getInstance().scheduleGeneral(new Runnable()
+        {
+          private int _counter = 5;
+
+          public void run()
+          {
+            for (L2PcInstance player : ChaosFestival._invitedPlayers)
+            {
+              SystemMessage msg = SystemMessage.getSystemMessage(3737);
+              msg.addNumber(_counter);
+              player.sendPacket(msg);
+            }
+
+            _counter -= 1;
+
+            if (_counter > 0)
+            {
+              ThreadPoolManager.getInstance().scheduleGeneral(this, 1000L);
+            }
+          }
+        }
+        , System.currentTimeMillis() - ChaosFestival._teleportTime - 5000L);
+
+        _counter += 1;
+      }
+
+      if (System.currentTimeMillis() >= ChaosFestival._invitationEndTime)
+      {
+        for (L2PcInstance player : WorldManager.getInstance().getAllPlayersArray())
+        {
+          if (!ChaosFestival._invitedPlayersMap.containsKey(Integer.valueOf(player.getObjectId())))
+          {
+            player.sendPacket(new ExCuriousHouseState(ExCuriousHouseState.ChaosFestivalInviteState.IDLE));
+            player.sendPacket(new ExCuriousHouseLeave());
+          }
+        }
+
+        ChaosFestival.access$102(ChaosFestival.ChaosFestivalStatus.PREPARING);
+
+        if (ChaosFestival._inviteTask != null)
+        {
+          ChaosFestival._inviteTask.cancel(true);
+          ChaosFestival.access$602(null);
+        }
+
+        SystemMessage msg = SystemMessage.getSystemMessage(3782);
+        msg.addNumber(3782);
+        for (L2PcInstance player : WorldManager.getInstance().getAllPlayersArray())
+        {
+          if ((ChaosFestival.getInstance().canParticipate(player)) && (!ChaosFestival._invitedPlayersMap.containsKey(Integer.valueOf(player.getObjectId()))) && (!ChaosFestival._fightingNow.contains(player)))
+          {
+            player.sendPacket(msg);
+          }
+        }
+
+        return;
+      }
+
+      ChaosFestival.access$102(ChaosFestival.ChaosFestivalStatus.INVITING);
+
+      for (L2PcInstance player : WorldManager.getInstance().getAllPlayersArray())
+      {
+        if ((ChaosFestival.getInstance().canParticipate(player)) && (!ChaosFestival._invitedPlayersMap.containsKey(Integer.valueOf(player.getObjectId()))) && (!ChaosFestival._fightingNow.contains(player)))
+        {
+          player.sendPacket(new ExCuriousHouseState(ExCuriousHouseState.ChaosFestivalInviteState.INVITE));
+        }
+      }
+    }
+  }
+
+  public static class PlayerFestivalHook extends AbstractHookImpl
+  {
+    public void onAttack(L2PcInstance player, L2Character attacker, boolean summonAttacked)
+    {
+      ChaosFestival.ChaosFestivalWorld world = (ChaosFestival.ChaosFestivalWorld)InstanceManager.getInstance().getInstanceWorld(player, ChaosFestival.ChaosFestivalWorld.class);
+
+      if (world != null)
+      {
+        for (L2PcInstance member : world.members)
+        {
+          member.sendPacket(new ExCuriousHouseMemberUpdate(player));
+        }
+      }
+      else
+      {
+        player.getHookContainer().removeHook(HookType.ON_ATTACK, this);
+      }
+    }
+
+    public void onDeleteMe(L2PcInstance player)
+    {
+      onDisconnect(player);
+    }
+
+    public synchronized void onDisconnect(L2PcInstance player)
+    {
+      if (player == null) {
+        return;
+      }
+      ChaosFestival.ChaosFestivalWorld world = (ChaosFestival.ChaosFestivalWorld)InstanceManager.getInstance().getInstanceWorld(player, ChaosFestival.ChaosFestivalWorld.class);
+
+      if ((world != null) && (world.members.contains(player)))
+      {
+        if (player.isDead()) {
+          player.doRevive(100.0D);
+        }
+        world.members.remove(player);
+
+        if (world.members.size() <= 1) {
+          ChaosFestival.getInstance().endChallenge(world);
+        }
+        for (L2PcInstance member : world.members)
+        {
+          member.sendPacket(new ExCuriousHouseMemberList(world.members));
+        }
+      }
+
+      if ((ChaosFestival._inviteAcceptTime.containsKey(Integer.valueOf(player.getObjectId()))) && (System.currentTimeMillis() - ((Long)ChaosFestival._inviteAcceptTime.get(Integer.valueOf(player.getObjectId()))).longValue() > 420000L))
+      {
+        ChaosFestival.getInstance().banPlayer(player);
+      }
+
+      player.sendPacket(new ExCuriousHouseLeave());
+      if ((world != null) && (world.playerStartLocations.containsKey(Integer.valueOf(player.getObjectId()))))
+        player.teleToLocation((Location)world.playerStartLocations.get(Integer.valueOf(player.getObjectId())));
+    }
+
+    public void onDie(L2PcInstance player, L2Character killer)
+    {
+      ChaosFestival.ChaosFestivalWorld world = (ChaosFestival.ChaosFestivalWorld)InstanceManager.getInstance().getInstanceWorld(killer, ChaosFestival.ChaosFestivalWorld.class);
+
+      if (world != null)
+      {
+        world.survivorTimes.put(Integer.valueOf(player.getObjectId()), Integer.valueOf((int)((System.currentTimeMillis() - world.startTime) / 1000L)));
+
+        if (((killer instanceof L2PcInstance)) && (player != killer))
+        {
+          if (!world.kills.containsKey(Integer.valueOf(killer.getObjectId())))
+          {
+            world.kills.put(Integer.valueOf(killer.getObjectId()), Integer.valueOf(1));
+          }
+          else
+          {
+            world.kills.put(Integer.valueOf(killer.getObjectId()), world.kills.get(Integer.valueOf(player.getObjectId() + 1)));
+          }
+        }
+
+        Location dieLoc = player.getLocationController().getLoc();
+        int instanceId = world.instanceId;
+        ChaosFestival.getInstance().exitChallenge(player);
+
+        int aliveCount = 0;
+        for (L2PcInstance member : world.members)
+        {
+          if ((member != null) && (!member.isDead())) {
+            aliveCount++;
+          }
+        }
+        if (aliveCount <= 1) {
+          ChaosFestival.getInstance().endChallenge(world);
+        }
+        player.getObserverController().enter(dieLoc, ObserverController.ObserveType.CHAOS_FESTIVAL, instanceId);
+      }
+      else
+      {
+        player.getHookContainer().removeHook(HookType.ON_DIE, this);
+      }
+    }
+
+    public void onSummonSpawn(L2Summon summon)
+    {
+      ChaosFestival.ChaosFestivalWorld world = (ChaosFestival.ChaosFestivalWorld)InstanceManager.getInstance().getInstanceWorld(summon.getOwner(), ChaosFestival.ChaosFestivalWorld.class);
+
+      if (world != null)
+      {
+        if (ChaosFestival._festivalStatus == ChaosFestival.ChaosFestivalStatus.PREPARING) {
+          summon.getLocationController().setVisible(false);
+        }
+        summon.disableSkillsOfTargetType(L2TargetType.TARGET_ALLY);
+        summon.disableSkillsOfTargetType(L2TargetType.TARGET_CLAN);
+        summon.disableSkillsOfTargetType(L2TargetType.TARGET_CLAN_MEMBER);
+      }
+      else
+      {
+        summon.getOwner().getHookContainer().removeHook(HookType.ON_SUMMON_SPAWN, this);
+      }
+    }
+
+    public void onEnterInstance(L2PcInstance player, Instance instance)
+    {
+      if (instance.getId() <= 0)
+      {
+        player.getHookContainer().removeHook(HookType.ON_ENTER_INSTANCE, this);
+        ChaosFestival.getInstance().exitChallenge(player);
+      }
+    }
+  }
+
+  public static class PlayerComparator
+    implements Comparator<L2PcInstance>
+  {
+    public int compare(L2PcInstance player1, L2PcInstance player2)
+    {
+      return player1.getLevel() == player2.getLevel() ? 0 : player1.getLevel() < player2.getLevel() ? -1 : 1;
+    }
+  }
+
+  public static class ChaosFestivalWorld extends InstanceManager.InstanceWorld
+  {
+    boolean isDone = false;
+    long startTime;
+    int mapIndex = -1;
+
+    Map<Integer, Location> playerStartLocations = new FastMap();
+
+    List<L2PcInstance> members = new FastList();
+
+    Map<Integer, Integer> kills = new FastMap();
+
+    List<Integer> died = new FastList();
+
+    Map<Integer, Integer> survivorTimes = new FastMap();
+    public Future<?> timerTask;
+    public int monsterCount = 0;
+
+    public Map<Integer, Integer> monsterKills = new FastMap();
+
+    public List<L2Npc> npcs = new FastList();
+  }
+
+}

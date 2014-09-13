@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "item.dtd">
+<list>
+<etcitem id="36978" name="Свиток: Модифицировать Головной Убор">
+        <set name="class" value="OTHER"/>
+        <set name="crystal_type" value="NONE"/>
+        <set name="stackable" value="true"/>
+        <set name="type" value="OTHER"/>
+</etcitem>
+<etcitem id="36979" name="Камень Жизни для Головных Уборов">
+        <set name="class" value="OTHER"/>
+        <set name="crystal_type" value="NONE"/>
+        <set name="stackable" value="true"/>
+        <set name="type" value="OTHER"/>
+</etcitem>
+</list>

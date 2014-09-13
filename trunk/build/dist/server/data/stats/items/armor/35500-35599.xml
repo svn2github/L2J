@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE list SYSTEM "item.dtd">
+<list>
+	<armor id="35564" name="Rulers Authority">
+		<!-- gorodetskiy -->
+		<!-- Предмет, выдаваемый победителю Фестиваля Хаоса в Таинственном Особняке. 
+		При ношении Макс. HP/MP/CP +500, лимит веса +12000, 
+		Скор. Восстановления HP +10.12, Скор. Восстановления MP +3,89, Физ. Атк./ Маг. Атк./ Физ. Защ./ Маг. Защ. +6%, 
+		сопротивление отражению урона +5, +36 ячеек инвентаря, защита от всех стихий +10. -->
+        <set name="type" value="NONE"/>
+		<set name="icon" value="icon.belt_rulers_authority"/>
+        <set name="weight" value="440"/>
+        <equip>
+            <slot id="BELT"/> 
+        </equip>
+        <set name="ex_type" value="BELT"/>
+        <for>
+            <add stat="maxHp" order="0x40" value="500"/>
+			<add stat="maxMp" order="0x40" value="500"/>
+			<add stat="maxCp" order="0x40" value="500"/>
+			<add stat="maxLoad" order="0x40" value="12000"/>
+			<add stat="regHp" order="0x40" value="10.12"/>
+			<add stat="regMp" order="0x40" value="3.89"/>
+			<add stat="inventoryLimit" order="0x40" value="36"/>
+			<mul stat="pAtk" order="0x30" value="1.06"/>
+			<mul stat="mAtk" order="0x30" value="1.06"/>
+			<mul stat="pDef" order="0x30" value="1.06"/>
+			<mul stat="mDef" order="0x30" value="1.06"/>
+			<add stat="defenceFire" order="0x40" value="10"/>
+			<add stat="defenceWater" order="0x40" value="10"/>
+			<add stat="defenceWind" order="0x40" value="10"/>
+			<add stat="defenceEarth" order="0x40" value="10"/>
+			<add stat="defenceHoly" order="0x40" value="10"/>
+			<add stat="defenceUnholy" order="0x40" value="10"/>
+			<enchant stat="mDef" order="0x0C" value="0"/>
+			<!-- сопротивление отражению урона. Дописать -->
+        </for>
+    </armor>
+	<armor id="35565" name="Mysterious Belt">
+		<!-- gorodetskiy -->
+		<!-- Предмет, выдаваемый победителю Фестиваля Хаоса в Таинственном Особняке. 
+		При ношении Макс. HP/MP/CP +500, Скор. Восстановления HP +7.1, Скор. Восстановления MP +2.74, наносимый урон в PvP +5%,
+		сопротивление отражению урона +5, получаемый урон в PvP -6%. Нельзя обменять/выбросить/продать через личную торговую лавку. -->
+		<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+        <set name="augmentable" value="false"/>
+        <set name="type" value="NONE"/>
+		<set name="icon" value="icon.belt_rulers_authority"/>
+        <set name="weight" value="440"/>
+		<set name="durability" value="259200"/>
+        <equip>
+            <slot id="BELT"/> 
+        </equip>
+        <set name="ex_type" value="BELT"/>
+        <for>
+            <add stat="maxHp" order="0x40" value="500"/>
+			<add stat="maxMp" order="0x40" value="500"/>
+			<add stat="maxCp" order="0x40" value="500"/>
+			<add stat="regHp" order="0x40" value="7.1"/>
+			<add stat="regMp" order="0x40" value="2.74"/>
+			<add stat="regMp" order="0x40" value="2.74"/>
+			<mul stat="pvpPhysDefenceBonus" order="0x30" value="1.06"/> <!-- получаемый урон в PvP -6% -->
+			<mul stat="pvpPhysSkillDefenceBonus" order="0x30" value="1.06"/> <!-- получаемый урон в PvP -6% -->
+			<mul stat="pvpMagicSkillDefenceBonus" order="0x30" value="1.06"/> <!-- получаемый урон в PvP -6% -->
+			<mul stat="pvpMagicSkillDmgBonus" order="0x30" value="1.05"/> <!-- наносимый урон в PvP +5% -->
+			<mul stat="pvpPhysSkillDmgBonus" order="0x30" value="1.05"/> <!-- наносимый урон в PvP +5% -->
+			<mul stat="pvpPhysDmgBonus" order="0x30" value="1.05"/> <!-- наносимый урон в PvP +5% -->
+			<enchant stat="mDef" order="0x0C" value="0"/>
+			<!--  сопротивление отражению урона +5. Дописать -->
+        </for>
+    </armor>
+    <armor id="35570" name="Tauti s Ring">
+        <set name="crystal_count" value="178"/>
+        <set name="crystal_type" value="R99"/>
+        <set name="crystallizable" value="true"/>
+        <set name="augmentable" value="false"/>
+        <set name="price" value="865000"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="150"/>
+        <equip>
+            <slot id="RIGHT_FINGER"/>
+            <slot id="LEFT_FINGER"/>
+        </equip>
+        <set name="ex_type" value="RING"/>
+        <skills>
+            <skill id="8870" level="1"/>
+        </skills>
+        <for>
+            <add stat="mDef" order="0x10" value="108"/>
+            <add stat="maxMp" order="0x10" value="38"/>
+            <enchant stat="mDef" order="0x0C" value="0"/>
+        </for>
+    </armor>
+	<armor id="35571" name="Water Resistance Necklace">
+		<!-- gorodetskiy -->
+		<!-- Ожерелье, купленное в Таинственном Особняке. Защита от воды +26, MP +33. Можно обменять, выбросить, продать. -->
+		<set name="type" value="NONE"/>
+		<set name="icon" value="icon.accessary_inferno_necklace_i00"/>
+		<set name="price" value="37000"/> <!-- с потолка -->
+        <set name="weight" value="150"/>
+        <equip>
+            <slot id="NECKLACE"/> 
+        </equip>
+        <set name="ex_type" value="NECKLACE"/>
+        <for>
+			<add stat="mDef" order="0x40" value="85"/>
+			<add stat="maxMp" order="0x40" value="33"/>
+			<add stat="defenceWater" order="0x40" value="26"/>
+			<enchant stat="mDef" order="0x0C" value="0"/>
+        </for>
+    </armor>
+	<armor id="35572" name="Holy Resistance Necklace">
+		<!-- gorodetskiy -->
+		<!-- Ожерелье, купленное в Таинственном Особняке. Защита от света +26, MP +33. Можно обменять, выбросить, продать. -->
+		<set name="type" value="NONE"/>
+		<set name="icon" value="icon.accessary_inferno_necklace_i00"/>
+		<set name="price" value="37000"/> <!-- с потолка -->
+        <set name="weight" value="150"/>
+        <equip>
+            <slot id="NECKLACE"/> 
+        </equip>
+        <set name="ex_type" value="NECKLACE"/>
+        <for>
+			<add stat="mDef" order="0x40" value="85"/>
+			<add stat="maxMp" order="0x40" value="33"/>
+			<add stat="defenceHoly" order="0x40" value="26"/>
+			<enchant stat="mDef" order="0x0C" value="0"/>
+        </for>
+    </armor>
+	<armor id="35573" name="Wind Resistance Necklace">
+		<!-- gorodetskiy -->
+		<!-- Ожерелье, купленное в Таинственном Особняке. Защита от ветра +26, MP +33. Можно обменять, выбросить, продать. -->
+		<set name="type" value="NONE"/>
+		<set name="icon" value="icon.accessary_inferno_necklace_i00"/>
+		<set name="price" value="37000"/> <!-- с потолка -->
+        <set name="weight" value="150"/>
+        <equip>
+            <slot id="NECKLACE"/> 
+        </equip>
+        <set name="ex_type" value="NECKLACE"/>
+        <for>
+			<add stat="mDef" order="0x40" value="85"/>
+			<add stat="maxMp" order="0x40" value="33"/>
+			<add stat="defenceWind" order="0x40" value="26"/>
+			<enchant stat="mDef" order="0x0C" value="0"/>
+        </for>
+    </armor>
+	<armor id="35574" name="Dark Resistance Necklace">
+		<!-- gorodetskiy -->
+		<!-- Ожерелье, купленное в Таинственном Особняке. Защита от тьмы +26, MP +33. Можно обменять, выбросить, продать. -->
+		<set name="type" value="NONE"/>
+		<set name="icon" value="icon.accessary_inferno_necklace_i00"/>
+		<set name="price" value="37000"/> <!-- с потолка -->
+        <set name="weight" value="150"/>
+        <equip>
+            <slot id="NECKLACE"/> 
+        </equip>
+        <set name="ex_type" value="NECKLACE"/>
+        <for>
+			<add stat="mDef" order="0x40" value="85"/>
+			<add stat="maxMp" order="0x40" value="33"/>
+			<add stat="defenceUnholy" order="0x40" value="26"/>
+			<enchant stat="mDef" order="0x0C" value="0"/>
+        </for>
+    </armor>
+	<armor id="35575" name="Earth Resistance Necklace">
+		<!-- gorodetskiy -->
+		<!-- Ожерелье, купленное в Таинственном Особняке. Защита от земли +26, MP +33. Можно обменять, выбросить, продать. -->
+		<set name="type" value="NONE"/>
+		<set name="icon" value="icon.accessary_inferno_necklace_i00"/>
+		<set name="price" value="37000"/> <!-- с потолка -->
+        <set name="weight" value="150"/>
+        <equip>
+            <slot id="NECKLACE"/> 
+        </equip>
+        <set name="ex_type" value="NECKLACE"/>
+        <for>
+			<add stat="mDef" order="0x40" value="85"/>
+			<add stat="maxMp" order="0x40" value="33"/>
+			<add stat="defenceWater" order="0x40" value="26"/>
+			<enchant stat="mDef" order="0x0C" value="0"/>
+        </for>
+    </armor>
+	<armor id="35576" name="Fire Resistance Necklace">
+		<!-- gorodetskiy -->
+		<!-- Ожерелье, купленное в Таинственном Особняке. Защита от огня +26, MP +33. Можно обменять, выбросить, продать. -->
+		<set name="type" value="NONE"/>
+		<set name="icon" value="icon.accessary_inferno_necklace_i00"/>
+		<set name="price" value="37000"/> <!-- с потолка -->
+        <set name="weight" value="150"/>
+        <equip>
+            <slot id="NECKLACE"/> 
+        </equip>
+        <set name="ex_type" value="NECKLACE"/>
+        <for>
+			<add stat="mDef" order="0x40" value="85"/>
+			<add stat="maxMp" order="0x40" value="33"/>
+			<add stat="defenceFire" order="0x40" value="26"/>
+			<enchant stat="mDef" order="0x0C" value="0"/>
+        </for>
+    </armor>
+	<armor id="35577" name="Top-Grade Water Resistance Necklace">
+		<!-- gorodetskiy -->
+		<!-- Ожерелье, купленное в Таинственном Особняке. Защита от воды +30, MP +62. Можно обменять, выбросить, продать. -->
+		<set name="type" value="NONE"/>
+		<set name="icon" value="icon.accessary_inferno_necklace_i00"/>
+		<set name="price" value="37000"/> <!-- с потолка -->
+        <set name="weight" value="150"/>
+        <equip>
+            <slot id="NECKLACE"/> 
+        </equip>
+        <set name="ex_type" value="NECKLACE"/>
+        <for>
+			<add stat="mDef" order="0x40" value="158"/>
+			<add stat="maxMp" order="0x40" value="62"/>
+			<add stat="defenceWater" order="0x40" value="30"/>
+			<enchant stat="mDef" order="0x0C" value="0"/>
+        </for>
+    </armor>
+	<armor id="35578" name="Top-Grade Fire Resistance Necklace">
+		<!-- gorodetskiy -->
+		<!-- Ожерелье, купленное в Таинственном Особняке. Защита от огня +30, MP +62. Можно обменять, выбросить, продать. -->
+		<set name="type" value="NONE"/>
+		<set name="icon" value="icon.accessary_inferno_necklace_i00"/>
+		<set name="price" value="37000"/> <!-- с потолка -->
+        <set name="weight" value="150"/>
+        <equip>
+            <slot id="NECKLACE"/> 
+        </equip>
+        <set name="ex_type" value="NECKLACE"/>
+        <for>
+			<add stat="mDef" order="0x40" value="158"/>
+			<add stat="maxMp" order="0x40" value="62"/>
+			<add stat="defenceFire" order="0x40" value="30"/>
+			<enchant stat="mDef" order="0x0C" value="0"/>
+        </for>
+    </armor>
+	<armor id="35579" name="Top-Grade Holy Resistance Necklace">
+		<!-- gorodetskiy -->
+		<!-- Ожерелье, купленное в Таинственном Особняке. Защита от света +30, MP +62. Можно обменять, выбросить, продать. -->
+		<set name="type" value="NONE"/>
+		<set name="icon" value="icon.accessary_inferno_necklace_i00"/>
+		<set name="price" value="37000"/> <!-- с потолка -->
+        <set name="weight" value="150"/>
+        <equip>
+            <slot id="NECKLACE"/> 
+        </equip>
+        <set name="ex_type" value="NECKLACE"/>
+        <for>
+			<add stat="mDef" order="0x40" value="158"/>
+			<add stat="maxMp" order="0x40" value="62"/>
+			<add stat="defenceHoly" order="0x40" value="30"/>
+			<enchant stat="mDef" order="0x0C" value="0"/>
+        </for>
+    </armor>
+	<armor id="35580" name="Top-Grade Darkness Resistance Necklace">
+		<!-- gorodetskiy -->
+		<!-- Ожерелье, купленное в Таинственном Особняке. Защита от тьмы +30, MP +62. Можно обменять, выбросить, продать. -->
+		<set name="type" value="NONE"/>
+		<set name="icon" value="icon.accessary_inferno_necklace_i00"/>
+		<set name="price" value="37000"/> <!-- с потолка -->
+        <set name="weight" value="150"/>
+        <equip>
+            <slot id="NECKLACE"/> 
+        </equip>
+        <set name="ex_type" value="NECKLACE"/>
+        <for>
+			<add stat="mDef" order="0x40" value="158"/>
+			<add stat="maxMp" order="0x40" value="62"/>
+			<add stat="defenceUnholy" order="0x40" value="30"/>
+			<enchant stat="mDef" order="0x0C" value="0"/>
+        </for>
+    </armor>
+	<armor id="35581" name="Top-Grade Wind Resistance Necklace">
+		<!-- gorodetskiy -->
+		<!-- Ожерелье, купленное в Таинственном Особняке. Защита от воздуха +30, MP +62. Можно обменять, выбросить, продать. -->
+		<set name="type" value="NONE"/>
+		<set name="icon" value="icon.accessary_inferno_necklace_i00"/>
+		<set name="price" value="37000"/> <!-- с потолка -->
+        <set name="weight" value="150"/>
+        <equip>
+            <slot id="NECKLACE"/> 
+        </equip>
+        <set name="ex_type" value="NECKLACE"/>
+        <for>
+			<add stat="mDef" order="0x40" value="158"/>
+			<add stat="maxMp" order="0x40" value="62"/>
+			<add stat="defenceWind" order="0x40" value="30"/>
+			<enchant stat="mDef" order="0x0C" value="0"/>
+        </for>
+    </armor>
+	<armor id="35582" name="Top-Grade Earth Resistance Necklace">
+		<!-- gorodetskiy -->
+		<!-- Ожерелье, купленное в Таинственном Особняке. Защита от земли +30, MP +62. Можно обменять, выбросить, продать. -->
+		<set name="type" value="NONE"/>
+		<set name="icon" value="icon.accessary_inferno_necklace_i00"/>
+		<set name="price" value="37000"/> <!-- с потолка -->
+        <set name="weight" value="150"/>
+        <equip>
+            <slot id="NECKLACE"/> 
+        </equip>
+        <set name="ex_type" value="NECKLACE"/>
+        <for>
+			<add stat="mDef" order="0x40" value="158"/>
+			<add stat="maxMp" order="0x40" value="62"/>
+			<add stat="defenceEarth" order="0x40" value="30"/>
+			<enchant stat="mDef" order="0x0C" value="0"/>
+        </for>
+    </armor>
+	<armor id="35583" name="Earth Resistance Ring">
+		<!-- gorodetskiy -->
+		<!-- Кольцо, купленное в Таинственном Особняке. Защита от земли +12. MP +17. Можно обменять, выбросить. 
+		При надевании двух одинаковых колец, действует эффект лишь одного. -->
+		<set name="type" value="NONE"/>
+		<set name="icon" value="icon.accessary_inferno_ring_i00"/>
+		<set name="price" value="37000"/> <!-- с потолка -->
+        <set name="weight" value="150"/>
+         <equip>
+            <slot id="RIGHT_FINGER"/>
+            <slot id="LEFT_FINGER"/>
+        </equip>
+        <set name="ex_type" value="RING"/>
+        <for>
+			<add stat="mDef" order="0x40" value="42"/>
+			<add stat="maxMp" order="0x40" value="17"/>
+			<add stat="defenceEarth" order="0x40" value="12"/>
+			<enchant stat="mDef" order="0x0C" value="0"/>
+        </for>
+    </armor>
+	<armor id="35584" name="Water Resistance Ring">
+		<!-- gorodetskiy -->
+		<!-- Кольцо, купленное в Таинственном Особняке. Защита от воды +12. MP +17. Можно обменять, выбросить. 
+		При надевании двух одинаковых колец, действует эффект лишь одного. -->
+		<set name="type" value="NONE"/>
+		<set name="icon" value="icon.accessary_inferno_ring_i00"/>
+		<set name="price" value="37000"/> <!-- с потолка -->
+        <set name="weight" value="150"/>
+         <equip>
+            <slot id="RIGHT_FINGER"/>
+            <slot id="LEFT_FINGER"/>
+        </equip>
+        <set name="ex_type" value="RING"/>
+        <for>
+			<add stat="mDef" order="0x40" value="42"/>
+			<add stat="maxMp" order="0x40" value="17"/>
+			<add stat="defenceWater" order="0x40" value="12"/>
+			<enchant stat="mDef" order="0x0C" value="0"/>
+        </for>
+    </armor>
+	<armor id="35585" name="Fire Resistance Ring">
+		<!-- gorodetskiy -->
+		<!-- Кольцо, купленное в Таинственном Особняке. Защита от огня +12. MP +17. Можно обменять, выбросить. 
+		При надевании двух одинаковых колец, действует эффект лишь одного. -->
+		<set name="type" value="NONE"/>
+		<set name="icon" value="icon.accessary_inferno_ring_i00"/>
+		<set name="price" value="37000"/> <!-- с потолка -->
+        <set name="weight" value="150"/>
+         <equip>
+            <slot id="RIGHT_FINGER"/>
+            <slot id="LEFT_FINGER"/>
+        </equip>
+        <set name="ex_type" value="RING"/>
+        <for>
+			<add stat="mDef" order="0x40" value="42"/>
+			<add stat="maxMp" order="0x40" value="17"/>
+			<add stat="defenceFire" order="0x40" value="12"/>
+			<enchant stat="mDef" order="0x0C" value="0"/>
+        </for>
+    </armor>
+	<armor id="35586" name="Holy Resistance Ring">
+		<!-- gorodetskiy -->
+		<!-- Кольцо, купленное в Таинственном Особняке. Защита от света +12. MP +17. Можно обменять, выбросить. 
+		При надевании двух одинаковых колец, действует эффект лишь одного. -->
+		<set name="type" value="NONE"/>
+		<set name="icon" value="icon.accessary_inferno_ring_i00"/>
+		<set name="price" value="37000"/> <!-- с потолка -->
+        <set name="weight" value="150"/>
+         <equip>
+            <slot id="RIGHT_FINGER"/>
+            <slot id="LEFT_FINGER"/>
+        </equip>
+        <set name="ex_type" value="RING"/>
+        <for>
+			<add stat="mDef" order="0x40" value="42"/>
+			<add stat="maxMp" order="0x40" value="17"/>
+			<add stat="defenceHoly" order="0x40" value="12"/>
+			<enchant stat="mDef" order="0x0C" value="0"/>
+        </for>
+    </armor>
+	<armor id="35587" name="Dark Resistance Ring">
+		<!-- gorodetskiy -->
+		<!-- Кольцо, купленное в Таинственном Особняке. Защита от тьмы +12. MP +17. Можно обменять, выбросить. 
+		При надевании двух одинаковых колец, действует эффект лишь одного. -->
+		<set name="type" value="NONE"/>
+		<set name="icon" value="icon.accessary_inferno_ring_i00"/>
+		<set name="price" value="37000"/> <!-- с потолка -->
+        <set name="weight" value="150"/>
+         <equip>
+            <slot id="RIGHT_FINGER"/>
+            <slot id="LEFT_FINGER"/>
+        </equip>
+        <set name="ex_type" value="RING"/>
+        <for>
+			<add stat="mDef" order="0x40" value="42"/>
+			<add stat="maxMp" order="0x40" value="17"/>
+			<add stat="defenceUnholy" order="0x40" value="12"/>
+			<enchant stat="mDef" order="0x0C" value="0"/>
+        </for>
+    </armor>
+	<armor id="35588" name="Wind Resistance Ring">
+		<!-- gorodetskiy -->
+		<!-- Кольцо, купленное в Таинственном Особняке. Защита от ветра +12. MP +17. Можно обменять, выбросить. 
+		При надевании двух одинаковых колец, действует эффект лишь одного. -->
+		<set name="type" value="NONE"/>
+		<set name="icon" value="icon.accessary_inferno_ring_i00"/>
+		<set name="price" value="37000"/> <!-- с потолка -->
+        <set name="weight" value="150"/>
+         <equip>
+            <slot id="RIGHT_FINGER"/>
+            <slot id="LEFT_FINGER"/>
+        </equip>
+        <set name="ex_type" value="RING"/>
+        <for>
+			<add stat="mDef" order="0x40" value="42"/>
+			<add stat="maxMp" order="0x40" value="17"/>
+			<add stat="defenceWind" order="0x40" value="12"/>
+			<enchant stat="mDef" order="0x0C" value="0"/>
+        </for>
+    </armor>
+	<armor id="35589" name="Top-grade Earth Resistance Ring">
+		<!-- gorodetskiy -->
+		<!-- Кольцо, купленное в Таинственном Особняке. Защита от земли +15. MP +31. Можно обменять, выбросить. 
+		При надевании двух одинаковых колец, действует эффект лишь одного. -->
+		<set name="type" value="NONE"/>
+		<set name="icon" value="icon.accessary_inferno_ring_i00"/>
+		<set name="price" value="37000"/> <!-- с потолка -->
+        <set name="weight" value="150"/>
+         <equip>
+            <slot id="RIGHT_FINGER"/>
+            <slot id="LEFT_FINGER"/>
+        </equip>
+        <set name="ex_type" value="RING"/>
+        <for>
+			<add stat="mDef" order="0x40" value="79"/>
+			<add stat="maxMp" order="0x40" value="31"/>
+			<add stat="defenceEarth" order="0x40" value="15"/>
+			<enchant stat="mDef" order="0x0C" value="0"/>
+        </for>
+    </armor>
+	<armor id="35590" name="Top-grade Water Resistance Ring">
+		<!-- gorodetskiy -->
+		<!-- Кольцо, купленное в Таинственном Особняке. Защита от воды +15. MP +31. Можно обменять, выбросить. 
+		При надевании двух одинаковых колец, действует эффект лишь одного. -->
+		<set name="type" value="NONE"/>
+		<set name="icon" value="icon.accessary_inferno_ring_i00"/>
+		<set name="price" value="37000"/> <!-- с потолка -->
+        <set name="weight" value="150"/>
+         <equip>
+            <slot id="RIGHT_FINGER"/>
+            <slot id="LEFT_FINGER"/>
+        </equip>
+        <set name="ex_type" value="RING"/>
+        <for>
+			<add stat="mDef" order="0x40" value="79"/>
+			<add stat="maxMp" order="0x40" value="31"/>
+			<add stat="defenceWater" order="0x40" value="15"/>
+			<enchant stat="mDef" order="0x0C" value="0"/>
+        </for>
+    </armor>
+	<armor id="35591" name="Top-grade Fire Resistance Ring">
+		<!-- gorodetskiy -->
+		<!-- Кольцо, купленное в Таинственном Особняке. Защита от огня +15. MP +31. Можно обменять, выбросить. 
+		При надевании двух одинаковых колец, действует эффект лишь одного. -->
+		<set name="type" value="NONE"/>
+		<set name="icon" value="icon.accessary_inferno_ring_i00"/>
+		<set name="price" value="37000"/> <!-- с потолка -->
+        <set name="weight" value="150"/>
+         <equip>
+            <slot id="RIGHT_FINGER"/>
+            <slot id="LEFT_FINGER"/>
+        </equip>
+        <set name="ex_type" value="RING"/>
+        <for>
+			<add stat="mDef" order="0x40" value="79"/>
+			<add stat="maxMp" order="0x40" value="31"/>
+			<add stat="defenceFire" order="0x40" value="15"/>
+			<enchant stat="mDef" order="0x0C" value="0"/>
+        </for>
+    </armor>
+	<armor id="35592" name="Top-grade Holy Resistance Ring">
+		<!-- gorodetskiy -->
+		<!-- Кольцо, купленное в Таинственном Особняке. Защита от земли +15. MP +31. Можно обменять, выбросить. 
+		При надевании двух одинаковых колец, действует эффект лишь одного. -->
+		<set name="type" value="NONE"/>
+		<set name="icon" value="icon.accessary_inferno_ring_i00"/>
+		<set name="price" value="37000"/> <!-- с потолка -->
+        <set name="weight" value="150"/>
+         <equip>
+            <slot id="RIGHT_FINGER"/>
+            <slot id="LEFT_FINGER"/>
+        </equip>
+        <set name="ex_type" value="RING"/>
+        <for>
+			<add stat="mDef" order="0x40" value="79"/>
+			<add stat="maxMp" order="0x40" value="31"/>
+			<add stat="defenceHoly" order="0x40" value="15"/>
+			<enchant stat="mDef" order="0x0C" value="0"/>
+        </for>
+    </armor>
+	<armor id="35593" name="Top-grade Dark Resistance Ring">
+		<!-- gorodetskiy -->
+		<!-- Кольцо, купленное в Таинственном Особняке. Защита от тьмы +15. MP +31. Можно обменять, выбросить. 
+		При надевании двух одинаковых колец, действует эффект лишь одного. -->
+		<set name="type" value="NONE"/>
+		<set name="icon" value="icon.accessary_inferno_ring_i00"/>
+		<set name="price" value="37000"/> <!-- с потолка -->
+        <set name="weight" value="150"/>
+         <equip>
+            <slot id="RIGHT_FINGER"/>
+            <slot id="LEFT_FINGER"/>
+        </equip>
+        <set name="ex_type" value="RING"/>
+        <for>
+			<add stat="mDef" order="0x40" value="79"/>
+			<add stat="maxMp" order="0x40" value="31"/>
+			<add stat="defenceUnholy" order="0x40" value="15"/>
+			<enchant stat="mDef" order="0x0C" value="0"/>
+        </for>
+    </armor>
+	<armor id="35594" name="Top-grade Wind Resistance Ring">
+		<!-- gorodetskiy -->
+		<!-- Кольцо, купленное в Таинственном Особняке. Защита от ветра +15. MP +31. Можно обменять, выбросить. 
+		При надевании двух одинаковых колец, действует эффект лишь одного. -->
+		<set name="type" value="NONE"/>
+		<set name="icon" value="icon.accessary_inferno_ring_i00"/>
+		<set name="price" value="37000"/> <!-- с потолка -->
+        <set name="weight" value="150"/>
+         <equip>
+            <slot id="RIGHT_FINGER"/>
+            <slot id="LEFT_FINGER"/>
+        </equip>
+        <set name="ex_type" value="RING"/>
+        <for>
+			<add stat="mDef" order="0x40" value="79"/>
+			<add stat="maxMp" order="0x40" value="31"/>
+			<add stat="defenceWind" order="0x40" value="15"/>
+			<enchant stat="mDef" order="0x0C" value="0"/>
+        </for>
+    </armor>
+	<armor id="35595" name="Water Royal Guard Necklace">
+		<!-- gorodetskiy -->
+		<!-- Ожерелье, купленное в Таинственном Особняке. Защита от воды +30. MP +46. Можно обменять, выбросить. -->
+		<set name="type" value="NONE"/>
+		<set name="icon" value="icon.accessory_nectklace_of_domi_protection_i00"/>
+		<set name="price" value="37000"/> <!-- с потолка -->
+        <set name="weight" value="150"/>
+        <equip>
+            <slot id="NECKLACE"/> 
+        </equip>
+        <set name="ex_type" value="NECKLACE"/>
+        <for>
+			<add stat="mDef" order="0x40" value="106"/>
+			<add stat="maxMp" order="0x40" value="46"/>
+			<add stat="defenceWater" order="0x40" value="30"/>
+			<enchant stat="mDef" order="0x0C" value="0"/>
+        </for>
+    </armor>
+	<armor id="35596" name="Earth Royal Guard Necklace">
+		<!-- gorodetskiy -->
+		<!-- Ожерелье, купленное в Таинственном Особняке. Защита от земли +30. MP +46. Можно обменять, выбросить. -->
+		<set name="type" value="NONE"/>
+		<set name="icon" value="icon.accessory_nectklace_of_domi_protection_i00"/>
+		<set name="price" value="37000"/> <!-- с потолка -->
+        <set name="weight" value="150"/>
+        <equip>
+            <slot id="NECKLACE"/> 
+        </equip>
+        <set name="ex_type" value="NECKLACE"/>
+        <for>
+			<add stat="mDef" order="0x40" value="106"/>
+			<add stat="maxMp" order="0x40" value="46"/>
+			<add stat="defenceEarth" order="0x40" value="30"/>
+			<enchant stat="mDef" order="0x0C" value="0"/>
+        </for>
+    </armor>
+	<armor id="35597" name="Fire Royal Guard Necklace">
+		<!-- gorodetskiy -->
+		<!-- Ожерелье, купленное в Таинственном Особняке. Защита от огня +30. MP +46. Можно обменять, выбросить. -->
+		<set name="type" value="NONE"/>
+		<set name="icon" value="icon.accessory_nectklace_of_domi_protection_i00"/>
+		<set name="price" value="37000"/> <!-- с потолка -->
+        <set name="weight" value="150"/>
+        <equip>
+            <slot id="NECKLACE"/> 
+        </equip>
+        <set name="ex_type" value="NECKLACE"/>
+        <for>
+			<add stat="mDef" order="0x40" value="106"/>
+			<add stat="maxMp" order="0x40" value="46"/>
+			<add stat="defenceFire" order="0x40" value="30"/>
+			<enchant stat="mDef" order="0x0C" value="0"/>
+        </for>
+    </armor>
+	<armor id="35598" name="Holy Royal Guard Necklace">
+		<!-- gorodetskiy -->
+		<!-- Ожерелье, купленное в Таинственном Особняке. Защита от света +30. MP +46. Можно обменять, выбросить. -->
+		<set name="type" value="NONE"/>
+		<set name="icon" value="icon.accessory_nectklace_of_domi_protection_i00"/>
+		<set name="price" value="37000"/> <!-- с потолка -->
+        <set name="weight" value="150"/>
+        <equip>
+            <slot id="NECKLACE"/> 
+        </equip>
+        <set name="ex_type" value="NECKLACE"/>
+        <for>
+			<add stat="mDef" order="0x40" value="106"/>
+			<add stat="maxMp" order="0x40" value="46"/>
+			<add stat="defenceHoly" order="0x40" value="30"/>
+			<enchant stat="mDef" order="0x0C" value="0"/>
+        </for>
+    </armor>
+	<armor id="35599" name="Darkness Royal Guard Necklace">
+		<!-- gorodetskiy -->
+		<!-- Ожерелье, купленное в Таинственном Особняке. Защита от тьмы +30. MP +46. Можно обменять, выбросить. -->
+		<set name="type" value="NONE"/>
+		<set name="icon" value="icon.accessory_nectklace_of_domi_protection_i00"/>
+		<set name="price" value="37000"/> <!-- с потолка -->
+        <set name="weight" value="150"/>
+        <equip>
+            <slot id="NECKLACE"/> 
+        </equip>
+        <set name="ex_type" value="NECKLACE"/>
+        <for>
+			<add stat="mDef" order="0x40" value="106"/>
+			<add stat="maxMp" order="0x40" value="46"/>
+			<add stat="defenceUnholy" order="0x40" value="30"/>
+			<enchant stat="mDef" order="0x0C" value="0"/>
+        </for>
+    </armor>
+</list>

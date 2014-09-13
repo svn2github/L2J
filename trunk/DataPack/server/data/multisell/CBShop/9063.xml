@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list maintainEnchantment="true">
+<!--Камни обработки by DXVSI-->
+  <item id="1">
+    <ingredient id="4037" count="10"/>
+    <production id="23172" count="1"/>
+  </item>
+
+  <item id="2">
+    <ingredient id="4037" count="10"/>
+    <production id="23234" count="1"/>
+  </item>
+
+  <item id="3">
+    <ingredient id="4037" count="10"/>
+    <production id="23235" count="1"/>
+  </item>
+
+  <item id="4">
+    <ingredient id="4037" count="10"/>
+    <production id="23487" count="1"/>
+  </item>
+
+  <item id="5">
+    <ingredient id="4037" count="10"/>
+    <production id="23189" count="1"/>
+  </item>
+
+  <item id="6">
+    <ingredient id="4037" count="10"/>
+    <production id="23190" count="1"/>
+  </item>
+  
+  <item id="7">
+    <ingredient id="4037" count="10"/>
+    <production id="23191" count="1"/>
+  </item>
+  
+  <item id="8">
+    <ingredient id="4037" count="10"/>
+    <production id="23192" count="1"/>
+  </item>
+   
+  <item id="10">
+    <ingredient id="4037" count="10"/>
+    <production id="23194" count="1"/>
+  </item>
+  
+  <item id="12">
+    <ingredient id="4037" count="10"/>
+    <production id="23195" count="1"/>
+  </item>
+  
+  <item id="12">
+    <ingredient id="4037" count="10"/>
+    <production id="23196" count="1"/>
+  </item>
+  
+  <item id="13">
+    <ingredient id="4037" count="10"/>
+    <production id="23197" count="1"/>
+  </item>
+   
+  <item id="16">
+    <ingredient id="4037" count="10"/>
+    <production id="23493" count="1"/>
+  </item>
+  
+  <item id="17">
+    <ingredient id="4037" count="10"/>
+    <production id="23494" count="1"/>
+  </item>
+  
+  <item id="18">
+    <ingredient id="4037" count="10"/>
+    <production id="23495" count="1"/>
+  </item>
+  
+    <item id="19">
+    <ingredient id="4037" count="10"/>
+    <production id="23496" count="1"/>
+  </item>
+  
+    <item id="20">
+    <ingredient id="4037" count="10"/>
+    <production id="23503" count="1"/>
+  </item>
+  
+    <item id="21">
+    <ingredient id="4037" count="10"/>
+    <production id="23504" count="1"/>
+  </item>
+  
+    <item id="22">
+    <ingredient id="4037" count="10"/>
+    <production id="23505" count="1"/>
+  </item>
+  
+    <item id="23">
+    <ingredient id="4037" count="10"/>
+    <production id="23506" count="1"/>
+  </item>
+  
+    <item id="24">
+    <ingredient id="4037" count="10"/>
+    <production id="23513" count="1"/>
+  </item>
+  
+    <item id="25">
+    <ingredient id="4037" count="10"/>
+    <production id="22706" count="1"/>
+  </item>
+ </list>

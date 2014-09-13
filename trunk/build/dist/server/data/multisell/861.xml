@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<config showall="true" notax="true" keepenchanted="false"/>
+	<item>
+		<!-- null -->
+		<ingredient id="35562" count="25" />
+		<!-- null -->
+		<ingredient id="35563" count="40" />
+		<!-- Талисман Бессмертия -->
+		<production id="34984" count="1" />
+	</item>
+</list>

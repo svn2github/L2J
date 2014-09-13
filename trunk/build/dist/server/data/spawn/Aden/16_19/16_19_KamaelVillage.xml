@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "spawn.dtd">
+<list>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-116882" y="46565" z="360" h="14832" />
+		<npc id="32163" />
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-117079" y="47175" z="440" h="25731" />
+		<npc id="30990" />
+	</spawn>	
+</list>	

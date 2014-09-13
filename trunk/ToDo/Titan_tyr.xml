@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<skill id="10311" levels="4" name="Великое Владение Двуручным Оружием">
+	<!--
+		При атаке Двуручным Мечом/ Двуручном Дробящим Оружием Физ. Атк. +2%
+	-->
+		<table name="#pAtk">1.02 1.03 1.04 1.05</table>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="saveVs" val="STR"/> 
+		<set name="operateType" val="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="pAtk" val="#pAtk">
+				<using kind="Big Sword, Big Blunt"/>
+			</add>
+		</for>
+	</skill>
+</list>

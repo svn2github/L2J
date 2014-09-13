@@ -1,0 +1,968 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "item.dtd">
+<list>
+	<etcitem id="17625" name="Lv1 STR Symbol - Giant Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="icon" value="icon.lv1_1_dye_dex"/>
+		<set name="type" value="OTHER"/>
+		<set name="price" value="244150"/>
+	</etcitem>
+	<etcitem id="17626" name="Lv1 DEX Symbol - Giant Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="icon" value="icon.lv1_1_dye_dex"/>
+		<set name="type" value="OTHER"/>
+		<set name="price" value="244150"/>
+	</etcitem>
+	<etcitem id="17627" name="Lv1 CON Symbol - Giant Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="icon" value="icon.lv1_1_dye_dex"/>
+		<set name="type" value="OTHER"/>
+		<set name="price" value="244150"/>
+	</etcitem>
+	<etcitem id="17628" name="Lv1 INT Symbol - Giant Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="icon" value="icon.lv1_1_dye_int"/>
+		<set name="type" value="OTHER"/>
+		<set name="price" value="244150"/>
+	</etcitem>
+	<etcitem id="17629" name="Lv1 WIT Symbol - Giant Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="icon" value="icon.lv1_1_dye_wit"/>
+		<set name="type" value="OTHER"/>
+		<set name="price" value="244150"/>
+	</etcitem>
+	<etcitem id="17630" name="Lv1 MEN Symbol - Giant Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="icon" value="icon.lv1_1_dye_men"/>
+		<set name="type" value="OTHER"/>
+		<set name="price" value="244150"/>
+	</etcitem>
+	<etcitem id="17631" name="Lv1 STR Symbol - Ancient Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="icon" value="icon.lv1_2_dye_str"/>
+		<set name="type" value="OTHER"/>
+		<set name="price" value="346200"/>
+	</etcitem>
+	<etcitem id="17632" name="Lv1 DEX Symbol - Ancient Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="icon" value="icon.lv1_2_dye_dex"/>
+		<set name="type" value="OTHER"/>
+		<set name="price" value="346200"/>
+	</etcitem>
+	<etcitem id="17633" name="Lv1 CON Symbol - Ancient Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="icon" value="icon.lv1_2_dye_con"/>
+		<set name="type" value="OTHER"/>
+		<set name="price" value="346200"/>
+	</etcitem>
+	<etcitem id="17634" name="Lv1 INT Symbol - Ancient Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="icon" value="icon.lv1_2_dye_int"/>
+		<set name="type" value="OTHER"/>
+		<set name="price" value="346200"/>
+	</etcitem>
+	<etcitem id="17635" name="Lv1 WIT Symbol - Ancient Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="icon" value="icon.lv1_2_dye_wit"/>
+		<set name="type" value="OTHER"/>
+		<set name="price" value="346200"/>
+	</etcitem>
+	<etcitem id="17636" name="Lv1 MEN Symbol - Ancient Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="icon" value="icon.lv1_2_dye_men"/>
+		<set name="type" value="OTHER"/>
+		<set name="price" value="448200"/>
+	</etcitem>
+	<etcitem id="17637" name="Lv1 STR Symbol - Legendary Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="icon" value="icon.lv1_3_dye_str"/>
+		<set name="type" value="OTHER"/>
+		<set name="price" value="448200"/>
+	</etcitem>
+	<etcitem id="17638" name="Lv1 DEX Symbol - Legendary Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="icon" value="icon.lv1_3_dye_dex"/>
+		<set name="type" value="OTHER"/>
+		<set name="price" value="448200"/>
+	</etcitem>
+	<etcitem id="17639" name="Lv1 CON Symbol - Legendary Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="icon" value="icon.lv1_3_dye_con"/>
+		<set name="type" value="OTHER"/>
+		<set name="price" value="448200"/>
+	</etcitem>
+	<etcitem id="17640" name="Lv1 INT Symbol - Legendary Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="icon" value="icon.lv1_3_dye_int"/>
+		<set name="type" value="OTHER"/>
+		<set name="price" value="448200"/>
+	</etcitem>
+	<etcitem id="17641" name="Lv1 WIT Symbol - Legendary Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="icon" value="icon.lv1_3_dye_wit"/>
+		<set name="type" value="OTHER"/>
+		<set name="price" value="448200"/>
+	</etcitem>
+	<etcitem id="17642" name="Lv1 MEN Symbol - Legendary Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="icon" value="icon.lv1_3_dye_men"/>
+		<set name="type" value="OTHER"/>
+		<set name="price" value="448200"/>
+	</etcitem>
+	<etcitem id="17643" name="Lv2 STR Symbol - Giant Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="icon" value="icon.lv2_1_dye_str"/>
+		<set name="type" value="OTHER"/>
+		<set name="price" value="548850"/>
+	</etcitem>
+	<etcitem id="17644" name="Lv2 DEX Symbol - Giant Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="icon" value="icon.lv2_1_dye_dex"/>
+		<set name="type" value="OTHER"/>
+		<set name="price" value="548850"/>
+	</etcitem>
+	<etcitem id="17645" name="Lv2 CON Symbol - Giant Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="icon" value="icon.lv2_1_dye_con"/>
+		<set name="type" value="OTHER"/>
+		<set name="price" value="548850"/>
+	</etcitem>
+	<etcitem id="17646" name="Lv2 INT Symbol - Giant Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="icon" value="icon.lv2_1_dye_int"/>
+		<set name="type" value="OTHER"/>
+		<set name="price" value="548850"/>
+	</etcitem>
+	<etcitem id="17647" name="Lv2 WIT Symbol - Giant Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="icon" value="icon.lv2_1_dye_wit"/>
+		<set name="type" value="OTHER"/>
+		<set name="price" value="548850"/>
+	</etcitem>
+	<etcitem id="17648" name="Lv2 MEN Symbol - Giant Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="icon" value="icon.lv2_1_dye_men"/>
+		<set name="type" value="OTHER"/>
+		<set name="price" value="548850"/>
+	</etcitem>
+	<etcitem id="17649" name="Lv2 STR Symbol - Ancient Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="icon" value="icon.lv2_2_dye_str"/>
+		<set name="type" value="OTHER"/>
+		<set name="price" value="748050"/>
+	</etcitem>
+	<etcitem id="17650" name="Lv2 DEX Symbol - Ancient Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="icon" value="icon.lv2_2_dye_dex"/>
+		<set name="type" value="OTHER"/>
+		<set name="price" value="748050"/>
+	</etcitem>
+	<etcitem id="17651" name="Lv2 CON Symbol - Ancient Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="icon" value="icon.lv2_2_dye_con"/>
+		<set name="type" value="OTHER"/>
+		<set name="price" value="748050"/>
+	</etcitem>
+	<etcitem id="17652" name="Lv2 INT Symbol - Ancient Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="icon" value="icon.lv2_2_dye_int"/>
+		<set name="type" value="OTHER"/>
+		<set name="price" value="748050"/>
+	</etcitem>
+	<etcitem id="17653" name="Lv2 WIT Symbol - Ancient Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="icon" value="icon.lv2_2_dye_wit"/>
+		<set name="type" value="OTHER"/>
+		<set name="price" value="748050"/>
+	</etcitem>
+	<etcitem id="17654" name="Lv2 MEN Symbol - Ancient Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="icon" value="icon.lv2_2_dye_men"/>
+		<set name="type" value="OTHER"/>
+		<set name="price" value="748050"/>
+	</etcitem>
+	<etcitem id="17655" name="Lv2 STR Symbol - Legendary Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="icon" value="icon.lv2_3_dye_str"/>
+		<set name="type" value="OTHER"/>
+		<set name="price" value="947250"/>
+	</etcitem>
+	<etcitem id="17656" name="Lv2 DEX Symbol - Legendary Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="icon" value="icon.lv2_3_dye_dex"/>
+		<set name="type" value="OTHER"/>
+		<set name="price" value="947250"/>
+	</etcitem>
+	<etcitem id="17657" name="Lv2 CON Symbol - Legendary Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="icon" value="icon.lv2_3_dye_con"/>
+		<set name="type" value="OTHER"/>
+		<set name="price" value="947250"/>
+	</etcitem>
+	<etcitem id="17658" name="Lv2 INT Symbol - Legendary Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="icon" value="icon.lv2_3_dye_int"/>
+		<set name="type" value="OTHER"/>
+		<set name="price" value="947250"/>
+	</etcitem>
+	<etcitem id="17659" name="Lv2 WIT Symbol - Legendary Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="icon" value="icon.lv2_3_dye_wit"/>
+		<set name="type" value="OTHER"/>
+		<set name="price" value="947250"/>
+	</etcitem>
+	<etcitem id="17660" name="Lv2 MEN Symbol - Legendary Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="icon" value="icon.lv2_3_dye_men"/>
+		<set name="type" value="OTHER"/>
+		<set name="price" value="947250"/>
+	</etcitem>
+	<etcitem id="17661" name="Lv3 STR Symbol - Giant Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="icon" value="icon.lv3_1_dye_str"/>
+		<set name="type" value="OTHER"/>
+		<set name="price" value="1259000"/>
+	</etcitem>
+	<etcitem id="17662" name="Lv3 DEX Symbol - Giant Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="icon" value="icon.lv3_1_dye_dex"/>
+		<set name="type" value="OTHER"/>
+		<set name="price" value="1259000"/>
+	</etcitem>
+	<etcitem id="17663" name="Lv3 CON Symbol - Giant Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="icon" value="icon.lv3_1_dye_con"/>
+		<set name="type" value="OTHER"/>
+		<set name="price" value="1259000"/>
+	</etcitem>
+	<etcitem id="17664" name="Lv3 INT Symbol - Giant Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="icon" value="icon.lv3_1_dye_int"/>
+		<set name="type" value="OTHER"/>
+		<set name="price" value="1259000"/>
+	</etcitem>
+	<etcitem id="17665" name="Lv3 WIT Symbol - Giant Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="icon" value="icon.lv3_1_dye_wit"/>
+		<set name="type" value="OTHER"/>
+		<set name="price" value="1259000"/>
+	</etcitem>
+	<etcitem id="17666" name="Lv3 MEN Symbol - Giant Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="icon" value="icon.lv3_1_dye_men"/>
+		<set name="type" value="OTHER"/>
+		<set name="price" value="1259000"/>
+	</etcitem>
+	<etcitem id="17667" name="Lv3 STR Symbol - Ancient Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="icon" value="icon.lv3_2_dye_str"/>
+		<set name="type" value="OTHER"/>
+		<set name="price" value="1259000"/>
+	</etcitem>
+	<etcitem id="17668" name="Lv3 DEX Symbol - Ancient Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="icon" value="icon.lv3_2_dye_dex"/>
+		<set name="type" value="OTHER"/>
+		<set name="price" value="1647900"/>
+	</etcitem>
+	<etcitem id="17669" name="Lv3 CON Symbol - Ancient Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="icon" value="icon.lv3_2_dye_con"/>
+		<set name="type" value="OTHER"/>
+		<set name="price" value="1647900"/>
+	</etcitem>
+	<etcitem id="17670" name="Lv3 INT Symbol - Ancient Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="icon" value="icon.lv3_2_dye_int"/>
+		<set name="type" value="OTHER"/>
+		<set name="price" value="1647900"/>
+	</etcitem>
+	<etcitem id="17671" name="Lv3 WIT Symbol - Ancient Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="icon" value="icon.lv3_2_dye_wit"/>
+		<set name="type" value="OTHER"/>
+		<set name="price" value="1647900"/>
+	</etcitem>
+	<etcitem id="17672" name="Lv3 MEN Symbol - Ancient Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="icon" value="icon.lv3_2_dye_men"/>
+		<set name="type" value="OTHER"/>
+		<set name="price" value="1647900"/>
+	</etcitem>
+	<etcitem id="17673" name="Lv3 STR Symbol - Legendary Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="icon" value="icon.lv3_3_dye_str"/>
+		<set name="type" value="OTHER"/>
+		<set name="price" value="2036800"/>
+	</etcitem>
+	<etcitem id="17674" name="Lv3 DEX Symbol - Legendary Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="icon" value="icon.lv3_3_dye_dex"/>
+		<set name="type" value="OTHER"/>
+		<set name="price" value="2036800"/>
+	</etcitem>
+	<etcitem id="17675" name="Lv3 CON Symbol - Legendary Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="icon" value="icon.lv3_3_dye_con"/>
+		<set name="type" value="OTHER"/>
+		<set name="price" value="2036800"/>
+	</etcitem>
+	<etcitem id="17676" name="Lv3 INT Symbol - Legendary Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="icon" value="icon.lv3_3_dye_int"/>
+		<set name="type" value="OTHER"/>
+		<set name="price" value="2036800"/>
+	</etcitem>
+	<etcitem id="17677" name="Lv3 WIT Symbol - Legendary Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="icon" value="icon.lv3_3_dye_wit"/>
+		<set name="type" value="OTHER"/>
+		<set name="price" value="2036800"/>
+	</etcitem>
+	<etcitem id="17678" name="Lv3 MEN Symbol - Legendary Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="icon" value="icon.lv3_3_dye_men"/>
+		<set name="type" value="OTHER"/>
+		<set name="price" value="2036800"/>
+	</etcitem>
+	<etcitem id="17679" name="Lv4 STR Symbol - Giant Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="icon" value="icon.lv4_1_dye_str"/>
+		<set name="type" value="OTHER"/>
+		<set name="price" value="5667200"/>
+	</etcitem>
+	<etcitem id="17680" name="Lv4 DEX Symbol - Giant Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="icon" value="icon.lv4_1_dye_dex"/>
+		<set name="type" value="OTHER"/>
+		<set name="price" value="5667200"/>
+	</etcitem>
+	<etcitem id="17681" name="Lv4 CON Symbol - Giant Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="icon" value="icon.lv4_1_dye_con"/>
+		<set name="type" value="OTHER"/>
+		<set name="price" value="5667200"/>
+	</etcitem>
+	<etcitem id="17682" name="Lv4 INT Symbol - Giant Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="icon" value="icon.lv4_1_dye_int"/>
+		<set name="type" value="OTHER"/>
+		<set name="price" value="5667200"/>
+	</etcitem>
+	<etcitem id="17683" name="Lv4 WIT Symbol - Giant Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="icon" value="icon.lv4_1_dye_wit"/>
+		<set name="type" value="OTHER"/>
+		<set name="price" value="5667200"/>
+	</etcitem>
+	<etcitem id="17684" name="Lv4 MEN Symbol - Giant Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="icon" value="icon.lv4_1_dye_men"/>
+		<set name="type" value="OTHER"/>
+	</etcitem>
+	<etcitem id="17685" name="Lv4 STR Symbol - Ancient Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="icon" value="icon.lv4_2_dye_str"/>
+		<set name="type" value="OTHER"/>
+	</etcitem>
+	<etcitem id="17686" name="Lv4 DEX Symbol - Ancient Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="icon" value="icon.lv4_2_dye_dex"/>
+		<set name="type" value="OTHER"/>
+	</etcitem>
+	<etcitem id="17687" name="Lv4 CON Symbol - Ancient Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="icon" value="icon.lv4_2_dye_con"/>
+		<set name="type" value="OTHER"/>
+	</etcitem>
+	<etcitem id="17688" name="Lv4 INT Symbol - Ancient Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="icon" value="icon.lv4_2_dye_int"/>
+		<set name="type" value="OTHER"/>
+	</etcitem>
+	<etcitem id="17689" name="Lv4 WIT Symbol - Ancient Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="icon" value="icon.lv4_2_dye_wit"/>
+		<set name="type" value="OTHER"/>
+	</etcitem>
+	<etcitem id="17690" name="Lv4 MEN Symbol - Ancient Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="icon" value="icon.lv4_2_dye_men"/>
+		<set name="type" value="OTHER"/>
+	</etcitem>
+	<etcitem id="17691" name="Lv4 STR Symbol - Legendary Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="icon" value="icon.lv4_3_dye_str"/>
+		<set name="type" value="OTHER"/>
+	</etcitem>
+	<etcitem id="17692" name="Lv4 DEX Symbol - Legendary Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="icon" value="icon.lv4_3_dye_dex"/>
+		<set name="type" value="OTHER"/>
+	</etcitem>
+	<etcitem id="17693" name="Lv4 CON Symbol - Legendary Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="icon" value="icon.lv4_3_dye_con"/>
+		<set name="type" value="OTHER"/>
+	</etcitem>
+	<etcitem id="17694" name="Lv4 INT Symbol - Legendary Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="icon" value="icon.lv4_3_dye_int"/>
+		<set name="type" value="OTHER"/>
+	</etcitem>
+	<etcitem id="17695" name="Lv4 WIT Symbol - Legendary Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="icon" value="icon.lv4_3_dye_wit"/>
+		<set name="type" value="OTHER"/>
+		<set name="price" value="1647900"/>
+	</etcitem>
+	<etcitem id="17696" name="Lv4 MEN Symbol - Legendary Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="icon" value="icon.lv4_3_dye_men"/>
+		<set name="type" value="OTHER"/>
+		<set name="price" value="1647900"/>
+	</etcitem>
+	<etcitem id="17697" name="Lv5 STR Symbol - Giant Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="icon" value="icon.lv5_1_dye_str"/>
+		<set name="type" value="OTHER"/>
+		<set name="price" value="17942150"/>
+	</etcitem>
+	<etcitem id="17698" name="Lv5 DEX Symbol - Giant Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="icon" value="icon.lv5_1_dye_dex"/>
+		<set name="type" value="OTHER"/>
+		<set name="price" value="17942150"/>
+	</etcitem>
+	<etcitem id="17699" name="Lv5 CON Symbol - Giant Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="icon" value="icon.lv5_1_dye_con"/>
+		<set name="type" value="OTHER"/>
+		<set name="price" value="17942150"/>
+	</etcitem>
+	<etcitem id="17700" name="Lv5 INT Symbol - Giant Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="OTHER"/>
+		<set name="price" value="17942150"/>
+	</etcitem>
+	<etcitem id="17701" name="Lv5 WIT Symbol - Giant Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="OTHER"/>
+		<set name="price" value="17942150"/>
+	</etcitem>
+	<etcitem id="17702" name="Lv5 MEN Symbol - Giant Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="OTHER"/>
+		<set name="price" value="17942150"/>
+	</etcitem>
+	<etcitem id="17703" name="Lv5 STR Symbol - Ancient Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="OTHER"/>
+		<set name="price" value="17942150"/>
+	</etcitem>
+	<etcitem id="17704" name="Lv5 DEX Symbol - Ancient Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="OTHER"/>
+		<set name="price" value="17942150"/>
+	</etcitem>
+	<etcitem id="17705" name="Lv5 CON Symbol - Ancient Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="OTHER"/>
+		<set name="price" value="17942150"/>
+	</etcitem>
+	<etcitem id="17706" name="Lv5 INT Symbol - Ancient Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="OTHER"/>
+		<set name="price" value="17942150"/>
+	</etcitem>
+	<etcitem id="17707" name="Lv5 WIT Symbol - Ancient Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="OTHER"/>
+		<set name="price" value="17942150"/>
+	</etcitem>
+	<etcitem id="17708" name="Lv5 MEN Symbol - Ancient Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="OTHER"/>
+		<set name="price" value="17942150"/>
+	</etcitem>
+	<etcitem id="17709" name="Lv5 STR Symbol - Legendary Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="OTHER"/>
+		<set name="price" value="17942150"/>
+	</etcitem>
+	<etcitem id="17710" name="Lv5 DEX Symbol - Legendary Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="OTHER"/>
+		<set name="price" value="17942150"/>
+	</etcitem>
+	<etcitem id="17711" name="Lv5 CON Symbol - Legendary Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="OTHER"/>
+		<set name="price" value="17942150"/>
+	</etcitem>
+	<etcitem id="17712" name="Lv5 INT Symbol - Legendary Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="OTHER"/>
+		<set name="price" value="17942150"/>
+	</etcitem>
+	<etcitem id="17713" name="Lv5 WIT Symbol - Legendary Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="OTHER"/>
+		<set name="price" value="17942150"/>
+	</etcitem>
+	<etcitem id="17714" name="Lv5 MEN Symbol - Legendary Dye">
+		<!--Awakeninger-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="OTHER"/>
+		<set name="price" value="17942150"/>
+	</etcitem>
+</list>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Оружие Драконов Валакаса -->
+<list>
+  <config showall="true" notax="false" keepenchanted="false" />
+  <item>
+	<ingredient id="15627" count="1"/>
+    <production id="-200" count="10000"/>
+  </item>
+</list>

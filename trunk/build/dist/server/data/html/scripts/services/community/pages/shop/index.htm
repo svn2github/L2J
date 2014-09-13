@@ -1,0 +1,86 @@
+<html>
+	<body><br><br>
+		<center>
+			<table border=0 cellspacing=0 cellpadding=0 fixwidth=755>
+				<tr>
+					<td fixwidth=626 height=469 background=L2UI_CT1.Windows_DF_TooltipBG>
+						<center>
+							<img src="l2ui.squaregray" width="626" height="1"><br>
+							<table border=0 cellspacing=0 cellpadding=0>
+								<tr>
+									<td fixwidth=305 height=31 align=center>
+										<font color="LEVEL">По уровню</font>
+									</td>
+									<td fixwidth=305 height=31 align=right>
+										<font color="LEVEL">Телепорт</font>
+									</td>
+									<td fixwidth=305 height=31 align=center>
+										
+									</td>
+								</tr>
+								<tr>
+									<td fixwidth=305 height=31 align=center>
+										<button value="Ivory Tover - (40-50)" action="bypass _bbsteleport:index:80536 12168 -4913" width=200 height=31 back="L2UI_CT1.OlympiadWnd_DF_Watch_Down" fore="L2UI_CT1.OlympiadWnd_DF_Watch">
+										<button value="Outlaw Forest - (50-55)" action="bypass _bbsteleport:index:91560 -12145 -2440" width=200 height=31 back="L2UI_CT1.OlympiadWnd_DF_Watch_Down" fore="L2UI_CT1.OlympiadWnd_DF_Watch">
+										<button value="Forsaken Plains - (55-60)" action="bypass _bbsteleport:index:174296 45608 -4663" width=200 height=31 back="L2UI_CT1.OlympiadWnd_DF_Watch_Down" fore="L2UI_CT1.OlympiadWnd_DF_Watch">
+										<button value="Valley of Saints - (60-65)" action="bypass _bbsteleport:index:80471 -84022 -3646" width=200 height=31 back="L2UI_CT1.OlympiadWnd_DF_Watch_Down" fore="L2UI_CT1.OlympiadWnd_DF_Watch">
+										<button value="Blazing Swamp - (65-70)" action="bypass _bbsteleport:index:158904 -12776 -2904" width=200 height=31 back="L2UI_CT1.OlympiadWnd_DF_Watch_Down" fore="L2UI_CT1.OlympiadWnd_DF_Watch">
+										<button value="Silent Valley - (75-80)" action="bypass _bbsteleport:index:170802 55691 -5280" width=200 height=31 back="L2UI_CT1.OlympiadWnd_DF_Watch_Down" fore="L2UI_CT1.OlympiadWnd_DF_Watch">
+										<button value="Dragon Valley - (80-85)" action="bypass _bbsteleport:index:73064 118248 -3739" width=200 height=31 back="L2UI_CT1.OlympiadWnd_DF_Watch_Down" fore="L2UI_CT1.OlympiadWnd_DF_Watch">
+										<button value="Antharas' Lair - (85-85)" action="bypass _bbsteleport:index:73064 118248 -3739" width=200 height=31 back="L2UI_CT1.OlympiadWnd_DF_Watch_Down" fore="L2UI_CT1.OlympiadWnd_DF_Watch">
+									</td>
+									<td fixwidth=305 height=31 align=center>
+										<button value="Города \ Деревни" action="bypass _bbsteleport:page:towns/index" width=200 height=31 back="L2UI_CT1.OlympiadWnd_DF_Watch_Down" fore="L2UI_CT1.OlympiadWnd_DF_Watch">
+										<button value="Замки \ Крепости" action="bypass _bbsteleport:page:castles" width=200 height=31 back="L2UI_CT1.OlympiadWnd_DF_Watch_Down" fore="L2UI_CT1.OlympiadWnd_DF_Watch">
+										<button value="Катакомбы \ Некрополисы" action="bypass _bbsteleport:page:catacombs" width=200 height=31 back="L2UI_CT1.OlympiadWnd_DF_Watch_Down" fore="L2UI_CT1.OlympiadWnd_DF_Watch">
+										<button value="Hellbound \ Gracia" action="bypass _bbsteleport:page:hellbound" width=200 height=31 back="L2UI_CT1.OlympiadWnd_DF_Watch_Down" fore="L2UI_CT1.OlympiadWnd_DF_Watch">
+										<button value="Freya \ High Five" action="bypass _bbsteleport:page:freya" width=200 height=31 back="L2UI_CT1.OlympiadWnd_DF_Watch_Down" fore="L2UI_CT1.OlympiadWnd_DF_Watch">
+                                        <button value="GOD" action="bypass _bbsteleport:page:god" width=200 height=31 back="L2UI_CT1.OlympiadWnd_DF_Watch_Down" fore="L2UI_CT1.OlympiadWnd_DF_Watch">
+									</td>
+									<td fixwidth=305 height=31 align=center>
+										<table width=200 height=200 background=L2UI_CH3.refinewnd_back_Pattern>
+											<tr>
+												<td valign=top>
+													<center>
+														<br><font color=LEVEL>Персональные Точки:</font><br1>
+														<img src="L2UI.SquareGray" width=180 height=1>
+														<br><br><font color=68e8ff>Сохраненные Точки:</font><br1>
+														<table>
+															<tr>
+																<td><combobox width=115 height=18 var="point" list="<?save_points?>"></td>
+																<td><button value="$" action="bypass _bbsteleport:restore:index: $point" width=30 height=20 back="L2UI_CT1.Button_DF_Click" fore="L2UI_CT1.Button_DF"></td>
+																<td><button value="-" action="bypass _bbsteleport:remove:index: $point" width=30 height=20 back="L2UI_CT1.Button_DF_Click" fore="L2UI_CT1.Button_DF"></td>
+															</tr>
+														</table>
+														<br><br><font color=68e8ff>Создание Точки:</font><br1>
+														<table>
+															<tr>
+																<td><edit var="name" width=140 height=12 length=10></td>
+																<td><button value="+" action="bypass _bbsteleport:save:index: $name" width=30 height=20 back="L2UI_CT1.Button_DF_Click" fore="L2UI_CT1.Button_DF"></td>
+															</tr>
+														</table>
+													</center>
+												</td>
+											</tr>
+										</table>
+									</td>
+								</tr>
+							</table>
+							<br><font color="LEVEL">Информация</font><br>
+							<table border=0 cellspacing=0 cellpadding=0>
+								<tr>
+									<td fixwidth=305 height=25 align=left valign=top><font color="999999">Цена телепорта:</font></td>
+									<td fixwidth=305 height=25 align=left valign=top><font color="LEVEL">%pice%</font></td>
+								</tr>
+								<tr>
+									<td fixwidth=305 height=25 align=left valign=top><font color="999999">Цена сохранения персональной точки:</font></td>
+									<td fixwidth=305 height=25 align=left valign=top><font color="LEVEL">%save_pice%</font></td>
+								</tr>
+							</table>
+						</center>
+					</td>
+				</tr>
+			</table>
+		</center>
+	</body>
+</html>

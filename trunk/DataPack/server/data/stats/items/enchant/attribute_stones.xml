@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "enchant_items.dtd">
+<!-- Автор: ALF (Чипаченко Е.Г.) -->
+<!--
+	id - айди итема
+	min_arm - минимальное значение атрибута в броне для аттирбутации
+	max_arm - максимальное значение атрибута в броне для аттирбутации
+	min_weap - минимальное значение атрибута в оружии для аттирбутации
+	max_weap - максимальное значение атрибута в оружии для аттирбутации
+	inc_arm - увеличение СОПРОТИВЛЕНИЯ атрибута при аттрибутации БРОНИ
+	inc_weap - увеличение СИЛЫ атрибута при аттрибутации ОРУЖИЯ
+	inc_weap_arm - увеличение СИЛЫ атрибута при аттрибутации БРОНИ
+	element - Элемент (береи по оружию)
+	chance - шанс успешной аттрибутации
+-->
+<list>
+    <!-- Аттрибуты первого уровня -->
+    <attribute_stone id="9546" min_arm="0" max_arm="60" min_weap="0" max_weap="150" inc_arm="6" inc_weap="5" inc_weap_arm="0" chance="80" element="FIRE" />
+    <attribute_stone id="9547" min_arm="0" max_arm="60" min_weap="0" max_weap="150" inc_arm="6" inc_weap="5" inc_weap_arm="0" chance="80" element="WATER" />
+    <attribute_stone id="9548" min_arm="0" max_arm="60" min_weap="0" max_weap="150" inc_arm="6" inc_weap="5" inc_weap_arm="0" chance="80" element="EARTH" />
+    <attribute_stone id="9549" min_arm="0" max_arm="60" min_weap="0" max_weap="150" inc_arm="6" inc_weap="5" inc_weap_arm="0" chance="80" element="WIND" />
+    <attribute_stone id="9550" min_arm="0" max_arm="60" min_weap="0" max_weap="150" inc_arm="6" inc_weap="5" inc_weap_arm="0" chance="80" element="UNHOLY" />
+    <attribute_stone id="9551" min_arm="0" max_arm="60" min_weap="0" max_weap="150" inc_arm="6" inc_weap="5" inc_weap_arm="0" chance="80" element="HOLY" />
+
+    <!-- Аттрибуты второго уровня -->
+    <attribute_stone id="9552" min_arm="60" max_arm="120" min_weap="150" max_weap="300" inc_arm="6" inc_weap="5" inc_weap_arm="0" chance="70" element="FIRE" />
+    <attribute_stone id="9553" min_arm="60" max_arm="120" min_weap="150" max_weap="300" inc_arm="6" inc_weap="5" inc_weap_arm="0" chance="70" element="WATER" />
+    <attribute_stone id="9554" min_arm="60" max_arm="120" min_weap="150" max_weap="300" inc_arm="6" inc_weap="5" inc_weap_arm="0" chance="70" element="EARTH" />
+    <attribute_stone id="9555" min_arm="60" max_arm="120" min_weap="150" max_weap="300" inc_arm="6" inc_weap="5" inc_weap_arm="0" chance="70" element="WIND" />
+    <attribute_stone id="9556" min_arm="60" max_arm="120" min_weap="150" max_weap="300" inc_arm="6" inc_weap="5" inc_weap_arm="0" chance="70" element="UNHOLY" />
+    <attribute_stone id="9557" min_arm="60" max_arm="120" min_weap="150" max_weap="300" inc_arm="6" inc_weap="5" inc_weap_arm="0" chance="70" element="HOLY" />
+
+    <!-- Аттрибуты третьего уровня -->
+    <attribute_stone id="9558" min_arm="120" max_arm="180" min_weap="300" max_weap="450" inc_arm="6" inc_weap="5" inc_weap_arm="0" chance="60" element="FIRE" />
+    <attribute_stone id="9559" min_arm="120" max_arm="180" min_weap="300" max_weap="450" inc_arm="6" inc_weap="5" inc_weap_arm="0" chance="60" element="WATER" />
+    <attribute_stone id="9560" min_arm="120" max_arm="180" min_weap="300" max_weap="450" inc_arm="6" inc_weap="5" inc_weap_arm="0" chance="60" element="EARTH" />
+    <attribute_stone id="9561" min_arm="120" max_arm="180" min_weap="300" max_weap="450" inc_arm="6" inc_weap="5" inc_weap_arm="0" chance="60" element="WIND" />
+    <attribute_stone id="9562" min_arm="120" max_arm="180" min_weap="300" max_weap="450" inc_arm="6" inc_weap="5" inc_weap_arm="0" chance="60" element="UNHOLY" />
+    <attribute_stone id="9563" min_arm="120" max_arm="180" min_weap="300" max_weap="450" inc_arm="6" inc_weap="5" inc_weap_arm="0" chance="60" element="HOLY" />
+
+    <!-- Аттрибуты четвертого уровня -->
+    <attribute_stone id="9564" min_arm="180" max_arm="240" min_weap="450" max_weap="600" inc_arm="6" inc_weap="5" inc_weap_arm="0" chance="50" element="FIRE" />
+    <attribute_stone id="9565" min_arm="180" max_arm="240" min_weap="450" max_weap="600" inc_arm="6" inc_weap="5" inc_weap_arm="0" chance="50" element="WATER" />
+    <attribute_stone id="9566" min_arm="180" max_arm="240" min_weap="450" max_weap="600" inc_arm="6" inc_weap="5" inc_weap_arm="0" chance="50" element="EARTH" />
+    <attribute_stone id="9567" min_arm="180" max_arm="240" min_weap="450" max_weap="600" inc_arm="6" inc_weap="5" inc_weap_arm="0" chance="50" element="WIND" />
+    <attribute_stone id="9568" min_arm="180" max_arm="240" min_weap="450" max_weap="600" inc_arm="6" inc_weap="5" inc_weap_arm="0" chance="50" element="UNHOLY" />
+    <attribute_stone id="9569" min_arm="180" max_arm="240" min_weap="450" max_weap="600" inc_arm="6" inc_weap="5" inc_weap_arm="0" chance="50" element="HOLY" />
+
+    <!-- Аттрибуты Необработанные -->
+    <attribute_stone id="10521" min_arm="120" max_arm="240" min_weap="300" max_weap="600" inc_arm="3" inc_weap="5" inc_weap_arm="3" chance="40" element="FIRE" />
+    <attribute_stone id="10522" min_arm="120" max_arm="240" min_weap="300" max_weap="600" inc_arm="3" inc_weap="5" inc_weap_arm="3" chance="40" element="WATER" />
+    <attribute_stone id="10523" min_arm="120" max_arm="240" min_weap="300" max_weap="600" inc_arm="3" inc_weap="5" inc_weap_arm="3" chance="40" element="EARTH" />
+    <attribute_stone id="10524" min_arm="120" max_arm="240" min_weap="300" max_weap="600" inc_arm="3" inc_weap="5" inc_weap_arm="3" chance="40" element="WIND" />
+    <attribute_stone id="10525" min_arm="120" max_arm="240" min_weap="300" max_weap="600" inc_arm="3" inc_weap="5" inc_weap_arm="3" chance="40" element="UNHOLY" />
+    <attribute_stone id="10526" min_arm="120" max_arm="240" min_weap="300" max_weap="600" inc_arm="3" inc_weap="5" inc_weap_arm="3" chance="40" element="HOLY" />
+
+    <!-- Goddess of Destruction -->
+    <!-- Аттрибуты Супер 60 -->
+    <attribute_stone id="33481" min_arm="0" max_arm="60" min_weap="0" max_weap="150" inc_arm="60" inc_weap="150" inc_weap_arm="0" chance="30" element="FIRE" />
+    <attribute_stone id="33482" min_arm="0" max_arm="60" min_weap="0" max_weap="150" inc_arm="60" inc_weap="150" inc_weap_arm="0" chance="30" element="WATER" />
+    <attribute_stone id="33483" min_arm="0" max_arm="60" min_weap="0" max_weap="150" inc_arm="60" inc_weap="150" inc_weap_arm="0" chance="30" element="EARTH" />
+    <attribute_stone id="33484" min_arm="0" max_arm="60" min_weap="0" max_weap="150" inc_arm="60" inc_weap="150" inc_weap_arm="0" chance="30" element="WIND" />
+    <attribute_stone id="33485" min_arm="0" max_arm="60" min_weap="0" max_weap="150" inc_arm="60" inc_weap="150" inc_weap_arm="0" chance="30" element="UNHOLY" />
+    <attribute_stone id="33486" min_arm="0" max_arm="60" min_weap="0" max_weap="150" inc_arm="60" inc_weap="150" inc_weap_arm="0" chance="30" element="HOLY" />
+
+    <!-- Аттрибуты Супер 120 -->
+    <attribute_stone id="33487" min_arm="60" max_arm="120" min_weap="150" max_weap="300" inc_arm="60" inc_weap="150" inc_weap_arm="0" chance="20" element="FIRE" />
+    <attribute_stone id="33488" min_arm="60" max_arm="120" min_weap="150" max_weap="300" inc_arm="60" inc_weap="150" inc_weap_arm="0" chance="20" element="WATER" />
+    <attribute_stone id="33489" min_arm="60" max_arm="120" min_weap="150" max_weap="300" inc_arm="60" inc_weap="150" inc_weap_arm="0" chance="20" element="EARTH" />
+    <attribute_stone id="33490" min_arm="60" max_arm="120" min_weap="150" max_weap="300" inc_arm="60" inc_weap="150" inc_weap_arm="0" chance="20" element="WIND" />
+    <attribute_stone id="33491" min_arm="60" max_arm="120" min_weap="150" max_weap="300" inc_arm="60" inc_weap="150" inc_weap_arm="0" chance="20" element="UNHOLY" />
+    <attribute_stone id="33492" min_arm="60" max_arm="120" min_weap="150" max_weap="300" inc_arm="60" inc_weap="150" inc_weap_arm="0" chance="20" element="HOLY" />
+
+	   <!-- Аттрибуты Супер 60(Mentor) -->
+    <attribute_stone id="33863" min_arm="0" max_arm="60" min_weap="0" max_weap="150" inc_arm="60" inc_weap="150" inc_weap_arm="0" chance="30" element="FIRE" />
+    <attribute_stone id="33864" min_arm="0" max_arm="60" min_weap="0" max_weap="150" inc_arm="60" inc_weap="150" inc_weap_arm="0" chance="30" element="WATER" />
+    <attribute_stone id="33865" min_arm="0" max_arm="60" min_weap="0" max_weap="150" inc_arm="60" inc_weap="150" inc_weap_arm="0" chance="30" element="EARTH" />
+    <attribute_stone id="33866" min_arm="0" max_arm="60" min_weap="0" max_weap="150" inc_arm="60" inc_weap="150" inc_weap_arm="0" chance="30" element="WIND" />
+    <attribute_stone id="33867" min_arm="0" max_arm="60" min_weap="0" max_weap="150" inc_arm="60" inc_weap="150" inc_weap_arm="0" chance="30" element="UNHOLY" />
+    <attribute_stone id="33868" min_arm="0" max_arm="60" min_weap="0" max_weap="150" inc_arm="60" inc_weap="150" inc_weap_arm="0" chance="30" element="HOLY" />
+
+    <!-- Аттрибуты Супер 120(Mentor) -->
+    <attribute_stone id="33869" min_arm="60" max_arm="120" min_weap="150" max_weap="300" inc_arm="60" inc_weap="150" inc_weap_arm="0" chance="20" element="FIRE" />
+    <attribute_stone id="33870" min_arm="60" max_arm="120" min_weap="150" max_weap="300" inc_arm="60" inc_weap="150" inc_weap_arm="0" chance="20" element="WATER" />
+    <attribute_stone id="33871" min_arm="60" max_arm="120" min_weap="150" max_weap="300" inc_arm="60" inc_weap="150" inc_weap_arm="0" chance="20" element="EARTH" />
+    <attribute_stone id="33872" min_arm="60" max_arm="120" min_weap="150" max_weap="300" inc_arm="60" inc_weap="150" inc_weap_arm="0" chance="20" element="WIND" />
+    <attribute_stone id="33873" min_arm="60" max_arm="120" min_weap="150" max_weap="300" inc_arm="60" inc_weap="150" inc_weap_arm="0" chance="20" element="UNHOLY" />
+    <attribute_stone id="33874" min_arm="60" max_arm="120" min_weap="150" max_weap="300" inc_arm="60" inc_weap="150" inc_weap_arm="0" chance="20" element="HOLY" />
+
+    <!-- Осколки руды аттрибутов, для скованных вещей -->
+    <attribute_stone id="34649" min_arm="0" max_arm="60" min_weap="0" max_weap="150" inc_arm="6" inc_weap="5" inc_weap_arm="0" chance="20" element="FIRE" />
+    <attribute_stone id="34650" min_arm="0" max_arm="60" min_weap="0" max_weap="150" inc_arm="6" inc_weap="5" inc_weap_arm="0" chance="20" element="WATER" />
+    <attribute_stone id="34651" min_arm="0" max_arm="60" min_weap="0" max_weap="150" inc_arm="6" inc_weap="5" inc_weap_arm="0" chance="20" element="EARTH" />
+    <attribute_stone id="34652" min_arm="0" max_arm="60" min_weap="0" max_weap="150" inc_arm="6" inc_weap="5" inc_weap_arm="0" chance="20" element="WIND" />
+    <attribute_stone id="34653" min_arm="0" max_arm="60" min_weap="0" max_weap="150" inc_arm="6" inc_weap="5" inc_weap_arm="0" chance="20" element="UNHOLY" />
+    <attribute_stone id="34654" min_arm="0" max_arm="60" min_weap="0" max_weap="150" inc_arm="6" inc_weap="5" inc_weap_arm="0" chance="20" element="HOLY" />
+
+    <!-- Осколки кристаллов аттрибутов, для скованных вещей -->
+    <attribute_stone id="34655" min_arm="60" max_arm="120" min_weap="150" max_weap="300" inc_arm="6" inc_weap="5" inc_weap_arm="0" chance="20" element="FIRE" />
+    <attribute_stone id="34656" min_arm="60" max_arm="120" min_weap="150" max_weap="300" inc_arm="6" inc_weap="5" inc_weap_arm="0" chance="20" element="WATER" />
+    <attribute_stone id="34658" min_arm="60" max_arm="120" min_weap="150" max_weap="300" inc_arm="6" inc_weap="5" inc_weap_arm="0" chance="20" element="EARTH" />
+    <attribute_stone id="34657" min_arm="60" max_arm="120" min_weap="150" max_weap="300" inc_arm="6" inc_weap="5" inc_weap_arm="0" chance="20" element="WIND" />
+    <attribute_stone id="34659" min_arm="60" max_arm="120" min_weap="150" max_weap="300" inc_arm="6" inc_weap="5" inc_weap_arm="0" chance="20" element="UNHOLY" />
+    <attribute_stone id="34660" min_arm="60" max_arm="120" min_weap="150" max_weap="300" inc_arm="6" inc_weap="5" inc_weap_arm="0" chance="20" element="HOLY" />
+</list>

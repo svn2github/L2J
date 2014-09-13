@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "item.dtd">
+<list>
+	<etcitem id="36732" name="Рецепт: Острие Реквиема (60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="36733" name="Рецепт: Резак Реквиема (60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="36734" name="Рецепт: Эспадон Реквиема (60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="36735" name="Рецепт: Мститель Реквиема (60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="36736" name="Рецепт: Воитель Реквиема (60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="36737" name="Рецепт: Буревестник Реквиема (60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="36738" name="Рецепт: Бросок Реквиема (60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="36739" name="Рецепт: Страж Реквиема (60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="36740" name="Рецепт: Расчленитель Реквиема (60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="36741" name="Рецепт: Заклинатель Реквиема (60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="36742" name="Рецепт: Возмездие Реквиема (60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="36743" name="Рецепт: Шлем Бессмертия (60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="36744" name="Рецепт: Кираса Бессмертия (60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="36745" name="Рецепт: Набедренники Бессмертия (60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="36746" name="Рецепт: Рукавицы Бессмертия (60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="36747" name="Рецепт: Сапоги Бессмертия (60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="36748" name="Рецепт: Щит Бессмертия (60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="36749" name="Рецепт: Кожаный Шлем Бессмертия (60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="36750" name="Рецепт: Кожаный Доспех Бессмертия (60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="36751" name="Рецепт: Кожаные Брюки Бессмертия (60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="36752" name="Рецепт: Кожаные Перчатки Бессмертия (60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="36753" name="Рецепт: Кожаные Сапоги Бессмертия (60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="36754" name="Рецепт: Диадема Бессмертия (60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="36755" name="Рецепт: Туника Бессмертия (60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="36756" name="Рецепт: Штаны Бессмертия (60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="36757" name="Рецепт: Перчатки Бессмертия (60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="36758" name="Рецепт: Ботинки Бессмертия (60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="36759" name="Рецепт: Символ Бессмертия (60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="36760" name="Рецепт: Ожерелье Бессмертия (60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="36761" name="Рецепт: Серьга Бессмертия (60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="36762" name="Рецепт: Кольцо Бессмертия (60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+</list>

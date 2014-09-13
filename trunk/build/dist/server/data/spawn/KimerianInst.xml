@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "spawn.dtd">
+<list>
+	<spawn group="Kimerian_custom" count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="217288" y="78600" z="932" h="27931"/>
+		<npc id="25745"/>
+	</spawn>	
+	<spawn group="Kimerian_noety" count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="215688" y="79784" z="798" h="26634"/>
+		<npc id="33098"/>
+	</spawn>
+</list>

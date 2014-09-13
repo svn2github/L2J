@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "doors.dtd">
+<list>
+	<door id="26210005" name="[Magmell_Orbis_S.B1F.Orbis_Passage_Door]" hp="150" pdef="1" mdef="1">
+		<pos x="208736" y="118131" z="-12516"/>
+		<shape ax="208860" ay="118149" bx="208608" by="118151" cx="208611" cy="118113" dx="208860" dy="118113" minz="-12527" maxz="-11527"/>
+		<set name="opened" value="false"/>
+		<set name="unlockable" value="false"/>
+		<set name="key" value="0"/>
+		<set name="show_hp" value="false"/>
+	</door>
+	<door id="26210102" name="[Magmell_Orbis_S.boss.Orbis_BossStage_adoor]" hp="150" pdef="1" mdef="1">
+		<pos x="207844" y="119002" z="-10029"/>
+		<shape ax="207772" ay="118961" bx="207925" by="119024" cx="207915" cy="119043" dx="207764" dy="118980" minz="-10035" maxz="-9035"/>
+		<set name="opened" value="false"/>
+		<set name="unlockable" value="false"/>
+		<set name="key" value="0"/>
+		<set name="show_hp" value="false"/>
+	</door>
+	<door id="24240022"	name="[Crystal_Palace_S.door_01_B]" hp="150" pdef="1" mdef="1">
+		<pos x="144288" y="217258" z="-12132"/>
+		<shape ax="144186" ay="217232" minz="-12132" bx="144388" by="217235" maxz="-12132" cx="144389" cy="217281" dx="144186" dy="217282"/>
+		<set name="opened" value="false"/>
+		<set name="unlockable" value="false"/>
+		<set name="key" value="0"/>
+		<set name="show_hp" value="false"/>
+	</door>
+	<door id="24240020"	name="[Crystal_Palace_S.door_01_B]" hp="150" pdef="1" mdef="1">
+		<pos x="144288" y="214519" z="-12132"/>
+		<shape ax="144188" ay="214496" minz="-12132" bx="144389" by="214497" maxz="-12132" cx="144391" cy="214533" dx="144187" dy="214533"/>
+		<set name="opened" value="false"/>
+		<set name="unlockable" value="false"/>
+		<set name="key" value="0"/>
+		<set name="show_hp" value="false"/>
+	</door>
+	<door id="24240021"	name="[Crystal_Palace_S.door_01_B]" hp="150" pdef="1" mdef="1">
+		<pos x="143878" y="215888" z="-12132"/>
+		<shape ax="143857" ay="215793" minz="-12132" bx="143902" by="215793" maxz="-12132" cx="143905" cy="215993" dx="143857" dy="215993"/>
+		<set name="opened" value="false"/>
+		<set name="unlockable" value="false"/>
+		<set name="key" value="0"/>
+		<set name="show_hp" value="false"/>
+	</door>
+	<door id="24240061"	name="[Crystal_Palace_S.door_01_B]" hp="150" pdef="1" mdef="1">
+		<pos x="152287" y="215587" z="-12128"/>
+		<shape ax="152261" ay="215481" minz="-12128" bx="152303" by="215484" maxz="-12128" cx="152304" cy="215698" dx="152264" dy="215696"/>
+		<set name="opened" value="false"/>
+		<set name="unlockable" value="false"/>
+		<set name="key" value="0"/>
+		<set name="show_hp" value="false"/>
+	</door>
+	<door id="24240024"	name="[Crystal_Palace_S.door_01_B]" hp="150" pdef="1" mdef="1">
+		<pos x="141829" y="214495" z="-11807"/>
+		<shape ax="141802" ay="214389" minz="-11807" bx="141851" by="214388" maxz="-11807" cx="141851" cy="214605" dx="141805" dy="214604"/>
+		<set name="opened" value="false"/>
+		<set name="unlockable" value="false"/>
+		<set name="key" value="0"/>
+		<set name="show_hp" value="false"/>
+	</door>
+	<door id="24240026"	name="[Crystal_Palace_S.door_01_B]" hp="150" pdef="1" mdef="1">
+		<pos x="143115" y="220026" z="-11807"/>
+		<shape ax="143088" ay="219920" minz="-11807" bx="143137" by="219919" maxz="-11807" cx="143137" cy="220136" dx="143091" dy="220135"/>
+		<set name="opened" value="false"/>
+		<set name="unlockable" value="false"/>
+		<set name="key" value="0"/>
+		<set name="show_hp" value="false"/>
+	</door>
+	<door id="24240025"	name="[Crystal_Palace_S.door_01_B]" hp="150" pdef="1" mdef="1">
+		<pos x="141254" y="215150" z="-11807"/>
+		<shape ax="141144" ay="215127" minz="-11807" bx="141361" by="215125" maxz="-11807" cx="141361" cy="215168" dx="141144" dy="215176"/>
+		<set name="opened" value="false"/>
+		<set name="unlockable" value="false"/>
+		<set name="key" value="0"/>
+		<set name="show_hp" value="false"/>
+	</door>
+	<door id="24240023"	name="[Crystal_Palace_S.door_01_B]" hp="150" pdef="1" mdef="1">
+		<pos x="153278" y="215137" z="-12128"/>
+		<shape ax="153248" ay="215029" minz="-12128" bx="153304" by="215030" maxz="-12128" cx="153309" cy="215247" dx="153249" dy="215248"/>
+		<set name="opened" value="false"/>
+		<set name="unlockable" value="false"/>
+		<set name="key" value="0"/>
+		<set name="show_hp" value="false"/>
+	</door>
+</list>

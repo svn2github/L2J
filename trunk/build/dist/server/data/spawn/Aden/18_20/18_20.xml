@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "spawn.dtd">
+<!--Задумка спавна (c)Mangol,(c)KilRoy-->
+<list>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-42525" y="80087" z="-3855" h="49152" />
+		<npc id="30663" /><!--Slein Shining Blade-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-53664" y="85862" z="-3508" h="53248" />
+		<npc id="30665" /><!--Kristina-->
+	</spawn>
+</list>	

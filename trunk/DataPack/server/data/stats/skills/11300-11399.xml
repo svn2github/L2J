@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<skill id="11301" levels="8" name="Пространственный Шторм">
+		<table name="#power">152 154 157 161 165 169 173 177</table>
+		<table name="#magicLevel">85 86 87 88 89 90 91 92</table>
+		<table name="#mpConsume2">70</table>
+		<set name="reuseDelay" val="10000" />
+		<set name="hitTime" val="2560" />
+		<set name="mpConsume2" val="#mpConsume2" />	
+		<set name="magicLevel" val="#magicLevel" />
+		<table name="#elementPower">0</table>
+		<table name="#element">none</table>
+		<set name="elementPower" val="#elementPower" />
+		<set name="element" val="#element" />
+		<set name="power" val="#power" />
+		<set name="isMagic" val="false" />
+		<set name="skillRadius" val="200" />
+		<set name="target" val="TARGET_AURA" />
+		<set name="skillType" val="PDAM" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="overHit" val="true" />
+		<set name="soulBoost" val="true" />
+		<for />
+	</skill>
+	<skill id="11302" levels="8" name="Основное Лечение Слуги">
+		<table name="#effectPoint">711 722 733 743 753 763 772 780</table>
+		<table name="#power">1488 1495 1507 1519 1532 1544 1557 1570</table>
+		<table name="#magicLevel">85 86 87 88 89 90 91 92</table>
+		<table name="#mpConsume2">70 75 80 85 88 90 95 99</table>
+		<set name="reuseDelay" val="3000" />
+		<set name="hitTime" val="3500" />
+		<set name="mpConsume2" val="#mpConsume2" />		
+		<set name="castRange" val="900" />
+		<set name="relationSkillsId" val="1127" /> 
+		<set name="effectPoint" val="#effectPoint" />
+		<set name="power" val="#power" />
+		<set name="magicLevel" val="#magicLevel" />
+		<set name="target" val="TARGET_PET" />
+		<set name="skillType" val="HEAL" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<for />
+	</skill>
+	<skill id="11303" levels="1" name="Магический Щит Слуги - Массовое">
+	<!--
+		В течение 30 мин. увеличивает Маг. Защ. всех слуг на 30%.
+	-->
+		<set name="relationSkillsId" val="1139" /> 
+		<set name="castRange" val="900" />
+		<set name="magicLevel" val="85" />
+		<set name="target" val="TARGET_SUMMON_AURA" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<for>
+			<effect count="1" name="Buff" stackOrder="1" stackType="MagicDefUp" time="1800" val="0">
+				<mul order="0x30" stat="mDef" val="1.3" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="11304" levels="1" name="Ускорение Слуги - Массовое">
+		<table name="#Tab-pAtkSpd">41.34</table>
+		<table name="#effectPoint">495</table>
+		<table name="#abnormal_lv">1</table>
+		<table name="#abnormal_time">1800</table>
+		<table name="#mpConsume2">70</table>
+		<set name="relationSkillsId" val="1141" /> 
+		<set name="reuseDelay" val="10000" />
+		<set name="hitTime" val="3500" />
+		<set name="mpConsume2" val="#mpConsume2" />		
+		<set name="castRange" val="900" />
+		<set name="effectPoint" val="#effectPoint" />
+		<set name="magicLevel" val="85" />
+		<set name="target" val="TARGET_SUMMON_AURA" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<for>
+			<effect count="1" name="Buff" stackOrder="#abnormal_lv" stackType="pAtkSpeedUp" time="#abnormal_time" val="0">
+				<mul order="0x30" stat="pAtkSpd" val="#Tab-pAtkSpd" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="11305" levels="1" name="Щит Слуги - Массовое">
+		<table name="#Tab-pDef">1.15</table>
+		<table name="#effectPoint">532</table>
+		<table name="#abnormal_lv">1</table>
+		<table name="#abnormal_time">1800</table>
+		<table name="#mpConsume2">70</table>
+		<set name="reuseDelay" val="10000" />
+		<set name="relationSkillsId" val="1140" /> 
+		<set name="hitTime" val="3500" />
+		<set name="mpConsume2" val="#mpConsume2" />		
+		<set name="castRange" val="900" />
+		<set name="effectPoint" val="#effectPoint" />
+		<set name="magicLevel" val="85" />
+		<set name="target" val="TARGET_SUMMON_AURA" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<for>
+			<effect count="1" name="Buff" stackOrder="#abnormal_lv" stackType="pDef" time="#abnormal_time" val="0">
+				<mul order="0x30" stat="pDef" val="#Tab-pDef" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="11306" levels="1" name="Воодушевление Слуги - Массовое">
+		<table name="#Tab-mAtk">1.79</table>
+		<table name="#effectPoint">495</table>
+		<table name="#abnormal_lv">1</table>
+		<table name="#abnormal_time">1800</table>
+		<table name="#mpConsume2">70</table>
+		<set name="reuseDelay" val="10000" />
+		<set name="hitTime" val="3500" />
+		<set name="mpConsume2" val="#mpConsume2" />		
+		<set name="relationSkillsId" val="1145" /> 
+		<set name="castRange" val="900" />
+		<set name="effectPoint" val="#effectPoint" />
+		<set name="magicLevel" val="85" />
+		<set name="target" val="TARGET_SUMMON_AURA" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<for>
+			<effect count="1" name="Buff" stackOrder="#abnormal_lv" stackType="mAtk" time="#abnormal_time" val="0">
+				<mul order="0x30" stat="mAtk" val="#Tab-mAtk" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="11307" levels="1" name="Могущество Слуги - Массовое">
+		<table name="#pAtk">1.17</table>
+		<table name="#effectPoint">495</table>
+		<table name="#abnormal_lv">1</table>
+		<table name="#abnormal_time">1800</table>
+		<table name="#mpConsume2">70</table>
+		<set name="reuseDelay" val="10000" />
+		<set name="relationSkillsId" val="1146" /> 
+		<set name="hitTime" val="3500" />
+		<set name="mpConsume2" val="#mpConsume2" />		
+		<set name="castRange" val="900" />
+		<set name="effectPoint" val="#effectPoint" />
+		<set name="magicLevel" val="85" />
+		<set name="target" val="TARGET_SUMMON_AURA" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<for>
+			<effect count="1" name="Buff" stackOrder="#abnormal_lv" stackType="pAtk" time="#abnormal_time" val="0">
+				<mul order="0x30" stat="pAtk" val="#pAtk" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="11308" levels="1" name="Ускорение Передвижения Слуги - Массовое">
+	<!--
+		В течение 30 мин. увеличивает Скорость всех слуг на 34%.
+	-->
+		<set name="relationSkillsId" val="1144" />  
+		<set name="magicLevel" val="85" />
+		<set name="target" val="TARGET_SUMMON_AURA" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<for>
+			<effect count="1" name="Buff" stackOrder="1" stackType="runSpd" time="1800" val="0">
+				<mul order="0x30" stat="runSpd" val="1.34" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="11309" levels="1" name="Благословение Слуги - Массовое">
+		<table name="#mpConsume2">70</table>
+		<set name="reuseDelay" val="30000" />
+		<set name="hitTime" val="3500" />
+		<set name="mpConsume2" val="#mpConsume2" />		
+		<set name="castRange" val="900" />
+		<set name="magicLevel" val="85" />
+		<set name="relationSkillsId" val="1301" /> 
+		<set name="target" val="TARGET_SUMMON_AURA" />
+		<set name="skillType" val="NEGATE_EFFECTS" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="negateEffects" val="Root;Paralyze;Debuff" />
+		<set name="negateStackType" val="RunSpeedDown;pAtkSpdDown" />
+		<for />
+	</skill>
+		<skill id="11310" levels="1" name="Абсолютная Защита Слуги - Массовое">
+		<set name="magicLevel" val="85" />
+		<table name="#pDef">4680</table>
+		<table name="#mDef">4212</table>
+		<table name="#power">1</table>
+		<table name="#abnormal_time">3600</table>
+		<table name="#mpConsume2">70</table>
+		<set name="reuseDelay" val="900000" />
+		<set name="hitTime" val="2000" />
+		<set name="mpConsume2" val="#mpConsume2" />		
+		<set name="relationSkillsId" val="1299" /> 
+		<set name="castRange" val="900" />
+		<set name="power" val="#power" />
+		<set name="target" val="TARGET_SUMMON_AURA" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+				<for>
+			<effect count="1" name="Immobilize" stackOrder="-1" stackType="Immobilize" time="#abnormal_time" val="0">
+				<add order="0x40" stat="pDef" val="#pDef" />
+				<add order="0x40" stat="mDef" val="#mDef" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="11311" levels="3" name="Удар Набиаропа">
+		<table name="#power">4848 5098 5348</table>
+		<set name="effectPoint" val="679" />
+		<table name="#magicLevel">85 86 87</table>
+		<table name="#mpConsume2">70</table>
+		<set name="reuseDelay" val="4000" />
+		<set name="hitTime" val="1500" />
+		<set name="mpConsume2" val="#mpConsume2" />		
+		<set name="castRange" val="40" />
+		<set name="magicLevel" val="#magicLevel" />
+		<set name="power" val="#power" />
+		<set name="target" val="TARGET_ONE" />
+		<set name="overHit" val="true" />
+		<set name="criticalRate" val="10" />
+		<set name="skillType" val="PDAM" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="shieldignore" val="true" />
+		<table name="#elementPower">0</table>
+		<table name="#element">none</table>
+		<set name="elementPower" val="#elementPower" />
+		<set name="element" val="#element" />
+		<for />
+	</skill>
+	<skill id="11312" levels="3" name="Пламя Набиаропа">
+		<table name="#power">4848 5098 5348</table>
+		<set name="effectPoint" val="679" />
+		<table name="#magicLevel">85 86 87</table>
+		<table name="#mpConsume2">70</table>
+		<set name="reuseDelay" val="4000" />
+		<set name="hitTime" val="4000" />
+		<set name="mpConsume2" val="#mpConsume2" />		
+		<set name="castRange" val="900" />
+		<set name="magicLevel" val="#magicLevel" />
+		<set name="power" val="#power" />
+		<set name="target" val="TARGET_ONE" />
+		<set name="skillRadius" val="500" />
+		<set name="overHit" val="true" />
+		<set name="criticalRate" val="10" />
+		<set name="skillType" val="PDAM" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="shieldignore" val="true" />
+		<table name="#elementPower">0</table>
+		<table name="#element">none</table>
+		<set name="elementPower" val="#elementPower" />
+		<set name="element" val="#element" />
+		<for />
+	</skill>
+	<skill id="11313" levels="3" name="Взрыв Набиаропа">
+		<table name="#power">484 509 534</table>
+		<set name="effectPoint" val="679" />
+		<table name="#magicLevel">85 86 87</table>
+		<table name="#mpConsume2">70</table>
+		<set name="reuseDelay" val="2000" />
+		<set name="hitTime" val="4000" />
+		<set name="mpConsume2" val="#mpConsume2" />
+		<set name="magicLevel" val="#magicLevel" />
+		<set name="power" val="#power" />
+		<set name="target" val="TARGET_AURA" />
+		<set name="skillRadius" val="200" />
+		<set name="overHit" val="true" />
+		<set name="criticalRate" val="10" />
+		<set name="skillType" val="PDAM" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="shieldignore" val="true" />
+		<table name="#elementPower">0</table>
+		<table name="#element">none</table>
+		<set name="elementPower" val="#elementPower" />
+		<set name="element" val="#element" />
+		<for />
+	</skill>
+	<skill id="11314" levels="3" name="Взрыв Останков">
+		<table name="#power">358 361 364</table>
+		<table name="#mpConsume2">70</table>
+		<set name="reuseDelay" val="5000" />
+		<set name="hitTime" val="1500" />
+		<set name="mpConsume2" val="#mpConsume2" />		
+		<set name="castRange" val="400" />
+		<set name="save" val="4" />
+		<set name="activateRate" val="50" />
+		<set name="power" val="#power" />
+		<set name="target" val="TARGET_AREA_AIM_CORPSE" />
+		<set name="corpse" val="true" />
+		<set name="skillType" val="MDAM" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="skillRadius" val="200" />
+		<for />
+	</skill>
+	<skill id="11315" levels="1" name="Призыв Защиты">
+		<set name="magicLevel" val="85" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="isMusic" val="true" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<for>
+			<sub order="0x40" stat="bowWpnVuln" val="30" />
+			<sub order="0x40" stat="crossbowWpnVuln" val="30" />
+			<mul order="0x30" stat="mDef" val="1.5" />
+		</for>
+	</skill>
+	<skill id="11316" levels="1" name="Призыв Духовного Выстрела">
+	<!-- Пока так -->
+		<table name="#magicLevel">85</table>
+		<table name="#SummonMinCount">1900</table>
+		<table name="#SummonMaxCount">1900</table>
+		<table name="#OreConsume">1</table>
+		<table name="#mpConsume2">400</table>
+		<set name="reuseDelay" val="60000" />
+		<set name="hitTime" val="3000" />
+		<set name="mpConsume2" val="#mpConsume2" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="magicLevel" val="#magicLevel" />
+		<set name="skillType" val="SUMMON_ITEM" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="itemConsumeId" val="17371" />
+		<set name="SummonItemId" val="20332" />
+		<set name="itemConsumeCount" val="#OreConsume" />
+		<set name="SummonMinCount" val="#SummonMinCount" />
+		<set name="SummonMaxCount" val="#SummonMaxCount" />
+	</skill>
+	<skill id="11317" levels="8" name="Групповое Лечение Слуг">
+	<!-- Пока так -->
+		<table name="#effectPoint">711 722 733 743 753 763 772 780</table>
+		<table name="#power">1191 1191 1191 1191 1191 1191</table>
+		<table name="#magicLevel">85 86 87 88 89 90 91 92</table>
+		<table name="#mpConsume2">270 275 280 285 290 296 300 307</table>
+		<set name="reuseDelay" val="6000" />
+		<set name="hitTime" val="6500" />
+		<set name="mpConsume2" val="#mpConsume2" />		
+		<set name="castRange" val="900" />
+		<set name="effectPoint" val="#effectPoint" />
+		<set name="power" val="#power" />
+		<set name="magicLevel" val="#magicLevel" />
+		<set name="target" val="TARGET_PET" />
+		<set name="skillType" val="HEAL" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<for />
+	</skill>
+	<skill id="11320" levels="8" name="Призвать Кая Веньо">
+	<!-- Призывает Кая Веньо. Требуется 2 очка. -->
+	    <table name="#magicLevel">85 87 89 91 93 95 97 99</table>
+		<table name="#npcIds">15066 15067 15068 15067 15070 15071 15072 15073</table>
+		<table name="#mpConsume">350 360 375 390 405 420 435 455</table>
+        <set name="summonTotalLifeTime" val="3600000"/>
+        <set name="summonTimeLostIdle" val="500"/>
+        <set name="summonTimeLostActive" val="1000"/>
+		<set name="reuseDelay" val="5000"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="SUMMON"/>
+		<set name="hitTime" val="3500"/>
+		<set name="mpConsume" val="#mpConsume"/>
+		<set name="summonType" val="PET" />        
+        <set name="magicLvl" val="#magicLevel"/>
+        <set name="operateType" val="OP_ACTIVE"/>        
+		<set name="npcId" val="#npcIds" />		
+    </skill>
+	<skill id="11321" levels="8" name="Призвать Короля Кошек Веньо">
+	<!-- Призывает Короля Кошек Веньо. Требуется 2 очка. -->
+	    <table name="#magicLevel">85 87 89 91 93 95 97 99</table>
+		<table name="#npcIds">15074 15075 15076 15077 15078 15079 15080 15081</table>
+		<table name="#mpConsume">350 360 375 390 405 420 435 455</table>
+        <set name="summonTotalLifeTime" val="3600000"/>
+        <set name="summonTimeLostIdle" val="500"/>
+        <set name="summonTimeLostActive" val="1000"/>
+		<set name="reuseDelay" val="5000"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="SUMMON"/>
+		<set name="hitTime" val="3500"/>
+		<set name="mpConsume" val="#mpConsume"/>
+		<set name="summonType" val="PET" />        
+        <set name="magicLvl" val="#magicLevel"/>
+        <set name="operateType" val="OP_ACTIVE"/>        
+		<set name="npcId" val="#npcIds" />		
+    </skill>
+		<skill id="11322" levels="8" name="Призвать Королеву Кошек Веньо">
+	<!-- Призывает Королеву Кошек Веньо. Требуется 2 очка. -->
+	    <table name="#magicLevel">85 87 89 91 93 95 97 99</table>
+		<table name="#npcIds">15082 15083 15084 15085 15086 15087 15088 15089</table>
+		<table name="#mpConsume">350 360 375 390 405 420 435 455</table>
+        <set name="summonTotalLifeTime" val="3600000"/>
+        <set name="summonTimeLostIdle" val="500"/>
+        <set name="summonTimeLostActive" val="1000"/>
+		<set name="reuseDelay" val="5000"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="SUMMON"/>
+		<set name="hitTime" val="3500"/>
+		<set name="mpConsume" val="#mpConsume"/>
+		<set name="summonType" val="PET" />        
+        <set name="magicLvl" val="#magicLevel"/>
+        <set name="operateType" val="OP_ACTIVE"/>        
+		<set name="npcId" val="#npcIds" />		
+    </skill>
+</list>

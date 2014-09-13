@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "item.dtd">
+<list>
+	<armor id="35718" name="Santa's Hat">
+		<!-- gorodetskiy -->
+		<set name="type" value="NONE"/>
+		<set name="icon" value="icon.accessory_santas_cap_i00"/>
+        <set name="weight" value="10"/>
+		<set name="durability" value="1440"/>
+		<equip>
+            <slot id="HAIR_ALL"/>
+        </equip>
+        <set name="ex_type" value="HAIR_ACCESSORY"/>
+    </armor>
+	<armor id="35719" name="Santa's Hat">
+		<!-- gorodetskiy -->
+		<set name="type" value="NONE"/>
+		<set name="icon" value="icon.accessory_santas_cap_i00"/>
+        <set name="weight" value="10"/>
+		<set name="durability" value="4320"/>
+		<equip>
+            <slot id="HAIR_ALL"/>
+        </equip>
+        <set name="ex_type" value="HAIR_ACCESSORY"/>
+    </armor>
+	<armor id="35712" name="Элегантная Модная Шляпа, исполненная стараниями GM	Воин">
+		<!-- ChipWar -->
+		<set name="type" value="NONE"/>
+		<set name="icon" value="icon.accessory_archer_hat2_i00"/>
+        <set name="weight" value="10"/>
+		<set name="durability" value="4320"/>
+		<equip>
+            <slot id="HAIR_ALL"/>
+        </equip>
+		<skills>
+            <skill id="8872" level="1"/>
+		</skills>
+        <set name="ex_type" value="HAIR_ACCESSORY"/>
+    </armor>
+	<armor id="35713" name="Элегантная Модная Шляпа, исполненная стараниями GM	Мистик">
+		<!-- ChipWar -->
+		<set name="type" value="NONE"/>
+		<set name="icon" value="icon.accessory_archer_hat2_i00"/>
+        <set name="weight" value="10"/>
+		<set name="durability" value="4320"/>
+		<equip>
+            <slot id="HAIR_ALL"/>
+        </equip>
+		<skills>
+            <skill id="8873" level="1"/>
+		</skills>
+        <set name="ex_type" value="HAIR_ACCESSORY"/>
+    </armor>
+	<armor id="35714" name="Элегантная Модная Шляпа, исполненная стараниями GM	Целитель">
+		<!-- ChipWar -->
+		<set name="type" value="NONE"/>
+		<set name="icon" value="icon.accessory_archer_hat2_i00"/>
+        <set name="weight" value="10"/>
+		<set name="durability" value="4320"/>
+		<equip>
+            <slot id="HAIR_ALL"/>
+        </equip>
+		<skills>
+            <skill id="8874" level="1"/>
+		</skills>
+        <set name="ex_type" value="HAIR_ACCESSORY"/>
+    </armor>
+	<armor id="35715" name="Элегантная Модная Шляпа, исполненная благословением GM	Воин">
+		<!-- ChipWar -->
+		<set name="type" value="NONE"/>
+		<set name="icon" value="icon.accessory_archer_hat2_i00"/>
+        <set name="weight" value="10"/>
+		<set name="durability" value="4320"/>
+		<equip>
+            <slot id="HAIR_ALL"/>
+        </equip>
+		<skills>
+            <skill id="8875" level="1"/>
+		</skills>
+        <set name="ex_type" value="HAIR_ACCESSORY"/>
+    </armor>
+	<armor id="35716" name="Элегантная Модная Шляпа, исполненная благословением GM	Мистик">
+		<!-- ChipWar -->
+		<set name="type" value="NONE"/>
+		<set name="icon" value="icon.accessory_archer_hat2_i00"/>
+        <set name="weight" value="10"/>
+		<set name="durability" value="4320"/>
+		<equip>
+            <slot id="HAIR_ALL"/>
+        </equip>
+		<skills>
+            <skill id="8876" level="1"/>
+		</skills>
+        <set name="ex_type" value="HAIR_ACCESSORY"/>
+    </armor>
+	<armor id="35717" name="Элегантная Модная Шляпа, исполненная благословением GM	Целитель">
+		<!-- ChipWar -->
+		<set name="type" value="NONE"/>
+		<set name="icon" value="icon.accessory_archer_hat2_i00"/>
+        <set name="weight" value="10"/>
+		<set name="durability" value="4320"/>
+		<equip>
+            <slot id="HAIR_ALL"/>
+        </equip>
+		<skills>
+            <skill id="8877" level="1"/>
+		</skills>
+        <set name="ex_type" value="HAIR_ACCESSORY"/>
+    </armor>
+</list>

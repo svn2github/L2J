@@ -1,0 +1,784 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "item.dtd">
+<list>
+	<etcitem id="35400" name="Blessed Eternal Helmet Ingredient">
+		<set name="icon" value="icon.etc_sealed_vesper_helmet_piece_I00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="60"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="OTHER"/>
+	</etcitem>
+	<etcitem id="35401" name="Blessed Eternal Breastplate Ingredient">
+		<set name="icon" value="icon.etc_sealed_vesper_cuirass_piece_I00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="60"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="OTHER"/>
+	</etcitem>
+	<etcitem id="35402" name="Blessed Eternal Gaiters Ingredient">
+		<set name="icon" value="icon.etc_sealed_vesper_gaiter_piece_I00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="60"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="OTHER"/>
+	</etcitem>
+	<etcitem id="35403" name="Blessed Eternal Gauntlet Ingredient">
+		<set name="icon" value="icon.etc_sealed_vesper_gauntlet_piece_I00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="60"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="OTHER"/>
+	</etcitem>
+	<etcitem id="35404" name="Blessed Eternal Boots Ingredient">
+		<set name="icon" value="icon.etc_sealed_vesper_boots_piece_I00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="60"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="OTHER"/>
+	</etcitem>
+	<etcitem id="35405" name="Blessed Eternal Shield Ingredient">
+		<set name="icon" value="icon.etc_sealed_vesper_verteidiger_piece_I00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="60"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="OTHER"/>
+	</etcitem>
+	<etcitem id="35406" name="Blessed Eternal Leather Helmet Ingredient">
+		<set name="icon" value="icon.etc_sealed_vesper_leather_helmet_piece_I00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="60"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="OTHER"/>
+	</etcitem>
+	<etcitem id="35407" name="Blessed Eternal Leather Armor Ingredient">
+		<set name="icon" value="icon.etc_sealed_vesper_houberk_piece_I00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="60"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="OTHER"/>
+	</etcitem>
+	<etcitem id="35408" name="Blessed Eternal Leather Leggings Ingredient">
+		<set name="icon" value="icon.etc_sealed_vesper_leather_legging_piece_I00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="60"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="OTHER"/>
+	</etcitem>
+	<etcitem id="35409" name="Blessed Eternal Leather Gloves Ingredient">
+		<set name="icon" value="icon.etc_sealed_vesper_leather_gloves_piece_I00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="60"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="OTHER"/>
+	</etcitem>
+	<etcitem id="35410" name="Blessed Eternal Leather Boots Ingredient">
+		<set name="icon" value="icon.etc_sealed_vesper_leather_boots_piece_I00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="60"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="OTHER"/>
+	</etcitem>
+	<etcitem id="35411" name="Blessed Eternal Circlet Ingredient">
+		<set name="icon" value="icon.etc_sealed_vesper_circlet_piece_I00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="60"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="OTHER"/>
+	</etcitem>
+	<etcitem id="35412" name="Blessed Eternal Tunic Ingredient">
+		<set name="icon" value="icon.etc_sealed_vesper_jaket_piece_I00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="60"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="OTHER"/>
+	</etcitem>
+	<etcitem id="35413" name="Blessed Eternal Stockings Ingredient">
+		<set name="icon" value="icon.etc_sealed_vesper_hose_piece_I00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="60"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="OTHER"/>
+	</etcitem>
+	<etcitem id="35414" name="Blessed Eternal Gloves Ingredient">
+		<set name="icon" value="icon.etc_sealed_vesper_gloves_piece_I00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="60"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="OTHER"/>
+	</etcitem>
+	<etcitem id="35415" name="Blessed Eternal Shoes Ingredient">
+		<set name="icon" value="icon.etc_sealed_vesper_shoes_piece_I00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="60"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="OTHER"/>
+	</etcitem>
+	<etcitem id="35416" name="Blessed Eternal Sigil Ingredient">
+		<set name="icon" value="icon.etc_sealed_vesper_sigil_piece_I00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="60"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="OTHER"/>
+	</etcitem>
+	<etcitem id="35417" name="Blessed Eternal Necklace Gem">
+		<set name="icon" value="icon.etc_r991_necklace_piece" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="60"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="OTHER"/>
+	</etcitem>
+	<etcitem id="35418" name="Blessed Eternal Earring Gem">
+		<set name="icon" value="icon.etc_r991_earring_piece" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="60"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="OTHER"/>
+	</etcitem>
+	<etcitem id="35419" name="Blessed Eternal Ring Gem">
+		<set name="icon" value="icon.etc_r991_ring_piece" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="60"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="OTHER"/>
+	</etcitem>
+	<etcitem id="35420" name="Рецепт - Острия Фантазмы(60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="35421" name="Рецепт - Резака Фантазмы(60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="35422" name="Рецепт - Эспадона Фантазмы(60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="35423" name="Рецепт - Мстителя Фантазмы(60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="35424" name="Рецепт - Воителя Фантазмы(60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="35425" name="Рецепт - Буревестника Фантазмы(60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="35426" name="Рецепт - Броска Фантазмы(60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="35427" name="Рецепт - Стража Фантазмы(60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="35428" name="Рецепт - Расчленителя Фантазмы(60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="35429" name="Рецепт - Заклинателя Фантазмы(60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="35430" name="Рецепт - Возмездия Фантазмы(60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="35431" name="Рецепт - Шлема Кадейры(60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="35432" name="Рецепт - Кирасы Кадейры(60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="35433" name="Рецепт - Набедренников Кадейры(60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="35434" name="Рецепт - Рукавиц Кадейры(60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="35435" name="Рецепт - Сапог Кадейры(60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="35436" name="Рецепт - Щита Кадейры(60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="35437" name="Рецепт - Шлема Кадейры(60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="35438" name="Рецепт - Кожаной Кирасы Кадейры(60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="35439" name="Рецепт - Кожаных Брюк Кадейры(60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="35440" name="Рецепт - Кожаных Перчаток Кадейры(60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="35441" name="Рецепт - Кожаных Сапог Кадейры(60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="35442" name="Рецепт - Диадемы Кадейры(60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="35443" name="Рецепт - Туники Кадейры(60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="35444" name="Рецепт - Штанов Кадейры(60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="35445" name="Рецепт - Перчаток Кадейры(60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="35446" name="Рецепт - Ботинок Кадейры(60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="35447" name="Рецепт - Символа Кадейры(60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="35448" name="Рецепт - Ожерелья Кадейры(60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="35449" name="Рецепт - Серьги Кадейры(60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="35450" name="Рецепт - Кольца Кадейры(60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="35451" name="Рецепт - Острия Хелиоса(60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="35452" name="Рецепт - Резака Хелиоса(60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="35453" name="Рецепт - Эспадона Хелиоса(60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="35454" name="Рецепт - Мстителя Хелиоса(60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="35455" name="Рецепт - Воителя Хелиоса(60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="35456" name="Рецепт - Буревестника Хелиоса(60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="35457" name="Рецепт - Броска Хелиоса(60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="35458" name="Рецепт - Стража Хелиоса(60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="35459" name="Рецепт - Расчленителя Хелиоса(60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="35460" name="Рецепт - Заклинателя Хелиоса(60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="35461" name="Рецепт - Возмездия Хелиоса(60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="35462" name="Рецепт - Шлема Айдиоса(60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="35463" name="Рецепт - Кирасы Айдиоса(60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="35464" name="Рецепт - Набедренников Айдиоса(60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="35465" name="Рецепт - Рукавиц Айдиоса(60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="35466" name="Рецепт - Сапог Айдиоса(60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="35467" name="Рецепт - Щита Айдиоса(60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="35468" name="Рецепт - Шлема Айдиоса(60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="35469" name="Рецепт - Кирасы Айдиоса(60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="35470" name="Рецепт - Кожаных Брюк Айдиоса(60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="35471" name="Рецепт - Перчаток Айдиоса(60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="35472" name="Рецепт - Сапог Айдиоса(60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="35473" name="Рецепт - Диадемы Айдиоса(60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="35474" name="Рецепт - Туники Айдиоса(60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="35475" name="Рецепт - Штанов Айдиоса(60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="35476" name="Рецепт - Перчаток Айдиоса(60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="35477" name="Рецепт - Ботинок Айдиоса(60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="35478" name="Рецепт - Символа Айдиоса(60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="35479" name="Рецепт - Ожерелья Айдиоса(60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="35480" name="Рецепт - Серьги Айдиоса(60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="35481" name="Рецепт - Кольца Айдиоса(60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="35482" name="Рецепт - Благословенного Острия Фантазмы(60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="35483" name="Рецепт - Благословенного Резака Фантазмы(60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="35484" name="Рецепт - Благословенного Эспадона Фантазмы(60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="35485" name="Рецепт - Благословенного Мстителя Фантазмы(60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="35486" name="Рецепт - Благословенного Воителя Фантазмы(60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="35487" name="Рецепт - Благословенного Буревестника Фантазмы(60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="35488" name="Рецепт - Благословенного Броска Фантазмы(60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="35489" name="Рецепт - Благословенного Стража Фантазмы(60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="35490" name="Рецепт - Благословенного Расчленителя Фантазмы(60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="35491" name="Рецепт - Благословенного Заклинателя Фантазмы(60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="35492" name="Рецепт - Благословенного Возмездия Фантазмы(60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="35493" name="Рецепт - Благословенного Шлема Кадейры(60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="35494" name="Рецепт - Благословенной Кирасы Кадейры(60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="35495" name="Рецепт - Благословенных Набедренников Кадейры(60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="35496" name="Рецепт - Благословенных Рукавиц Кадейры(60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="35497" name="Рецепт - Благословенных Сапог Кадейры(60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="35498" name="Рецепт - Благословенного Щита Кадейры(60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+	<etcitem id="35499" name="Рецепт - Благословенного Шлема Кадейры(60%)">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+</list>

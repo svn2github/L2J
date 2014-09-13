@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "tree.dtd">
+<!--Create by ALF-->
+<list>
+	<race_skill_tree>
+		<race id="0">
+			<skill id="1901" level="1" min_level="85"/> <!-- Ясная Цель -->
+			<skill id="1902" level="1" min_level="85"/> <!-- Крепкая Психика -->
+		</race>
+		<race id="1">
+			<skill id="1906" level="1" min_level="85"/> <!-- Благословенная Вода -->
+			<skill id="1908" level="1" min_level="85"/> <!-- Чуткость -->
+		</race>
+		<race id="2">
+			<skill id="1909" level="1" min_level="85"/> <!-- Острота-->	
+			<skill id="1911" level="1" min_level="85"/> <!-- Благословенный Ветер -->
+		</race>
+		<race id="3">
+			<skill id="1915" level="1" min_level="85"/> <!-- Сила Огня -->
+			<skill id="1916" level="1" min_level="85"/> <!-- Сильная Энергетика -->
+		</race>
+		<race id="4">
+			<skill id="1919" level="1" min_level="85"/> <!-- Ловкость-->
+			<skill id="1921" level="1" min_level="85"/> <!-- Благословенная Земля -->
+			
+		</race>
+		<race id="5">
+			<skill id="1923" level="1" min_level="85"/> <!-- Боевой Инстинкт-->
+			<skill id="1924" level="1" min_level="85"/> <!-- Темная Тишина -->
+			<skill id="1926" level="1" min_level="85"/> <!-- Укрепление Тела -->
+		</race>
+	</race_skill_tree>
+</list>

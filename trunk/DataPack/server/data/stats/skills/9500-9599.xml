@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+    <!--Настойка Всплеска Энергии Бергамо-->
+    <!--При получении очков опыта восстанавливается энергия.-->
+    <!--Replenishes Vitality upon XP gain.-->
+    <skill id="9527" levels="1" name="Verdof's Vitality Replenishing Herb">
+        <set name="skillType" val="BUFF"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="icon" val="icon.skilltransform4"/>
+        <set name="reuseDelay" val="2000"/>
+        <set name="operateType" val="OP_ACTIVE"/>
+        <set name="hitTime" val="100"/>
+    </skill>
+    <skill id="9543" levels="1" name="HP Recovery Herb">
+        <set name="icon" val="icon.skill0000"/>
+        <set name="operateType" val="OP_ACTIVE"/>
+        <set name="reuseDelay" val="2000"/>
+        <set name="hitTime" val="100"/>
+        <set name="magicLevel" val="1"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="HEAL_PERCENT"/>
+        <set name="power" val="40"/>
+        <set name="magicType" val="SPECIAL"/>
+        <set name="isHideUseMessage" val="true"/>
+        <set name="isHandler" val="true"/>
+        <set name="altUse" val="true"/>
+        <set name="hitCancelTime" val="500"/>
+    </skill>
+    <!--Настойка Мощи-->
+    <!--Физ. Атк. +100%, Маг. Атк. +400%. Время действия: 30 сек.-->
+    <!--Increases P. Atk. By 100% and M. Atk. By 400% for 30 seconds.-->
+    <skill id="9544" levels="1" name="Power Herb">
+        <set name="icon" val="icon.etc_warrior_set_i00"/>
+        <set name="operateType" val="OP_ACTIVE"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="reuseDelay" val="2000"/>
+        <set name="magicType" val="SPECIAL"/>
+        <set name="hitTime" val="100"/>
+        <set name="isHideUseMessage" val="true"/>
+        <set name="isHandler" val="true"/>
+        <set name="altUse" val="true"/>
+        <set name="hitCancelTime" val="500"/>
+        <for>
+            <effect name="Buff" time="30" val="0" stackType="pAtk" stackOrder="5">
+                <mul stat="pAtk" order="0x30" val="2"/>
+                <mul stat="mAtk" order="0x30" val="4"/>
+            </effect>
+        </for>
+    </skill>
+	<!--Чистейшая вода, полученная от самой Леди Озера. Этой водой нужно полить Древо Жизни, растущее в Эльфийской Деревне.-->
+	<skill id="9579" levels="1" name="Кристально Чистая Вода" >
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicType" val="SPECIAL" />
+		<set name="magicLevel" val="1" />
+        <set name="target" val="TARGET_ONE"/>
+        <set name="skillType" val="EFFECT"/>
+        <set name="operateType" val="OP_ACTIVE"/>
+		<set name="isHandler" val="true"/>
+		<set name="hitTime" val="5000"/>
+	</skill>
+	<!--Чистейший свет Объятий Тиминиэль из Магмельда, полученный от Нерупы. Можно использовать в Деревне Темных Эльфов перед Каменной Статуей Шилен.-->
+	<skill id="9580" levels="1" name="Кристально Чистый Свет" >
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicType" val="SPECIAL" />
+		<set name="magicLevel" val="1" />
+        <set name="target" val="TARGET_ONE"/>
+        <set name="skillType" val="EFFECT"/>
+        <set name="operateType" val="OP_ACTIVE"/>
+		<set name="isHandler" val="true"/>
+		<set name="hitTime" val="5000"/>
+	</skill>
+	<!--Девственная Душа, полученная от Энфеукса из Долины Святых. Можно использовать в Пещере Душ, которая находится в окрестностях Деревни Камаэль.-->
+	<skill id="9581" levels="1" name="Девственная Душа" >
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicType" val="SPECIAL" />
+		<set name="magicLevel" val="1" />
+        <set name="target" val="TARGET_ONE"/>
+        <set name="skillType" val="EFFECT"/>
+        <set name="operateType" val="OP_ACTIVE"/>
+		<set name="isHandler" val="true"/>
+		<set name="hitTime" val="5000"/>
+	</skill>
+	<!--Обжигающее Пламя, полученное от Вулкана - Кузнеца Пламени из Кузницы Богов. Можно использовать рядом с Храмом Паагрио в Деревне Орков.-->
+	<skill id="9582" levels="1" name="Обжигающее Пламя" >
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicType" val="SPECIAL" />
+		<set name="magicLevel" val="1" />
+        <set name="target" val="TARGET_ONE"/>
+        <set name="skillType" val="EFFECT"/>
+        <set name="operateType" val="OP_ACTIVE"/>
+		<set name="isHandler" val="true"/>
+		<set name="hitTime" val="5000"/>
+	</skill>
+	<!--Дружеское письмо Вулкана - Кузнеца Пламени. Можно использовать на развалинах Деревни Гномов.-->
+	<skill id="9583" levels="1" name="Письмо Лучшего Друга" >
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicType" val="SPECIAL" />
+		<set name="magicLevel" val="1" />
+        <set name="target" val="TARGET_ONE"/>
+        <set name="skillType" val="EFFECT"/>
+        <set name="operateType" val="OP_ACTIVE"/>
+		<set name="isHandler" val="true"/>
+		<set name="hitTime" val="5000"/>
+	</skill>
+</list>

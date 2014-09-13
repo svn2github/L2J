@@ -1,0 +1,1303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "item.dtd">
+<list>
+    <armor id="17400" name="Seraph Boots" add_name="Heavy">         
+        <set name="crystal_type" value="R95"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="2232"/>
+        <set name="icon" value="icon.armor_t401_b_i00"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="1070"/>
+		<set name="price" value="19163500"/>
+        <equip>
+            <slot id="FEET"/>
+        </equip>
+        <set name="ex_type" value="FEET"/>
+        <for>
+            <add stat="pDef" order="0x10" value="93"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+		<crystallization_bonus>
+			<!--Scroll: Enchant Weapon (R-grade)-->
+			<item id="17527" count="3" chance="67.0"/>
+			<!--Purple Soul Crystal Fragment (R95-grade)-->
+			<item id="19513" count="1" chance="7.0"/>
+			<!--Ancient Reorin's Mold-->
+			<item id="19515" count="1" chance="100.0"/>
+		</crystallization_bonus>
+    </armor>
+    <armor id="17402" name="Seraph Leather Helmet" add_name="Light">         
+        <set name="crystal_type" value="R95"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="834"/>
+        <set name="icon" value="icon.armor_leather_helmet_i00"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="530"/>
+        <equip>
+            <slot id="HEAD"/>
+        </equip>
+        <set name="ex_type" value="HELMET"/>
+        <for>
+            <add stat="pDef" order="0x10" value="139"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+    </armor>
+    <armor id="17403" name="Seraph Leather Armor" add_name="Light">         
+        <set name="crystal_type" value="R95"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="3336"/>
+        <set name="icon" value="icon.armor_t402_u_i00"/>
+        <set name="type" value="LIGHT"/>
+        <set name="weight" value="4140"/>
+		<set name="price" value="76654000"/>
+        <equip>
+            <slot id="CHEST"/>
+        </equip>
+        <set name="ex_type" value="UPPER_PIECE"/>
+        <for>
+            <add stat="pDef" order="0x10" value="296"/>
+			<add stat="rEvas" order="0x10" value="5"/>
+	    	<add stat="mrEvas" order="0x10" value="5"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+		<set name="crystallizable" value="true"/>
+		<crystallization_bonus>
+			<!--Scroll: Enchant Weapon (R-grade)-->
+			<item id="17527" count="3" chance="100.0"/>
+			<!--Teal Soul Crystal Fragment (R95-grade)-->
+			<item id="19512" count="1" chance="7.0"/>
+			<!--Ancient Arcsmith's Anvil-->
+			<item id="19516" count="1" chance="100.0"/>
+		</crystallization_bonus>
+    </armor>
+    <armor id="17404" name="Seraph Leather Legging" add_name="Light">         
+        <set name="crystal_type" value="R95"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="3114"/>
+        <set name="icon" value="icon.armor_t402_l_i00"/>
+        <set name="type" value="LIGHT"/>
+        <set name="weight" value="1320"/>
+		<set name="price" value="47909000"/>
+        <equip>
+            <slot id="LEGS"/>
+        </equip>
+        <set name="ex_type" value="LOWER_PIECE"/>
+        <for>
+            <add stat="pDef" order="0x10" value="185"/>
+	    	<add stat="rEvas" order="0x10" value="3"/>
+	    	<add stat="mrEvas" order="0x10" value="3"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+		<set name="crystallizable" value="true"/>
+		<crystallization_bonus>
+			<!--Scroll: Enchant Weapon (R-grade)-->
+			<item id="17527" count="3" chance="100.0"/>
+			<!--Teal Soul Crystal Fragment (R95-grade)-->
+			<item id="19512" count="1" chance="7.0"/>
+			<!--Ancient Arcsmith's Anvil-->
+			<item id="19516" count="1" chance="100.0"/>
+		</crystallization_bonus>
+    </armor>
+    <armor id="17405" name="Seraph Leather Gloves" add_name="Light">         
+        <set name="crystal_type" value="R95"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="558"/>
+        <set name="icon" value="icon.armor_t402_g_i00"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="510"/>
+		<set name="price" value="19163500"/>
+        <equip>
+            <slot id="GLOVES"/>
+        </equip>
+        <set name="ex_type" value="GLOVES"/>
+        <for>
+            <add stat="pDef" order="0x10" value="93"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+		<set name="crystallizable" value="true"/>
+		<crystallization_bonus>
+			<!--Scroll: Enchant Weapon (R-grade)-->
+			<item id="17527" count="3" chance="67.0"/>
+			<!--Purple Soul Crystal Fragment (R95-grade)-->
+			<item id="19513" count="1" chance="7.0"/>
+			<!--Ancient Reorin's Mold-->
+			<item id="19515" count="1" chance="100.0"/>
+		</crystallization_bonus>
+    </armor>
+    <armor id="17406" name="Seraph Leather Boots" add_name="Light">         
+        <set name="crystal_type" value="R95"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="2232"/>
+        <set name="icon" value="icon.armor_t402_b_i00"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="1070"/>
+		<set name="price" value="19163500"/>
+        <equip>
+            <slot id="FEET"/>
+        </equip>
+        <set name="ex_type" value="FEET"/>
+        <for>
+            <add stat="pDef" order="0x10" value="93"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+		<set name="crystallizable" value="true"/>
+		<crystallization_bonus>
+			<!--Scroll: Enchant Weapon (R-grade)-->
+			<item id="17527" count="3" chance="67.0"/>
+			<!--Purple Soul Crystal Fragment (R95-grade)-->
+			<item id="19513" count="1" chance="7.0"/>
+			<!--Ancient Reorin's Mold-->
+			<item id="19515" count="1" chance="100.0"/>
+		</crystallization_bonus>
+    </armor>
+    <armor id="17407" name="Seraph Circlet" add_name="Robe">         
+        <set name="crystal_type" value="R95"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="834"/>
+        <set name="icon" value="icon.armor_circlet_i00"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="530"/>
+        <equip>
+            <slot id="HEAD"/>
+        </equip>
+        <set name="ex_type" value="HELMET"/>
+        <for>
+            <add stat="pDef" order="0x10" value="139"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+    </armor>
+    <armor id="17408" name="Seraph Tunic" add_name="Robe">         
+        <set name="crystal_type" value="R95"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="2220"/>
+        <set name="icon" value="icon.armor_t403_u_i00"/>
+        <set name="type" value="MAGIC"/>
+        <set name="weight" value="1750"/>
+		<set name="price" value="76654000"/>
+        <equip>
+            <slot id="CHEST"/>
+        </equip>
+        <set name="ex_type" value="UPPER_PIECE"/>
+		<for>
+            <add stat="pDef" order="0x10" value="204"/>
+			<add stat="mDef" order="0x10" value="47"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+		<set name="crystallizable" value="true"/>
+		<crystallization_bonus>
+			<!--Scroll: Enchant Weapon (R-grade)-->
+			<item id="17527" count="3" chance="100.0"/>
+			<!--Teal Soul Crystal Fragment (R95-grade)-->
+			<item id="19512" count="1" chance="7.0"/>
+			<!--Ancient Arcsmith's Anvil-->
+			<item id="19516" count="1" chance="100.0"/>
+		</crystallization_bonus>
+    </armor>
+    <armor id="17409" name="Seraph Stockings" add_name="Robe">         
+        <set name="crystal_type" value="R95"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="2088"/>
+        <set name="icon" value="icon.armor_t403_l_i00"/>
+        <set name="type" value="MAGIC"/>
+        <set name="weight" value="850"/>
+		<set name="price" value="47909000"/>
+        <equip>
+            <slot id="LEGS"/>
+        </equip>
+        <set name="ex_type" value="LOWER_PIECE"/>
+        <for>
+            <add stat="pDef" order="0x10" value="127"/>
+			<add stat="mDef" order="0x10" value="31"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+		<set name="crystallizable" value="true"/>
+		<crystallization_bonus>
+			<!--Scroll: Enchant Weapon (R-grade)-->
+			<item id="17527" count="3" chance="100.0"/>
+			<!--Teal Soul Crystal Fragment (R95-grade)-->
+			<item id="19512" count="1" chance="7.0"/>
+			<!--Ancient Arcsmith's Anvil-->
+			<item id="19516" count="1" chance="100.0"/>
+		</crystallization_bonus>
+    </armor>
+    <armor id="17410" name="Seraph Gloves" add_name="Robe">         
+        <set name="crystal_type" value="R95"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="558"/>
+        <set name="icon" value="icon.armor_t403_g_i00"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="510"/>
+		<set name="price" value="19163500"/>
+        <equip>
+            <slot id="GLOVES"/>
+        </equip>
+        <set name="ex_type" value="GLOVES"/>
+        <for>
+            <add stat="pDef" order="0x10" value="93"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+		<set name="crystallizable" value="true"/>
+		<crystallization_bonus>
+			<!--Scroll: Enchant Weapon (R-grade)-->
+			<item id="17527" count="3" chance="67.0"/>
+			<!--Purple Soul Crystal Fragment (R95-grade)-->
+			<item id="19513" count="1" chance="7.0"/>
+			<!--Ancient Reorin's Mold-->
+			<item id="19515" count="1" chance="100.0"/>
+		</crystallization_bonus>
+    </armor>
+    <armor id="17411" name="Seraph Shoes" add_name="Robe">         
+        <set name="crystal_type" value="R95"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="2232"/>
+        <set name="icon" value="icon.armor_t403_b_i00"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="1070"/>
+		<set name="price" value="19163500"/>
+        <equip>
+            <slot id="FEET"/>
+        </equip>
+        <set name="ex_type" value="FEET"/>
+        <for>
+            <add stat="pDef" order="0x10" value="93"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+		<set name="crystallizable" value="true"/>
+		<crystallization_bonus>
+			<!--Scroll: Enchant Weapon (R-grade)-->
+			<item id="17527" count="3" chance="67.0"/>
+			<!--Purple Soul Crystal Fragment (R95-grade)-->
+			<item id="19513" count="1" chance="7.0"/>
+			<!--Ancient Reorin's Mold-->
+			<item id="19515" count="1" chance="100.0"/>
+		</crystallization_bonus>
+    </armor>
+    <armor id="17412" name="Seraph Sigil" add_name="Robe">         
+        <set name="crystal_type" value="R95"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="1242"/>
+        <set name="icon" value="icon.airtoil_i00"/>
+        <set name="type" value="SIGIL"/>
+        <set name="ex_type" value="SIGIL"/>
+        <set name="weight" value="920"/>
+        <equip>
+            <slot id="LEFT_HAND"/>
+        </equip>
+        <for>
+            <add stat="pDef" order="0x10" value="23"/>
+            <add stat="rEvas" order="0x10" value="-8.0000"/>
+            <enchant stat="sDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+    </armor>
+    <armor id="17413" name="Seraph Necklace">         
+        <set name="crystal_type" value="R95"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="948"/>
+        <set name="icon" value="icon.r95_necklace_i00"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="150"/>
+        <equip>
+            <slot id="NECKLACE"/>
+        </equip>
+        <set name="ex_type" value="NECKLACE"/>
+        <for>
+            <add stat="mDef" order="0x10" value="158"/>
+            <enchant stat="mDef" order="0x0C" value="0"/>
+        </for>
+    </armor>
+    <armor id="17414" name="Seraph Earring">         
+        <set name="crystal_type" value="R95"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="708"/>
+        <set name="icon" value="icon.r95_earring_i00"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="150"/>
+        <equip>
+            <slot id="RIGHT_EAR"/>
+            <slot id="LEFT_EAR"/>
+        </equip>
+        <set name="ex_type" value="EARRING"/>
+        <for>
+            <add stat="mDef" order="0x10" value="118"/>
+            <enchant stat="mDef" order="0x0C" value="0"/>
+        </for>
+    </armor>
+    <armor id="17415" name="Seraph Ring">         
+        <set name="crystal_type" value="R95"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="474"/>
+        <set name="icon" value="icon.r95_ring_i00"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="150"/>
+        <equip>
+            <slot id="RIGHT_FINGER"/>
+            <slot id="LEFT_FINGER"/>
+        </equip>
+        <set name="ex_type" value="RING"/>
+        <for>
+            <add stat="mDef" order="0x10" value="79"/>
+            <enchant stat="mDef" order="0x0C" value="0"/>
+        </for>
+    </armor>
+    <armor id="17430" name="Eternal Helmet" add_name="Heavy">         
+        <set name="crystal_type" value="R99"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="960"/>
+        <set name="icon" value="icon.armor_helmet_i00"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="530"/>
+        <equip>
+            <slot id="HEAD"/>
+        </equip>
+        <set name="ex_type" value="HELMET"/>
+        <for>
+            <add stat="pDef" order="0x10" value="144"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+    </armor>
+    <armor id="17431" name="Eternal Breastplate" add_name="Heavy">         
+        <set name="crystal_type" value="R99"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="5133"/>
+        <set name="icon" value="icon.armor_t701_u_i00"/>
+        <set name="type" value="HEAVY"/>
+        <set name="weight" value="7520"/>
+		<set name="price" value="168917000"/>
+        <equip>
+            <slot id="CHEST"/>
+        </equip>
+        <set name="ex_type" value="UPPER_PIECE"/>
+        <for>
+            <add stat="pDef" order="0x10" value="385"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+		<set name="crystallizable" value="true"/>
+		<crystallization_bonus>
+			<!--Scroll: Enchant Weapon (R-grade)-->
+			<item id="17527" count="5" chance="100.0"/>
+			<!--Teal Soul Crystal Fragment (R99-grade)-->
+			<item id="19468" count="1" chance="8.0"/>
+			<!--Legendary Arcsmith's Anvil-->
+			<item id="19520" count="1" chance="100.0"/>
+		</crystallization_bonus>
+    </armor>
+    <armor id="17432" name="Eternal Gaiters" add_name="Heavy">         
+        <set name="crystal_type" value="R99"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="4820"/>
+        <set name="icon" value="icon.armor_t701_l_i00"/>
+        <set name="type" value="HEAVY"/>
+        <set name="weight" value="3170"/>
+		<set name="price" value="105573000"/>
+        <equip>
+            <slot id="LEGS"/>
+        </equip>
+        <set name="ex_type" value="LOWER_PIECE"/>
+        <for>
+            <add stat="pDef" order="0x10" value="241"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+		<set name="crystallizable" value="true"/>
+		<crystallization_bonus>
+			<!--Scroll: Enchant Weapon (R-grade)-->
+			<item id="17527" count="5" chance="100.0"/>
+			<!--Teal Soul Crystal Fragment (R99-grade)-->
+			<item id="19468" count="1" chance="8.0"/>
+			<!--Legendary Arcsmith's Anvil-->
+			<item id="19520" count="1" chance="100.0"/>
+		</crystallization_bonus>
+    </armor>
+    <armor id="17433" name="Eternal Gauntlet" add_name="Heavy">         
+        <set name="crystal_type" value="R99"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="640"/>
+        <set name="icon" value="icon.armor_t701_g_i00"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="510"/>
+		<set name="price" value="42229000"/>
+        <equip>
+            <slot id="GLOVES"/>
+        </equip>
+        <set name="ex_type" value="GLOVES"/>
+        <for>
+            <add stat="pDef" order="0x10" value="96"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+		<set name="crystallizable" value="true"/>
+		<crystallization_bonus>
+			<!--Scroll: Enchant Weapon (R-grade)-->
+			<item id="17527" count="5" chance="87.0"/>
+			<!--Purple Soul Crystal Fragment (R99-grade)-->
+			<item id="19469" count="1" chance="8.0"/>
+			<!--Legendary Reorin's Mold-->
+			<item id="19519" count="1" chance="100.0"/>
+		</crystallization_bonus>
+    </armor>
+    <armor id="17434" name="Eternal Boots" add_name="Heavy">         
+        <set name="crystal_type" value="R99"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="2560"/>
+        <set name="icon" value="icon.armor_t701_b_i00"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="1070"/>
+		<set name="price" value="42229000"/>
+        <equip>
+            <slot id="FEET"/>
+        </equip>
+        <set name="ex_type" value="FEET"/>
+        <for>
+            <add stat="pDef" order="0x10" value="96"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+		<set name="crystallizable" value="true"/>
+		<crystallization_bonus>
+			<!--Scroll: Enchant Weapon (R-grade)-->
+			<item id="17527" count="5" chance="87.0"/>
+			<!--Purple Soul Crystal Fragment (R99-grade)-->
+			<item id="19469" count="1" chance="8.0"/>
+			<!--Legendary Reorin's Mold-->
+			<item id="19519" count="1" chance="100.0"/>
+		</crystallization_bonus>
+    </armor>
+    <armor id="17436" name="Eternal Leather Helmet" add_name="Light">         
+        <set name="crystal_type" value="R99"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="960"/>
+        <set name="icon" value="icon.armor_leather_helmet_i00"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="530"/>
+        <equip>
+            <slot id="HEAD"/>
+        </equip>
+        <set name="ex_type" value="HELMET"/>
+        <for>
+            <add stat="pDef" order="0x10" value="144"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+    </armor>
+    <armor id="17437" name="Eternal Leather Armor" add_name="Light">         
+        <set name="crystal_type" value="R99"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="3853"/>
+        <set name="icon" value="icon.armor_t702_u_i00"/>
+        <set name="type" value="LIGHT"/>
+        <set name="weight" value="4140"/>
+		<set name="price" value="168917000"/>
+        <equip>
+            <slot id="CHEST"/>
+        </equip>
+        <set name="ex_type" value="UPPER_PIECE"/>
+        <for>
+            <add stat="pDef" order="0x10" value="308"/>
+			<add stat="rEvas" order="0x10" value="5"/>
+	    	<add stat="mrEvas" order="0x10" value="5"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+		<set name="crystallizable" value="true"/>
+		<crystallization_bonus>
+			<!--Scroll: Enchant Weapon (R-grade)-->
+			<item id="17527" count="5" chance="100.0"/>
+			<!--Teal Soul Crystal Fragment (R99-grade)-->
+			<item id="19468" count="1" chance="8.0"/>
+			<!--Legendary Arcsmith's Anvil-->
+			<item id="19520" count="1" chance="100.0"/>
+		</crystallization_bonus>
+    </armor>
+    <armor id="17438" name="Eternal Leather Legging" add_name="Light">         
+        <set name="crystal_type" value="R99"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="3620"/>
+        <set name="icon" value="icon.armor_t702_l_i00"/>
+        <set name="type" value="LIGHT"/>
+        <set name="weight" value="1320"/>
+		<set name="price" value="105573000"/>
+        <equip>
+            <slot id="LEGS"/>
+        </equip>
+        <set name="ex_type" value="LOWER_PIECE"/>
+        <for>
+			<add stat="pDef" order="0x10" value="192"/>
+			<add stat="rEvas" order="0x10" value="3"/>
+			<add stat="mrEvas" order="0x10" value="3"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+		<set name="crystallizable" value="true"/>
+		<crystallization_bonus>
+			<!--Scroll: Enchant Weapon (R-grade)-->
+			<item id="17527" count="5" chance="100.0"/>
+			<!--Teal Soul Crystal Fragment (R99-grade)-->
+			<item id="19468" count="1" chance="8.0"/>
+			<!--Legendary Arcsmith's Anvil-->
+			<item id="19520" count="1" chance="100.0"/>
+		</crystallization_bonus>
+    </armor>
+    <armor id="17439" name="Eternal Leather Gloves" add_name="Light">         
+        <set name="crystal_type" value="R99"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="640"/>
+        <set name="icon" value="icon.armor_t702_g_i00"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="510"/>
+		<set name="price" value="42229000"/>
+        <equip>
+            <slot id="GLOVES"/>
+        </equip>
+        <set name="ex_type" value="GLOVES"/>
+        <for>
+            <add stat="pDef" order="0x10" value="96"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+		<set name="crystallizable" value="true"/>
+		<crystallization_bonus>
+			<!--Scroll: Enchant Weapon (R-grade)-->
+			<item id="17527" count="5" chance="87.0"/>
+			<!--Purple Soul Crystal Fragment (R99-grade)-->
+			<item id="19469" count="1" chance="8.0"/>
+			<!--Legendary Reorin's Mold-->
+			<item id="19519" count="1" chance="100.0"/>
+		</crystallization_bonus>
+    </armor>
+    <armor id="17440" name="Eternal Leather Boots" add_name="Light">         
+        <set name="crystal_type" value="R99"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="2560"/>
+        <set name="icon" value="icon.armor_t702_b_i00"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="1070"/>
+		<set name="price" value="42229000"/>
+        <equip>
+            <slot id="FEET"/>
+        </equip>
+        <set name="ex_type" value="FEET"/>
+        <for>
+            <add stat="pDef" order="0x10" value="96"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+		<set name="crystallizable" value="true"/>
+		<crystallization_bonus>
+			<!--Scroll: Enchant Weapon (R-grade)-->
+			<item id="17527" count="5" chance="87.0"/>
+			<!--Purple Soul Crystal Fragment (R99-grade)-->
+			<item id="19469" count="1" chance="8.0"/>
+			<!--Legendary Reorin's Mold-->
+			<item id="19519" count="1" chance="100.0"/>
+		</crystallization_bonus>
+    </armor>
+    <armor id="17441" name="Eternal Circlet" add_name="Robe">         
+        <set name="crystal_type" value="R99"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="960"/>
+        <set name="icon" value="icon.armor_circlet_i00"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="530"/>
+        <equip>
+            <slot id="HEAD"/>
+        </equip>
+        <set name="ex_type" value="HELMET"/>
+        <for>
+            <add stat="pDef" order="0x10" value="144"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+    </armor>
+    <armor id="17442" name="Eternal Tunic" add_name="Robe">         
+        <set name="crystal_type" value="R99"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="2573"/>
+        <set name="icon" value="icon.armor_t703_u_i00"/>
+        <set name="type" value="MAGIC"/>
+        <set name="weight" value="1750"/>
+		<set name="price" value="168917000"/>
+        <equip>
+            <slot id="CHEST"/>
+        </equip>
+        <set name="ex_type" value="UPPER_PIECE"/>
+        <for>
+            <add stat="pDef" order="0x10" value="212"/>
+			<add stat="mDef" order="0x10" value="49"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+		<set name="crystallizable" value="true"/>
+		<crystallization_bonus>
+			<!--Scroll: Enchant Weapon (R-grade)-->
+			<item id="17527" count="5" chance="100.0"/>
+			<!--Teal Soul Crystal Fragment (R99-grade)-->
+			<item id="19468" count="1" chance="8.0"/>
+			<!--Legendary Arcsmith's Anvil-->
+			<item id="19520" count="1" chance="100.0"/>
+		</crystallization_bonus>
+    </armor>
+    <armor id="17443" name="Eternal Stockings" add_name="Robe">         
+        <set name="crystal_type" value="R99"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="2420"/>
+        <set name="icon" value="icon.armor_t703_l_i00"/>
+        <set name="type" value="MAGIC"/>
+        <set name="weight" value="850"/>
+		<set name="price" value="105573000"/>
+        <equip>
+            <slot id="LEGS"/>
+        </equip>
+        <set name="ex_type" value="LOWER_PIECE"/>
+		<for>
+            <add stat="pDef" order="0x10" value="132"/>
+			<add stat="mDef" order="0x10" value="33"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+		<set name="crystallizable" value="true"/>
+		<crystallization_bonus>
+			<!--Scroll: Enchant Weapon (R-grade)-->
+			<item id="17527" count="5" chance="100.0"/>
+			<!--Teal Soul Crystal Fragment (R99-grade)-->
+			<item id="19468" count="1" chance="8.0"/>
+			<!--Legendary Arcsmith's Anvil-->
+			<item id="19520" count="1" chance="100.0"/>
+		</crystallization_bonus>
+    </armor>
+    <armor id="17444" name="Eternal Gloves" add_name="Robe">         
+        <set name="crystal_type" value="R99"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="640"/>
+        <set name="icon" value="icon.armor_t703_g_i00"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="510"/>
+		<set name="price" value="42229000"/>
+        <equip>
+            <slot id="GLOVES"/>
+        </equip>
+        <set name="ex_type" value="GLOVES"/>
+        <for>
+            <add stat="pDef" order="0x10" value="96"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+		<set name="crystallizable" value="true"/>
+		<crystallization_bonus>
+			<!--Scroll: Enchant Weapon (R-grade)-->
+			<item id="17527" count="5" chance="87.0"/>
+			<!--Purple Soul Crystal Fragment (R99-grade)-->
+			<item id="19469" count="1" chance="8.0"/>
+			<!--Legendary Reorin's Mold-->
+			<item id="19519" count="1" chance="100.0"/>
+		</crystallization_bonus>
+    </armor>
+    <armor id="17445" name="Eternal Shoes" add_name="Robe">         
+        <set name="crystal_type" value="R99"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="2560"/>
+        <set name="icon" value="icon.armor_t703_b_i00"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="1070"/>
+		<set name="price" value="42229000"/>
+        <equip>
+            <slot id="FEET"/>
+        </equip>
+        <set name="ex_type" value="FEET"/>
+        <for>
+            <add stat="pDef" order="0x10" value="96"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+		<set name="crystallizable" value="true"/>
+		<crystallization_bonus>
+			<!--Scroll: Enchant Weapon (R-grade)-->
+			<item id="17527" count="5" chance="87.0"/>
+			<!--Purple Soul Crystal Fragment (R99-grade)-->
+			<item id="19469" count="1" chance="8.0"/>
+			<!--Legendary Reorin's Mold-->
+			<item id="19519" count="1" chance="100.0"/>
+		</crystallization_bonus>
+    </armor>
+    <armor id="17446" name="Eternal Sigil" add_name="Robe">         
+        <set name="crystal_type" value="R99"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="1440"/>
+        <set name="icon" value="icon.elos_i00"/>
+        <set name="type" value="SIGIL"/>
+        <set name="ex_type" value="SIGIL"/>
+        <set name="weight" value="920"/>
+        <equip>
+            <slot id="LEFT_HAND"/>
+        </equip>
+        <for>
+            <add stat="pDef" order="0x10" value="24"/>
+            <add stat="rEvas" order="0x10" value="-8.0000"/>
+            <enchant stat="sDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+    </armor>
+    <armor id="17447" name="Eternal Necklace">         
+        <set name="crystal_type" value="R99"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="1106"/>
+        <set name="icon" value="icon.r991_necklace_i00"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="150"/>
+        <equip>
+            <slot id="NECKLACE"/>
+        </equip>
+        <set name="ex_type" value="NECKLACE"/>
+        <for>
+            <add stat="mDef" order="0x10" value="166"/>
+            <enchant stat="mDef" order="0x0C" value="0"/>
+        </for>
+    </armor>
+    <armor id="17448" name="Eternal Earring">         
+        <set name="crystal_type" value="R99"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="826"/>
+        <set name="icon" value="icon.r991_earring_i00"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="150"/>
+        <equip>
+            <slot id="RIGHT_EAR"/>
+            <slot id="LEFT_EAR"/>
+        </equip>
+        <set name="ex_type" value="EARRING"/>
+        <for>
+            <add stat="mDef" order="0x10" value="124"/>
+            <enchant stat="mDef" order="0x0C" value="0"/>
+        </for>
+    </armor>
+    <armor id="17449" name="Eternal Ring">         
+        <set name="crystal_type" value="R99"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystallizable" value="true"/>
+        <set name="crystal_count" value="553"/>
+        <set name="icon" value="icon.r991_ring_i00"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="150"/>
+        <equip>
+            <slot id="RIGHT_FINGER"/>
+            <slot id="LEFT_FINGER"/>
+        </equip>
+        <set name="ex_type" value="RING"/>
+        <for>
+            <add stat="mDef" order="0x10" value="83"/>
+            <enchant stat="mDef" order="0x0C" value="0"/>
+        </for>
+    </armor>
+    <armor id="17464" name="Blessed Celestial Helmet" add_name="Heavy">         
+        <set name="crystal_type" value="R99"/>
+        <set name="crystallizable" value="true"/>
+        <set name="icon" value="icon.armor_helmet_i00"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="530"/>
+        <equip>
+            <slot id="HEAD"/>
+        </equip>
+        <set name="ex_type" value="HELMET"/>
+        <for>
+            <add stat="pDef" order="0x10" value="150"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+    </armor>
+    <armor id="17465" name="Blessed Celestial Breastplate" add_name="Heavy">         
+        <set name="crystal_type" value="R99"/>
+        <set name="crystallizable" value="true"/>
+        <set name="icon" value="icon.armor_t97_u_i00"/>
+        <set name="type" value="HEAVY"/>
+        <set name="weight" value="7520"/>
+        <equip>
+            <slot id="CHEST"/>
+        </equip>
+        <set name="ex_type" value="UPPER_PIECE"/>
+        <for>
+            <add stat="pDef" order="0x10" value="401"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+    </armor>
+    <armor id="17466" name="Blessed Celestial Gaiters" add_name="Heavy">         
+        <set name="crystal_type" value="R99"/>
+        <set name="crystallizable" value="true"/>
+        <set name="icon" value="icon.armor_t97_l_i00"/>
+        <set name="type" value="HEAVY"/>
+        <set name="weight" value="3170"/>
+        <equip>
+            <slot id="LEGS"/>
+        </equip>
+        <set name="ex_type" value="LOWER_PIECE"/>
+        <for>
+            <add stat="pDef" order="0x10" value="250"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+    </armor>
+    <armor id="17467" name="Blessed Celestial Gauntlet" add_name="Heavy">         
+        <set name="crystal_type" value="R99"/>
+        <set name="crystallizable" value="true"/>
+        <set name="icon" value="icon.armor_t97_g_i00"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="510"/>
+        <equip>
+            <slot id="GLOVES"/>
+        </equip>
+        <set name="ex_type" value="GLOVES"/>
+        <for>
+            <add stat="pDef" order="0x10" value="100"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+    </armor>
+    <armor id="17468" name="Blessed Celestial Boots" add_name="Heavy">         
+        <set name="crystal_type" value="R99"/>
+        <set name="crystallizable" value="true"/>
+        <set name="icon" value="icon.armor_t97_b_i00"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="1070"/>
+        <equip>
+            <slot id="FEET"/>
+        </equip>
+        <set name="ex_type" value="FEET"/>
+        <for>
+            <add stat="pDef" order="0x10" value="100"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+    </armor>
+    <armor id="17470" name="Blessed Celestial Leather Helmet"
+           add_name="Light">         
+        <set name="crystal_type" value="R99"/>
+        <set name="crystallizable" value="true"/>
+        <set name="icon" value="icon.armor_leather_helmet_i00"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="530"/>
+        <equip>
+            <slot id="HEAD"/>
+        </equip>
+        <set name="ex_type" value="HELMET"/>
+        <for>
+            <add stat="pDef" order="0x10" value="150"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+    </armor>
+    <armor id="17471" name="Blessed Celestial Leather Armor" add_name="Light">         
+        <set name="crystal_type" value="R99"/>
+        <set name="crystallizable" value="true"/>
+        <set name="icon" value="icon.armor_t98_u_i00"/>
+        <set name="type" value="LIGHT"/>
+        <set name="weight" value="4140"/>
+        <equip>
+            <slot id="CHEST"/>
+        </equip>
+        <set name="ex_type" value="UPPER_PIECE"/>
+        <for>
+            <add stat="pDef" order="0x10" value="301"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+    </armor>
+    <armor id="17472" name="Blessed Celestial Leather Legging"
+           add_name="Light">         
+        <set name="crystal_type" value="R99"/>
+        <set name="crystallizable" value="true"/>
+        <set name="icon" value="icon.armor_t98_l_i00"/>
+        <set name="type" value="LIGHT"/>
+        <set name="weight" value="1320"/>
+        <equip>
+            <slot id="LEGS"/>
+        </equip>
+        <set name="ex_type" value="LOWER_PIECE"/>
+        <for>
+            <add stat="pDef" order="0x10" value="188"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+    </armor>
+    <armor id="17473" name="Blessed Celestial Leather Gloves"
+           add_name="Light">         
+        <set name="crystal_type" value="R99"/>
+        <set name="crystallizable" value="true"/>
+        <set name="icon" value="icon.armor_t98_g_i00"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="510"/>
+        <equip>
+            <slot id="GLOVES"/>
+        </equip>
+        <set name="ex_type" value="GLOVES"/>
+        <for>
+            <add stat="pDef" order="0x10" value="100"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+    </armor>
+    <armor id="17474" name="Blessed Celestial Leather Boots" add_name="Light">         
+        <set name="crystal_type" value="R99"/>
+        <set name="crystallizable" value="true"/>
+        <set name="icon" value="icon.armor_t98_b_i00"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="1070"/>
+        <equip>
+            <slot id="FEET"/>
+        </equip>
+        <set name="ex_type" value="FEET"/>
+        <for>
+            <add stat="pDef" order="0x10" value="100"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+    </armor>
+    <armor id="17475" name="Blessed Celestial Circlet" add_name="Robe">         
+        <set name="crystal_type" value="R99"/>
+        <set name="crystallizable" value="true"/>
+        <set name="icon" value="icon.armor_circlet_i00"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="530"/>
+        <equip>
+            <slot id="HEAD"/>
+        </equip>
+        <set name="ex_type" value="HELMET"/>
+        <for>
+            <add stat="pDef" order="0x10" value="150"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+    </armor>
+    <armor id="17476" name="Blessed Celestial Tunic" add_name="Robe">         
+        <set name="crystal_type" value="R99"/>
+        <set name="crystallizable" value="true"/>
+        <set name="icon" value="icon.armor_t99_u_i00"/>
+        <set name="type" value="MAGIC"/>
+        <set name="weight" value="1750"/>
+        <equip>
+            <slot id="CHEST"/>
+        </equip>
+        <set name="ex_type" value="UPPER_PIECE"/>
+        <for>
+            <add stat="pDef" order="0x10" value="201"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+    </armor>
+    <armor id="17477" name="Blessed Celestial Stockings" add_name="Robe">         
+        <set name="crystal_type" value="R99"/>
+        <set name="crystallizable" value="true"/>
+        <set name="icon" value="icon.armor_t99_l_i00"/>
+        <set name="type" value="MAGIC"/>
+        <set name="weight" value="850"/>
+        <equip>
+            <slot id="LEGS"/>
+        </equip>
+        <set name="ex_type" value="LOWER_PIECE"/>
+        <for>
+            <add stat="pDef" order="0x10" value="125"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+    </armor>
+    <armor id="17478" name="Blessed Celestial Gloves" add_name="Robe">         
+        <set name="crystal_type" value="R99"/>
+        <set name="crystallizable" value="true"/>
+        <set name="icon" value="icon.armor_t99_g_i00"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="510"/>
+        <equip>
+            <slot id="GLOVES"/>
+        </equip>
+        <set name="ex_type" value="GLOVES"/>
+        <for>
+            <add stat="pDef" order="0x10" value="100"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+    </armor>
+    <armor id="17479" name="Blessed Celestial Shoes" add_name="Robe">         
+        <set name="crystal_type" value="R99"/>
+        <set name="crystallizable" value="true"/>
+        <set name="icon" value="icon.armor_t99_b_i00"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="1070"/>
+        <equip>
+            <slot id="FEET"/>
+        </equip>
+        <set name="ex_type" value="FEET"/>
+        <for>
+            <add stat="pDef" order="0x10" value="100"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+    </armor>
+    <armor id="17480" name="Blessed Celestial Sigil" add_name="Robe">         
+        <set name="crystal_type" value="R99"/>
+        <set name="crystallizable" value="true"/>
+        <set name="icon" value="icon.verper_sigil_i00"/>
+        <set name="type" value="SIGIL"/>
+        <set name="ex_type" value="SIGIL"/>
+        <set name="weight" value="920"/>
+        <equip>
+            <slot id="LEFT_HAND"/>
+        </equip>
+        <for>
+            <add stat="pDef" order="0x10" value="25"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+    </armor>
+    <armor id="17481" name="Blessed Celestial Necklace">         
+        <set name="crystal_type" value="R99"/>
+        <set name="crystallizable" value="true"/>
+        <set name="icon" value="icon.vesper_necklace_i00"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="150"/>
+        <equip>
+            <slot id="NECKLACE"/>
+        </equip>
+        <set name="ex_type" value="NECKLACE"/>
+        <for>
+            <add stat="mDef" order="0x10" value="174"/>
+            <enchant stat="mDef" order="0x0C" value="0"/>
+        </for>
+    </armor>
+    <armor id="17482" name="Blessed Celestial Earring">         
+        <set name="crystal_type" value="R99"/>
+        <set name="crystallizable" value="true"/>
+        <set name="icon" value="icon.vesper_earring_i00"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="150"/>
+        <equip>
+            <slot id="RIGHT_EAR"/>
+            <slot id="LEFT_EAR"/>
+        </equip>
+        <set name="ex_type" value="EARRING"/>
+        <for>
+            <add stat="mDef" order="0x10" value="131"/>
+            <enchant stat="mDef" order="0x0C" value="0"/>
+        </for>
+    </armor>
+    <armor id="17483" name="Blessed Celestial Ring">         
+        <set name="crystal_type" value="R99"/>
+        <set name="crystallizable" value="true"/>
+        <set name="icon" value="icon.vesper_ring_i00"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="150"/>
+        <equip>
+            <slot id="RIGHT_FINGER"/>
+            <slot id="LEFT_FINGER"/>
+        </equip>
+        <set name="ex_type" value="RING"/>
+        <for>
+            <add stat="mDef" order="0x10" value="87"/>
+            <enchant stat="mDef" order="0x0C" value="0"/>
+        </for>
+    </armor>
+    <armor id="17484" name="Cry of Fate">         
+        <set name="crystal_type" value="S"/>
+        <set name="icon" value="icon.accessary_blessed_ring_i00"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="150"/>
+        <equip>
+            <slot id="NONE"/>
+        </equip>
+        <set name="ex_type" value="OTHER_ITEMS"/>
+    </armor>
+    <armor id="17485" name="Cry of Fate">         
+        <set name="crystal_type" value="S"/>
+        <set name="icon" value="icon.accessary_blessed_ring_i00"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="150"/>
+        <equip>
+            <slot id="NONE"/>
+        </equip>
+        <set name="ex_type" value="OTHER_ITEMS"/>
+    </armor>
+    <armor id="17486" name="Cry of Fate">         
+        <set name="crystal_type" value="S"/>
+        <set name="icon" value="icon.accessary_blessed_ring_i00"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="150"/>
+        <equip>
+            <slot id="NONE"/>
+        </equip>
+        <set name="ex_type" value="OTHER_ITEMS"/>
+    </armor>
+    <armor id="17487" name="Cry of Fate">         
+        <set name="crystal_type" value="S"/>
+        <set name="icon" value="icon.accessary_blessed_ring_i00"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="150"/>
+        <equip>
+            <slot id="NONE"/>
+        </equip>
+        <set name="ex_type" value="OTHER_ITEMS"/>
+    </armor>
+    <armor id="17488" name="Cry of Fate">         
+        <set name="crystal_type" value="S"/>
+        <set name="icon" value="icon.accessary_blessed_ring_i00"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="150"/>
+        <equip>
+            <slot id="NONE"/>
+        </equip>
+        <set name="ex_type" value="OTHER_ITEMS"/>
+    </armor>
+    <armor id="17489" name="Cry of Fate">         
+        <set name="crystal_type" value="S"/>
+        <set name="icon" value="icon.accessary_blessed_ring_i00"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="150"/>
+        <equip>
+            <slot id="NONE"/>
+        </equip>
+        <set name="ex_type" value="OTHER_ITEMS"/>
+    </armor>
+    <armor id="17490" name="Cry of Fate">         
+        <set name="crystal_type" value="S"/>
+        <set name="icon" value="icon.accessary_blessed_ring_i00"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="150"/>
+        <equip>
+            <slot id="NONE"/>
+        </equip>
+        <set name="ex_type" value="OTHER_ITEMS"/>
+    </armor>
+    <armor id="17491" name="Cry of Fate">         
+        <set name="crystal_type" value="S"/>
+        <set name="icon" value="icon.accessary_blessed_ring_i00"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="150"/>
+        <equip>
+            <slot id="NONE"/>
+        </equip>
+        <set name="ex_type" value="OTHER_ITEMS"/>
+    </armor>
+    <armor id="17492" name="Cry of Fate">         
+        <set name="crystal_type" value="S"/>
+        <set name="icon" value="icon.accessary_blessed_ring_i00"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="150"/>
+        <equip>
+            <slot id="NONE"/>
+        </equip>
+        <set name="ex_type" value="OTHER_ITEMS"/>
+    </armor>
+    <armor id="17493" name="Cry of Fate">         
+        <set name="crystal_type" value="S"/>
+        <set name="icon" value="icon.accessary_blessed_ring_i00"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="150"/>
+        <equip>
+            <slot id="NONE"/>
+        </equip>
+        <set name="ex_type" value="OTHER_ITEMS"/>
+    </armor>
+    <armor id="17494" name="Cry of Fate">         
+        <set name="crystal_type" value="S"/>
+        <set name="icon" value="icon.accessary_blessed_ring_i00"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="150"/>
+        <equip>
+            <slot id="NONE"/>
+        </equip>
+        <set name="ex_type" value="OTHER_ITEMS"/>
+    </armor>
+    <armor id="17495" name="Cry of Fate">         
+        <set name="crystal_type" value="S"/>
+        <set name="icon" value="icon.accessary_blessed_ring_i00"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="150"/>
+        <equip>
+            <slot id="NONE"/>
+        </equip>
+        <set name="ex_type" value="OTHER_ITEMS"/>
+    </armor>
+    <armor id="17496" name="Cry of Fate">         
+        <set name="crystal_type" value="S"/>
+        <set name="icon" value="icon.accessary_blessed_ring_i00"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="150"/>
+        <equip>
+            <slot id="NONE"/>
+        </equip>
+        <set name="ex_type" value="OTHER_ITEMS"/>
+    </armor>
+    <armor id="17497" name="Cry of Fate">         
+        <set name="crystal_type" value="S"/>
+        <set name="icon" value="icon.accessary_blessed_ring_i00"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="150"/>
+        <equip>
+            <slot id="NONE"/>
+        </equip>
+        <set name="ex_type" value="OTHER_ITEMS"/>
+    </armor>
+    <armor id="17498" name="Cry of Fate">         
+        <set name="crystal_type" value="S"/>
+        <set name="icon" value="icon.accessary_blessed_ring_i00"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="150"/>
+        <equip>
+            <slot id="NONE"/>
+        </equip>
+        <set name="ex_type" value="OTHER_ITEMS"/>
+    </armor>
+    <armor id="17499" name="Cry of Fate">         
+        <set name="crystal_type" value="S"/>
+        <set name="icon" value="icon.accessary_blessed_ring_i00"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="150"/>
+        <equip>
+            <slot id="NONE"/>
+        </equip>
+        <set name="ex_type" value="OTHER_ITEMS"/>
+    </armor>
+</list>

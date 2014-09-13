@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "spawn.dtd">
+<list>
+	<spawns name="GardenOfLife">
+		<!-- Ловушка Бытия 1 -->
+		<spawn npcId="18985" x="207765" y="118988" z="-1304" heading="0" />
+		<spawn npcId="18985" x="207821" y="119598" z="-1304" heading="0" />
+		<spawn npcId="18985" x="208087" y="120616" z="-1304" heading="0" />
+		<spawn npcId="18985" x="208120" y="117908" z="-1304" heading="0" />
+		<spawn npcId="18985" x="208129" y="118951" z="-1304" heading="0" />
+		<spawn npcId="18985" x="208193" y="120903" z="-1304" heading="35324" />
+		<spawn npcId="18985" x="208405" y="117916" z="-1304" heading="0" />
+		<spawn npcId="18985" x="208942" y="120896" z="-1304" heading="0" />
+		<spawn npcId="18985" x="209849" y="121257" z="-1296" heading="0" />
+		<spawn npcId="18985" x="210079" y="117529" z="-1296" heading="0" />
+		<spawn npcId="18985" x="210856" y="120644" z="-1304" heading="0" />
+		<spawn npcId="18985" x="211033" y="120898" z="-1304" heading="0" />
+		<spawn npcId="18985" x="211242" y="119793" z="-1304" heading="0" />
+		<spawn npcId="18985" x="211376" y="119807" z="-1304" heading="0" />
+		<spawn npcId="18985" x="211417" y="119805" z="-1304" heading="0" />
+		<spawn npcId="18985" x="211787" y="116220" z="-896" heading="0" />
+		<spawn npcId="18985" x="211789" y="115970" z="-896" heading="0" />
+		<spawn npcId="18985" x="213478" y="117182" z="-896" heading="0" />
+		<spawn npcId="18985" x="213500" y="117118" z="-896" heading="0" />
+		<spawn npcId="18985" x="214411" y="117146" z="-896" heading="0" />
+		<spawn npcId="18985" x="214677" y="117144" z="-896" heading="0" />
+		<spawn npcId="18985" x="215518" y="115531" z="-896" heading="0" />
+		<spawn npcId="18985" x="215940" y="111914" z="-1304" heading="0" />
+		<spawn npcId="18985" x="216000" y="111583" z="-1304" heading="0" />
+		<spawn npcId="18985" x="216232" y="111575" z="-1304" heading="0" />
+		<spawn npcId="18985" x="216259" y="112352" z="-1304" heading="0" />
+		<spawn npcId="18985" x="216302" y="112588" z="-1304" heading="0" />
+		<spawn npcId="18985" x="216337" y="112406" z="-1304" heading="0" />
+		<spawn npcId="18985" x="216624" y="112492" z="-1304" heading="0" />
+		<spawn npcId="18985" x="217082" y="109515" z="-1304" heading="0" />
+		<spawn npcId="18985" x="217483" y="112676" z="-1304" heading="0" />
+		<spawn npcId="18985" x="217736" y="112785" z="-1304" heading="0" />
+		<spawn npcId="18985" x="217834" y="109308" z="-1296" heading="0" />
+		<spawn npcId="18985" x="218195" y="112941" z="-1304" heading="0" />
+		<spawn npcId="18985" x="218540" y="112775" z="-1304" heading="0" />
+		<spawn npcId="18985" x="218941" y="112677" z="-1304" heading="0" />
+		<spawn npcId="18985" x="219209" y="112402" z="-1304" heading="0" />
+		<spawn npcId="18985" x="219306" y="111254" z="-1304" heading="0" />
+		<spawn npcId="18985" x="219598" y="111241" z="-1304" heading="0" />
+		<!-- Ловушка Бытия 2 -->
+		<spawn npcId="18986" x="207746" y="118813" z="-1296" heading="0" />
+		<spawn npcId="18986" x="208186" y="118181" z="-1304" heading="0" />
+		<spawn npcId="18986" x="208369" y="118181" z="-1304" heading="0" />
+		<spawn npcId="18986" x="209030" y="121151" z="-1304" heading="0" />
+		<spawn npcId="18986" x="209308" y="121246" z="-1296" heading="0" />
+		<spawn npcId="18986" x="209463" y="117824" z="-1304" heading="0" />
+		<spawn npcId="18986" x="209658" y="121016" z="-1304" heading="0" />
+		<spawn npcId="18986" x="209691" y="117810" z="-1304" heading="0" />
+		<spawn npcId="18986" x="210319" y="117800" z="-1304" heading="0" />
+		<spawn npcId="18986" x="210353" y="117776" z="-1304" heading="0" />
+		<spawn npcId="18986" x="210786" y="120688" z="-1304" heading="0" />
+		<spawn npcId="18986" x="210900" y="118133" z="-1304" heading="0" />
+		<spawn npcId="18986" x="210959" y="117897" z="-1304" heading="0" />
+		<spawn npcId="18986" x="211037" y="120695" z="-1304" heading="0" />
+		<spawn npcId="18986" x="211135" y="120048" z="-1304" heading="0" />
+		<spawn npcId="18986" x="211157" y="120557" z="-1304" heading="0" />
+		<spawn npcId="18986" x="211429" y="119831" z="-1304" heading="0" />
+		<spawn npcId="18986" x="211500" y="119403" z="-1288" heading="0" />
+		<spawn npcId="18986" x="211640" y="115933" z="-896" heading="0" />
+		<spawn npcId="18986" x="211799" y="115308" z="-896" heading="0" />
+		<spawn npcId="18986" x="211848" y="116157" z="-896" heading="0" />
+		<spawn npcId="18986" x="213055" y="113320" z="-896" heading="0" />
+		<spawn npcId="18986" x="213985" y="113372" z="-896" heading="0" />
+		<spawn npcId="18986" x="214384" y="117133" z="-896" heading="0" />
+		<spawn npcId="18986" x="214494" y="117178" z="-896" heading="0" />
+		<spawn npcId="18986" x="214632" y="117152" z="-896" heading="0" />
+		<spawn npcId="18986" x="215620" y="115244" z="-896" heading="0" />
+		<spawn npcId="18986" x="215927" y="111654" z="-1296" heading="0" />
+		<spawn npcId="18986" x="216175" y="110937" z="-1304" heading="0" />
+		<spawn npcId="18986" x="216178" y="111517" z="-1304" heading="0" />
+		<spawn npcId="18986" x="216274" y="112333" z="-1304" heading="0" />
+		<spawn npcId="18986" x="216526" y="109674" z="-1304" heading="0" />
+		<spawn npcId="18986" x="216526" y="112579" z="-1304" heading="0" />
+		<spawn npcId="18986" x="216556" y="109869" z="-1304" heading="0" />
+		<spawn npcId="18986" x="217759" y="113026" z="-1296" heading="0" />
+		<spawn npcId="18986" x="218209" y="112793" z="-1304" heading="0" />
+		<spawn npcId="18986" x="218260" y="112690" z="-1304" heading="0" />
+		<spawn npcId="18986" x="218488" y="112719" z="-1304" heading="0" />
+		<spawn npcId="18986" x="219036" y="109763" z="-1304" heading="0" />
+		<spawn npcId="18986" x="219054" y="109844" z="-1304" heading="0" />
+		<spawn npcId="18986" x="219081" y="112429" z="-1304" heading="0" />
+		<spawn npcId="18986" x="219107" y="109995" z="-1304" heading="0" />
+		<spawn npcId="18986" x="219249" y="112515" z="-1304" heading="0" />
+		<spawn npcId="18986" x="219266" y="112399" z="-1304" heading="0" />
+		<spawn npcId="18986" x="219322" y="112627" z="-1304" heading="0" />
+		<spawn npcId="18986" x="219325" y="111416" z="-1304" heading="0" />
+		<spawn npcId="18986" x="219438" y="110500" z="-1304" heading="0" />
+		<spawn npcId="18986" x="219600" y="110623" z="-1304" heading="0" />
+		<spawn npcId="18986" x="219644" y="110572" z="-1296" heading="0" />
+		<!-- Плеть из Растений -->
+		<spawn npcId="18987" x="208268" y="119790" z="-1304" heading="0" />
+		<spawn npcId="18987" x="208363" y="120615" z="-1304" heading="0" />
+		<spawn npcId="18987" x="209236" y="118067" z="-1304" heading="0" />
+		<spawn npcId="18987" x="209995" y="120637" z="-1304" heading="0" />
+		<spawn npcId="18987" x="210850" y="118064" z="-1304" heading="0" />
+		<spawn npcId="18987" x="210850" y="118064" z="-1304" heading="0" />
+		<spawn npcId="18987" x="210852" y="119030" z="-1304" heading="0" />
+		<spawn npcId="18987" x="212211" y="116137" z="-896" heading="0" />
+		<spawn npcId="18987" x="212867" y="113722" z="-896" heading="0" />
+		<spawn npcId="18987" x="214490" y="116789" z="-896" heading="0" />
+		<spawn npcId="18987" x="214490" y="116789" z="-896" heading="0" />
+		<spawn npcId="18987" x="214538" y="113754" z="-896" heading="0" />
+		<spawn npcId="18987" x="216493" y="109893" z="-1304" heading="0" />
+		<spawn npcId="18987" x="216493" y="109893" z="-1304" heading="0" />
+		<spawn npcId="18987" x="216558" y="112414" z="-1304" heading="0" />
+		<spawn npcId="18987" x="216558" y="112414" z="-1304" heading="0" />
+		<spawn npcId="18987" x="218097" y="112429" z="-1304" heading="0" />
+		<spawn npcId="18987" x="219014" y="110853" z="-1304" heading="0" />
+		<spawn npcId="18987" x="219026" y="109908" z="-1304" heading="0" />
+		<spawn npcId="18987" x="219026" y="109908" z="-1304" heading="0" />
+		<spawn npcId="18987" x="219063" y="112424" z="-1304" heading="0" />
+		<spawn npcId="18987" x="219063" y="112424" z="-1304" heading="0" />
+		<!-- Хранитель Сада -->
+		<spawn npcId="22947" x="205697" y="117278" z="-2112" heading="61794" />
+		<spawn npcId="22947" x="206419" y="117449" z="-2144" heading="24415" />
+		<spawn npcId="22947" x="206592" y="114688" z="-2000" heading="9649" />
+		<spawn npcId="22947" x="206997" y="115892" z="-2064" heading="62759" />
+		<spawn npcId="22947" x="210743" y="109746" z="-1976" heading="44989" />
+		<spawn npcId="22947" x="210940" y="110456" z="-2040" heading="40323" />
+		<spawn npcId="22947" x="211013" y="111564" z="-2048" heading="3715" />
+		<spawn npcId="22947" x="211743" y="109510" z="-2096" heading="8727" />
+		<spawn npcId="22947" x="211743" y="110465" z="-2088" heading="58765" />
+		<spawn npcId="22947" x="212445" y="110274" z="-2080" heading="17907" />
+		<spawn npcId="22947" x="213525" y="121977" z="-1976" heading="45996" />
+		<spawn npcId="22947" x="214491" y="119232" z="-2096" heading="55227" />
+		<spawn npcId="22947" x="215043" y="121062" z="-2128" heading="8708" />
+		<spawn npcId="22947" x="215181" y="121428" z="-2120" heading="38213" />
+		<spawn npcId="22947" x="219035" y="115570" z="-2056" heading="30949" />
+		<spawn npcId="22947" x="219740" y="116329" z="-2112" heading="36173" />
+		<spawn npcId="22947" x="220210" y="115570" z="-2048" heading="29907" />
+		<spawn npcId="22947" x="221150" y="116076" z="-1992" heading="9580" />
+		<spawn npcId="22947" x="221385" y="115064" z="-2008" heading="45067" />
+		<spawn npcId="22947" x="221855" y="116582" z="-1912" heading="51748" />
+		<!-- Разведчик Сада -->
+		<spawn npcId="22948" x="205861" y="117415" z="-2120" heading="63790" />
+		<spawn npcId="22948" x="206293" y="116783" z="-2128" heading="23095" />
+		<spawn npcId="22948" x="206698" y="114962" z="-2024" heading="19079" />
+		<spawn npcId="22948" x="206773" y="114931" z="-2024" heading="5505" />
+		<spawn npcId="22948" x="206906" y="114727" z="-2008" heading="7699" />
+		<spawn npcId="22948" x="207599" y="114917" z="-2064" heading="1529" />
+		<spawn npcId="22948" x="208932" y="110898" z="-2048" heading="9509" />
+		<spawn npcId="22948" x="209624" y="110713" z="-2008" heading="17666" />
+		<spawn npcId="22948" x="210936" y="109255" z="-2040" heading="46014" />
+		<spawn npcId="22948" x="211702" y="110715" z="-2096" heading="55096" />
+		<spawn npcId="22948" x="213111" y="121794" z="-2024" heading="7196" />
+		<spawn npcId="22948" x="213525" y="121428" z="-2016" heading="42213" />
+		<spawn npcId="22948" x="214077" y="119232" z="-2088" heading="34900" />
+		<spawn npcId="22948" x="214353" y="121977" z="-2016" heading="16516" />
+		<spawn npcId="22948" x="214629" y="119415" z="-2104" heading="8455" />
+		<spawn npcId="22948" x="219270" y="116329" z="-2096" heading="6173" />
+		<spawn npcId="22948" x="219505" y="115317" z="-2048" heading="21249" />
+		<spawn npcId="22948" x="219505" y="115570" z="-2040" heading="41989" />
+		<spawn npcId="22948" x="220915" y="114305" z="-2048" heading="47613" />
+		<spawn npcId="22948" x="221855" y="113546" z="-2048" heading="35052" />
+		<!-- Командир Сада -->
+		<spawn npcId="22949" x="205712" y="116039" z="-2000" heading="31445" />
+		<spawn npcId="22949" x="206095" y="117368" z="-2136" heading="1162" />
+		<spawn npcId="22949" x="206107" y="114725" z="-1976" heading="15728" />
+		<spawn npcId="22949" x="206523" y="115905" z="-2056" heading="45646" />
+		<spawn npcId="22949" x="208835" y="114701" z="-2056" heading="20015" />
+		<spawn npcId="22949" x="210953" y="109457" z="-2032" heading="25392" />
+		<spawn npcId="22949" x="210977" y="111646" z="-2048" heading="61783" />
+		<spawn npcId="22949" x="211060" y="110538" z="-2048" heading="2272" />
+		<spawn npcId="22949" x="211128" y="109818" z="-2024" heading="35324" />
+		<spawn npcId="22949" x="211295" y="111224" z="-2048" heading="57619" />
+		<spawn npcId="22949" x="213939" y="120513" z="-2064" heading="1741" />
+		<spawn npcId="22949" x="214353" y="119598" z="-2088" heading="7837" />
+		<spawn npcId="22949" x="214491" y="122160" z="-2000" heading="26345" />
+		<spawn npcId="22949" x="214629" y="119781" z="-2096" heading="21932" />
+		<spawn npcId="22949" x="214629" y="120513" z="-2072" heading="50225" />
+		<spawn npcId="22949" x="214629" y="120696" z="-2080" heading="2785" />
+		<spawn npcId="22949" x="217860" y="115823" z="-2056" heading="23099" />
+		<spawn npcId="22949" x="218800" y="116076" z="-2112" heading="8959" />
+		<spawn npcId="22949" x="221620" y="115570" z="-1896" heading="32618" />
+		<spawn npcId="22949" x="221620" y="115570" z="-1896" heading="5862" />
+		<spawn npcId="22949" x="221620" y="115570" z="-1896" heading="9152" />
+		<spawn npcId="22949" x="222090" y="114811" z="-1912" heading="63653" />
+		<!-- Садовник Внешнего Сада -->
+		<spawn npcId="22950" x="207097" y="114788" z="-2024" heading="27030" />
+		<spawn npcId="22950" x="211459" y="110326" z="-2088" heading="53504" />
+		<spawn npcId="22950" x="214856" y="122284" z="-2040" heading="57344" />
+		<spawn npcId="22950" x="221425" y="113883" z="-2056" heading="15774" />
+		<!-- Разрушитель Сада -->
+		<spawn npcId="22951" x="206619" y="116659" z="-2128" heading="59269" />
+		<spawn npcId="22951" x="206635" y="114713" z="-2000" heading="7470" />
+		<spawn npcId="22951" x="206836" y="116051" z="-2072" heading="58378" />
+		<spawn npcId="22951" x="211233" y="111116" z="-2048" heading="12619" />
+		<spawn npcId="22951" x="211275" y="110465" z="-2072" heading="54981" />
+		<spawn npcId="22951" x="212034" y="111403" z="-2096" heading="30397" />
+		<spawn npcId="22951" x="213387" y="122526" z="-1904" heading="14836" />
+		<spawn npcId="22951" x="214353" y="120330" z="-2056" heading="64613" />
+		<spawn npcId="22951" x="215181" y="121062" z="-2120" heading="61013" />
+		<spawn npcId="22951" x="219740" y="116582" z="-2128" heading="3558" />
+		<spawn npcId="22951" x="220445" y="113799" z="-2104" heading="40877" />
+		<spawn npcId="22951" x="221620" y="118100" z="-2072" heading="64674" />
+		<!-- Разведчик Сада -->
+		<spawn npcId="22953" x="208699" y="121154" z="-1304" heading="49950" periodOfDay="1" />
+		<spawn npcId="22953" x="209143" y="118117" z="-1304" heading="8560" periodOfDay="1" />
+		<spawn npcId="22953" x="211001" y="118458" z="-1144" heading="10250" periodOfDay="1" />
+		<spawn npcId="22953" x="211094" y="120061" z="-1304" heading="11993" periodOfDay="1" />
+		<spawn npcId="22953" x="212758" y="113440" z="-896" heading="36465" periodOfDay="1" />
+		<spawn npcId="22953" x="213222" y="116717" z="-896" heading="17197" periodOfDay="1" />
+		<spawn npcId="22953" x="214713" y="113821" z="-896" heading="48764" periodOfDay="1" />
+		<spawn npcId="22953" x="215301" y="115737" z="-896" heading="34013" periodOfDay="1" />
+		<spawn npcId="22953" x="216358" y="112675" z="-1304" heading="1755" periodOfDay="1" />
+		<spawn npcId="22953" x="217124" y="110982" z="-1144" heading="4641" periodOfDay="1" />
+		<spawn npcId="22953" x="218237" y="111582" z="-1344" heading="54808" periodOfDay="1" />
+		<spawn npcId="22953" x="218726" y="110719" z="-1304" heading="46338" periodOfDay="1" />
+		<!-- Управляющий Садом Солнца -->
+		<spawn npcId="22954" x="207911" y="117844" z="-1304" heading="4972" periodOfDay="1" />
+		<spawn npcId="22954" x="208527" y="120074" z="-1304" heading="24292" periodOfDay="1" />
+		<spawn npcId="22954" x="209319" y="117935" z="-1304" heading="22587" periodOfDay="1" />
+		<spawn npcId="22954" x="209319" y="117935" z="-1304" heading="35916" periodOfDay="1" />
+		<spawn npcId="22954" x="209387" y="120974" z="-1304" heading="60580" periodOfDay="1" />
+		<spawn npcId="22954" x="209473" y="120074" z="-1352" heading="55488" periodOfDay="1" />
+		<spawn npcId="22954" x="209718" y="120241" z="-1320" heading="1494" periodOfDay="1" />
+		<spawn npcId="22954" x="209797" y="118818" z="-1352" heading="17958" periodOfDay="1" />
+		<spawn npcId="22954" x="210227" y="118548" z="-1336" heading="14934" periodOfDay="1" />
+		<spawn npcId="22954" x="210578" y="120781" z="-1304" heading="5423" periodOfDay="1" />
+		<spawn npcId="22954" x="212046" y="116414" z="-896" heading="15202" periodOfDay="1" />
+		<spawn npcId="22954" x="213444" y="113440" z="-896" heading="37292" periodOfDay="1" />
+		<spawn npcId="22954" x="214125" y="116815" z="-896" heading="63812" periodOfDay="1" />
+		<spawn npcId="22954" x="215007" y="114213" z="-896" heading="45339" periodOfDay="1" />
+		<spawn npcId="22954" x="216264" y="109812" z="-1304" heading="29427" periodOfDay="1" />
+		<spawn npcId="22954" x="216283" y="111861" z="-1304" heading="62474" periodOfDay="1" />
+		<spawn npcId="22954" x="216608" y="111162" z="-1304" heading="50774" periodOfDay="1" />
+		<spawn npcId="22954" x="216617" y="112534" z="-1304" heading="4368" periodOfDay="1" />
+		<spawn npcId="22954" x="217046" y="112945" z="-1304" heading="6144" periodOfDay="1" />
+		<spawn npcId="22954" x="217468" y="110802" z="-1344" heading="1771" periodOfDay="1" />
+		<spawn npcId="22954" x="218667" y="112842" z="-1304" heading="32728" periodOfDay="1" />
+		<spawn npcId="22954" x="218746" y="109439" z="-1304" heading="11733" periodOfDay="1" />
+		<spawn npcId="22954" x="219097" y="112302" z="-1304" heading="21258" periodOfDay="1" />
+		<spawn npcId="22954" x="219176" y="110609" z="-1304" heading="19846" periodOfDay="1" />
+		<!-- Садовник Внутреннего Сада Солнца -->
+		<spawn npcId="22955" x="208175" y="118117" z="-1304" heading="50203" periodOfDay="1" />
+		<spawn npcId="22955" x="208699" y="119624" z="-1312" heading="36457" periodOfDay="1" />
+		<spawn npcId="22955" x="208703" y="118754" z="-1312" heading="51826" periodOfDay="1" />
+		<spawn npcId="22955" x="209301" y="120794" z="-1304" heading="8291" periodOfDay="1" />
+		<spawn npcId="22955" x="210313" y="118638" z="-1352" heading="7500" periodOfDay="1" />
+		<spawn npcId="22955" x="210492" y="120151" z="-1320" heading="8260" periodOfDay="1" />
+		<spawn npcId="22955" x="211087" y="117738" z="-1304" heading="40866" periodOfDay="1" />
+		<spawn npcId="22955" x="211094" y="120421" z="-1304" heading="64220" periodOfDay="1" />
+		<spawn npcId="22955" x="211948" y="116111" z="-896" heading="64052" periodOfDay="1" />
+		<spawn npcId="22955" x="211974" y="114322" z="-896" heading="14692" periodOfDay="1" />
+		<spawn npcId="22955" x="212072" y="114518" z="-896" heading="53572" periodOfDay="1" />
+		<spawn npcId="22955" x="212732" y="116515" z="-896" heading="55408" periodOfDay="1" />
+		<spawn npcId="22955" x="214321" y="117305" z="-896" heading="26295" periodOfDay="1" />
+		<spawn npcId="22955" x="215105" y="113919" z="-896" heading="806" periodOfDay="1" />
+		<spawn npcId="22955" x="216350" y="110532" z="-1304" heading="36071" periodOfDay="1" />
+		<spawn npcId="22955" x="216400" y="120636" z="-1736" heading="37740" periodOfDay="1" />
+		<spawn npcId="22955" x="216482" y="120636" z="-1736" heading="40985" periodOfDay="1" />
+		<spawn npcId="22955" x="216491" y="118777" z="-1736" heading="1011" periodOfDay="1" />
+		<spawn npcId="22955" x="216530" y="112855" z="-1304" heading="5347" periodOfDay="1" />
+		<spawn npcId="22955" x="216694" y="109632" z="-1304" heading="44584" periodOfDay="1" />
+		<spawn npcId="22955" x="216749" y="118957" z="-1752" heading="59061" periodOfDay="1" />
+		<spawn npcId="22955" x="216835" y="119137" z="-1760" heading="13568" periodOfDay="1" />
+		<spawn npcId="22955" x="216835" y="119137" z="-1760" heading="2869" periodOfDay="1" />
+		<spawn npcId="22955" x="216835" y="119137" z="-1760" heading="55387" periodOfDay="1" />
+		<spawn npcId="22955" x="217046" y="112945" z="-1304" heading="2736" periodOfDay="1" />
+		<spawn npcId="22955" x="217056" y="120458" z="-1736" heading="37152" periodOfDay="1" />
+		<spawn npcId="22955" x="217712" y="120191" z="-1760" heading="49832" periodOfDay="1" />
+		<spawn npcId="22955" x="217712" y="120636" z="-1736" heading="6967" periodOfDay="1" />
+		<spawn npcId="22955" x="217957" y="120287" z="-1760" heading="12516" periodOfDay="1" />
+		<spawn npcId="22955" x="218215" y="120833" z="-1736" heading="16797" periodOfDay="1" />
+		<spawn npcId="22955" x="218230" y="109619" z="-1304" heading="8881" periodOfDay="1" />
+		<spawn npcId="22955" x="218473" y="120196" z="-1752" heading="950" periodOfDay="1" />
+		<spawn npcId="22955" x="218807" y="117684" z="-1736" heading="20147" periodOfDay="1" />
+		<spawn npcId="22955" x="218839" y="112752" z="-1304" heading="47205" periodOfDay="1" />
+		<spawn npcId="22955" x="218903" y="120742" z="-1736" heading="1402" periodOfDay="1" />
+		<spawn npcId="22955" x="218979" y="118044" z="-1736" heading="44244" periodOfDay="1" />
+		<spawn npcId="22955" x="218979" y="118134" z="-1736" heading="37742" periodOfDay="1" />
+		<spawn npcId="22955" x="218989" y="120105" z="-1736" heading="15389" periodOfDay="1" />
+		<spawn npcId="22955" x="219004" y="109439" z="-1304" heading="7347" periodOfDay="1" />
+		<spawn npcId="22955" x="219065" y="118944" z="-1736" heading="4006" periodOfDay="1" />
+		<spawn npcId="22955" x="219183" y="111942" z="-1304" heading="63040" periodOfDay="1" />
+		<!-- Военачальник Сада -->
+		<spawn npcId="22956" x="207911" y="118663" z="-1304" heading="48284" periodOfDay="1" />
+		<spawn npcId="22956" x="208183" y="121154" z="-1304" heading="44673" periodOfDay="1" />
+		<spawn npcId="22956" x="208699" y="119984" z="-1312" heading="57994" periodOfDay="1" />
+		<spawn npcId="22956" x="209495" y="117753" z="-1304" heading="18056" periodOfDay="1" />
+		<spawn npcId="22956" x="210750" y="120241" z="-1144" heading="30674" periodOfDay="1" />
+		<spawn npcId="22956" x="211259" y="117918" z="-1304" heading="29753" periodOfDay="1" />
+		<spawn npcId="22956" x="211778" y="114910" z="-896" heading="58324" periodOfDay="1" />
+		<spawn npcId="22956" x="212242" y="116515" z="-896" heading="46644" periodOfDay="1" />
+		<spawn npcId="22956" x="214125" y="113723" z="-896" heading="13507" periodOfDay="1" />
+		<spawn npcId="22956" x="214321" y="116815" z="-896" heading="33174" periodOfDay="1" />
+		<spawn npcId="22956" x="216178" y="110802" z="-1304" heading="39501" periodOfDay="1" />
+		<spawn npcId="22956" x="216272" y="112315" z="-1304" heading="46022" periodOfDay="1" />
+		<spawn npcId="22956" x="216960" y="112855" z="-1304" heading="35339" periodOfDay="1" />
+		<spawn npcId="22956" x="217640" y="110262" z="-1312" heading="56574" periodOfDay="1" />
+		<spawn npcId="22956" x="218058" y="109439" z="-1304" heading="31548" periodOfDay="1" />
+		<spawn npcId="22956" x="219355" y="111492" z="-1304" heading="47224" periodOfDay="1" />
+		<!-- Воин Сада -->
+		<spawn npcId="22957" x="208791" y="117753" z="-1304" heading="60773" periodOfDay="1" />
+		<spawn npcId="22957" x="209129" y="120254" z="-1320" heading="27864" periodOfDay="1" />
+		<spawn npcId="22957" x="209976" y="121141" z="-1304" heading="10581" periodOfDay="1" />
+		<spawn npcId="22957" x="210743" y="118728" z="-1304" heading="22652" periodOfDay="1" />
+		<spawn npcId="22957" x="212268" y="114126" z="-896" heading="65134" periodOfDay="1" />
+		<spawn npcId="22957" x="212340" y="116111" z="-896" heading="42891" periodOfDay="1" />
+		<spawn npcId="22957" x="214713" y="116619" z="-896" heading="32894" periodOfDay="1" />
+		<spawn npcId="22957" x="215399" y="114703" z="-896" heading="16315" periodOfDay="1" />
+		<spawn npcId="22957" x="217038" y="111162" z="-1336" heading="10930" periodOfDay="1" />
+		<spawn npcId="22957" x="217304" y="111595" z="-1344" heading="64376" periodOfDay="1" />
+		<spawn npcId="22957" x="219176" y="110429" z="-1304" heading="26514" periodOfDay="1" />
+		<spawn npcId="22957" x="219441" y="111942" z="-1304" heading="40552" periodOfDay="1" />
+		<!-- Управляющий Садом Луны -->
+		<spawn npcId="22958" x="208263" y="118754" z="-1304" heading="8099" periodOfDay="2" />
+		<spawn npcId="22958" x="208441" y="121244" z="-1040" heading="23536" periodOfDay="2" />
+		<spawn npcId="22958" x="208791" y="118481" z="-1320" heading="26036" periodOfDay="2" />
+		<spawn npcId="22958" x="208967" y="118299" z="-1304" heading="20191" periodOfDay="2" />
+		<spawn npcId="22958" x="209043" y="119894" z="-1352" heading="35513" periodOfDay="2" />
+		<spawn npcId="22958" x="209473" y="120074" z="-1352" heading="28348" periodOfDay="2" />
+		<spawn npcId="22958" x="209718" y="120691" z="-1304" heading="52954" periodOfDay="2" />
+		<spawn npcId="22958" x="210227" y="117828" z="-1304" heading="29956" periodOfDay="2" />
+		<spawn npcId="22958" x="211001" y="117918" z="-1304" heading="32821" periodOfDay="2" />
+		<spawn npcId="22958" x="211266" y="119791" z="-1304" heading="31870" periodOfDay="2" />
+		<spawn npcId="22958" x="211778" y="114812" z="-896" heading="37491" periodOfDay="2" />
+		<spawn npcId="22958" x="211948" y="116111" z="-896" heading="43528" periodOfDay="2" />
+		<spawn npcId="22958" x="212830" y="117323" z="-896" heading="29939" periodOfDay="2" />
+		<spawn npcId="22958" x="212954" y="113440" z="-896" heading="2490" periodOfDay="2" />
+		<spawn npcId="22958" x="214125" y="116717" z="-896" heading="24880" periodOfDay="2" />
+		<spawn npcId="22958" x="214419" y="113625" z="-896" heading="6017" periodOfDay="2" />
+		<spawn npcId="22958" x="214517" y="117305" z="-896" heading="39176" periodOfDay="2" />
+		<spawn npcId="22958" x="215203" y="115193" z="-896" heading="41329" periodOfDay="2" />
+		<spawn npcId="22958" x="216092" y="109722" z="-1304" heading="27552" periodOfDay="2" />
+		<spawn npcId="22958" x="216100" y="112225" z="-1304" heading="17187" periodOfDay="2" />
+		<spawn npcId="22958" x="216178" y="110802" z="-1304" heading="49883" periodOfDay="2" />
+		<spawn npcId="22958" x="217218" y="112855" z="-1304" heading="26309" periodOfDay="2" />
+		<spawn npcId="22958" x="217640" y="110802" z="-1344" heading="58300" periodOfDay="2" />
+		<spawn npcId="22958" x="217648" y="111775" z="-1344" heading="47328" periodOfDay="2" />
+		<spawn npcId="22958" x="218058" y="110879" z="-1344" heading="56626" periodOfDay="2" />
+		<spawn npcId="22958" x="218574" y="110429" z="-1336" heading="23336" periodOfDay="2" />
+		<spawn npcId="22958" x="218925" y="112932" z="-1304" heading="45136" periodOfDay="2" />
+		<spawn npcId="22958" x="219097" y="111672" z="-1304" heading="65284" periodOfDay="2" />
+		<!-- Садовник Внутреннего Сада Луны -->
+		<spawn npcId="22960" x="207999" y="118208" z="-1304" heading="37369" periodOfDay="2" />
+		<spawn npcId="22960" x="208097" y="119534" z="-1304" heading="61589" periodOfDay="2" />
+		<spawn npcId="22960" x="208351" y="118754" z="-1304" heading="15946" periodOfDay="2" />
+		<spawn npcId="22960" x="208967" y="119391" z="-1352" heading="31018" periodOfDay="2" />
+		<spawn npcId="22960" x="209129" y="119534" z="-1352" heading="55420" periodOfDay="2" />
+		<spawn npcId="22960" x="209129" y="120524" z="-1304" heading="22785" periodOfDay="2" />
+		<spawn npcId="22960" x="209890" y="120781" z="-1304" heading="37459" periodOfDay="2" />
+		<spawn npcId="22960" x="209890" y="120781" z="-1304" heading="57298" periodOfDay="2" />
+		<spawn npcId="22960" x="210743" y="118188" z="-1304" heading="59226" periodOfDay="2" />
+		<spawn npcId="22960" x="211173" y="119088" z="-1304" heading="5992" periodOfDay="2" />
+		<spawn npcId="22960" x="211752" y="115808" z="-896" heading="6388" periodOfDay="2" />
+		<spawn npcId="22960" x="212634" y="116414" z="-896" heading="61986" periodOfDay="2" />
+		<spawn npcId="22960" x="212856" y="113930" z="-896" heading="28357" periodOfDay="2" />
+		<spawn npcId="22960" x="213150" y="113538" z="-896" heading="3796" periodOfDay="2" />
+		<spawn npcId="22960" x="213831" y="113821" z="-896" heading="49091" periodOfDay="2" />
+		<spawn npcId="22960" x="214125" y="117109" z="-896" heading="48666" periodOfDay="2" />
+		<spawn npcId="22960" x="216092" y="111162" z="-1304" heading="21523" periodOfDay="2" />
+		<spawn npcId="22960" x="216233" y="117607" z="-1736" heading="16787" periodOfDay="2" />
+		<spawn npcId="22960" x="216400" y="120636" z="-1736" heading="37465" periodOfDay="2" />
+		<spawn npcId="22960" x="216405" y="118957" z="-1736" heading="652" periodOfDay="2" />
+		<spawn npcId="22960" x="216436" y="109542" z="-1304" heading="21046" periodOfDay="2" />
+		<spawn npcId="22960" x="216530" y="111505" z="-1304" heading="36428" periodOfDay="2" />
+		<spawn npcId="22960" x="216577" y="118687" z="-1736" heading="31922" periodOfDay="2" />
+		<spawn npcId="22960" x="216646" y="120992" z="-1736" heading="10744" periodOfDay="2" />
+		<spawn npcId="22960" x="216835" y="118957" z="-1760" heading="28404" periodOfDay="2" />
+		<spawn npcId="22960" x="217046" y="112135" z="-1304" heading="14878" periodOfDay="2" />
+		<spawn npcId="22960" x="217138" y="120814" z="-1736" heading="18423" periodOfDay="2" />
+		<spawn npcId="22960" x="217304" y="112765" z="-1304" heading="38084" periodOfDay="2" />
+		<spawn npcId="22960" x="217351" y="118867" z="-1760" heading="37095" periodOfDay="2" />
+		<spawn npcId="22960" x="217468" y="110352" z="-1328" heading="52428" periodOfDay="2" />
+		<spawn npcId="22960" x="217548" y="120725" z="-1736" heading="7472" periodOfDay="2" />
+		<spawn npcId="22960" x="217957" y="120287" z="-1760" heading="37720" periodOfDay="2" />
+		<spawn npcId="22960" x="217957" y="120287" z="-1760" heading="63136" periodOfDay="2" />
+		<spawn npcId="22960" x="218215" y="120742" z="-1736" heading="38504" periodOfDay="2" />
+		<spawn npcId="22960" x="218377" y="117954" z="-1736" heading="63254" periodOfDay="2" />
+		<spawn npcId="22960" x="218495" y="112032" z="-1320" heading="55392" periodOfDay="2" />
+		<spawn npcId="22960" x="218549" y="117774" z="-1736" heading="2120" periodOfDay="2" />
+		<spawn npcId="22960" x="218635" y="118674" z="-1752" heading="14437" periodOfDay="2" />
+		<spawn npcId="22960" x="218645" y="121106" z="-1736" heading="11371" periodOfDay="2" />
+		<spawn npcId="22960" x="218667" y="112932" z="-1304" heading="3793" periodOfDay="2" />
+		<spawn npcId="22960" x="218893" y="118764" z="-1736" heading="16420" periodOfDay="2" />
+		<spawn npcId="22960" x="218979" y="118584" z="-1736" heading="23885" periodOfDay="2" />
+		<spawn npcId="22960" x="219004" y="109979" z="-1304" heading="62078" periodOfDay="2" />
+		<spawn npcId="22960" x="219090" y="110879" z="-1304" heading="53840" periodOfDay="2" />
+		<spawn npcId="22960" x="219333" y="120469" z="-1736" heading="40361" periodOfDay="2" />
+		<!-- Хранитель Сада -->
+		<spawn npcId="22961" x="208011" y="120884" z="-1304" heading="40940" periodOfDay="2" />
+		<spawn npcId="22961" x="209495" y="118299" z="-1304" heading="22136" periodOfDay="2" />
+		<spawn npcId="22961" x="210055" y="118188" z="-1304" heading="37789" periodOfDay="2" />
+		<spawn npcId="22961" x="211008" y="121141" z="-1304" heading="32006" periodOfDay="2" />
+		<spawn npcId="22961" x="211850" y="115707" z="-896" heading="23981" periodOfDay="2" />
+		<spawn npcId="22961" x="212268" y="113930" z="-896" heading="22102" periodOfDay="2" />
+		<spawn npcId="22961" x="215203" y="114311" z="-896" heading="50884" periodOfDay="2" />
+		<spawn npcId="22961" x="215399" y="116423" z="-896" heading="6363" periodOfDay="2" />
+		<spawn npcId="22961" x="216530" y="112765" z="-1304" heading="38821" periodOfDay="2" />
+		<spawn npcId="22961" x="217640" y="110172" z="-1304" heading="5163" periodOfDay="2" />
+		<spawn npcId="22961" x="217931" y="112762" z="-1304" heading="2703" periodOfDay="2" />
+		<spawn npcId="22961" x="218402" y="110519" z="-1248" heading="1635" periodOfDay="2" />
+		<!-- Военачальник Сада -->
+		<spawn npcId="22962" x="207999" y="118754" z="-1304" heading="54082" periodOfDay="2" />
+		<spawn npcId="22962" x="208183" y="120974" z="-1304" heading="11878" periodOfDay="2" />
+		<spawn npcId="22962" x="208703" y="118754" z="-1312" heading="52374" periodOfDay="2" />
+		<spawn npcId="22962" x="209387" y="120254" z="-1320" heading="20210" periodOfDay="2" />
+		<spawn npcId="22962" x="210406" y="119521" z="-1336" heading="6504" periodOfDay="2" />
+		<spawn npcId="22962" x="211087" y="119358" z="-1304" heading="53150" periodOfDay="2" />
+		<spawn npcId="22962" x="211778" y="114812" z="-896" heading="47756" periodOfDay="2" />
+		<spawn npcId="22962" x="213011" y="116993" z="-896" heading="43774" periodOfDay="2" />
+		<spawn npcId="22962" x="214321" y="117011" z="-896" heading="63896" periodOfDay="2" />
+		<spawn npcId="22962" x="215497" y="114507" z="-896" heading="44531" periodOfDay="2" />
+		<spawn npcId="22962" x="216608" y="109902" z="-1304" heading="46866" periodOfDay="2" />
+		<spawn npcId="22962" x="217132" y="112855" z="-1304" heading="12547" periodOfDay="2" />
+		<spawn npcId="22962" x="217304" y="112315" z="-1304" heading="40716" periodOfDay="2" />
+		<spawn npcId="22962" x="217640" y="109722" z="-1304" heading="26233" periodOfDay="2" />
+		<spawn npcId="22962" x="218144" y="109619" z="-1304" heading="26250" periodOfDay="2" />
+		<spawn npcId="22962" x="219269" y="111942" z="-1304" heading="41373" periodOfDay="2" />
+		<!-- Воин Сада -->
+		<spawn npcId="22963" x="208183" y="120074" z="-1304" heading="42912" periodOfDay="2" />
+		<spawn npcId="22963" x="208791" y="119300" z="-1336" heading="19012" periodOfDay="2" />
+		<spawn npcId="22963" x="210148" y="120511" z="-1304" heading="32613" periodOfDay="2" />
+		<spawn npcId="22963" x="210915" y="118908" z="-1304" heading="13908" periodOfDay="2" />
+		<spawn npcId="22963" x="212758" y="113930" z="-896" heading="5229" periodOfDay="2" />
+		<spawn npcId="22963" x="213026" y="117020" z="-896" heading="17229" periodOfDay="2" />
+		<spawn npcId="22963" x="214419" y="116717" z="-896" heading="15181" periodOfDay="2" />
+		<spawn npcId="22963" x="215399" y="115095" z="-896" heading="4615" periodOfDay="2" />
+		<spawn npcId="22963" x="216186" y="112135" z="-1304" heading="50382" periodOfDay="2" />
+		<spawn npcId="22963" x="216608" y="109812" z="-1304" heading="39161" periodOfDay="2" />
+		<spawn npcId="22963" x="218151" y="111492" z="-1344" heading="52872" periodOfDay="2" />
+		<spawn npcId="22963" x="218963" y="110900" z="-1304" heading="27707" periodOfDay="2" />
+		<!-- Провидец Сада -->
+		<spawn npcId="23160" x="207293" y="114825" z="-2040" heading="21076" />
+		<spawn npcId="23160" x="208118" y="119843" z="-1304" heading="22400" />
+		<spawn npcId="23160" x="208859" y="111092" z="-2072" heading="49336" />
+		<spawn npcId="23160" x="208943" y="120673" z="-1304" heading="59086" />
+		<spawn npcId="23160" x="213499" y="116176" z="-888" heading="61995" />
+		<spawn npcId="23160" x="214215" y="119598" z="-2080" heading="45156" />
+		<spawn npcId="23160" x="215155" y="114704" z="-896" heading="41341" />
+		<spawn npcId="23160" x="216467" y="110149" z="-1304" heading="35725" />
+		<spawn npcId="23160" x="217457" y="109983" z="-1304" heading="49384" />
+		<spawn npcId="23160" x="218288" y="118045" z="-1736" heading="64577" />
+		<spawn npcId="23160" x="219278" y="118377" z="-1736" heading="43996" />
+		<spawn npcId="23160" x="221385" y="114811" z="-2024" heading="41196" />
+		<!-- Горфина -->
+		<spawn npcId="33031" x="207798" y="112440" z="-2064" heading="1032" />
+		<!-- Селина -->
+		<spawn npcId="33032" x="207896" y="112474" z="-2056" heading="49988" />
+		<!-- Устройство Телепортации (Сад Бытия) -->
+		<spawn npcId="33090" x="207548" y="112632" z="-2016" heading="0" />
+		<!-- Статуя Ангела Бытия -->
+		<spawn npcId="33138" x="209824" y="119364" z="-1328" heading="0" />
+		<!-- Фонтан Бытия -->
+		<spawn npcId="33139" x="217788" y="110940" z="-1320" heading="15476" />
+		<!-- Статуя Богини Бытия -->
+		<spawn npcId="33140" x="217792" y="119136" z="-1736" heading="48660" />
+		<!-- Фея Сада -->
+		<spawn npcId="33146" x="206970" y="110916" z="-805" heading="12692" />
+		<spawn npcId="33146" x="206970" y="110916" z="-805" heading="12712" />
+		<spawn npcId="33146" x="206984" y="111040" z="-796" heading="15193" />
+		<spawn npcId="33146" x="209439" y="118907" z="-964" heading="27520" />
+		<spawn npcId="33146" x="209547" y="118849" z="-960" heading="27520" />
+		<spawn npcId="33146" x="209547" y="118849" z="-960" heading="27520" />
+		<spawn npcId="33146" x="213473" y="114797" z="-597" heading="25485" />
+		<spawn npcId="33146" x="213530" y="114788" z="-597" heading="26446" />
+		<spawn npcId="33146" x="213656" y="114734" z="-596" heading="32767" />
+		<spawn npcId="33146" x="217758" y="119041" z="-998" heading="30354" />
+		<spawn npcId="33146" x="217817" y="119029" z="-998" heading="30434" />
+		<spawn npcId="33146" x="217819" y="119027" z="-1534" heading="0" />
+		<spawn npcId="33146" x="218022" y="110689" z="-993" heading="36670" />
+		<spawn npcId="33146" x="218023" y="110690" z="-993" heading="36670" />
+		<spawn npcId="33146" x="218023" y="110690" z="-993" heading="36670" />
+		<!-- Управляющий Рамун -->
+		<spawn npcId="33535" x="207069" y="110692" z="-2056" heading="16008" />
+		<spawn npcId="33535" x="221495" y="118647" z="-2072" heading="25332" />
+		<!-- Слуга Гермункуса (Хранитель Пространства) -->
+		<spawn npcId="33565" x="207036" y="111212" z="-2032" heading="0" />
+	</spawns>
+</list>

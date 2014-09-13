@@ -1,0 +1,3356 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "spawn.dtd">
+<list>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-27264" y="51088" z="-3720" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-27707" y="47816" z="-3664" h="0" />
+	<npc id="23166" /><!--Contaminated Rotten Root-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-12789" y="41552" z="-3760" h="0" />
+	<npc id="23166" /><!--Contaminated Rotten Root-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-24027" y="50978" z="-3776" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-10038" y="38770" z="-3736" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-3666" y="37055" z="-3632" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-6656" y="40020" z="-3680" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-26131" y="55402" z="-3768" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-18619" y="42992" z="-3672" h="0" />
+	<npc id="23165" /><!--Plagueworm-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-25479" y="56203" z="-3768" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-14219" y="53034" z="-3688" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-16986" y="34865" z="-3432" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-20926" y="57453" z="-3736" h="0" />
+	<npc id="23170" /><!--Swamp Watcher-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-12528" y="39952" z="-3760" h="0" />
+	<npc id="23167" /><!--Decayed Spore-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-6136" y="39827" z="-3664" h="0" />
+	<npc id="23162" /><!--Corpse Devourer-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-23923" y="51058" z="-3776" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-21568" y="54111" z="-3632" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-17896" y="43488" z="-3680" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-14853" y="43979" z="-3600" h="0" />
+	<npc id="23165" /><!--Plagueworm-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-4955" y="38384" z="-3608" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-5823" y="39236" z="-3672" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-21053" y="49644" z="-3768" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-15857" y="41177" z="-3736" h="0" />
+	<npc id="14954" />
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-12020" y="31738" z="-2968" h="0" />
+	<npc id="23177" />
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-5263" y="38331" z="-3632" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-6164" y="46571" z="-3640" h="0" />
+	<npc id="23167" /><!--Decayed Spore-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-5797" y="46935" z="-3608" h="0" />
+	<npc id="23167" /><!--Decayed Spore-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-27843" y="47646" z="-3664" h="0" />
+	<npc id="23166" /><!--Contaminated Rotten Root-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-16348" y="41547" z="-3776" h="0" />
+	<npc id="23167" /><!--Decayed Spore-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-18736" y="38600" z="-3312" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-12268" y="37800" z="-3680" h="0" />
+	<npc id="23162" /><!--Corpse Devourer-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-8182" y="38627" z="-3704" h="0" />
+	<npc id="23162" /><!--Corpse Devourer-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-4738" y="39520" z="-3616" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-2688" y="43193" z="-3656" h="0" />
+	<npc id="23166" /><!--Contaminated Rotten Root-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-23530" y="54691" z="-3680" h="0" />
+	<npc id="23165" /><!--Plagueworm-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-6257" y="37816" z="-3672" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-20768" y="46896" z="-2680" h="0" />
+	<npc id="23165" /><!--Plagueworm-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-26727" y="54888" z="-3760" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-25316" y="54334" z="-3288" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-23467" y="45697" z="-3688" h="0" />
+	<npc id="23167" /><!--Decayed Spore-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-4087" y="39236" z="-3624" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-17972" y="59317" z="-3192" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-18376" y="35312" z="-3112" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-11109" y="43371" z="-2912" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-20233" y="59880" z="-3016" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-8099" y="43004" z="-3776" h="0" />
+	<npc id="23171" /><!--Corpse Collector-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-20066" y="41886" z="-3672" h="0" />
+	<npc id="23167" /><!--Decayed Spore-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-21272" y="48342" z="-3712" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-7190" y="37727" z="-3672" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-6171" y="44735" z="-3600" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-3320" y="41504" z="-3696" h="0" />
+	<npc id="23166" /><!--Contaminated Rotten Root-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-11024" y="49251" z="-2928" h="0" />
+	<npc id="23166" /><!--Contaminated Rotten Root-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-7920" y="39081" z="-3760" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-20768" y="46896" z="-2680" h="0" />
+	<npc id="23165" /><!--Plagueworm-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-7148" y="42015" z="-3776" h="0" />
+	<npc id="23166" /><!--Contaminated Rotten Root-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-22807" y="48207" z="-3776" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-25219" y="60839" z="-3616" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-16577" y="39792" z="-3760" h="0" />
+	<npc id="23166" /><!--Contaminated Rotten Root-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-20494" y="52329" z="-3680" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-17750" y="40527" z="-3680" h="0" />
+	<npc id="23167" /><!--Decayed Spore-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-9772" y="36824" z="-3704" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-15548" y="40703" z="-3768" h="0" />
+	<npc id="23166" /><!--Contaminated Rotten Root-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-16940" y="55277" z="-3768" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-10165" y="40213" z="-3712" h="0" />
+	<npc id="23167" /><!--Decayed Spore-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-16696" y="37616" z="-3544" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-4551" y="41766" z="-3696" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-23692" y="53140" z="-3704" h="0" />
+	<npc id="23165" /><!--Plagueworm-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-17603" y="38552" z="-3520" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-23026" y="51368" z="-3720" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-16782" y="46267" z="-3768" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-24067" y="59920" z="-3664" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-16783" y="40086" z="-3760" h="0" />
+	<npc id="23166" /><!--Contaminated Rotten Root-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-21796" y="41880" z="-3496" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-8561" y="47167" z="-3744" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-25316" y="54334" z="-3288" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-15636" y="36958" z="-3528" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-8472" y="39908" z="-3760" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-21339" y="38940" z="-2920" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-5172" y="41792" z="-3712" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-17288" y="48604" z="-3744" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-2145" y="37483" z="-3664" h="0" />
+	<npc id="23162" /><!--Corpse Devourer-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-17972" y="59317" z="-3192" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-23564" y="55080" z="-3752" h="0" />
+	<npc id="23172" /><!--Delegate of Blood-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-8154" y="37250" z="-3696" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-10980" y="37060" z="-3688" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-18336" y="38453" z="-3344" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-9410" y="38200" z="-3336" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-16863" y="40736" z="-3768" h="0" />
+	<npc id="23167" /><!--Decayed Spore-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-5802" y="43702" z="-3680" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-17541" y="45521" z="-3760" h="0" />
+	<npc id="23166" /><!--Contaminated Rotten Root-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-10440" y="41152" z="-3720" h="0" />
+	<npc id="23167" /><!--Decayed Spore-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-9063" y="39369" z="-3752" h="0" />
+	<npc id="23166" /><!--Contaminated Rotten Root-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-3100" y="37388" z="-3632" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-17336" y="53025" z="-3688" h="0" />
+	<npc id="23170" /><!--Swamp Watcher-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-13436" y="49172" z="-3736" h="0" />
+	<npc id="23167" /><!--Decayed Spore-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-12611" y="37818" z="-3680" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-6545" y="44460" z="-3672" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-19909" y="57529" z="-3688" h="0" />
+	<npc id="23170" /><!--Swamp Watcher-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-10812" y="39794" z="-3728" h="0" />
+	<npc id="23166" /><!--Contaminated Rotten Root-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-16066" y="52174" z="-3696" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-19317" y="35785" z="-2992" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-5961" y="45216" z="-3600" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-9069" y="37183" z="-3696" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-26272" y="46911" z="-3760" h="0" />
+	<npc id="23171" /><!--Corpse Collector-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-8228" y="45010" z="-3688" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-17716" y="38272" z="-3472" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-10101" y="44321" z="-3704" h="0" />
+	<npc id="23166" /><!--Contaminated Rotten Root-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-10440" y="40352" z="-3696" h="0" />
+	<npc id="23166" /><!--Contaminated Rotten Root-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-11644" y="35116" z="-3536" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-5389" y="38668" z="-3640" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-21017" y="56227" z="-3760" h="0" />
+	<npc id="23170" /><!--Swamp Watcher-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-26803" y="57324" z="-3680" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-13847" y="50028" z="-3656" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-8415" y="46110" z="-3680" h="0" />
+	<npc id="23167" /><!--Decayed Spore-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-23343" y="53362" z="-3688" h="0" />
+	<npc id="23165" /><!--Plagueworm-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-7915" y="47797" z="-3704" h="0" />
+	<npc id="23167" /><!--Decayed Spore-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-24352" y="54437" z="-3672" h="0" />
+	<npc id="23165" /><!--Plagueworm-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-9460" y="35360" z="-3704" h="0" />
+	<npc id="23162" /><!--Corpse Devourer-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-6257" y="38952" z="-3592" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-17428" y="41695" z="-3704" h="0" />
+	<npc id="23167" /><!--Decayed Spore-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-16356" y="36632" z="-3456" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-5389" y="37816" z="-3624" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-15600" y="35728" z="-3568" h="0" />
+	<npc id="23162" /><!--Corpse Devourer-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-14996" y="52276" z="-3776" h="0" />
+	<npc id="14931" />
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-3979" y="42793" z="-3680" h="0" />
+	<npc id="23166" /><!--Contaminated Rotten Root-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-22418" y="40612" z="-3136" h="0" />
+	<npc id="14930" />
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-23040" y="57737" z="-2960" h="0" />
+	<npc id="23170" /><!--Swamp Watcher-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-17196" y="44424" z="-3704" h="0" />
+	<npc id="23166" /><!--Contaminated Rotten Root-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-9528" y="45947" z="-3760" h="0" />
+	<npc id="23171" /><!--Corpse Collector-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-27959" y="50619" z="-3752" h="0" />
+	<npc id="23166" /><!--Contaminated Rotten Root-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-20561" y="54279" z="-3768" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-2824" y="37930" z="-3624" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-17376" y="38600" z="-3576" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-25316" y="54334" z="-3288" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-4360" y="40028" z="-3640" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-27839" y="47527" z="-3672" h="0" />
+	<npc id="23166" /><!--Contaminated Rotten Root-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-17819" y="42231" z="-3672" h="0" />
+	<npc id="23166" /><!--Contaminated Rotten Root-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-16048" y="44001" z="-3744" h="0" />
+	<npc id="23166" /><!--Contaminated Rotten Root-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-5610" y="46385" z="-3624" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-16016" y="37616" z="-3560" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-8639" y="48441" z="-3760" h="0" />
+	<npc id="23167" /><!--Decayed Spore-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-10352" y="37060" z="-3696" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-20818" y="58907" z="-3752" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-8468" y="38010" z="-3696" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-16631" y="41117" z="-3768" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-17590" y="43988" z="-3680" h="0" />
+	<npc id="23165" /><!--Plagueworm-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-15489" y="35983" z="-3568" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-17260" y="58656" z="-3696" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-19097" y="37100" z="-3016" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-2582" y="43561" z="-3640" h="0" />
+	<npc id="23166" /><!--Contaminated Rotten Root-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-2785" y="38668" z="-3648" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-19687" y="30643" z="-2680" h="0" />
+	<npc id="23174" />
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-23411" y="51476" z="-3704" h="0" />
+	<npc id="23170" /><!--Swamp Watcher-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-1990" y="37292" z="-3672" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-10464" y="30744" z="-2528" h="0" />
+	<npc id="23178" />
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-22911" y="50656" z="-3760" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-12468" y="47246" z="-3752" h="0" />
+	<npc id="23167" /><!--Decayed Spore-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-6545" y="47485" z="-3624" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-24683" y="51459" z="-3760" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-17023" y="44893" z="-3704" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-20109" y="38136" z="-2968" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-25008" y="55217" z="-3752" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-19975" y="54239" z="-3768" h="0" />
+	<npc id="23170" /><!--Swamp Watcher-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-24432" y="55000" z="-3664" h="0" />
+	<npc id="23165" /><!--Plagueworm-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-19212" y="45472" z="-3736" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-20495" y="41271" z="-3552" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-18210" y="41134" z="-3776" h="0" />
+	<npc id="23166" /><!--Contaminated Rotten Root-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-6480" y="46571" z="-3632" h="0" />
+	<npc id="23166" /><!--Contaminated Rotten Root-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-25316" y="54334" z="-3288" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-19469" y="56278" z="-3736" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-15632" y="50844" z="-3760" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-20502" y="51435" z="-3680" h="0" />
+	<npc id="23170" /><!--Swamp Watcher-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-14401" y="44004" z="-3632" h="0" />
+	<npc id="23165" /><!--Plagueworm-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-17276" y="40178" z="-3744" h="0" />
+	<npc id="23166" /><!--Contaminated Rotten Root-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-19385" y="35884" z="-2952" h="0" />
+	<npc id="23162" /><!--Corpse Devourer-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-19076" y="40568" z="-3680" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-19076" y="40240" z="-3592" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-9724" y="38580" z="-3768" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-23581" y="60286" z="-3656" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-20518" y="41288" z="-3544" h="0" />
+	<npc id="14930" />
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-16986" y="35463" z="-3416" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-28211" y="48014" z="-3680" h="0" />
+	<npc id="23166" /><!--Contaminated Rotten Root-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-6759" y="46073" z="-3624" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-10901" y="34817" z="-3528" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-11288" y="43622" z="-3016" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-8228" y="46110" z="-3680" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-20860" y="47522" z="-3616" h="0" />
+	<npc id="23167" /><!--Decayed Spore-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-6257" y="39236" z="-3696" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-25790" y="60090" z="-3616" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-6206" y="38229" z="-3656" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-20307" y="48448" z="-3768" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-21126" y="54051" z="-3664" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-16643" y="43883" z="-3696" h="0" />
+	<npc id="16036" />
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-18606" y="34566" z="-3216" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-19485" y="40052" z="-3504" h="0" />
+	<npc id="23162" /><!--Corpse Devourer-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-18558" y="40608" z="-3648" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-24019" y="50552" z="-3760" h="0" />
+	<npc id="23170" /><!--Swamp Watcher-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-19686" y="36360" z="-2888" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-19556" y="53979" z="-3760" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-10038" y="38390" z="-3704" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-17716" y="38272" z="-3472" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-16059" y="41421" z="-3768" h="0" />
+	<npc id="14954" />
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-4903" y="45699" z="-3608" h="0" />
+	<npc id="23166" /><!--Contaminated Rotten Root-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-19062" y="45741" z="-3680" h="0" />
+	<npc id="23167" /><!--Decayed Spore-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-14702" y="43720" z="-3584" h="0" />
+	<npc id="23165" /><!--Plagueworm-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-11288" y="40861" z="-3760" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-5032" y="37930" z="-3608" h="0" />
+	<npc id="23162" /><!--Corpse Devourer-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-20548" y="41302" z="-3536" h="0" />
+	<npc id="14930" />
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-17702" y="43579" z="-3672" h="0" />
+	<npc id="23165" /><!--Plagueworm-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-18606" y="37855" z="-3232" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-25316" y="54334" z="-3288" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-21456" y="41224" z="-3392" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-18280" y="55882" z="-3680" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-24702" y="53784" z="-3696" h="0" />
+	<npc id="23165" /><!--Plagueworm-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-15749" y="34577" z="-3568" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-22816" y="55022" z="-3712" h="0" />
+	<npc id="23165" /><!--Plagueworm-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-25291" y="53081" z="-3704" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-16356" y="38272" z="-3536" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-2899" y="44356" z="-3656" h="0" />
+	<npc id="23166" /><!--Contaminated Rotten Root-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-16340" y="34104" z="-3632" h="0" />
+	<npc id="23162" /><!--Corpse Devourer-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-16002" y="52201" z="-3696" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-20519" y="50442" z="-3696" h="0" />
+	<npc id="14930" />
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-26940" y="51106" z="-3712" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-17252" y="42316" z="-3696" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-17344" y="39174" z="-3656" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-8086" y="39375" z="-3744" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-21492" y="60157" z="-3608" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-16826" y="44323" z="-3696" h="0" />
+	<npc id="23167" /><!--Decayed Spore-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-25316" y="54334" z="-3288" h="0" />
+	<npc id="23170" /><!--Swamp Watcher-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-20182" y="56176" z="-3752" h="0" />
+	<npc id="23171" /><!--Corpse Collector-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-4427" y="37143" z="-3592" h="0" />
+	<npc id="14937" />
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-12329" y="37566" z="-3688" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-11288" y="43622" z="-3016" h="0" />
+	<npc id="23167" /><!--Decayed Spore-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-9991" y="47760" z="-3736" h="0" />
+	<npc id="23167" /><!--Decayed Spore-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-5172" y="38952" z="-3624" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-18132" y="42109" z="-3672" h="0" />
+	<npc id="23167" /><!--Decayed Spore-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-20463" y="57312" z="-3688" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-7588" y="36336" z="-3640" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-24095" y="57633" z="-3752" h="0" />
+	<npc id="14925" />
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-6412" y="36033" z="-3608" h="0" />
+	<npc id="23162" /><!--Corpse Devourer-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-3426" y="39219" z="-3648" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-12470" y="48605" z="-3736" h="0" />
+	<npc id="23167" /><!--Decayed Spore-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-18380" y="44159" z="-3312" h="0" />
+	<npc id="23165" /><!--Plagueworm-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-22936" y="55223" z="-3760" h="0" />
+	<npc id="23165" /><!--Plagueworm-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-14080" y="44355" z="-3672" h="0" />
+	<npc id="23165" /><!--Plagueworm-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-16093" y="52170" z="-3696" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-22508" y="48137" z="-3776" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-20436" y="39912" z="-3360" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-24621" y="49410" z="-3744" h="0" />
+	<npc id="14930" />
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-12268" y="37312" z="-3696" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-18396" y="39584" z="-3480" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-11618" y="37812" z="-3680" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-18660" y="42730" z="-3000" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-9410" y="38200" z="-3336" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-20867" y="47087" z="-2728" h="0" />
+	<npc id="23165" /><!--Plagueworm-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-22319" y="49486" z="-3728" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-6040" y="39520" z="-3672" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-3652" y="36575" z="-3656" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-23532" y="50196" z="-3304" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-8288" y="45061" z="-3688" h="0" />
+	<npc id="23167" /><!--Decayed Spore-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-6171" y="45835" z="-3624" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-21294" y="58614" z="-3736" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-1720" y="38743" z="-3712" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-18660" y="42730" z="-3000" h="0" />
+	<npc id="23167" /><!--Decayed Spore-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-4848" y="44564" z="-3608" h="0" />
+	<npc id="23167" /><!--Decayed Spore-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-10966" y="31295" z="-2800" h="0" />
+	<npc id="23174" />
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-27744" y="50353" z="-3736" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-5172" y="38668" z="-3632" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-17343" y="39225" z="-3664" h="0" />
+	<npc id="14925" />
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-17284" y="38531" z="-3576" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-9156" y="37714" z="-3688" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-15543" y="47978" z="-3760" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-20251" y="59871" z="-3024" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-15154" y="52183" z="-3776" h="0" />
+	<npc id="14931" />
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-20212" y="59815" z="-3040" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-18868" y="57690" z="-3688" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-6198" y="40065" z="-3672" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-16489" y="49727" z="-3776" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-15928" y="43329" z="-3712" h="0" />
+	<npc id="23167" /><!--Decayed Spore-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-11533" y="34786" z="-3480" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-6759" y="46116" z="-3632" h="0" />
+	<npc id="14937" />
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-8836" y="38044" z="-3720" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-12439" y="49084" z="-3760" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-8020" y="39510" z="-3720" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-8401" y="37969" z="-3696" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-22409" y="57220" z="-3760" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-16716" y="37855" z="-3600" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-24466" y="60429" z="-3648" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-23400" y="60154" z="-3648" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-23425" y="31000" z="-2632" h="0" />
+	<npc id="23177" />
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-7854" y="47760" z="-3704" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-5606" y="40088" z="-3664" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-17252" y="41902" z="-3688" h="0" />
+	<npc id="23167" /><!--Decayed Spore-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-11024" y="49251" z="-2928" h="0" />
+	<npc id="23166" /><!--Contaminated Rotten Root-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-18396" y="39256" z="-3408" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-20645" y="50463" z="-3704" h="0" />
+	<npc id="14930" />
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-10701" y="39152" z="-3696" h="0" />
+	<npc id="23167" /><!--Decayed Spore-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-23920" y="56161" z="-2992" h="0" />
+	<npc id="23170" /><!--Swamp Watcher-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-13454" y="53106" z="-3680" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-17796" y="54792" z="-3760" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-3100" y="39014" z="-3640" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-2570" y="36533" z="-3696" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-12614" y="50259" z="-3752" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-16992" y="56724" z="-3736" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-22393" y="50714" z="-3776" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-18736" y="38272" z="-3296" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-3436" y="38952" z="-3632" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-24641" y="52241" z="-3768" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-9773" y="43255" z="-3768" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-12789" y="43552" z="-3504" h="0" />
+	<npc id="23166" /><!--Contaminated Rotten Root-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-23568" y="58919" z="-3760" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-15220" y="52624" z="-3664" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-22912" y="53710" z="-3640" h="0" />
+	<npc id="19170" />
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-6257" y="39804" z="-3672" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-23172" y="54300" z="-3696" h="0" />
+	<npc id="23172" /><!--Delegate of Blood-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-12268" y="38044" z="-3672" h="0" />
+	<npc id="23162" /><!--Corpse Devourer-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-2272" y="37659" z="-3648" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-4480" y="39556" z="-3624" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-11956" y="36824" z="-3704" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-18773" y="37834" z="-3208" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-22090" y="54131" z="-3584" h="0" />
+	<npc id="23165" /><!--Plagueworm-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-28318" y="48564" z="-3688" h="0" />
+	<npc id="23166" /><!--Contaminated Rotten Root-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-16016" y="37616" z="-3560" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-19790" y="49985" z="-3672" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-24385" y="58866" z="-3736" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-6412" y="39827" z="-3672" h="0" />
+	<npc id="23162" /><!--Corpse Devourer-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-23532" y="50196" z="-3304" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-9587" y="31145" z="-2928" h="0" />
+	<npc id="23179" />
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-4087" y="39236" z="-3624" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-16433" y="53788" z="-3776" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-23770" y="56137" z="-3040" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-7106" y="44460" z="-3696" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-27842" y="48764" z="-3688" h="0" />
+	<npc id="23167" /><!--Decayed Spore-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-18512" y="46988" z="-3632" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-7282" y="48830" z="-3664" h="0" />
+	<npc id="23166" /><!--Contaminated Rotten Root-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-23688" y="50960" z="-3776" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-10440" y="43952" z="-3688" h="0" />
+	<npc id="23166" /><!--Contaminated Rotten Root-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-20530" y="46978" z="-2568" h="0" />
+	<npc id="23165" /><!--Plagueworm-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-2124" y="37215" z="-3680" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-26053" y="58146" z="-3728" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-17770" y="42732" z="-3672" h="0" />
+	<npc id="23166" /><!--Contaminated Rotten Root-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-7684" y="47418" z="-3704" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-5389" y="39236" z="-3632" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-3343" y="38589" z="-3600" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-5860" y="36575" z="-3608" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-5848" y="45445" z="-3624" h="0" />
+	<npc id="23167" /><!--Decayed Spore-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-11608" y="37250" z="-3680" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-7648" y="42243" z="-3768" h="0" />
+	<npc id="23166" /><!--Contaminated Rotten Root-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-12892" y="37800" z="-3696" h="0" />
+	<npc id="23162" /><!--Corpse Devourer-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-6732" y="46935" z="-3656" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-18112" y="56112" z="-3728" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-20422" y="49370" z="-3720" h="0" />
+	<npc id="23165" /><!--Plagueworm-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-16986" y="35463" z="-3416" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-11288" y="43622" z="-3016" h="0" />
+	<npc id="23167" /><!--Decayed Spore-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-11936" y="35158" z="-3528" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-18558" y="39496" z="-3456" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-5032" y="39827" z="-3648" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-14937" y="43867" z="-3584" h="0" />
+	<npc id="23170" /><!--Swamp Watcher-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-18498" y="56313" z="-3760" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-8060" y="48279" z="-3688" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-11288" y="43622" z="-3016" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-20472" y="41028" z="-3528" h="0" />
+	<npc id="14930" />
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-22097" y="48708" z="-3768" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-17526" y="38154" z="-3512" h="0" />
+	<npc id="23162" /><!--Corpse Devourer-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-5111" y="38098" z="-3608" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-17256" y="37556" z="-3488" h="0" />
+	<npc id="23162" /><!--Corpse Devourer-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-5389" y="40372" z="-3680" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-15366" y="37556" z="-3600" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-16620" y="43853" z="-3720" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-24414" y="54042" z="-3696" h="0" />
+	<npc id="23172" /><!--Delegate of Blood-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-6171" y="45285" z="-3592" h="0" />
+	<npc id="23167" /><!--Decayed Spore-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-22575" y="40330" z="-3080" h="0" />
+	<npc id="23162" /><!--Corpse Devourer-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-17376" y="38600" z="-3576" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-16946" y="37357" z="-3472" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-21030" y="38106" z="-2760" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-15471" y="44082" z="-3648" h="0" />
+	<npc id="23165" /><!--Plagueworm-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-2785" y="38668" z="-3648" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-3870" y="40088" z="-3656" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-18240" y="42673" z="-3664" h="0" />
+	<npc id="23167" /><!--Decayed Spore-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-17746" y="40375" z="-3672" h="0" />
+	<npc id="23166" /><!--Contaminated Rotten Root-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-12268" y="37800" z="-3680" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-11024" y="49251" z="-2928" h="0" />
+	<npc id="23166" /><!--Contaminated Rotten Root-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-4480" y="36846" z="-3616" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-21957" y="39218" z="-2920" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-20770" y="52115" z="-3680" h="0" />
+	<npc id="23170" /><!--Swamp Watcher-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-17376" y="37944" z="-3504" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-23719" y="60007" z="-3656" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-22238" y="53476" z="-3584" h="0" />
+	<npc id="23172" /><!--Delegate of Blood-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-16797" y="48973" z="-3768" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-14609" y="44002" z="-3624" h="0" />
+	<npc id="19170" />
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-17526" y="38154" z="-3512" h="0" />
+	<npc id="23162" /><!--Corpse Devourer-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-25316" y="54334" z="-3288" h="0" />
+	<npc id="23170" /><!--Swamp Watcher-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-17036" y="38600" z="-3616" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-13311" y="41552" z="-3768" h="0" />
+	<npc id="23166" /><!--Contaminated Rotten Root-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-16716" y="35164" z="-3440" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-13116" y="53612" z="-3688" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-17836" y="44949" z="-3688" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-6056" y="43879" z="-3688" h="0" />
+	<npc id="23166" /><!--Contaminated Rotten Root-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-20860" y="45472" z="-3680" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-22771" y="54810" z="-3688" h="0" />
+	<npc id="23172" /><!--Delegate of Blood-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-11524" y="31818" z="-3008" h="0" />
+	<npc id="23174" />
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-12550" y="37630" z="-3688" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-5984" y="44185" z="-3664" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-17317" y="43879" z="-3672" h="0" />
+	<npc id="23165" /><!--Plagueworm-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-18536" y="58161" z="-3760" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-9322" y="40656" z="-3696" h="0" />
+	<npc id="23166" /><!--Contaminated Rotten Root-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-7471" y="42760" z="-3776" h="0" />
+	<npc id="23167" /><!--Decayed Spore-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-11288" y="43622" z="-3016" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-15474" y="41463" z="-3688" h="0" />
+	<npc id="23166" /><!--Contaminated Rotten Root-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-7564" y="45993" z="-3640" h="0" />
+	<npc id="23166" /><!--Contaminated Rotten Root-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-20412" y="41442" z="-3592" h="0" />
+	<npc id="23162" /><!--Corpse Devourer-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-2785" y="38668" z="-3648" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-19838" y="53087" z="-3768" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-20189" y="51978" z="-3672" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-7854" y="48035" z="-3704" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-23216" y="58131" z="-3696" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-8041" y="47210" z="-3696" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-2327" y="44249" z="-3656" h="0" />
+	<npc id="23167" /><!--Decayed Spore-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-11070" y="35462" z="-3592" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-6648" y="35621" z="-3648" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-2372" y="42630" z="-3688" h="0" />
+	<npc id="23166" /><!--Contaminated Rotten Root-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-12528" y="42752" z="-3752" h="0" />
+	<npc id="23166" /><!--Contaminated Rotten Root-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-11288" y="43622" z="-3016" h="0" />
+	<npc id="23167" /><!--Decayed Spore-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-4087" y="38952" z="-3608" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-19229" y="35809" z="-2992" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-5823" y="37816" z="-3648" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-19176" y="39218" z="-3400" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-17716" y="39256" z="-3576" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-26053" y="60318" z="-3600" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-19205" y="54967" z="-3768" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-5606" y="38952" z="-3648" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-14252" y="44586" z="-3608" h="0" />
+	<npc id="23165" /><!--Plagueworm-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-4521" y="37816" z="-3584" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-9498" y="40861" z="-3704" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-12236" y="38770" z="-3760" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-20103" y="37828" z="-2968" h="0" />
+	<npc id="23162" /><!--Corpse Devourer-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-16716" y="37257" z="-3480" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-17716" y="37616" z="-3400" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-20709" y="50552" z="-3744" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-17959" y="54650" z="-3768" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-25316" y="54334" z="-3288" h="0" />
+	<npc id="23170" /><!--Swamp Watcher-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-20740" y="47495" z="-2632" h="0" />
+	<npc id="23165" /><!--Plagueworm-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-22439" y="40652" z="-3136" h="0" />
+	<npc id="14930" />
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-18600" y="57690" z="-3688" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-27748" y="50145" z="-3696" h="0" />
+	<npc id="23166" /><!--Contaminated Rotten Root-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-12858" y="50562" z="-3728" h="0" />
+	<npc id="23167" /><!--Decayed Spore-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-10779" y="44180" z="-3688" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-5172" y="40656" z="-3696" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-6136" y="38201" z="-3648" h="0" />
+	<npc id="23162" /><!--Corpse Devourer-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-7814" y="42191" z="-3776" h="0" />
+	<npc id="14930" />
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-10666" y="38580" z="-3712" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-19945" y="44812" z="-3752" h="0" />
+	<npc id="14925" />
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-17249" y="40101" z="-3744" h="0" />
+	<npc id="23166" /><!--Contaminated Rotten Root-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-16353" y="46668" z="-3768" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-27401" y="55612" z="-3688" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-17604" y="50779" z="-3712" h="0" />
+	<npc id="23167" /><!--Decayed Spore-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-24212" y="54547" z="-3672" h="0" />
+	<npc id="23172" /><!--Delegate of Blood-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-19686" y="35463" z="-3016" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-21222" y="36358" z="-2784" h="0" />
+	<npc id="14925" />
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-2087" y="37119" z="-3680" h="0" />
+	<npc id="14838" />
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-10980" y="39150" z="-3696" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-20709" y="49532" z="-3720" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-7632" y="37874" z="-3704" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-7900" y="38532" z="-3704" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-11288" y="43622" z="-3016" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-5216" y="46008" z="-3608" h="0" />
+	<npc id="23166" /><!--Contaminated Rotten Root-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-21017" y="58397" z="-3768" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-19212" y="46497" z="-3600" h="0" />
+	<npc id="23167" /><!--Decayed Spore-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-5606" y="40940" z="-3720" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-8415" y="47485" z="-3688" h="0" />
+	<npc id="23167" /><!--Decayed Spore-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-16176" y="35463" z="-3488" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-24441" y="49660" z="-3760" h="0" />
+	<npc id="14930" />
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-25316" y="54334" z="-3288" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-22508" y="48547" z="-3768" h="0" />
+	<npc id="23167" /><!--Decayed Spore-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-18961" y="55403" z="-3768" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-27212" y="50196" z="-3096" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-3166" y="39184" z="-3656" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-19404" y="54470" z="-3776" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-26322" y="54919" z="-3768" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-20974" y="46579" z="-3680" h="0" />
+	<npc id="23165" /><!--Plagueworm-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-22374" y="53177" z="-3600" h="0" />
+	<npc id="23172" /><!--Delegate of Blood-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-19624" y="45677" z="-3680" h="0" />
+	<npc id="23167" /><!--Decayed Spore-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-5823" y="38668" z="-3672" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-17738" y="44383" z="-3688" h="0" />
+	<npc id="23165" /><!--Plagueworm-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-4927" y="38549" z="-3608" h="0" />
+	<npc id="23162" /><!--Corpse Devourer-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-7276" y="37556" z="-3680" h="0" />
+	<npc id="23162" /><!--Corpse Devourer-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-18142" y="44783" z="-3688" h="0" />
+	<npc id="23166" /><!--Contaminated Rotten Root-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-17577" y="55342" z="-3688" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-12998" y="32078" z="-3104" h="0" />
+	<npc id="23176" />
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-5131" y="35681" z="-3656" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-7106" y="45285" z="-3648" h="0" />
+	<npc id="23167" /><!--Decayed Spore-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-10038" y="38010" z="-3704" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-19624" y="47522" z="-3648" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-25767" y="59189" z="-3656" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-20556" y="45903" z="-3648" h="0" />
+	<npc id="23165" /><!--Plagueworm-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-20172" y="59868" z="-3040" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-5213" y="40480" z="-3688" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-7703" y="44344" z="-3680" h="0" />
+	<npc id="23166" /><!--Contaminated Rotten Root-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-12716" y="39920" z="-3704" h="0" />
+	<npc id="23166" /><!--Contaminated Rotten Root-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-7769" y="47228" z="-3704" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-23040" y="57737" z="-2960" h="0" />
+	<npc id="23170" /><!--Swamp Watcher-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-5860" y="37117" z="-3632" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-20574" y="50356" z="-3696" h="0" />
+	<npc id="14930" />
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-27948" y="51728" z="-3728" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-4015" y="45554" z="-3600" h="0" />
+	<npc id="23166" /><!--Contaminated Rotten Root-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-20150" y="58977" z="-3680" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-11862" y="32265" z="-3056" h="0" />
+	<npc id="23176" />
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-12236" y="38770" z="-3760" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-13530" y="31344" z="-3216" h="0" />
+	<npc id="14838" />
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-17297" y="40641" z="-3760" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-23657" y="53614" z="-3704" h="0" />
+	<npc id="23172" /><!--Delegate of Blood-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-24621" y="49426" z="-3744" h="0" />
+	<npc id="14930" />
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-18417" y="43704" z="-3712" h="0" />
+	<npc id="16053" />
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-5389" y="39236" z="-3632" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-4841" y="36418" z="-3624" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-15295" y="47986" z="-3760" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-23984" y="59903" z="-3664" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-5243" y="36230" z="-3616" h="0" />
+	<npc id="23162" /><!--Corpse Devourer-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-4521" y="37816" z="-3584" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-19188" y="50242" z="-3688" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-16986" y="35762" z="-3416" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-8317" y="47554" z="-3688" h="0" />
+	<npc id="23167" /><!--Decayed Spore-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-16062" y="56799" z="-3656" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-4756" y="36846" z="-3608" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-11956" y="37556" z="-3688" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-23821" y="53585" z="-3704" h="0" />
+	<npc id="23172" /><!--Delegate of Blood-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-7840" y="37820" z="-3704" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-3952" y="40941" z="-3680" h="0" />
+	<npc id="23166" /><!--Contaminated Rotten Root-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-16585" y="54925" z="-3680" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-19444" y="55751" z="-3784" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-3615" y="43126" z="-3688" h="0" />
+	<npc id="23167" /><!--Decayed Spore-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-18201" y="54514" z="-3760" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-6818" y="46134" z="-3632" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-10962" y="42352" z="-3696" h="0" />
+	<npc id="23166" /><!--Contaminated Rotten Root-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-23145" y="57739" z="-3048" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-6691" y="40372" z="-3680" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-10352" y="39150" z="-3728" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-4738" y="40656" z="-3680" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-21202" y="59576" z="-3624" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-5032" y="36033" z="-3632" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-5261" y="39180" z="-3624" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-13006" y="38312" z="-3688" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-20220" y="45122" z="-3768" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-11024" y="49251" z="-2928" h="0" />
+	<npc id="23166" /><!--Contaminated Rotten Root-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-12794" y="37741" z="-3696" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-7464" y="40154" z="-3688" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-21702" y="51164" z="-3768" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-16765" y="33147" z="-3600" h="0" />
+	<npc id="14930" />
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-9096" y="37440" z="-3696" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-23224" y="53696" z="-3688" h="0" />
+	<npc id="23172" /><!--Delegate of Blood-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-21263" y="38280" z="-2760" h="0" />
+	<npc id="23162" /><!--Corpse Devourer-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-16994" y="32949" z="-3656" h="0" />
+	<npc id="14930" />
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-12006" y="39152" z="-3728" h="0" />
+	<npc id="23166" /><!--Contaminated Rotten Root-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-4304" y="39236" z="-3608" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-18201" y="42571" z="-3664" h="0" />
+	<npc id="23165" /><!--Plagueworm-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-22508" y="48342" z="-3776" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-17189" y="40519" z="-3768" h="0" />
+	<npc id="23166" /><!--Contaminated Rotten Root-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-5098" y="38264" z="-3608" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-7852" y="46897" z="-3696" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-3653" y="39804" z="-3584" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-27738" y="55250" z="-3072" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-15898" y="40597" z="-3752" h="0" />
+	<npc id="23166" /><!--Contaminated Rotten Root-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-19076" y="39256" z="-3400" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-23877" y="54628" z="-3664" h="0" />
+	<npc id="23165" /><!--Plagueworm-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-7704" y="38123" z="-3704" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-24624" y="57540" z="-3696" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-4891" y="39981" z="-3656" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-11526" y="31825" z="-3008" h="0" />
+	<npc id="23176" />
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-17260" y="56080" z="-3768" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-11967" y="34319" z="-3392" h="0" />
+	<npc id="14837" />
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-17604" y="43558" z="-3664" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-16397" y="41328" z="-3776" h="0" />
+	<npc id="23166" /><!--Contaminated Rotten Root-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-20768" y="46896" z="-2680" h="0" />
+	<npc id="23165" /><!--Plagueworm-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-4738" y="40088" z="-3664" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-1996" y="37388" z="-3664" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-19544" y="56075" z="-3776" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-5860" y="38472" z="-3648" h="0" />
+	<npc id="23162" /><!--Corpse Devourer-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-20709" y="49940" z="-3688" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-18409" y="43318" z="-3696" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-18173" y="38466" z="-3400" h="0" />
+	<npc id="23162" /><!--Corpse Devourer-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-6574" y="39794" z="-3680" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-18836" y="42937" z="-3680" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-19340" y="39168" z="-3376" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-19416" y="37257" z="-2992" h="0" />
+	<npc id="23162" /><!--Corpse Devourer-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-12430" y="32265" z="-2984" h="0" />
+	<npc id="23174" />
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-19176" y="39496" z="-3440" h="0" />
+	<npc id="23162" /><!--Corpse Devourer-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-7738" y="42181" z="-3776" h="0" />
+	<npc id="14930" />
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-24501" y="55402" z="-3680" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-13682" y="49324" z="-3736" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-10396" y="37312" z="-3704" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-5172" y="38952" z="-3624" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-5585" y="35752" z="-3640" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-13692" y="43390" z="-3568" h="0" />
+	<npc id="23165" /><!--Plagueworm-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-4521" y="40372" z="-3664" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-11024" y="49251" z="-2928" h="0" />
+	<npc id="23166" /><!--Contaminated Rotten Root-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-15275" y="51116" z="-3712" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-25316" y="54334" z="-3288" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-5848" y="41504" z="-3696" h="0" />
+	<npc id="23166" /><!--Contaminated Rotten Root-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-25322" y="58975" z="-3672" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-17796" y="35762" z="-3288" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-12123" y="42012" z="-3776" h="0" />
+	<npc id="23166" /><!--Contaminated Rotten Root-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-4521" y="39804" z="-3624" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-20752" y="47157" z="-2704" h="0" />
+	<npc id="23165" /><!--Plagueworm-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-21441" y="51978" z="-3688" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-12550" y="37440" z="-3688" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-19994" y="55834" z="-3784" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-11166" y="31120" z="-2768" h="0" />
+	<npc id="23176" />
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-8486" y="46977" z="-3752" h="0" />
+	<npc id="23167" /><!--Decayed Spore-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-22179" y="54666" z="-3656" h="0" />
+	<npc id="23172" /><!--Delegate of Blood-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-13098" y="49600" z="-3728" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-17076" y="42523" z="-3720" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-11644" y="36092" z="-3616" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-15903" y="34978" z="-3520" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-12864" y="37440" z="-3688" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-11166" y="37235" z="-3688" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-17526" y="36958" z="-3352" h="0" />
+	<npc id="23162" /><!--Corpse Devourer-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-8021" y="47118" z="-3696" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-16629" y="36628" z="-3440" h="0" />
+	<npc id="23162" /><!--Corpse Devourer-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-6005" y="39405" z="-3672" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-17526" y="37855" z="-3464" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-5584" y="36575" z="-3608" h="0" />
+	<npc id="23162" /><!--Corpse Devourer-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-11024" y="49251" z="-2928" h="0" />
+	<npc id="23166" /><!--Contaminated Rotten Root-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-4738" y="40656" z="-3680" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-18843" y="41409" z="-3760" h="0" />
+	<npc id="23167" /><!--Decayed Spore-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-19686" y="36958" z="-2896" h="0" />
+	<npc id="23162" /><!--Corpse Devourer-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-3016" y="37640" z="-3624" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-15953" y="40753" z="-3752" h="0" />
+	<npc id="23166" /><!--Contaminated Rotten Root-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-11294" y="37440" z="-3680" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-4304" y="38952" z="-3600" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-2548" y="37659" z="-3648" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-17716" y="38928" z="-3528" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-18336" y="36659" z="-3104" h="0" />
+	<npc id="23162" /><!--Corpse Devourer-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-25888" y="52296" z="-3768" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-22168" y="38880" z="-2776" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-19984" y="48976" z="-3752" h="0" />
+	<npc id="23165" /><!--Plagueworm-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-10523" y="31353" z="-2744" h="0" />
+	<npc id="23176" />
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-5308" y="37659" z="-3616" h="0" />
+	<npc id="23162" /><!--Corpse Devourer-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-18056" y="38928" z="-3448" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-26727" y="55612" z="-3704" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-17836" y="52082" z="-3672" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-17109" y="43000" z="-3712" h="0" />
+	<npc id="23165" /><!--Plagueworm-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-22281" y="50350" z="-3776" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-1720" y="37117" z="-3680" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-23224" y="53004" z="-3648" h="0" />
+	<npc id="23172" /><!--Delegate of Blood-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-24350" y="51164" z="-3768" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-16026" y="41357" z="-3768" h="0" />
+	<npc id="14954" />
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-5423" y="45835" z="-3624" h="0" />
+	<npc id="23167" /><!--Decayed Spore-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-19176" y="39218" z="-3400" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-23788" y="56150" z="-3040" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-15366" y="36360" z="-3584" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-15769" y="54239" z="-3704" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-19773" y="52826" z="-3752" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-26457" y="55936" z="-3696" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-10396" y="36336" z="-3656" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-7131" y="44498" z="-3696" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-21683" y="50559" z="-3784" h="0" />
+	<npc id="23170" /><!--Swamp Watcher-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-17716" y="39256" z="-3576" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-23920" y="56161" z="-2992" h="0" />
+	<npc id="23170" /><!--Swamp Watcher-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-22442" y="40662" z="-3136" h="0" />
+	<npc id="14930" />
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-6164" y="40941" z="-3712" h="0" />
+	<npc id="23167" /><!--Decayed Spore-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-18164" y="55705" z="-3680" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-21957" y="39218" z="-2920" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-16493" y="37239" z="-3480" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-9378" y="39187" z="-3760" h="0" />
+	<npc id="23166" /><!--Contaminated Rotten Root-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-18665" y="50550" z="-3760" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-27967" y="53206" z="-3624" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-8285" y="36932" z="-3704" h="0" />
+	<npc id="23162" /><!--Corpse Devourer-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-9973" y="48914" z="-3664" h="0" />
+	<npc id="23167" /><!--Decayed Spore-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-17895" y="40955" z="-3768" h="0" />
+	<npc id="16035" />
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-13087" y="50056" z="-3736" h="0" />
+	<npc id="23167" /><!--Decayed Spore-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-24085" y="51268" z="-3768" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-6480" y="44882" z="-3608" h="0" />
+	<npc id="23167" /><!--Decayed Spore-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-16202" y="49115" z="-3768" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-15110" y="45741" z="-3680" h="0" />
+	<npc id="23165" /><!--Plagueworm-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-11024" y="49251" z="-2928" h="0" />
+	<npc id="23166" /><!--Contaminated Rotten Root-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-7911" y="39055" z="-3760" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-17888" y="44811" z="-3688" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-16773" y="33024" z="-3608" h="0" />
+	<npc id="14930" />
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-17319" y="42085" z="-3696" h="0" />
+	<npc id="23167" /><!--Decayed Spore-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-23960" y="58882" z="-3760" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-3497" y="43946" z="-3656" h="0" />
+	<npc id="23166" /><!--Contaminated Rotten Root-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-11484" y="38752" z="-3696" h="0" />
+	<npc id="23167" /><!--Decayed Spore-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-12861" y="50867" z="-3728" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-24096" y="57934" z="-3760" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-20120" y="44807" z="-3736" h="0" />
+	<npc id="23167" /><!--Decayed Spore-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-24432" y="53326" z="-3696" h="0" />
+	<npc id="23165" /><!--Plagueworm-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-17184" y="43350" z="-3672" h="0" />
+	<npc id="23165" /><!--Plagueworm-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-20279" y="37877" z="-2936" h="0" />
+	<npc id="23162" /><!--Corpse Devourer-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-8468" y="39150" z="-3736" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-10535" y="35172" z="-3576" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-27899" y="50886" z="-3768" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-12875" y="52517" z="-3672" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-16769" y="35657" z="-3424" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-18524" y="56227" z="-3760" h="0" />
+	<npc id="23170" /><!--Swamp Watcher-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-17083" y="49648" z="-3776" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-27738" y="56336" z="-3688" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-24414" y="54215" z="-3688" h="0" />
+	<npc id="23172" /><!--Delegate of Blood-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-14273" y="46444" z="-3664" h="0" />
+	<npc id="23166" /><!--Contaminated Rotten Root-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-9070" y="36197" z="-3712" h="0" />
+	<npc id="23162" /><!--Corpse Devourer-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-10701" y="40352" z="-3696" h="0" />
+	<npc id="23166" /><!--Contaminated Rotten Root-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-6171" y="43635" z="-3728" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-16689" y="46721" z="-3760" h="0" />
+	<npc id="23171" /><!--Corpse Collector-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-17416" y="55576" z="-3680" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-15231" y="52296" z="-3760" h="0" />
+	<npc id="14931" />
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-6688" y="39556" z="-3680" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-20223" y="59979" z="-3000" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-7900" y="37800" z="-3704" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-5606" y="37816" z="-3632" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-21017" y="57746" z="-3760" h="0" />
+	<npc id="23170" /><!--Swamp Watcher-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-11592" y="48512" z="-3704" h="0" />
+	<npc id="23167" /><!--Decayed Spore-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-7526" y="39910" z="-3696" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-18984" y="38731" z="-3304" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-17716" y="37944" z="-3448" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-8926" y="31023" z="-3088" h="0" />
+	<npc id="23179" />
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-11745" y="38752" z="-3680" h="0" />
+	<npc id="23166" /><!--Contaminated Rotten Root-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-18066" y="37855" z="-3360" h="0" />
+	<npc id="23162" /><!--Corpse Devourer-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-10450" y="40840" z="-3696" h="0" />
+	<npc id="23166" /><!--Contaminated Rotten Root-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-6480" y="44882" z="-3608" h="0" />
+	<npc id="23166" /><!--Contaminated Rotten Root-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-17526" y="34267" z="-3472" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-18433" y="42842" z="-3664" h="0" />
+	<npc id="23165" /><!--Plagueworm-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-7276" y="38288" z="-3664" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-5584" y="37117" z="-3616" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-12892" y="37556" z="-3696" h="0" />
+	<npc id="23162" /><!--Corpse Devourer-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-23744" y="47932" z="-3688" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-18396" y="38272" z="-3336" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-6164" y="40941" z="-3712" h="0" />
+	<npc id="23166" /><!--Contaminated Rotten Root-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-12580" y="37312" z="-3696" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-19416" y="40896" z="-3760" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-22878" y="49938" z="-3704" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-13356" y="51712" z="-3744" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-15906" y="35762" z="-3520" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-5823" y="40372" z="-3688" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-17826" y="43595" z="-3680" h="0" />
+	<npc id="23165" /><!--Plagueworm-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-6136" y="38201" z="-3648" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-10442" y="57059" z="-3656" h="0" />
+	<npc id="27118" />
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-8836" y="38044" z="-3720" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-10961" y="44280" z="-3680" h="0" />
+	<npc id="23166" /><!--Contaminated Rotten Root-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-6257" y="39520" z="-3680" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-15671" y="43818" z="-3656" h="0" />
+	<npc id="23165" /><!--Plagueworm-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-6153" y="43690" z="-3712" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-7681" y="42217" z="-3776" h="0" />
+	<npc id="14930" />
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-16082" y="52126" z="-3696" h="0" />
+	<npc id="23167" /><!--Decayed Spore-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-22336" y="57737" z="-3760" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-4480" y="37117" z="-3600" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-8154" y="39340" z="-3744" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-16285" y="35431" z="-3472" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-11288" y="43622" z="-3016" h="0" />
+	<npc id="23167" /><!--Decayed Spore-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-11253" y="35083" z="-3552" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-12088" y="34948" z="-3504" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-17974" y="54026" z="-3784" h="0" />
+	<npc id="23170" /><!--Swamp Watcher-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-3436" y="39236" z="-3648" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-11381" y="35015" z="-3528" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-17641" y="44050" z="-3688" h="0" />
+	<npc id="19170" />
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-23724" y="31519" z="-2552" h="0" />
+	<npc id="23179" />
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-16642" y="43502" z="-3760" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-11288" y="43622" z="-3016" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-4521" y="39520" z="-3616" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-5389" y="40088" z="-3664" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-6796" y="43193" z="-3360" h="0" />
+	<npc id="23166" /><!--Contaminated Rotten Root-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-20096" y="40240" z="-3480" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-6480" y="46008" z="-3616" h="0" />
+	<npc id="23167" /><!--Decayed Spore-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-18576" y="36076" z="-3032" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-6856" y="44744" z="-3680" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-10810" y="45765" z="-3760" h="0" />
+	<npc id="23167" /><!--Decayed Spore-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-16696" y="36960" z="-3440" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-15137" y="38829" z="-3680" h="0" />
+	<npc id="23166" /><!--Contaminated Rotten Root-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-11822" y="48350" z="-3728" h="0" />
+	<npc id="23167" /><!--Decayed Spore-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-27029" y="57344" z="-3664" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-20416" y="59029" z="-3664" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-7293" y="45560" z="-3648" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-19416" y="36958" z="-2928" h="0" />
+	<npc id="23162" /><!--Corpse Devourer-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-20231" y="55796" z="-3776" h="0" />
+	<npc id="23170" /><!--Swamp Watcher-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-11024" y="49251" z="-2928" h="0" />
+	<npc id="23166" /><!--Contaminated Rotten Root-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-11212" y="48755" z="-3768" h="0" />
+	<npc id="23167" /><!--Decayed Spore-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-18292" y="59068" z="-3696" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-18744" y="55735" z="-3760" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-21684" y="48547" z="-3736" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-19822" y="47291" z="-3640" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-14947" y="44915" z="-3672" h="0" />
+	<npc id="23165" /><!--Plagueworm-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-11510" y="40667" z="-3768" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-15075" y="48703" z="-3760" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-18388" y="46907" z="-3648" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-19078" y="56878" z="-3696" h="0" />
+	<npc id="23170" /><!--Swamp Watcher-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-10962" y="44752" z="-3776" h="0" />
+	<npc id="23167" /><!--Decayed Spore-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-9194" y="35892" z="-3704" h="0" />
+	<npc id="23162" /><!--Corpse Devourer-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-17796" y="36659" z="-3264" h="0" />
+	<npc id="23162" /><!--Corpse Devourer-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-24272" y="57146" z="-3688" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-15545" y="40504" z="-3744" h="0" />
+	<npc id="23166" /><!--Contaminated Rotten Root-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-17267" y="39177" z="-3672" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-4552" y="38078" z="-3584" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-23334" y="30799" z="-2616" h="0" />
+	<npc id="23177" />
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-22168" y="31304" z="-2552" h="0" />
+	<npc id="23177" />
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-17970" y="55576" z="-3688" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-23744" y="47112" z="-3752" h="0" />
+	<npc id="23167" /><!--Decayed Spore-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-11956" y="34384" z="-3392" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-17138" y="49274" z="-3736" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-9609" y="37710" z="-3696" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-17761" y="55197" z="-3696" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-11230" y="37925" z="-3688" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-19078" y="57095" z="-3696" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-5011" y="43097" z="-3664" h="0" />
+	<npc id="23166" /><!--Contaminated Rotten Root-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-5216" y="40378" z="-3680" h="0" />
+	<npc id="23167" /><!--Decayed Spore-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-5389" y="39520" z="-3632" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-3636" y="43756" z="-3656" h="0" />
+	<npc id="23166" /><!--Contaminated Rotten Root-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-23061" y="50063" z="-3720" h="0" />
+	<npc id="23170" /><!--Swamp Watcher-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-23183" y="54917" z="-3744" h="0" />
+	<npc id="23172" /><!--Delegate of Blood-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-20378" y="48716" z="-3768" h="0" />
+	<npc id="23170" /><!--Swamp Watcher-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-3652" y="36033" z="-3672" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-17248" y="42559" z="-3688" h="0" />
+	<npc id="23165" /><!--Plagueworm-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-9772" y="36336" z="-3688" h="0" />
+	<npc id="23162" /><!--Corpse Devourer-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-19786" y="56137" z="-3784" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-10666" y="37250" z="-3688" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-1704" y="38805" z="-3720" h="0" />
+	<npc id="23162" /><!--Corpse Devourer-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-14342" y="50796" z="-3680" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-20212" y="59815" z="-3040" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-19214" y="35811" z="-2992" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-6126" y="43729" z="-3688" h="0" />
+	<npc id="23166" /><!--Contaminated Rotten Root-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-9148" y="37800" z="-3696" h="0" />
+	<npc id="23162" /><!--Corpse Devourer-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-12468" y="49251" z="-3760" h="0" />
+	<npc id="23167" /><!--Decayed Spore-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-5308" y="39556" z="-3632" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-11024" y="49251" z="-2928" h="0" />
+	<npc id="23166" /><!--Contaminated Rotten Root-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-12148" y="35798" z="-3608" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-16176" y="36360" z="-3464" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-6919" y="44185" z="-3688" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-18718" y="38365" z="-3304" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-12526" y="35401" z="-3584" h="0" />
+	<npc id="23162" /><!--Corpse Devourer-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-18348" y="53421" z="-3776" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-21339" y="40608" z="-3328" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-4910" y="40543" z="-3688" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-18066" y="38453" z="-3424" h="0" />
+	<npc id="23163" /><!--Corpse Absorber-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-28042" y="49885" z="-3672" h="0" />
+	<npc id="23166" /><!--Contaminated Rotten Root-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-7112" y="47697" z="-3688" h="0" />
+	<npc id="23166" /><!--Contaminated Rotten Root-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-5661" y="46655" z="-3624" h="0" />
+	<npc id="23168" /><!--Swamp Stalker-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-5775" y="44270" z="-3656" h="0" />
+	<npc id="23167" /><!--Decayed Spore-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-20507" y="41020" z="-3496" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-7428" y="47134" z="-3704" h="0" />
+	<npc id="23166" /><!--Contaminated Rotten Root-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-12236" y="37060" z="-3696" h="0" />
+	<npc id="23164" /><!--Corpse Shredder-->
+</spawn>
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="-22512" y="58131" z="-3768" h="0" />
+	<npc id="23169" /><!--Swamp Assassin-->
+</spawn>
+</list>

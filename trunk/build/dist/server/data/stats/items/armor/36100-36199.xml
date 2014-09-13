@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "item.dtd">
+<list>
+	<armor id="36187" name="Рубаха Восхода">
+		<!--Скорость +7, СИЛ +1, ИНТ +1. Можно носить, если основной и двойной классы выше 87-го уровня. Нельзя обменять/выбросить/модифицировать.-->
+        <set name="icon" value="icon.dual_shirt1_panel_itemdual1"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="130"/>
+		<set name="dropable" value="false"/>
+		<set name="destroyable" value="false"/>
+		<set name="tradeable" value="false"/>
+        <equip>
+            <slot id="UNDERWEAR"/>
+        </equip>
+        <set name="ex_type" value="UNDERWEAR"/>
+        <for>
+            <add stat="pDef" order="0x10" value="38"/>
+			<add stat="runSpd" order="0x10" value="7"/>
+			<add stat="INT" order="0x10" value="1"/>
+			<add stat="STR" order="0x10" value="1"/>
+        </for>
+    </armor>
+	<armor id="36188" name="Рубаха Сияния">
+		<!--Скорость +7, СИЛ +1, ИНТ +1, ВЫН +1, ДУХ +1. Можно носить, если основной и двойной классы выше 92-го уровня. Нельзя обменять/выбросить/модифицировать.-->
+        <set name="icon" value="icon.dual_shirt2_panel_itemdual1"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="130"/>
+		<set name="dropable" value="false"/>
+		<set name="destroyable" value="false"/>
+		<set name="tradeable" value="false"/>
+        <equip>
+            <slot id="UNDERWEAR"/>
+        </equip>
+        <set name="ex_type" value="UNDERWEAR"/>
+        <for>
+            <add stat="pDef" order="0x10" value="38"/>
+			<add stat="runSpd" order="0x10" value="7"/>
+			<add stat="INT" order="0x10" value="1"/>
+			<add stat="STR" order="0x10" value="1"/>
+			<add stat="CON" order="0x10" value="1"/>
+			<add stat="DEX" order="0x10" value="1"/>
+        </for>
+    </armor>
+	<armor id="36189" name="Пояс Восхода">
+		<!--Лимит веса +12800, количество ячеек инвентаря +12. Можно носить, если основной и двойной классы выше 87-го уровня. Нельзя обменять/выбросить/модифицировать.-->
+        <set name="icon" value="icon.dual_belt1_panel_itemdual1"/>
+        <set name="type" value="LIGHT"/>
+        <set name="weight" value="440"/>
+        <equip>
+            <slot id="BELT"/>
+        </equip>
+        <set name="ex_type" value="BELT"/>
+        <for>
+            <add stat="pDef" order="0x10" value="25"/>
+			<add stat="maxLoad" order="0x10" value="12800"/>
+        </for>
+    </armor>
+	<armor id="36190" name="Пояс Сияния">
+		<!--Лимит веса +12800, количество ячеек инвентаря +18. Можно носить, если основной и двойной классы выше 92-го уровня. Нельзя обменять/выбросить/модифицировать.-->
+        <set name="icon" value="icon.dual_belt2_panel_itemdual1"/>
+        <set name="type" value="LIGHT"/>
+        <set name="weight" value="440"/>
+        <equip>
+            <slot id="BELT"/>
+        </equip>
+        <set name="ex_type" value="BELT"/>
+        <for>
+            <add stat="pDef" order="0x10" value="25"/>
+			<add stat="maxLoad" order="0x10" value="12800"/>
+        </for>
+    </armor>
+</list>

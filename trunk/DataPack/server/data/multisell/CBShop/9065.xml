@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list maintainEnchantment="true">
+<!--Камни обработки by DXVSI-->
+  <item id="1">
+    <ingredient id="4037" count="10"/>
+    <production id="22664" count="1"/>
+  </item>
+
+  <item id="2">
+    <ingredient id="4037" count="10"/>
+    <production id="22725" count="1"/>
+  </item>
+
+  <item id="3">
+    <ingredient id="4037" count="10"/>
+    <production id="21990" count="1"/>
+  </item>
+
+  <item id="4">
+    <ingredient id="4037" count="10"/>
+    <production id="22388" count="1"/>
+  </item>
+
+  <item id="5">
+    <ingredient id="4037" count="10"/>
+    <production id="22361" count="1"/>
+  </item>
+
+  <item id="6">
+    <ingredient id="4037" count="10"/>
+    <production id="22362" count="1"/>
+  </item>
+  
+	<item id="111">
+	<ingredient id="4037" count="10"/>
+	<production id="20519" count="1"/>
+	</item>	
+	<item id="112">
+	<ingredient id="4037" count="10"/>
+	<production id="20520" count="1"/>
+	</item>	
+	<item id="113">
+	<ingredient id="4037" count="10"/>
+	<production id="22426" count="1"/>
+	</item>	
+	<item id="114">
+	<ingredient id="4037" count="10"/>
+	<production id="22429" count="1"/>
+	</item>
+	<item id="115">
+	<ingredient id="4037" count="10"/>
+	<production id="34989" count="1"/>
+	</item>	
+	<item id="116">
+	<ingredient id="4037" count="10"/>
+	<production id="13021" count="1"/>
+	</item>
+	<item id="111">
+	<ingredient id="4037" count="10"/>
+	<production id="23183" count="1"/>
+	</item>	
+	<item id="112">
+	<ingredient id="4037" count="10"/>
+	<production id="23188" count="1"/>
+	</item>	
+	<item id="113">
+	<ingredient id="4037" count="10"/>
+	<production id="23457" count="1"/>
+	</item>	
+	<item id="114">
+	<ingredient id="4037" count="10"/>
+	<production id="23459" count="1"/>
+	</item>
+	<item id="115">
+	<ingredient id="4037" count="10"/>
+	<production id="23452" count="1"/>
+	</item>
+	<item id="116">
+		<ingredient id="4037" count="10"/>
+		<production id="10132" count="1"/>
+	</item>	
+		<item id="116">
+		<ingredient id="4037" count="10"/>
+		<production id="10135" count="1"/>
+	</item>
+		<item id="116">
+		<ingredient id="4037" count="10"/>
+		<production id="22887" count="1"/>
+	</item>
+	<item id="116">
+		<ingredient id="4037" count="10"/>
+		<production id="22394" count="1"/>
+	</item>
+		<item id="116">
+		<ingredient id="4037" count="10"/>
+		<production id="21148" count="1"/>
+	</item>
+		<item id="116">
+		<ingredient id="4037" count="10"/>
+		<production id="21149" count="1"/>
+	</item>
+	<item id="116">
+		<ingredient id="4037" count="10"/>
+		<production id="35563" count="100"/>
+	</item>
+	<item id="116">
+		<ingredient id="4037" count="10"/>
+		<production id="35562" count="100"/>
+	</item>
+			<item id="116">
+		<ingredient id="4037" count="10"/>
+		<production id="35566" count="1"/>
+	</item>
+		<item id="116">
+		<ingredient id="4037" count="10"/>
+		<production id="35568" count="1"/>
+	</item>
+	<item id="116">
+		<ingredient id="4037" count="10"/>
+		<production id="35567" count="1"/>
+	</item>
+		<item id="116">
+		<ingredient id="4037" count="10"/>
+		<production id="35569" count="1"/>
+	</item>
+	<item id="116">
+		<ingredient id="4037" count="10"/>
+		<production id="35667" count="1"/>
+	</item>
+ </list>

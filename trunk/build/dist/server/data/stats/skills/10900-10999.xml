@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+    <skill id="10997" levels="1" name="Уникальное Умение Лучника - Пассивное" > 
+        <table name="#magicLevel">85</table>
+		<set name="reuseDelay" val="8000" />
+		<set name="magicLevel" val="#magicLevel" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isTrigger" val="true" />
+		<for>
+			<effect count="1" name="Buff" time="5" val="0">
+				<add order="0x40" stat="runSpd" val="30" />
+			</effect>
+		</for>	
+    </skill>
+	<skill id="10998" levels="1" name="Уникальное Умение Лучника"> 
+       	<set name="magicLevel" val="85" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<triggers>
+			<trigger id="10997" level="1" type="RECEIVE_DAMAGE" chance="50">
+				<player damage="100;0" />
+			</trigger>
+		</triggers>
+		<for />
+	</skill>
+	<skill id="10999" levels="1" name="Обездвиживающая Атака Лучника">
+		<table name="#power">19158</table>
+		<table name="#element">none</table> 
+       	<table name="#mpConsume2">60</table>
+		<set name="reuseDelay" val="1000" />
+		<set name="hitTime" val="2000" />
+		<set name="castRange" val="700" />
+		<set name="mpConsume2" val="#mpConsume2" />
+		<set name="magicLevel" val="85" />
+		<set name="element" val="#element" />
+		<set name="power" val="#power" />
+		<set name="target" val="TARGET_ONE" />
+		<set name="overHit" val="true" />
+		<set name="skillRadius" val="400" />
+		<set name="skillType" val="PDAM" />
+		<set name="flyType" val="CHARGE" />
+		<set name="flyRadius" val="800" />
+		<set name="flyToBack" val="true" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="nextAction" val="attack" />
+		<cond msgId="2292">
+			<using kind="Bow,Crossbow" />
+		</cond>
+		<for />
+	</skill>
+</list>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "item.dtd">
+<list>
+	<etcitem id="35292" name="Scroll of Escape: Guillotine Fortress">
+		<set name="icon" value="icon.etc_scroll_of_return_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+        <skills>
+			<skill id="9461" level="1"/>
+        </skills>
+	</etcitem>
+	<etcitem id="35295" name="Bottle of Tauti's Soul">
+		<set name="icon" value="icon.etc_fruit_juice_glass_bottle_i08" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="60"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+	<etcitem id="35296" name="Specter Shaper Fragment">
+		<set name="icon" value="icon.etc_vesper_shaper_piece_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="60"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+	<etcitem id="35297" name="Specter Cutter Fragment">
+		<set name="icon" value="icon.etc_vesper_cutter_piece_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="60"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+	<etcitem id="35298" name="Specter Slasher Fragment">
+		<set name="icon" value="icon.etc_vesper_slasher_piece_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="60"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+	<etcitem id="35299" name="Specter Avenger Fragment">
+		<set name="icon" value="icon.etc_vesper_avenger_piece_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="60"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+</list>

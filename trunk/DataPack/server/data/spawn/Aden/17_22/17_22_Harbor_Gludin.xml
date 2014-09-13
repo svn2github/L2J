@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "spawn.dtd">
+<list>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-91792" y="149968" z="-3629" h="0" />
+		<npc id="30387" /><!--Clancy-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-93275" y="147654" z="-2674" h="0" />
+		<npc id="30428" /><!--Perrin-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-91328" y="149392" z="-3625" h="16000" />
+		<npc id="31569" /><!--Cyano-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-93523" y="152513" z="-3623" h="28672" />
+		<npc id="30611" /><!--Triff-->
+	</spawn>
+</list>	
+	

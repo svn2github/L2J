@@ -1,0 +1,531 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<product id="1010030" price="8" category="2" tabId="0" on_sale="true">
+		<component item_id="20332" count="5000"/>
+	</product>
+	<product id="1010031" price="40" category="2" tabId="0" on_sale="true">
+		<component item_id="20334" count="5000"/>
+	</product>
+	<product id="1010034" price="80" category="2" tabId="0" on_sale="true">
+		<component item_id="21200" count="1"/>
+	</product>
+	<product id="1010036" price="80" category="2" tabId="0" on_sale="true">
+		<component item_id="14065" count="1"/>
+	</product>
+	<product id="1010044" price="240" category="2" tabId="0" on_sale="true">
+		<component item_id="22499" count="1"/>
+	</product>
+	<product id="1010045" price="160" category="2" tabId="0" on_sale="true">
+		<component item_id="22504" count="1"/>
+	</product>
+	<product id="1010046" price="80" category="2" tabId="0" on_sale="true">
+		<component item_id="22500" count="1"/>
+	</product>
+	<product id="1010074" price="240" category="5" tabId="0" on_sale="true">
+		<component item_id="22312" count="1"/>
+	</product>
+	<product id="1010075" price="400" category="5" tabId="0" on_sale="true">
+		<component item_id="22313" count="1"/>
+	</product>
+	<product id="1010099" price="2000" category="3" tabId="0" on_sale="true">
+		<component item_id="22370" count="1"/>
+	</product>
+	<product id="1010100" price="2000" category="3" tabId="0" on_sale="true">
+		<component item_id="20512" count="1"/>
+	</product>
+	<product id="1010107" price="120" category="2" tabId="0" on_sale="true">
+		<component item_id="21237" count="3"/>
+	</product>
+	<product id="1010108" price="200" category="2" tabId="0" on_sale="true">
+		<component item_id="21241" count="3"/>
+	</product>
+	<product id="1010128" price="1200" category="3" tabId="0" on_sale="true">
+		<component item_id="20942" count="1"/>
+	</product>
+	<product id="1010143" price="1200" category="3" tabId="0" on_sale="true">
+		<component item_id="21167" count="1"/>
+	</product>
+	<product id="1010150" price="2000" category="3" tabId="0" on_sale="true">
+		<component item_id="21389" count="1"/>
+	</product>
+	<product id="1010151" price="2000" category="3" tabId="0" on_sale="true">
+		<component item_id="21377" count="1"/>
+	</product>
+	<product id="1010152" price="1200" category="3" tabId="0" on_sale="true">
+		<component item_id="21584" count="1"/>
+	</product>
+	<product id="1010153" price="1200" category="3" tabId="0" on_sale="true">
+		<component item_id="21589" count="1"/>
+	</product>
+	<product id="1010154" price="160" category="6" tabId="4" on_sale="true">
+		<component item_id="21212" count="1"/>
+	</product>
+	<product id="1010159" price="80" category="6" tabId="0" on_sale="true">
+		<component item_id="22980" count="1"/>
+	</product>
+	<product id="1010173" price="80" category="2" tabId="0" on_sale="true">
+		<component item_id="22932" count="1"/>
+	</product>
+	<product id="1010174" price="120" category="2" tabId="0" on_sale="true">
+		<component item_id="22933" count="1"/>
+	</product>
+	<product id="1010175" price="160" category="2" tabId="0" on_sale="true">
+		<component item_id="22934" count="1"/>
+	</product>
+	<product id="1010176" price="120" category="2" tabId="0" on_sale="true">
+		<component item_id="22935" count="1"/>
+	</product>
+	<product id="1010177" price="160" category="2" tabId="0" on_sale="true">
+		<component item_id="22936" count="1"/>
+	</product>
+	<product id="1010178" price="240" category="2" tabId="0" on_sale="true">
+		<component item_id="22937" count="1"/>
+	</product>
+	<product id="1010180" price="80" category="5" tabId="4" on_sale="true">
+		<component item_id="21421" count="1"/>
+	</product>
+	<product id="1010204" price="1200" category="3" tabId="0" on_sale="true">
+		<component item_id="21329" count="1"/>
+	</product>
+	<product id="1010208" price="1200" category="3" tabId="0" on_sale="true">
+		<component item_id="22931" count="1"/>
+	</product>
+	<product id="1010209" price="1200" category="3" tabId="0" on_sale="true">
+		<component item_id="22909" count="1"/>
+	</product>
+	<product id="1010211" price="2000" category="3" tabId="0" on_sale="true">
+		<component item_id="22358" count="1"/>
+	</product>
+	<product id="1010212" price="40" category="6" tabId="0" on_sale="true">
+		<component item_id="21245" count="1"/>
+	</product>
+	<product id="1010214" price="160" category="6" tabId="4" on_sale="true">
+		<component item_id="22966" count="1"/>
+	</product>
+	<product id="1010217" price="240" category="2" tabId="0" on_sale="true">
+		<component item_id="17025" count="1"/>
+	</product>
+	<product id="1010223" price="2400" category="5" tabId="0" on_sale="true">
+		<component item_id="23133" count="1"/>
+	</product>
+	<product id="1010224" price="2400" category="5" tabId="0" on_sale="true">
+		<component item_id="23134" count="1"/>
+	</product>
+	<product id="1010225" price="4000" category="5" tabId="0" on_sale="true">
+		<component item_id="23135" count="1"/>
+	</product>
+	<product id="1010229" price="1200" category="3" tabId="0" on_sale="true">
+		<component item_id="22256" count="1"/>
+	</product>
+	<product id="1010234" price="2000" category="3" tabId="0" on_sale="true">
+		<component item_id="21413" count="1"/>
+	</product>
+	<!--<product id="1010235" price="40" category="6" tabId="0" on_sale="true">-->
+		<!--<component item_id="22744" count="1"/>-->
+	<!--</product>-->
+	<!--<product id="1010236" price="80" category="6" tabId="0" on_sale="true">-->
+		<!--<component item_id="22883" count="1"/>-->
+	<!--</product>-->
+	<product id="1010237" price="80" category="6" tabId="0" on_sale="true">
+		<component item_id="35932" count="1"/>
+	</product>
+	<product id="1010238" price="80" category="6" tabId="0" on_sale="true">
+		<component item_id="17206" count="1"/>
+	</product>
+	<product id="1010239" price="150" category="6" tabId="0" on_sale="true">
+		<component item_id="17208" count="1"/>
+	</product>
+	<product id="1010240" price="220" category="6" tabId="0" on_sale="true">
+		<component item_id="17210" count="1"/>
+	</product>
+	<product id="1010241" price="290" category="6" tabId="2" on_sale="true">
+		<component item_id="17211" count="1"/>
+	</product>
+	<product id="1010242" price="160" category="2" tabId="0" on_sale="true">
+		<component item_id="34620" count="1"/>
+	</product>
+	<product id="1010243" price="20" category="2" tabId="0" on_sale="true">
+		<component item_id="22473" count="1"/>
+	</product>
+	<product id="1010267" price="800" category="3" tabId="0" on_sale="true">
+		<component item_id="22402" count="1"/>
+	</product>
+	<product id="1010268" price="1600" category="3" tabId="0" on_sale="true">
+		<component item_id="22408" count="1"/>
+	</product>
+	<product id="1010269" price="400" category="3" tabId="0" on_sale="true">
+		<component item_id="22682" count="1"/>
+	</product>
+	<product id="1010270" price="800" category="3" tabId="0" on_sale="true">
+		<component item_id="22688" count="1"/>
+	</product>
+	<product id="1010271" price="160" category="3" tabId="0" on_sale="true">
+		<component item_id="22708" count="1"/>
+	</product>
+	<product id="1010272" price="640" category="3" tabId="0" on_sale="true">
+		<component item_id="22709" count="1"/>
+	</product>
+	<product id="1010273" price="160" category="3" tabId="0" on_sale="true">
+		<component item_id="22700" count="1"/>
+	</product>
+	<product id="1010274" price="80" category="3" tabId="0" on_sale="true">
+		<component item_id="22882" count="1"/>
+	</product>
+	<!--<product id="1010275" price="200" category="5" tabId="0" on_sale="true">-->
+		<!--<component item_id="22900" count="1"/>-->
+	<!--</product>-->
+	<!--<product id="1010276" price="400" category="5" tabId="0" on_sale="true">-->
+		<!--<component item_id="22901" count="1"/>-->
+	<!--</product>-->
+	<!--<product id="1010277" price="200" category="5" tabId="0" on_sale="true">-->
+		<!--<component item_id="22902" count="1"/>-->
+	<!--</product>-->
+	<!--<product id="1010278" price="400" category="5" tabId="0" on_sale="true">-->
+		<!--<component item_id="22903" count="1"/>-->
+	<!--</product>-->
+	<product id="1010279" price="200" category="5" tabId="0" on_sale="true">
+		<component item_id="22542" count="1"/>
+	</product>
+	<!--<product id="1010282" price="200" category="6" tabId="0" on_sale="true">-->
+		<!--<component item_id="22981" count="1"/>-->
+	<!--</product>-->
+	<product id="1010299" price="1200" category="3" tabId="0" on_sale="true">
+		<component item_id="22376" count="1"/>
+	</product>
+	<!--<product id="1010307" price="1000" category="5" tabId="0" on_sale="true">-->
+		<!--<component item_id="34751" count="1"/>-->
+	<!--</product>-->
+	<!--<product id="1010308" price="1600" category="5" tabId="0" on_sale="true">-->
+		<!--<component item_id="34752" count="1"/>-->
+	<!--</product>-->
+	<!--<product id="1010309" price="2400" category="5" tabId="4" on_sale="true">-->
+		<!--<component item_id="34753" count="1"/>-->
+	<!--</product>-->
+	<product id="1010310" price="160" category="5" tabId="0" on_sale="true">
+		<component item_id="20598" count="1"/>
+	</product>
+	<!--<product id="1010321" price="1200" category="3" tabId="0" on_sale="true">-->
+		<!--<component item_id="22260" count="1"/>-->
+	<!--</product>-->
+	<product id="1010322" price="1200" category="3" tabId="0" on_sale="true">
+		<component item_id="20016" count="1"/>
+	</product>
+	<product id="1010323" price="1200" category="3" tabId="0" on_sale="true">
+		<component item_id="21565" count="1"/>
+	</product>
+	<product id="1010324" price="1200" category="3" tabId="0" on_sale="true">
+		<component item_id="21553" count="1"/>
+	</product>
+	<product id="1010326" price="1200" category="3" tabId="0" on_sale="true">
+		<component item_id="20931" count="1"/>
+	</product>
+	<product id="1010328" price="1200" category="3" tabId="0" on_sale="true">
+		<component item_id="21541" count="1"/>
+	</product>
+	<product id="1010329" price="1200" category="3" tabId="0" on_sale="true">
+		<component item_id="20678" count="1"/>
+	</product>
+	<product id="1010330" price="1200" category="3" tabId="0" on_sale="true">
+		<component item_id="22917" count="1"/>
+	</product>
+	<product id="1010331" price="1200" category="3" tabId="0" on_sale="true">
+		<component item_id="20321" count="1"/>
+	</product>
+	<!--<product id="1010332" price="240" category="6" tabId="0" on_sale="true">-->
+		<!--<component item_id="22884" count="1"/>-->
+	<!--</product>-->
+	<!--<product id="1010333" price="640" category="6" tabId="0" on_sale="true">-->
+		<!--<component item_id="22885" count="1"/>-->
+	<!--</product>-->
+	<!--<product id="1010334" price="80" category="6" tabId="0" on_sale="true">-->
+		<!--<component item_id="22745" count="1"/>-->
+	<!--</product>-->
+	<!--<product id="1010335" price="200" category="6" tabId="0" on_sale="true">-->
+		<!--<component item_id="22747" count="1"/>-->
+	<!--</product>-->
+	<!--<product id="1010336" price="320" category="6" tabId="0" on_sale="true">-->
+		<!--<component item_id="22749" count="1"/>-->
+	<!--</product>-->
+	<product id="1010344" price="160" category="2" tabId="0" on_sale="true">
+		<component item_id="33855" count="1"/>
+	</product>
+	<product id="1010346" price="80" category="2" tabId="0" on_sale="true">
+		<component item_id="33861" count="1"/>
+	</product>
+	<product id="1010352" price="1200" category="3" tabId="0" on_sale="true">
+		<component item_id="20569" count="1"/>
+	</product>
+	<product id="1010353" price="400" category="3" tabId="0" on_sale="true">
+		<component item_id="21319" count="1"/>
+	</product>
+	<product id="1010354" price="1200" category="3" tabId="0" on_sale="true">
+		<component item_id="21353" count="1"/>
+	</product>
+	<product id="1010355" price="1200" category="3" tabId="0" on_sale="true">
+		<component item_id="20686" count="1"/>
+	</product>
+	<product id="1010356" price="1200" category="3" tabId="0" on_sale="true">
+		<component item_id="20292" count="1"/>
+	</product>
+	<product id="1010358" price="1200" category="3" tabId="0" on_sale="true">
+		<component item_id="21154" count="1"/>
+	</product>
+	<product id="1010360" price="400" category="3" tabId="0" on_sale="true">
+		<component item_id="21315" count="1"/>
+	</product>
+	<product id="1010387" price="20" category="2" tabId="0" on_sale="true">
+		<component item_id="21235" count="1"/>
+	</product>
+	<!--<product id="1010388" price="100" category="6" tabId="0" on_sale="true">-->
+		<!--<component item_id="22906" count="1"/>-->
+	<!--</product>-->
+	<product id="1010389" price="1120" category="6" tabId="0" on_sale="true">
+		<component item_id="20553" count="1"/>
+	</product>
+	<!--<product id="1010390" price="200" category="6" tabId="0" on_sale="true">-->
+		<!--<component item_id="23277" count="1"/>-->
+	<!--</product>-->
+	<!--<product id="1010391" price="2240" category="6" tabId="0" on_sale="true">-->
+		<!--<component item_id="23278" count="1"/>-->
+	<!--</product>-->
+	<!--<product id="1010392" price="400" category="6" tabId="0" on_sale="true">-->
+		<!--<component item_id="23280" count="1"/>-->
+	<!--</product>-->
+	<!--<product id="1010393" price="4480" category="6" tabId="2" on_sale="true">-->
+		<!--<component item_id="23281" count="1"/>-->
+	<!--</product>-->
+	<!--<product id="1010412" price="400" category="2" tabId="0" on_sale="true">-->
+		<!--<component item_id="22743" count="1"/>-->
+	<!--</product>-->
+	<product id="1010413" price="2000" category="3" tabId="0" on_sale="true">
+		<component item_id="22666" count="1"/>
+	</product>
+	<product id="1010414" price="2000" category="3" tabId="0" on_sale="true">
+		<component item_id="22667" count="1"/>
+	</product>
+	<product id="1010415" price="2000" category="3" tabId="0" on_sale="true">
+		<component item_id="22668" count="1"/>
+	</product>
+	<product id="1010416" price="2000" category="3" tabId="0" on_sale="true">
+		<component item_id="22669" count="1"/>
+	</product>
+	<product id="1010417" price="2000" category="3" tabId="0" on_sale="true">
+		<component item_id="22670" count="1"/>
+	</product>
+	<product id="1010418" price="2000" category="3" tabId="0" on_sale="true">
+		<component item_id="22671" count="1"/>
+	</product>
+	<product id="1010419" price="2000" category="3" tabId="0" on_sale="true">
+		<component item_id="22672" count="1"/>
+	</product>
+	<product id="1010420" price="2000" category="3" tabId="0" on_sale="true">
+		<component item_id="22673" count="1"/>
+	</product>
+	<product id="1010421" price="2000" category="3" tabId="0" on_sale="true">
+		<component item_id="22674" count="1"/>
+	</product>
+	<product id="1010422" price="2000" category="3" tabId="0" on_sale="true">
+		<component item_id="22675" count="1"/>
+	</product>
+	<product id="1010423" price="2000" category="3" tabId="0" on_sale="true">
+		<component item_id="22676" count="1"/>
+	</product>
+	<product id="1010424" price="2000" category="3" tabId="0" on_sale="true">
+		<component item_id="22677" count="1"/>
+	</product>
+	<product id="1010425" price="2000" category="3" tabId="0" on_sale="true">
+		<component item_id="22678" count="1"/>
+	</product>
+	<product id="1010426" price="2000" category="3" tabId="0" on_sale="true">
+		<component item_id="22679" count="1"/>
+	</product>
+	<product id="1010427" price="2000" category="3" tabId="0" on_sale="true">
+		<component item_id="22680" count="1"/>
+	</product>
+	<product id="1010428" price="2000" category="3" tabId="0" on_sale="true">
+		<component item_id="22681" count="1"/>
+	</product>
+	<product id="1010432" price="320" category="2" tabId="4" on_sale="true">
+		<component item_id="36008" count="1"/>
+	</product>
+	<product id="1010433" price="160" category="2" tabId="4" on_sale="true">
+		<component item_id="36009" count="1"/>
+	</product>
+	<product id="1010451" price="1200" category="3" tabId="0" on_sale="true">
+		<component item_id="20929" count="1"/>
+	</product>
+	<product id="1010485" price="1200" category="3" tabId="0" on_sale="true">
+		<component item_id="20322" count="1"/>
+	</product>
+	<!--<product id="1010513" price="80" category="2" tabId="0" on_sale="true">-->
+		<!--<component item_id="22888" count="5000"/>-->
+	<!--</product>-->
+	<!--<product id="1010518" price="160" category="2" tabId="0" on_sale="true">-->
+		<!--<component item_id="22889" count="5000"/>-->
+	<!--</product>-->
+	<!--<product id="1010520" price="40" category="2" tabId="0" on_sale="true">-->
+		<!--<component item_id="23393" count="1"/>-->
+	<!--</product>-->
+	<!--<product id="1010525" price="40" category="2" tabId="0" on_sale="true">-->
+		<!--<component item_id="23388" count="1"/>-->
+	<!--</product>-->
+	<product id="1010545" price="2400" category="3" tabId="0" on_sale="true">
+		<component item_id="22193" count="1"/>
+	</product>
+	<product id="1010553" price="40" category="2" tabId="0" on_sale="true">
+		<component item_id="36010" count="1"/>
+	</product>
+	<product id="1010554" price="40" category="2" tabId="0" on_sale="true">
+		<component item_id="36011" count="1"/>
+	</product>
+	<product id="1010555" price="40" category="2" tabId="0" on_sale="true">
+		<component item_id="36012" count="1"/>
+	</product>
+	<product id="1010556" price="80" category="2" tabId="0" on_sale="true">
+		<component item_id="36013" count="1"/>
+	</product>
+	<product id="1010571" price="99" category="2" tabId="0" on_sale="true">
+		<component item_id="33508" count="1"/>
+	</product>
+	<!--<product id="1010575" price="120" category="2" tabId="0" on_sale="true">-->
+		<!--<component item_id="23399" count="1"/>-->
+	<!--</product>-->
+	<!--<product id="1010576" price="240" category="2" tabId="0" on_sale="true">-->
+		<!--<component item_id="23398" count="1"/>-->
+	<!--</product>-->
+	<!--<product id="1010577" price="16" category="2" tabId="0" on_sale="true">-->
+		<!--<component item_id="23394" count="1"/>-->
+	<!--</product>-->
+	<!--<product id="1010578" price="8" category="2" tabId="0" on_sale="true">-->
+		<!--<component item_id="23395" count="1"/>-->
+	<!--</product>-->
+	<product id="1010588" price="400" category="4" tabId="0" on_sale="true">
+		<component item_id="13750" count="3"/>
+		<component item_id="20553" count="1"/>
+		<component item_id="21037" count="10"/>
+		<component item_id="34082" count="1"/>
+	</product>
+	<product id="1010589" price="1200" category="4" tabId="0" on_sale="true">
+		<component item_id="13750" count="9"/>
+		<component item_id="21037" count="30"/>
+		<!--<component item_id="23276" count="1"/>-->
+		<component item_id="34082" count="3"/>
+	</product>
+	<product id="1010590" price="3600" category="4" tabId="2" on_sale="true">
+		<component item_id="13750" count="27"/>
+		<component item_id="21037" count="90"/>
+		<!--<component item_id="23279" count="1"/>-->
+		<component item_id="34082" count="9"/>
+	</product>
+	<product id="1010596" price="1599" category="3" tabId="0" on_sale="true">
+		<component item_id="8913" count="1"/>
+	</product>
+	<product id="1010597" price="1599" category="3" tabId="0" on_sale="true">
+		<component item_id="13501" count="1"/>
+	</product>
+	<product id="1010598" price="1199" category="3" tabId="0" on_sale="true">
+		<component item_id="13234" count="1"/>
+	</product>
+	<product id="1010599" price="1199" category="3" tabId="0" on_sale="true">
+		<component item_id="13235" count="1"/>
+	</product>
+	<product id="1010600" price="1599" category="3" tabId="0" on_sale="true">
+		<component item_id="23482" count="1"/>
+	</product>
+	<product id="1010603" price="560" category="6" tabId="0" on_sale="true">
+		<component item_id="34043" count="1"/>
+	</product>
+	<product id="1010604" price="1199" category="6" tabId="0" on_sale="true">
+		<component item_id="34046" count="1"/>
+	</product>
+	<!--<product id="1010605" price="299" category="6" tabId="0" on_sale="true">-->
+		<!--<component item_id="23389" count="1"/>-->
+	<!--</product>-->
+	<product id="1010606" price="1499" category="6" tabId="0" on_sale="true">
+		<component item_id="35977" count="1"/>
+	</product>
+	<!--<product id="1010607" price="40" category="6" tabId="0" on_sale="true">-->
+		<!--<component item_id="23294" count="1"/>-->
+	<!--</product>-->
+	<!--<product id="1010608" price="299" category="6" tabId="0" on_sale="true">-->
+		<!--<component item_id="22771" count="1"/>-->
+	<!--</product>-->
+	<!--<product id="1010609" price="60" category="6" tabId="0" on_sale="true">-->
+		<!--<component item_id="23295" count="1"/>-->
+	<!--</product>-->
+	<!--<product id="1010610" price="599" category="6" tabId="2" on_sale="true">-->
+		<!--<component item_id="22774" count="1"/>-->
+	<!--</product>-->
+	<product id="1010611" price="49" category="2" tabId="0" on_sale="true">
+		<component item_id="20904" count="10"/>
+	</product>
+	<product id="1010612" price="399" category="2" tabId="0" on_sale="true">
+		<component item_id="20914" count="1"/>
+	</product>
+	<product id="1010613" price="80" category="2" tabId="0" on_sale="true">
+		<component item_id="21210" count="3"/>
+	</product>
+	<product id="1010614" price="80" category="2" tabId="0" on_sale="true">
+		<component item_id="21037" count="100"/>
+	</product>
+	<product id="1010615" price="80" category="2" tabId="2" on_sale="true">
+		<component item_id="10649" count="1"/>
+	</product>
+	<product id="1010616" price="72" category="2" tabId="0" on_sale="true">
+		<component item_id="35562" count="1"/>
+	</product>
+	<product id="1010621" price="399" category="5" tabId="0" on_sale="true">
+		<component item_id="30275" count="1"/>
+	</product>
+	<!--<product id="1010623" price="240" category="2" tabId="0" on_sale="true">-->
+		<!--<component item_id="23232" count="1"/>-->
+	<!--</product>-->
+	<!--<product id="1010635" price="279" category="2" tabId="0" on_sale="true">-->
+		<!--<component item_id="23385" count="1"/>-->
+	<!--</product>-->
+	<product id="1010670" price="239" category="2" tabId="0" on_sale="true">
+		<component item_id="36275" count="1"/>
+	</product>
+	<product id="1010671" price="159" category="2" tabId="0" on_sale="true">
+		<component item_id="36273" count="1"/>
+	</product>
+	<product id="1010672" price="99" category="2" tabId="0" on_sale="true">
+		<component item_id="36270" count="1"/>
+	</product>
+	<product id="1010673" price="199" category="2" tabId="0" on_sale="true">
+		<component item_id="36274" count="1"/>
+	</product>
+	<product id="1010674" price="199" category="2" tabId="0" on_sale="true">
+		<component item_id="36272" count="1"/>
+	</product>
+	<product id="1010675" price="159" category="2" tabId="0" on_sale="true">
+		<component item_id="36271" count="1"/>
+	</product>
+	<product id="1010676" price="199" category="2" tabId="0" on_sale="true">
+		<component item_id="36276" count="1"/>
+	</product>
+	<product id="1010677" price="199" category="2" tabId="0" on_sale="true">
+		<component item_id="36277" count="1"/>
+	</product>
+	<product id="1010684" price="799" category="4" tabId="1" on_sale="true">
+		<component item_id="20894" count="1"/>
+		<component item_id="23162" count="1"/>
+	</product>
+	<product id="1010685" price="799" category="4" tabId="1" on_sale="true">
+		<component item_id="20895" count="1"/>
+		<component item_id="23163" count="1"/>
+	</product>
+	<product id="1010694" price="1" category="2" tabId="1" on_sale="true">
+		<component item_id="21580" count="1"/>
+	</product>
+	<product id="1010695" price="80" category="2" tabId="1" on_sale="true">
+		<component item_id="21581" count="1"/>
+	</product>
+	<product id="1010696" price="800" category="4" tabId="1" on_sale="true">
+		<component item_id="22205" count="1"/>
+		<component item_id="22966" count="10"/>
+	</product>
+	<!--<product id="1010716" price="599" category="2" tabId="1" on_sale="true">-->
+		<!--<component item_id="23225" count="1"/>-->
+	<!--</product>-->
+</list>

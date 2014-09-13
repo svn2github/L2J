@@ -1,0 +1,1135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "spawn.dtd">
+<list>
+	<spawn count="5" respawn="24" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="32971" y="135013" zmin="-3401" zmax="-2401" />
+			<add x="33005" y="143452" zmin="-3401" zmax="-2401" />
+			<add x="38373" y="136115" zmin="-3401" zmax="-2401" />
+			<add x="37333" y="134255" zmin="-3401" zmax="-2401" />
+		</territory>
+		<npc id="20205" /><!--Dire Wolf-->
+	</spawn>
+	<spawn count="2" respawn="24" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="37534" y="134310" zmin="-3567" zmax="-2667" />
+			<add x="38581" y="136035" zmin="-3567" zmax="-2667" />
+			<add x="44103" y="134234" zmin="-3567" zmax="-2667" />
+			<add x="42190" y="133128" zmin="-3567" zmax="-2667" />
+		</territory>
+		<npc id="20205" /><!--Dire Wolf-->
+	</spawn>
+	<spawn count="2" respawn="24" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="33163" y="140018" zmin="-3341" zmax="-2741" />
+			<add x="33268" y="136204" zmin="-3341" zmax="-2741" />
+			<add x="35377" y="135291" zmin="-3341" zmax="-2741" />
+			<add x="35754" y="137587" zmin="-3341" zmax="-2741" />
+		</territory>
+		<npc id="20265" /><!--Monster Eye Searcher-->
+	</spawn>
+	<spawn count="6" respawn="24" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="32971" y="135013" zmin="-3401" zmax="-2401" />
+			<add x="33005" y="143452" zmin="-3401" zmax="-2401" />
+			<add x="38373" y="136115" zmin="-3401" zmax="-2401" />
+			<add x="37333" y="134255" zmin="-3401" zmax="-2401" />
+		</territory>
+		<npc id="20266" /><!--Monster Eye Gazer-->
+	</spawn>
+	<spawn count="4" respawn="24" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="37534" y="134310" zmin="-3567" zmax="-2667" />
+			<add x="38581" y="136035" zmin="-3567" zmax="-2667" />
+			<add x="44103" y="134234" zmin="-3567" zmax="-2667" />
+			<add x="42190" y="133128" zmin="-3567" zmax="-2667" />
+		</territory>
+		<npc id="20266" /><!--Monster Eye Gazer-->
+	</spawn>
+	<spawn count="2" respawn="24" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="33163" y="140018" zmin="-3341" zmax="-2741" />
+			<add x="33268" y="136204" zmin="-3341" zmax="-2741" />
+			<add x="35377" y="135291" zmin="-3341" zmax="-2741" />
+			<add x="35754" y="137587" zmin="-3341" zmax="-2741" />
+		</territory>
+		<npc id="20266" /><!--Monster Eye Gazer-->
+	</spawn>
+	<spawn count="10" respawn="45" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="32934" y="163587" zmin="-3869" zmax="-2869" />
+			<add x="34507" y="162123" zmin="-3869" zmax="-2869" />
+			<add x="41523" y="161005" zmin="-3869" zmax="-2869" />
+			<add x="42133" y="163614" zmin="-3869" zmax="-2869" />
+		</territory>
+		<npc id="20939" /><!--Tanor Silenos Warrior-->
+	</spawn>
+	<spawn count="8" respawn="45" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="41784" y="161100" zmin="-3467" zmax="-2267" />
+			<add x="42227" y="163603" zmin="-3467" zmax="-2267" />
+			<add x="51659" y="163606" zmin="-3467" zmax="-2267" />
+			<add x="46612" y="160716" zmin="-3467" zmax="-2267" />
+		</territory>
+		<npc id="20939" /><!--Tanor Silenos Warrior-->
+	</spawn>
+	<spawn count="2" respawn="45" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="50358" y="162813" zmin="-2943" zmax="-2143" />
+			<add x="51849" y="163652" zmin="-2943" zmax="-2143" />
+			<add x="58663" y="163640" zmin="-2943" zmax="-2143" />
+			<add x="54555" y="161502" zmin="-2943" zmax="-2143" />
+		</territory>
+		<npc id="20939" /><!--Tanor Silenos Warrior-->
+	</spawn>
+	<spawn count="4" respawn="45" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="56219" y="162213" zmin="-3729" zmax="-2429" />
+			<add x="58759" y="163551" zmin="-3729" zmax="-2429" />
+			<add x="65323" y="163590" zmin="-3729" zmax="-2429" />
+			<add x="65262" y="157122" zmin="-3729" zmax="-2429" />
+		</territory>
+		<npc id="20939" /><!--Tanor Silenos Warrior-->
+	</spawn>
+	<spawn count="2" respawn="45" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="63376" y="151753" zmin="-3789" zmax="-2689" />
+			<add x="64250" y="146987" zmin="-3789" zmax="-2689" />
+			<add x="65162" y="146870" zmin="-3789" zmax="-2689" />
+			<add x="65143" y="155403" zmin="-3789" zmax="-2689" />
+		</territory>
+		<npc id="20939" /><!--Tanor Silenos Warrior-->
+	</spawn>
+	<spawn count="2" respawn="45" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="63736" y="144599" zmin="-3789" zmax="-2689" />
+			<add x="63982" y="142779" zmin="-3789" zmax="-2689" />
+			<add x="65167" y="141626" zmin="-3789" zmax="-2689" />
+			<add x="65176" y="146649" zmin="-3789" zmax="-2689" />
+		</territory>
+		<npc id="20939" /><!--Tanor Silenos Warrior-->
+	</spawn>
+	<spawn count="3" respawn="45" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="37852" y="163429" zmin="-3724" zmax="-2524" />
+			<add x="38161" y="162091" zmin="-3724" zmax="-2524" />
+			<add x="41318" y="161797" zmin="-3724" zmax="-2524" />
+			<add x="41918" y="163433" zmin="-3724" zmax="-2524" />
+		</territory>
+		<npc id="20939" /><!--Tanor Silenos Warrior-->
+	</spawn>
+	<spawn count="6" respawn="45" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="56219" y="162213" zmin="-3729" zmax="-2429" />
+			<add x="58759" y="163551" zmin="-3729" zmax="-2429" />
+			<add x="65323" y="163590" zmin="-3729" zmax="-2429" />
+			<add x="65262" y="157122" zmin="-3729" zmax="-2429" />
+		</territory>
+		<npc id="20941" /><!--Tanor Silenos Chieftain-->
+	</spawn>
+	<spawn count="1" respawn="45" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="63376" y="151753" zmin="-3789" zmax="-2689" />
+			<add x="64250" y="146987" zmin="-3789" zmax="-2689" />
+			<add x="65162" y="146870" zmin="-3789" zmax="-2689" />
+			<add x="65143" y="155403" zmin="-3789" zmax="-2689" />
+		</territory>
+		<npc id="20941" /><!--Tanor Silenos Chieftain-->
+	</spawn>
+	<spawn count="3" respawn="45" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="61185" y="162615" zmin="-3702" zmax="-2802" />
+			<add x="62282" y="159897" zmin="-3702" zmax="-2802" />
+			<add x="64998" y="159112" zmin="-3702" zmax="-2802" />
+			<add x="65021" y="162016" zmin="-3702" zmax="-2802" />
+		</territory>
+		<npc id="20941" /><!--Tanor Silenos Chieftain-->
+	</spawn>
+	<spawn count="4" respawn="45" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="41784" y="161100" zmin="-3467" zmax="-2267" />
+			<add x="42227" y="163603" zmin="-3467" zmax="-2267" />
+			<add x="51659" y="163606" zmin="-3467" zmax="-2267" />
+			<add x="46612" y="160716" zmin="-3467" zmax="-2267" />
+		</territory>
+		<npc id="20944" /><!--Nightmare Lord-->
+	</spawn>
+	<spawn count="4" respawn="45" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="50358" y="162813" zmin="-2943" zmax="-2143" />
+			<add x="51849" y="163652" zmin="-2943" zmax="-2143" />
+			<add x="58663" y="163640" zmin="-2943" zmax="-2143" />
+			<add x="54555" y="161502" zmin="-2943" zmax="-2143" />
+		</territory>
+		<npc id="20944" /><!--Nightmare Lord-->
+	</spawn>
+	<spawn count="10" respawn="45" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="56219" y="162213" zmin="-3729" zmax="-2429" />
+			<add x="58759" y="163551" zmin="-3729" zmax="-2429" />
+			<add x="65323" y="163590" zmin="-3729" zmax="-2429" />
+			<add x="65262" y="157122" zmin="-3729" zmax="-2429" />
+		</territory>
+		<npc id="20944" /><!--Nightmare Lord-->
+	</spawn>
+	<spawn count="2" respawn="45" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="63376" y="151753" zmin="-3789" zmax="-2689" />
+			<add x="64250" y="146987" zmin="-3789" zmax="-2689" />
+			<add x="65162" y="146870" zmin="-3789" zmax="-2689" />
+			<add x="65143" y="155403" zmin="-3789" zmax="-2689" />
+		</territory>
+		<npc id="20944" /><!--Nightmare Lord-->
+	</spawn>
+	<spawn count="1" respawn="45" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="63736" y="144599" zmin="-3789" zmax="-2689" />
+			<add x="63982" y="142779" zmin="-3789" zmax="-2689" />
+			<add x="65167" y="141626" zmin="-3789" zmax="-2689" />
+			<add x="65176" y="146649" zmin="-3789" zmax="-2689" />
+		</territory>
+		<npc id="20944" /><!--Nightmare Lord-->
+	</spawn>
+	<spawn count="3" respawn="45" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="44375" y="163435" zmin="-3276" zmax="-2376" />
+			<add x="45485" y="162041" zmin="-3276" zmax="-2376" />
+			<add x="47721" y="161650" zmin="-3276" zmax="-2376" />
+			<add x="48543" y="163425" zmin="-3276" zmax="-2376" />
+		</territory>
+		<npc id="20944" /><!--Nightmare Lord-->
+	</spawn>
+	<!--[114] tanor_fortress-->
+	<spawn group="tanor_fortress_peace_merchant" count="1" respawn="15000" respawn_random="0" period_of_day="none">
+		<point x="54580" y="137296" z="-2608" h="0" />
+		<npc id="36111" /><!--Suspicious Merchant-->
+	</spawn>
+	<spawn group="tanor_fortress_peace_commanders" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="61864" y="139257" z="-1726" h="-18640" />
+		<npc id="36112" /><!--Guard Captain-->
+	</spawn>
+	<spawn group="tanor_fortress_peace_commanders" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="58480" y="139648" z="-1472" h="0" />
+		<npc id="36113" /><!--Archer Captain-->
+	</spawn>
+	<spawn group="tanor_fortress_peace_commanders" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="59436" y="140834" z="-1724" h="-18240" />
+		<npc id="36114" /><!--Support Unit Captain-->
+	</spawn>
+	<spawn group="tanor_fortress_siege_commanders" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="61864" y="139257" z="-1726" h="-18640" />
+		<npc id="36129" /><!--Guard Captain-->
+	</spawn>
+	<spawn group="tanor_fortress_siege_commanders" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="59436" y="140834" z="-1724" h="-18240" />
+		<npc id="36132" /><!--Support Unit Captain-->
+	</spawn>
+	<spawn group="tanor_fortress_siege_commanders" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="58480" y="139648" z="-1472" h="0" />
+		<npc id="36135" /><!--Archer Captain-->
+	</spawn>
+	<spawn group="tanor_fortress_mercenary" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="61597" y="142130" z="-1840" h="-15820" />
+		<npc id="36138" /><!--Mercenary Captain-->
+	</spawn>
+	<spawn group="tanor_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="61498" y="140779" z="-1757" h="14480" />
+		<npc id="36125" /><!--Court Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="61531" y="140772" z="-1757" h="14480" />
+		<npc id="36125" /><!--Court Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="61565" y="140766" z="-1757" h="14480" />
+		<npc id="36125" /><!--Court Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="61596" y="140760" z="-1757" h="14480" />
+		<npc id="36125" /><!--Court Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="58929" y="138124" z="-1757" h="-18664" />
+		<npc id="36125" /><!--Court Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="58963" y="138116" z="-1757" h="-18664" />
+		<npc id="36125" /><!--Court Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="58996" y="138109" z="-1757" h="-18664" />
+		<npc id="36125" /><!--Court Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="59028" y="138102" z="-1757" h="-18664" />
+		<npc id="36125" /><!--Court Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="60449" y="140033" z="-1757" h="14480" />
+		<npc id="36125" /><!--Court Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="60415" y="140040" z="-1757" h="14480" />
+		<npc id="36125" /><!--Court Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="60383" y="140046" z="-1757" h="14480" />
+		<npc id="36125" /><!--Court Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="60349" y="140053" z="-1757" h="14480" />
+		<npc id="36125" /><!--Court Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="60207" y="138815" z="-1757" h="-18664" />
+		<npc id="36125" /><!--Court Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="60175" y="138822" z="-1757" h="-18664" />
+		<npc id="36125" /><!--Court Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="60143" y="138829" z="-1754" h="-18664" />
+		<npc id="36125" /><!--Court Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="60110" y="138835" z="-1757" h="-18664" />
+		<npc id="36125" /><!--Court Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="60368" y="141024" z="-1379" h="14540" />
+		<npc id="36126" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="60416" y="141024" z="-1379" h="14540" />
+		<npc id="36126" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="58944" y="141312" z="-1379" h="14540" />
+		<npc id="36126" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="58896" y="141328" z="-1379" h="14540" />
+		<npc id="36126" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="62368" y="140624" z="-1379" h="14540" />
+		<npc id="36126" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="62400" y="140624" z="-1379" h="14540" />
+		<npc id="36126" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="62880" y="139280" z="-1379" h="0" />
+		<npc id="36126" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="62864" y="139232" z="-1379" h="0" />
+		<npc id="36126" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="62688" y="138288" z="-1379" h="0" />
+		<npc id="36126" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="62672" y="138256" z="-1379" h="0" />
+		<npc id="36126" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="61616" y="137552" z="-1379" h="-17588" />
+		<npc id="36126" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="61584" y="137568" z="-1379" h="-17588" />
+		<npc id="36126" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="60144" y="137856" z="-1379" h="-17588" />
+		<npc id="36126" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="60112" y="137856" z="-1379" h="-17588" />
+		<npc id="36126" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="58160" y="138256" z="-1379" h="-17588" />
+		<npc id="36126" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="58112" y="138256" z="-1379" h="-17588" />
+		<npc id="36126" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="57552" y="139120" z="-1379" h="30856" />
+		<npc id="36126" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="57568" y="139152" z="-1379" h="30856" />
+		<npc id="36126" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="57808" y="140416" z="-1379" h="30692" />
+		<npc id="36126" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="57824" y="140448" z="-1379" h="30692" />
+		<npc id="36126" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="61034" y="140240" z="-1757" h="7020" />
+		<npc id="36126" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="60928" y="140272" z="-1757" h="7020" />
+		<npc id="36126" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="60960" y="140224" z="-1757" h="7020" />
+		<npc id="36126" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="60992" y="140176" z="-1757" h="7020" />
+		<npc id="36126" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="61024" y="140144" z="-1757" h="7020" />
+		<npc id="36126" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="59461" y="138686" z="-1757" h="-25856" />
+		<npc id="36126" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="59456" y="138784" z="-1757" h="-25856" />
+		<npc id="36126" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="59489" y="138738" z="-1757" h="-25856" />
+		<npc id="36126" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="59521" y="138698" z="-1757" h="-25856" />
+		<npc id="36126" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="59552" y="138658" z="-1757" h="-25856" />
+		<npc id="36126" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="59454" y="139641" z="-1757" h="0" />
+		<npc id="36137" /><!--Ballista-->
+	</spawn>
+	<spawn group="tanor_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="61079" y="139309" z="-1757" h="0" />
+		<npc id="36137" /><!--Ballista-->
+	</spawn>
+	<spawn group="tanor_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="62720" y="139538" z="-1757" h="0" />
+		<npc id="36137" /><!--Ballista-->
+	</spawn>
+	<spawn group="tanor_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="57903" y="139845" z="-1757" h="0" />
+		<npc id="36137" /><!--Ballista-->
+	</spawn>
+	<spawn group="tanor_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="61897" y="140473" z="-1307" h="30684" />
+		<npc id="36126" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="61891" y="140444" z="-1307" h="30684" />
+		<npc id="36126" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="61903" y="140503" z="-1307" h="30684" />
+		<npc id="36126" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="61933" y="140466" z="-1307" h="30684" />
+		<npc id="36126" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="61111" y="140630" z="-1312" h="-2180" />
+		<npc id="36126" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="61118" y="140660" z="-1312" h="-2180" />
+		<npc id="36126" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="61105" y="140600" z="-1312" h="-2180" />
+		<npc id="36126" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="61072" y="140639" z="-1312" h="-2180" />
+		<npc id="36126" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="58634" y="138406" z="-1307" h="-2384" />
+		<npc id="36126" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="58640" y="138435" z="-1307" h="-2384" />
+		<npc id="36126" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="58628" y="138378" z="-1307" h="-2384" />
+		<npc id="36126" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="58602" y="138414" z="-1307" h="-2384" />
+		<npc id="36126" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="59422" y="138249" z="-1312" h="30576" />
+		<npc id="36126" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="59416" y="138219" z="-1312" h="30576" />
+		<npc id="36126" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="59429" y="138278" z="-1312" h="30576" />
+		<npc id="36126" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="59453" y="138242" z="-1312" h="30576" />
+		<npc id="36126" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="62134" y="140145" z="-1397" h="14420" />
+		<npc id="36133" /><!--Wizard-->
+	</spawn>
+	<spawn group="tanor_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="62103" y="140151" z="-1397" h="14420" />
+		<npc id="36134" /><!--Healer-->
+	</spawn>
+	<spawn group="tanor_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="62139" y="140170" z="-1397" h="14420" />
+		<npc id="36126" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="62108" y="140176" z="-1397" h="14420" />
+		<npc id="36126" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="61840" y="140652" z="-1574" h="-18600" />
+		<npc id="36133" /><!--Wizard-->
+	</spawn>
+	<spawn group="tanor_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="61870" y="140645" z="-1574" h="-18600" />
+		<npc id="36134" /><!--Healer-->
+	</spawn>
+	<spawn group="tanor_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="61835" y="140628" z="-1574" h="-18600" />
+		<npc id="36126" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="61865" y="140621" z="-1574" h="-18600" />
+		<npc id="36126" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="60798" y="140414" z="-1399" h="14196" />
+		<npc id="36133" /><!--Wizard-->
+	</spawn>
+	<spawn group="tanor_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="60769" y="140420" z="-1399" h="14196" />
+		<npc id="36134" /><!--Healer-->
+	</spawn>
+	<spawn group="tanor_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="60804" y="140438" z="-1399" h="14196" />
+		<npc id="36126" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="60774" y="140444" z="-1399" h="14196" />
+		<npc id="36126" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="61232" y="140774" z="-1576" h="-18404" />
+		<npc id="36133" /><!--Wizard-->
+	</spawn>
+	<spawn group="tanor_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="61204" y="140780" z="-1576" h="-18404" />
+		<npc id="36134" /><!--Healer-->
+	</spawn>
+	<spawn group="tanor_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="61227" y="140749" z="-1576" h="-18404" />
+		<npc id="36126" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="61198" y="140754" z="-1576" h="-18404" />
+		<npc id="36126" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="58396" y="138732" z="-1397" h="-18596" />
+		<npc id="36133" /><!--Wizard-->
+	</spawn>
+	<spawn group="tanor_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="58425" y="138726" z="-1397" h="-18596" />
+		<npc id="36134" /><!--Healer-->
+	</spawn>
+	<spawn group="tanor_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="58392" y="138707" z="-1397" h="-18596" />
+		<npc id="36126" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="58421" y="138702" z="-1397" h="-18596" />
+		<npc id="36126" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="58691" y="138229" z="-1574" h="13984" />
+		<npc id="36133" /><!--Wizard-->
+	</spawn>
+	<spawn group="tanor_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="58663" y="138235" z="-1574" h="13984" />
+		<npc id="36134" /><!--Healer-->
+	</spawn>
+	<spawn group="tanor_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="58697" y="138254" z="-1574" h="13984" />
+		<npc id="36126" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="58669" y="138260" z="-1574" h="13984" />
+		<npc id="36126" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="59768" y="138457" z="-1399" h="-18780" />
+		<npc id="36133" /><!--Wizard-->
+	</spawn>
+	<spawn group="tanor_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="59738" y="138463" z="-1399" h="-18780" />
+		<npc id="36134" /><!--Healer-->
+	</spawn>
+	<spawn group="tanor_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="59763" y="138432" z="-1399" h="-18780" />
+		<npc id="36126" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="59733" y="138438" z="-1399" h="-18780" />
+		<npc id="36126" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="59302" y="138107" z="-1576" h="14120" />
+		<npc id="36133" /><!--Wizard-->
+	</spawn>
+	<spawn group="tanor_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="59331" y="138101" z="-1576" h="14120" />
+		<npc id="36134" /><!--Healer-->
+	</spawn>
+	<spawn group="tanor_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="59307" y="138131" z="-1576" h="14120" />
+		<npc id="36126" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="59336" y="138125" z="-1576" h="14120" />
+		<npc id="36126" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="59590" y="140849" z="-1724" h="-30192" />
+		<npc id="36133" /><!--Wizard-->
+	</spawn>
+	<spawn group="tanor_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="59677" y="140648" z="-1724" h="27056" />
+		<npc id="36133" /><!--Wizard-->
+	</spawn>
+	<spawn group="tanor_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="59502" y="140575" z="-1724" h="19184" />
+		<npc id="36134" /><!--Healer-->
+	</spawn>
+	<spawn group="tanor_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="59283" y="140618" z="-1724" h="9912" />
+		<npc id="36133" /><!--Wizard-->
+	</spawn>
+	<spawn group="tanor_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="59138" y="140756" z="-1724" h="2480" />
+		<npc id="36133" /><!--Wizard-->
+	</spawn>
+	<spawn group="tanor_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="59280" y="140903" z="-1724" h="-7536" />
+		<npc id="36134" /><!--Healer-->
+	</spawn>
+	<spawn group="tanor_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="58607" y="139881" z="-1571" h="-18664" />
+		<npc id="36136" /><!--Archer-->
+	</spawn>
+	<spawn group="tanor_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="58574" y="139888" z="-1571" h="-18664" />
+		<npc id="36136" /><!--Archer-->
+	</spawn>
+	<spawn group="tanor_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="58374" y="139402" z="-1571" h="14480" />
+		<npc id="36136" /><!--Archer-->
+	</spawn>
+	<spawn group="tanor_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="58410" y="139394" z="-1571" h="14480" />
+		<npc id="36136" /><!--Archer-->
+	</spawn>
+	<spawn group="tanor_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="58496" y="139649" z="-1680" h="0" />
+		<npc id="36136" /><!--Archer-->
+	</spawn>
+	<spawn group="tanor_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="58752" y="139825" z="-1675" h="14480" />
+		<npc id="36136" /><!--Archer-->
+	</spawn>
+	<spawn group="tanor_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="58320" y="139904" z="-1680" h="14480" />
+		<npc id="36136" /><!--Archer-->
+	</spawn>
+	<spawn group="tanor_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="58275" y="139866" z="-1675" h="30776" />
+		<npc id="36136" /><!--Archer-->
+	</spawn>
+	<spawn group="tanor_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="58205" y="139512" z="-1675" h="30776" />
+		<npc id="36136" /><!--Archer-->
+	</spawn>
+	<spawn group="tanor_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="58240" y="139457" z="-1680" h="-18664" />
+		<npc id="36136" /><!--Archer-->
+	</spawn>
+	<spawn group="tanor_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="58656" y="139377" z="-1680" h="-18664" />
+		<npc id="36136" /><!--Archer-->
+	</spawn>
+	<spawn group="tanor_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="58707" y="139408" z="-1680" h="-2000" />
+		<npc id="36136" /><!--Archer-->
+	</spawn>
+	<spawn group="tanor_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="58783" y="139771" z="-1680" h="-2000" />
+		<npc id="36136" /><!--Archer-->
+	</spawn>
+	<spawn group="tanor_fortress_live_with_c_center" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="58480" y="139648" z="-1472" h="0" />
+		<npc id="36113" /><!--Archer Captain-->
+	</spawn>
+	<spawn group="tanor_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="61923" y="139186" z="-1726" h="14280" />
+		<npc id="36130" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="61886" y="139193" z="-1726" h="14280" />
+		<npc id="36130" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="61851" y="139200" z="-1726" h="14280" />
+		<npc id="36130" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="61815" y="139207" z="-1726" h="14280" />
+		<npc id="36130" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="61778" y="139215" z="-1726" h="14280" />
+		<npc id="36130" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="61916" y="139151" z="-1726" h="14280" />
+		<npc id="36131" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="61879" y="139157" z="-1726" h="14280" />
+		<npc id="36131" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="61844" y="139164" z="-1726" h="14280" />
+		<npc id="36131" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="61808" y="139170" z="-1726" h="14280" />
+		<npc id="36131" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="61771" y="139177" z="-1726" h="14280" />
+		<npc id="36131" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_noowner_flagdef" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="60296" y="139508" z="-832" h="14480" />
+		<npc id="36122" /><!--Rebel Commander-->
+	</spawn>
+	<spawn group="tanor_fortress_noowner_flagdef" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="60254" y="139545" z="-832" h="14480" />
+		<npc id="36123" /><!--Decorated Rebel Soldier-->
+	</spawn>
+	<spawn group="tanor_fortress_noowner_flagdef" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="60287" y="139539" z="-832" h="14480" />
+		<npc id="36123" /><!--Decorated Rebel Soldier-->
+	</spawn>
+	<spawn group="tanor_fortress_noowner_flagdef" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="60317" y="139534" z="-832" h="14480" />
+		<npc id="36123" /><!--Decorated Rebel Soldier-->
+	</spawn>
+	<spawn group="tanor_fortress_noowner_flagdef" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="60348" y="139528" z="-832" h="14480" />
+		<npc id="36123" /><!--Decorated Rebel Soldier-->
+	</spawn>
+	<spawn group="tanor_fortress_noowner_flagdef" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="60213" y="139341" z="-832" h="-18664" />
+		<npc id="36123" /><!--Decorated Rebel Soldier-->
+	</spawn>
+	<spawn group="tanor_fortress_noowner_flagdef" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="60243" y="139334" z="-832" h="-18664" />
+		<npc id="36123" /><!--Decorated Rebel Soldier-->
+	</spawn>
+	<spawn group="tanor_fortress_noowner_flagdef" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="60272" y="139328" z="-832" h="-18664" />
+		<npc id="36123" /><!--Decorated Rebel Soldier-->
+	</spawn>
+	<spawn group="tanor_fortress_noowner_flagdef" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="60303" y="139321" z="-832" h="-18664" />
+		<npc id="36123" /><!--Decorated Rebel Soldier-->
+	</spawn>
+	<spawn group="tanor_fortress_noowner_flagdef" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="60582" y="139674" z="-862" h="14480" />
+		<npc id="36124" /><!--Rebel Private-->
+	</spawn>
+	<spawn group="tanor_fortress_noowner_flagdef" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="60551" y="139680" z="-862" h="14480" />
+		<npc id="36124" /><!--Rebel Private-->
+	</spawn>
+	<spawn group="tanor_fortress_noowner_flagdef" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="60520" y="139685" z="-862" h="14480" />
+		<npc id="36124" /><!--Rebel Private-->
+	</spawn>
+	<spawn group="tanor_fortress_noowner_flagdef" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="60488" y="139691" z="-862" h="14480" />
+		<npc id="36124" /><!--Rebel Private-->
+	</spawn>
+	<spawn group="tanor_fortress_noowner_flagdef" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="60456" y="139697" z="-862" h="14480" />
+		<npc id="36124" /><!--Rebel Private-->
+	</spawn>
+	<spawn group="tanor_fortress_noowner_flagdef" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="60425" y="139703" z="-862" h="14480" />
+		<npc id="36124" /><!--Rebel Private-->
+	</spawn>
+	<spawn group="tanor_fortress_noowner_flagdef" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="60394" y="139708" z="-862" h="14480" />
+		<npc id="36124" /><!--Rebel Private-->
+	</spawn>
+	<spawn group="tanor_fortress_noowner_flagdef" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="60362" y="139714" z="-863" h="14480" />
+		<npc id="36124" /><!--Rebel Private-->
+	</spawn>
+	<spawn group="tanor_fortress_noowner_flagdef" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="59767" y="139933" z="-1387" h="30752" />
+		<npc id="36124" /><!--Rebel Private-->
+	</spawn>
+	<spawn group="tanor_fortress_noowner_flagdef" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="59774" y="139965" z="-1386" h="30752" />
+		<npc id="36124" /><!--Rebel Private-->
+	</spawn>
+	<spawn group="tanor_fortress_noowner_flagdef" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="59760" y="139901" z="-1387" h="30752" />
+		<npc id="36124" /><!--Rebel Private-->
+	</spawn>
+	<spawn group="tanor_fortress_noowner_flagdef" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="60557" y="138980" z="-1041" h="30840" />
+		<npc id="36124" /><!--Rebel Private-->
+	</spawn>
+	<spawn group="tanor_fortress_noowner_flagdef" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="60552" y="138951" z="-1041" h="30840" />
+		<npc id="36124" /><!--Rebel Private-->
+	</spawn>
+	<spawn group="tanor_fortress_noowner_flagdef" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="60563" y="139009" z="-1041" h="30840" />
+		<npc id="36124" /><!--Rebel Private-->
+	</spawn>
+	<spawn group="tanor_fortress_noowner_flagdef" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="59765" y="139196" z="-1237" h="14424" />
+		<npc id="36124" /><!--Rebel Private-->
+	</spawn>
+	<spawn group="tanor_fortress_noowner_flagdef" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="59735" y="139202" z="-1237" h="14424" />
+		<npc id="36124" /><!--Rebel Private-->
+	</spawn>
+	<spawn group="tanor_fortress_noowner_flagdef" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="59705" y="139207" z="-1237" h="14424" />
+		<npc id="36124" /><!--Rebel Private-->
+	</spawn>
+	<spawn group="tanor_fortress_owner_flagdef" count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="60254" y="139545" z="-832" h="14480" />
+		<npc id="36126" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_owner_flagdef" count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="60287" y="139539" z="-832" h="14480" />
+		<npc id="36126" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_owner_flagdef" count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="60317" y="139534" z="-832" h="14480" />
+		<npc id="36126" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_owner_flagdef" count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="60348" y="139528" z="-832" h="14480" />
+		<npc id="36126" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_owner_flagdef" count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="60213" y="139341" z="-832" h="-18664" />
+		<npc id="36126" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_owner_flagdef" count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="60243" y="139334" z="-832" h="-18664" />
+		<npc id="36126" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_owner_flagdef" count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="60272" y="139328" z="-832" h="-18664" />
+		<npc id="36126" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_owner_flagdef" count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="60303" y="139321" z="-832" h="-18664" />
+		<npc id="36126" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_owner_flagdef" count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="60582" y="139674" z="-862" h="14480" />
+		<npc id="36125" /><!--Court Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_owner_flagdef" count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="60551" y="139680" z="-862" h="14480" />
+		<npc id="36125" /><!--Court Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_owner_flagdef" count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="60520" y="139685" z="-862" h="14480" />
+		<npc id="36125" /><!--Court Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_owner_flagdef" count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="60488" y="139691" z="-862" h="14480" />
+		<npc id="36125" /><!--Court Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_owner_flagdef" count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="60456" y="139697" z="-862" h="14480" />
+		<npc id="36125" /><!--Court Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_owner_flagdef" count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="60425" y="139703" z="-862" h="14480" />
+		<npc id="36125" /><!--Court Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_owner_flagdef" count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="60394" y="139708" z="-862" h="14480" />
+		<npc id="36125" /><!--Court Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_owner_flagdef" count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="60362" y="139714" z="-863" h="14480" />
+		<npc id="36125" /><!--Court Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_reinforce_1" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="60880" y="140240" z="-1757" h="7020" />
+		<npc id="36126" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_reinforce_1" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="60912" y="140192" z="-1757" h="7020" />
+		<npc id="36126" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_reinforce_1" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="60944" y="140144" z="-1757" h="7020" />
+		<npc id="36126" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_reinforce_1" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="60976" y="140112" z="-1757" h="7020" />
+		<npc id="36126" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_reinforce_1" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="59587" y="138686" z="-1757" h="-25856" />
+		<npc id="36126" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_reinforce_1" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="59558" y="138727" z="-1757" h="-25856" />
+		<npc id="36126" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_reinforce_1" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="59527" y="138768" z="-1757" h="-25856" />
+		<npc id="36126" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_reinforce_1" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="59491" y="138812" z="-1757" h="-25856" />
+		<npc id="36126" /><!--Guard-->
+	</spawn>
+	<spawn group="tanor_fortress_reinforce_2" count="2" respawn="0" respawn_random="0" period_of_day="none">
+		<territory><!--[fort114_2122_reinforce_b1]-->
+			<add x="61138" y="139740" zmin="-1812" zmax="-1612" />
+			<add x="62596" y="139471" zmin="-1812" zmax="-1612" />
+			<add x="62535" y="140035" zmin="-1812" zmax="-1612" />
+			<add x="61225" y="140304" zmin="-1812" zmax="-1612" />
+		</territory>
+		<npc id="36136" /><!--Archer-->
+	</spawn>
+	<spawn group="tanor_fortress_reinforce_2" count="2" respawn="0" respawn_random="0" period_of_day="none">
+		<territory><!--[fort114_2122_reinforce_b1]-->
+			<add x="61138" y="139740" zmin="-1812" zmax="-1612" />
+			<add x="62596" y="139471" zmin="-1812" zmax="-1612" />
+			<add x="62535" y="140035" zmin="-1812" zmax="-1612" />
+			<add x="61225" y="140304" zmin="-1812" zmax="-1612" />
+		</territory>
+		<npc id="36133" /><!--Wizard-->
+	</spawn>
+	<spawn group="tanor_fortress_reinforce_2" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<territory><!--[fort114_2122_reinforce_b1]-->
+			<add x="61138" y="139740" zmin="-1812" zmax="-1612" />
+			<add x="62596" y="139471" zmin="-1812" zmax="-1612" />
+			<add x="62535" y="140035" zmin="-1812" zmax="-1612" />
+			<add x="61225" y="140304" zmin="-1812" zmax="-1612" />
+		</territory>
+		<npc id="36134" /><!--Healer-->
+	</spawn>
+	<spawn group="tanor_fortress_reinforce_2" count="2" respawn="0" respawn_random="0" period_of_day="none">
+		<territory><!--[fort114_2122_reinforce_b2]-->
+			<add x="58093" y="140154" zmin="-1812" zmax="-1612" />
+			<add x="59470" y="139872" zmin="-1812" zmax="-1612" />
+			<add x="59538" y="140267" zmin="-1812" zmax="-1612" />
+			<add x="58356" y="140792" zmin="-1812" zmax="-1612" />
+		</territory>
+		<npc id="36136" /><!--Archer-->
+	</spawn>
+	<spawn group="tanor_fortress_reinforce_2" count="2" respawn="0" respawn_random="0" period_of_day="none">
+		<territory><!--[fort114_2122_reinforce_b2]-->
+			<add x="58093" y="140154" zmin="-1812" zmax="-1612" />
+			<add x="59470" y="139872" zmin="-1812" zmax="-1612" />
+			<add x="59538" y="140267" zmin="-1812" zmax="-1612" />
+			<add x="58356" y="140792" zmin="-1812" zmax="-1612" />
+		</territory>
+		<npc id="36133" /><!--Wizard-->
+	</spawn>
+	<spawn group="tanor_fortress_reinforce_2" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<territory><!--[fort114_2122_reinforce_b2]-->
+			<add x="58093" y="140154" zmin="-1812" zmax="-1612" />
+			<add x="59470" y="139872" zmin="-1812" zmax="-1612" />
+			<add x="59538" y="140267" zmin="-1812" zmax="-1612" />
+			<add x="58356" y="140792" zmin="-1812" zmax="-1612" />
+		</territory>
+		<npc id="36134" /><!--Healer-->
+	</spawn>
+	<spawn group="tanor_fortress_reinforce_2" count="2" respawn="0" respawn_random="0" period_of_day="none">
+		<territory><!--[fort114_2122_reinforce_b3]-->
+			<add x="57954" y="138887" zmin="-1812" zmax="-1612" />
+			<add x="58815" y="138703" zmin="-1812" zmax="-1612" />
+			<add x="59282" y="139054" zmin="-1812" zmax="-1612" />
+			<add x="57867" y="139347" zmin="-1812" zmax="-1612" />
+		</territory>
+		<npc id="36136" /><!--Archer-->
+	</spawn>
+	<spawn group="tanor_fortress_reinforce_2" count="2" respawn="0" respawn_random="0" period_of_day="none">
+		<territory><!--[fort114_2122_reinforce_b3]-->
+			<add x="57954" y="138887" zmin="-1812" zmax="-1612" />
+			<add x="58815" y="138703" zmin="-1812" zmax="-1612" />
+			<add x="59282" y="139054" zmin="-1812" zmax="-1612" />
+			<add x="57867" y="139347" zmin="-1812" zmax="-1612" />
+		</territory>
+		<npc id="36133" /><!--Wizard-->
+	</spawn>
+	<spawn group="tanor_fortress_reinforce_2" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<territory><!--[fort114_2122_reinforce_b3]-->
+			<add x="57954" y="138887" zmin="-1812" zmax="-1612" />
+			<add x="58815" y="138703" zmin="-1812" zmax="-1612" />
+			<add x="59282" y="139054" zmin="-1812" zmax="-1612" />
+			<add x="57867" y="139347" zmin="-1812" zmax="-1612" />
+		</territory>
+		<npc id="36134" /><!--Healer-->
+	</spawn>
+	<spawn group="tanor_fortress_reinforce_2" count="2" respawn="0" respawn_random="0" period_of_day="none">
+		<territory><!--[fort114_2122_reinforce_b4]-->
+			<add x="60901" y="138056" zmin="-1812" zmax="-1612" />
+			<add x="61782" y="137656" zmin="-1812" zmax="-1612" />
+			<add x="61970" y="138248" zmin="-1812" zmax="-1612" />
+			<add x="61131" y="138452" zmin="-1812" zmax="-1612" />
+		</territory>
+		<npc id="36136" /><!--Archer-->
+	</spawn>
+	<spawn group="tanor_fortress_reinforce_2" count="2" respawn="0" respawn_random="0" period_of_day="none">
+		<territory><!--[fort114_2122_reinforce_b4]-->
+			<add x="60901" y="138056" zmin="-1812" zmax="-1612" />
+			<add x="61782" y="137656" zmin="-1812" zmax="-1612" />
+			<add x="61970" y="138248" zmin="-1812" zmax="-1612" />
+			<add x="61131" y="138452" zmin="-1812" zmax="-1612" />
+		</territory>
+		<npc id="36133" /><!--Wizard-->
+	</spawn>
+	<spawn group="tanor_fortress_reinforce_2" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<territory><!--[fort114_2122_reinforce_b4]-->
+			<add x="60901" y="138056" zmin="-1812" zmax="-1612" />
+			<add x="61782" y="137656" zmin="-1812" zmax="-1612" />
+			<add x="61970" y="138248" zmin="-1812" zmax="-1612" />
+			<add x="61131" y="138452" zmin="-1812" zmax="-1612" />
+		</territory>
+		<npc id="36134" /><!--Healer-->
+	</spawn>
+	<spawn group="tanor_fortress_reinforce_2" count="2" respawn="0" respawn_random="0" period_of_day="none">
+		<territory><!--[fort114_2122_reinforce_b5]-->
+			<add x="60732" y="138272" zmin="-1812" zmax="-1612" />
+			<add x="61097" y="138544" zmin="-1812" zmax="-1612" />
+			<add x="61359" y="139657" zmin="-1812" zmax="-1612" />
+			<add x="61023" y="139676" zmin="-1812" zmax="-1612" />
+		</territory>
+		<npc id="36136" /><!--Archer-->
+	</spawn>
+	<spawn group="tanor_fortress_reinforce_2" count="2" respawn="0" respawn_random="0" period_of_day="none">
+		<territory><!--[fort114_2122_reinforce_b5]-->
+			<add x="60732" y="138272" zmin="-1812" zmax="-1612" />
+			<add x="61097" y="138544" zmin="-1812" zmax="-1612" />
+			<add x="61359" y="139657" zmin="-1812" zmax="-1612" />
+			<add x="61023" y="139676" zmin="-1812" zmax="-1612" />
+		</territory>
+		<npc id="36133" /><!--Wizard-->
+	</spawn>
+	<spawn group="tanor_fortress_reinforce_2" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<territory><!--[fort114_2122_reinforce_b5]-->
+			<add x="60732" y="138272" zmin="-1812" zmax="-1612" />
+			<add x="61097" y="138544" zmin="-1812" zmax="-1612" />
+			<add x="61359" y="139657" zmin="-1812" zmax="-1612" />
+			<add x="61023" y="139676" zmin="-1812" zmax="-1612" />
+		</territory>
+		<npc id="36134" /><!--Healer-->
+	</spawn>
+	<spawn group="tanor_fortress_gunner" count="3" respawn="0" respawn_random="0" period_of_day="none">
+		<territory><!--[fort114_2122_gunner1]-->
+			<add x="61138" y="139740" zmin="-1812" zmax="-1612" />
+			<add x="62596" y="139471" zmin="-1812" zmax="-1612" />
+			<add x="62535" y="140035" zmin="-1812" zmax="-1612" />
+			<add x="61225" y="140304" zmin="-1812" zmax="-1612" />
+		</territory>
+		<npc id="36128" /><!--Dwarven Gunnery Sergeant-->
+	</spawn>
+	<spawn group="tanor_fortress_gunner" count="3" respawn="0" respawn_random="0" period_of_day="none">
+		<territory><!--[fort114_2122_gunner2]-->
+			<add x="58093" y="140154" zmin="-1812" zmax="-1612" />
+			<add x="59470" y="139872" zmin="-1812" zmax="-1612" />
+			<add x="59538" y="140267" zmin="-1812" zmax="-1612" />
+			<add x="58356" y="140792" zmin="-1812" zmax="-1612" />
+		</territory>
+		<npc id="36128" /><!--Dwarven Gunnery Sergeant-->
+	</spawn>
+	<spawn group="tanor_fortress_gunner" count="3" respawn="0" respawn_random="0" period_of_day="none">
+		<territory><!--[fort114_2122_gunner3]-->
+			<add x="57954" y="138887" zmin="-1812" zmax="-1612" />
+			<add x="58815" y="138703" zmin="-1812" zmax="-1612" />
+			<add x="59282" y="139054" zmin="-1812" zmax="-1612" />
+			<add x="57867" y="139347" zmin="-1812" zmax="-1612" />
+		</territory>
+		<npc id="36128" /><!--Dwarven Gunnery Sergeant-->
+	</spawn>
+	<spawn group="tanor_fortress_gunner" count="3" respawn="0" respawn_random="0" period_of_day="none">
+		<territory><!--[fort114_2122_gunner4]-->
+			<add x="60901" y="138056" zmin="-1812" zmax="-1612" />
+			<add x="61782" y="137656" zmin="-1812" zmax="-1612" />
+			<add x="61970" y="138248" zmin="-1812" zmax="-1612" />
+			<add x="61131" y="138452" zmin="-1812" zmax="-1612" />
+		</territory>
+		<npc id="36128" /><!--Dwarven Gunnery Sergeant-->
+	</spawn>
+	<spawn group="tanor_fortress_gunner" count="3" respawn="0" respawn_random="0" period_of_day="none">
+		<territory><!--[fort114_2122_gunner5]-->
+			<add x="60732" y="138272" zmin="-1812" zmax="-1612" />
+			<add x="61097" y="138544" zmin="-1812" zmax="-1612" />
+			<add x="61359" y="139657" zmin="-1812" zmax="-1612" />
+			<add x="61023" y="139676" zmin="-1812" zmax="-1612" />
+		</territory>
+		<npc id="36128" /><!--Dwarven Gunnery Sergeant-->
+	</spawn>
+	<spawn group="tanor_fortress_envoy" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="60391" y="139884" z="-1600" h="14480" />
+		<npc id="36439" /><!--Special Envoy-->
+	</spawn>
+	<spawn group="tanor_fortress_envoy" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="60343" y="139892" z="-1600" h="14480" />
+		<npc id="36440" /><!--Special Envoy-->
+	</spawn>
+</list>

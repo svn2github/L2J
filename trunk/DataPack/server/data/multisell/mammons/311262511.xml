@@ -1,0 +1,4244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<config showall="true" notax="true" keepenchanted="false" isnew="true"/>
+	<item>	
+		<!-- Тесак -->
+		<ingredient id="156" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="282000" />
+		<!-- Томагавк -->
+		<production id="86" count="1" />
+	</item>	
+	<item>	
+		<!-- Тесак -->
+		<ingredient id="156" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="282000" />
+		<!-- Булава Послушника -->
+		<production id="179" count="1" />
+	</item>	
+	<item>	
+		<!-- Тесак -->
+		<ingredient id="156" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="282000" />
+		<!-- Булава Правосудия -->
+		<production id="180" count="1" />
+	</item>	
+	<item>	
+		<!-- Тесак -->
+		<ingredient id="156" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="282000" />
+		<!-- Булава Мага -->
+		<production id="181" count="1" />
+	</item>	
+	<item>	
+		<!-- Тесак -->
+		<ingredient id="156" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="282000" />
+		<!-- Молот Рока -->
+		<production id="182" count="1" />
+	</item>	
+	<item>	
+		<!-- Тяжелая Булава -->
+		<ingredient id="166" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="282000" />
+		<!-- Томагавк -->
+		<production id="86" count="1" />
+	</item>	
+	<item>	
+		<!-- Тяжелая Булава -->
+		<ingredient id="166" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="282000" />
+		<!-- Булава Послушника -->
+		<production id="179" count="1" />
+	</item>	
+	<item>	
+		<!-- Тяжелая Булава -->
+		<ingredient id="166" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="282000" />
+		<!-- Булава Правосудия -->
+		<production id="180" count="1" />
+	</item>	
+	<item>	
+		<!-- Тяжелая Булава -->
+		<ingredient id="166" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="282000" />
+		<!-- Булава Мага -->
+		<production id="181" count="1" />
+	</item>	
+	<item>	
+		<!-- Тяжелая Булава -->
+		<ingredient id="166" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="282000" />
+		<!-- Молот Рока -->
+		<production id="182" count="1" />
+	</item>	
+	<item>	
+		<!-- Кирка -->
+		<ingredient id="167" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="282000" />
+		<!-- Томагавк -->
+		<production id="86" count="1" />
+	</item>	
+	<item>	
+		<!-- Кирка -->
+		<ingredient id="167" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="282000" />
+		<!-- Булава Послушника -->
+		<production id="179" count="1" />
+	</item>	
+	<item>	
+		<!-- Кирка -->
+		<ingredient id="167" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="282000" />
+		<!-- Булава Правосудия -->
+		<production id="180" count="1" />
+	</item>	
+	<item>	
+		<!-- Кирка -->
+		<ingredient id="167" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="282000" />
+		<!-- Булава Мага -->
+		<production id="181" count="1" />
+	</item>	
+	<item>	
+		<!-- Кирка -->
+		<ingredient id="167" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="282000" />
+		<!-- Молот Рока -->
+		<production id="182" count="1" />
+	</item>	
+	<item>	
+		<!-- Кузнечный Молот -->
+		<ingredient id="168" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="282000" />
+		<!-- Томагавк -->
+		<production id="86" count="1" />
+	</item>	
+	<item>	
+		<!-- Кузнечный Молот -->
+		<ingredient id="168" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="282000" />
+		<!-- Булава Послушника -->
+		<production id="179" count="1" />
+	</item>	
+	<item>	
+		<!-- Кузнечный Молот -->
+		<ingredient id="168" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="282000" />
+		<!-- Булава Правосудия -->
+		<production id="180" count="1" />
+	</item>	
+	<item>	
+		<!-- Кузнечный Молот -->
+		<ingredient id="168" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="282000" />
+		<!-- Булава Мага -->
+		<production id="181" count="1" />
+	</item>	
+	<item>	
+		<!-- Кузнечный Молот -->
+		<ingredient id="168" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="282000" />
+		<!-- Молот Рока -->
+		<production id="182" count="1" />
+	</item>	
+	<item>	
+		<!-- Костяной Посох -->
+		<ingredient id="178" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="282000" />
+		<!-- Посох Мистика -->
+		<production id="183" count="1" />
+	</item>	
+	<item>	
+		<!-- Костяной Посох -->
+		<ingredient id="178" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="282000" />
+		<!-- Посох Заклинателя -->
+		<production id="184" count="1" />
+	</item>	
+	<item>	
+		<!-- Костяной Посох -->
+		<ingredient id="178" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="282000" />
+		<!-- Посох Маны -->
+		<production id="185" count="1" />
+	</item>	
+	<item>	
+		<!-- Томагавк -->
+		<ingredient id="86" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="387600" />
+		<!-- Шипованная Дубина -->
+		<production id="157" count="1" />
+	</item>	
+	<item>	
+		<!-- Булава Послушника -->
+		<ingredient id="179" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="387600" />
+		<!-- Шипованная Дубина -->
+		<production id="157" count="1" />
+	</item>	
+	<item>	
+		<!-- Булава Правосудия -->
+		<ingredient id="180" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="387600" />
+		<!-- Шипованная Дубина -->
+		<production id="157" count="1" />
+	</item>	
+	<item>	
+		<!-- Булава Мага -->
+		<ingredient id="181" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="387600" />
+		<!-- Шипованная Дубина -->
+		<production id="157" count="1" />
+	</item>	
+	<item>	
+		<!-- Молот Рока -->
+		<ingredient id="182" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="387600" />
+		<!-- Шипованная Дубина -->
+		<production id="157" count="1" />
+	</item>	
+	<item>	
+		<!-- Посох Мистика -->
+		<ingredient id="183" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="387600" />
+		<!-- Посох Магии -->
+		<production id="186" count="1" />
+	</item>	
+	<item>	
+		<!-- Посох Заклинателя -->
+		<ingredient id="184" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="387600" />
+		<!-- Посох Магии -->
+		<production id="186" count="1" />
+	</item>	
+	<item>	
+		<!-- Посох Маны -->
+		<ingredient id="185" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="387600" />
+		<!-- Посох Магии -->
+		<production id="186" count="1" />
+	</item>	
+	<item>	
+		<!-- Шипованная Дубина -->
+		<ingredient id="157" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="519600" />
+		<!-- Моргенштерн -->
+		<production id="88" count="1" />
+	</item>	
+	<item>	
+		<!-- Шипованная Дубина -->
+		<ingredient id="157" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="519600" />
+		<!-- Тарбар -->
+		<production id="158" count="1" />
+	</item>	
+	<item>	
+		<!-- Шипованная Дубина -->
+		<ingredient id="157" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="519600" />
+		<!-- Череполом -->
+		<production id="169" count="1" />
+	</item>	
+	<item>	
+		<!-- Шипованная Дубина -->
+		<ingredient id="157" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="519600" />
+		<!-- Тяжелая Костяная Дубина -->
+		<production id="172" count="1" />
+	</item>	
+	<item>	
+		<!-- Посох Магии -->
+		<ingredient id="186" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="519600" />
+		<!-- Рогатый Посох -->
+		<production id="90" count="1" />
+	</item>	
+	<item>	
+		<!-- Моргенштерн -->
+		<ingredient id="88" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="480000" />
+		<!-- Костолом -->
+		<production id="159" count="1" />
+	</item>	
+	<item>	
+		<!-- Моргенштерн -->
+		<ingredient id="88" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="480000" />
+		<!-- Посох Жизни -->
+		<production id="189" count="1" />
+	</item>	
+	<item>	
+		<!-- Рогатый Посох -->
+		<ingredient id="90" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="480000" />
+		<!-- Молот Атубы -->
+		<production id="187" count="1" />
+	</item>	
+	<item>	
+		<!-- Рогатый Посох -->
+		<ingredient id="90" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="480000" />
+		<!-- Посох Призрака -->
+		<production id="188" count="1" />
+	</item>	
+	<item>	
+		<!-- Рогатый Посох -->
+		<ingredient id="90" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="480000" />
+		<!-- Булава Атубы -->
+		<production id="190" count="1" />
+	</item>	
+	<item>	
+		<!-- Тарбар -->
+		<ingredient id="158" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="480000" />
+		<!-- Костолом -->
+		<production id="159" count="1" />
+	</item>	
+	<item>	
+		<!-- Тарбар -->
+		<ingredient id="158" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="480000" />
+		<!-- Посох Жизни -->
+		<production id="189" count="1" />
+	</item>	
+	<item>	
+		<!-- Череполом -->
+		<ingredient id="169" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="480000" />
+		<!-- Костолом -->
+		<production id="159" count="1" />
+	</item>	
+	<item>	
+		<!-- Череполом -->
+		<ingredient id="169" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="480000" />
+		<!-- Посох Жизни -->
+		<production id="189" count="1" />
+	</item>	
+	<item>	
+		<!-- Тяжелая Костяная Дубина -->
+		<ingredient id="172" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="480000" />
+		<!-- Костолом -->
+		<production id="159" count="1" />
+	</item>	
+	<item>	
+		<!-- Тяжелая Костяная Дубина -->
+		<ingredient id="172" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="480000" />
+		<!-- Посох Жизни -->
+		<production id="189" count="1" />
+	</item>	
+	<item>	
+		<!-- Костолом -->
+		<ingredient id="159" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="588000" />
+		<!-- Большой Молот -->
+		<production id="89" count="1" />
+	</item>	
+	<item>	
+		<!-- Костолом -->
+		<ingredient id="159" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="588000" />
+		<!-- Боевой Топор -->
+		<production id="160" count="1" />
+	</item>	
+	<item>	
+		<!-- Костолом -->
+		<ingredient id="159" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="588000" />
+		<!-- Серебряный Топор -->
+		<production id="161" count="1" />
+	</item>	
+	<item>	
+		<!-- Костолом -->
+		<ingredient id="159" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="588000" />
+		<!-- Череподав -->
+		<production id="173" count="1" />
+	</item>	
+	<item>	
+		<!-- Костолом -->
+		<ingredient id="159" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="588000" />
+		<!-- Жезл Веры -->
+		<production id="193" count="1" />
+	</item>	
+	<item>	
+		<!-- Молот Атубы -->
+		<ingredient id="187" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="588000" />
+		<!-- Тяжелый Молот Рока -->
+		<production id="191" count="1" />
+	</item>	
+	<item>	
+		<!-- Молот Атубы -->
+		<ingredient id="187" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="588000" />
+		<!-- Кристальный Посох -->
+		<production id="192" count="1" />
+	</item>	
+	<item>	
+		<!-- Молот Атубы -->
+		<ingredient id="187" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="588000" />
+		<!-- Тяжелый Топор Рока -->
+		<production id="194" count="1" />
+	</item>	
+	<item>	
+		<!-- Посох Призрака -->
+		<ingredient id="188" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="588000" />
+		<!-- Тяжелый Молот Рока -->
+		<production id="191" count="1" />
+	</item>	
+	<item>	
+		<!-- Посох Призрака -->
+		<ingredient id="188" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="588000" />
+		<!-- Кристальный Посох -->
+		<production id="192" count="1" />
+	</item>	
+	<item>	
+		<!-- Посох Призрака -->
+		<ingredient id="188" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="588000" />
+		<!-- Тяжелый Топор Рока -->
+		<production id="194" count="1" />
+	</item>	
+	<item>	
+		<!-- Посох Жизни -->
+		<ingredient id="189" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="588000" />
+		<!-- Большой Молот -->
+		<production id="89" count="1" />
+	</item>	
+	<item>	
+		<!-- Посох Жизни -->
+		<ingredient id="189" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="588000" />
+		<!-- Боевой Топор -->
+		<production id="160" count="1" />
+	</item>	
+	<item>	
+		<!-- Посох Жизни -->
+		<ingredient id="189" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="588000" />
+		<!-- Серебряный Топор -->
+		<production id="161" count="1" />
+	</item>	
+	<item>	
+		<!-- Посох Жизни -->
+		<ingredient id="189" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="588000" />
+		<!-- Череподав -->
+		<production id="173" count="1" />
+	</item>	
+	<item>	
+		<!-- Посох Жизни -->
+		<ingredient id="189" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="588000" />
+		<!-- Жезл Веры -->
+		<production id="193" count="1" />
+	</item>	
+	<item>	
+		<!-- Булава Атубы -->
+		<ingredient id="190" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="588000" />
+		<!-- Тяжелый Молот Рока -->
+		<production id="191" count="1" />
+	</item>	
+	<item>	
+		<!-- Булава Атубы -->
+		<ingredient id="190" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="588000" />
+		<!-- Кристальный Посох -->
+		<production id="192" count="1" />
+	</item>	
+	<item>	
+		<!-- Булава Атубы -->
+		<ingredient id="190" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="588000" />
+		<!-- Тяжелый Топор Рока -->
+		<production id="194" count="1" />
+	</item>	
+	<item>	
+		<!-- Большой Молот -->
+		<ingredient id="89" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="696000" />
+		<!-- Боевой Молот Гномов -->
+		<production id="2502" count="1" />
+	</item>	
+	<item>	
+		<!-- Боевой Топор -->
+		<ingredient id="160" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="696000" />
+		<!-- Боевой Молот Гномов -->
+		<production id="2502" count="1" />
+	</item>	
+	<item>	
+		<!-- Серебряный Топор -->
+		<ingredient id="161" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="696000" />
+		<!-- Боевой Молот Гномов -->
+		<production id="2502" count="1" />
+	</item>	
+	<item>	
+		<!-- Череподав -->
+		<ingredient id="173" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="696000" />
+		<!-- Боевой Молот Гномов -->
+		<production id="2502" count="1" />
+	</item>	
+	<item>	
+		<!-- Тяжелый Молот Рока -->
+		<ingredient id="191" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="696000" />
+		<!-- Проклятый Посох -->
+		<production id="195" count="1" />
+	</item>	
+	<item>	
+		<!-- Кристальный Посох -->
+		<ingredient id="192" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="696000" />
+		<!-- Проклятый Посох -->
+		<production id="195" count="1" />
+	</item>	
+	<item>	
+		<!-- Жезл Веры -->
+		<ingredient id="193" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="696000" />
+		<!-- Боевой Молот Гномов -->
+		<production id="2502" count="1" />
+	</item>	
+	<item>	
+		<!-- Тяжелый Топор Рока -->
+		<ingredient id="194" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="696000" />
+		<!-- Проклятый Посох -->
+		<production id="195" count="1" />
+	</item>	
+	<item>	
+		<!-- Проклятый Посох -->
+		<ingredient id="195" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1716000" />
+		<!-- Посох Парадии -->
+		<production id="197" count="1" />
+	</item>	
+	<item>	
+		<!-- Проклятый Посох -->
+		<ingredient id="195" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1716000" />
+		<!-- Посох Инферно -->
+		<production id="198" count="1" />
+	</item>	
+	<item>	
+		<!-- Проклятый Посох -->
+		<ingredient id="195" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1716000" />
+		<!-- Молот Паагрио -->
+		<production id="199" count="1" />
+	</item>	
+	<item>	
+		<!-- Проклятый Посох -->
+		<ingredient id="195" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1716000" />
+		<!-- Посох Мудреца -->
+		<production id="200" count="1" />
+	</item>	
+	<item>	
+		<!-- Боевой Молот Гномов -->
+		<ingredient id="2502" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1716000" />
+		<!-- Топор Войны -->
+		<production id="162" count="1" />
+	</item>	
+	<item>	
+		<!-- Боевой Молот Гномов -->
+		<ingredient id="2502" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1716000" />
+		<!-- Топор Нирваны -->
+		<production id="174" count="1" />
+	</item>	
+	<item>	
+		<!-- Боевой Молот Гномов -->
+		<ingredient id="2502" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1716000" />
+		<!-- Жезл Избавления -->
+		<production id="196" count="1" />
+	</item>	
+	<item>	
+		<!-- Боевой Молот Гномов -->
+		<ingredient id="2502" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1716000" />
+		<!-- Дубина Природы -->
+		<production id="201" count="1" />
+	</item>	
+	<item>	
+		<!-- Боевой Молот Гномов -->
+		<ingredient id="2502" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1716000" />
+		<!-- Булава Преисподней -->
+		<production id="202" count="1" />
+	</item>	
+	<item>	
+		<!-- Топор Войны -->
+		<ingredient id="162" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="2196000" />
+		<!-- Булава Якса -->
+		<production id="2503" count="1" />
+	</item>	
+	<item>	
+		<!-- Топор Нирваны -->
+		<ingredient id="174" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="2196000" />
+		<!-- Булава Якса -->
+		<production id="2503" count="1" />
+	</item>	
+	<item>	
+		<!-- Жезл Избавления -->
+		<ingredient id="196" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="2196000" />
+		<!-- Булава Якса -->
+		<production id="2503" count="1" />
+	</item>	
+	<item>	
+		<!-- Посох Парадии -->
+		<ingredient id="197" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="2196000" />
+		<!-- Посох Мертвеца -->
+		<production id="204" count="1" />
+	</item>	
+	<item>	
+		<!-- Посох Парадии -->
+		<ingredient id="197" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="2196000" />
+		<!-- Посох Вурдалака -->
+		<production id="205" count="1" />
+	</item>	
+	<item>	
+		<!-- Посох Парадии -->
+		<ingredient id="197" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="2196000" />
+		<!-- Посох Демона -->
+		<production id="206" count="1" />
+	</item>	
+	<item>	
+		<!-- Посох Инферно -->
+		<ingredient id="198" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="2196000" />
+		<!-- Посох Мертвеца -->
+		<production id="204" count="1" />
+	</item>	
+	<item>	
+		<!-- Посох Инферно -->
+		<ingredient id="198" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="2196000" />
+		<!-- Посох Вурдалака -->
+		<production id="205" count="1" />
+	</item>	
+	<item>	
+		<!-- Посох Инферно -->
+		<ingredient id="198" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="2196000" />
+		<!-- Посох Демона -->
+		<production id="206" count="1" />
+	</item>	
+	<item>	
+		<!-- Молот Паагрио -->
+		<ingredient id="199" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="2196000" />
+		<!-- Посох Мертвеца -->
+		<production id="204" count="1" />
+	</item>	
+	<item>	
+		<!-- Молот Паагрио -->
+		<ingredient id="199" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="2196000" />
+		<!-- Посох Вурдалака -->
+		<production id="205" count="1" />
+	</item>	
+	<item>	
+		<!-- Молот Паагрио -->
+		<ingredient id="199" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="2196000" />
+		<!-- Посох Демона -->
+		<production id="206" count="1" />
+	</item>	
+	<item>	
+		<!-- Посох Мудреца -->
+		<ingredient id="200" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="2196000" />
+		<!-- Посох Мертвеца -->
+		<production id="204" count="1" />
+	</item>	
+	<item>	
+		<!-- Посох Мудреца -->
+		<ingredient id="200" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="2196000" />
+		<!-- Посох Вурдалака -->
+		<production id="205" count="1" />
+	</item>	
+	<item>	
+		<!-- Посох Мудреца -->
+		<ingredient id="200" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="2196000" />
+		<!-- Посох Демона -->
+		<production id="206" count="1" />
+	</item>	
+	<item>	
+		<!-- Дубина Природы -->
+		<ingredient id="201" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="2196000" />
+		<!-- Булава Якса -->
+		<production id="2503" count="1" />
+	</item>	
+	<item>	
+		<!-- Булава Преисподней -->
+		<ingredient id="202" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="2196000" />
+		<!-- Булава Якса -->
+		<production id="2503" count="1" />
+	</item>	
+	<item>	
+		<!-- Топор Паагрио -->
+		<ingredient id="203" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1620000" />
+		<!-- Посох Мертвеца -->
+		<production id="204" count="1" />
+	</item>	
+	<item>	
+		<!-- Топор Паагрио -->
+		<ingredient id="203" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1620000" />
+		<!-- Посох Вурдалака -->
+		<production id="205" count="1" />
+	</item>	
+	<item>	
+		<!-- Топор Паагрио -->
+		<ingredient id="203" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1620000" />
+		<!-- Посох Демона -->
+		<production id="206" count="1" />
+	</item>	
+	<item>	
+		<!-- Усиленный Лук -->
+		<ingredient id="274" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="282000" />
+		<!-- Длинный Лук -->
+		<production id="275" count="1" />
+	</item>	
+	<item>	
+		<!-- Усиленный Лук -->
+		<ingredient id="274" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="282000" />
+		<!-- Эльфийский Лук -->
+		<production id="276" count="1" />
+	</item>	
+	<item>	
+		<!-- Усиленный Лук -->
+		<ingredient id="274" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="282000" />
+		<!-- Лук Темных Эльфов -->
+		<production id="277" count="1" />
+	</item>	
+	<item>	
+		<!-- Длинный Лук -->
+		<ingredient id="275" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="387600" />
+		<!-- Гастрафет -->
+		<production id="278" count="1" />
+	</item>	
+	<item>	
+		<!-- Эльфийский Лук -->
+		<ingredient id="276" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="387600" />
+		<!-- Гастрафет -->
+		<production id="278" count="1" />
+	</item>	
+	<item>	
+		<!-- Лук Темных Эльфов -->
+		<ingredient id="277" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="387600" />
+		<!-- Гастрафет -->
+		<production id="278" count="1" />
+	</item>	
+	<item>	
+		<!-- Гастрафет -->
+		<ingredient id="278" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="519600" />
+		<!-- Усиленный Длинный Лук -->
+		<production id="279" count="1" />
+	</item>	
+	<item>	
+		<!-- Усиленный Длинный Лук -->
+		<ingredient id="279" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="480000" />
+		<!-- Легкий Лук -->
+		<production id="280" count="1" />
+	</item>	
+	<item>	
+		<!-- Легкий Лук -->
+		<ingredient id="280" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="588000" />
+		<!-- Ледяной Лук -->
+		<production id="281" count="1" />
+	</item>	
+	<item>	
+		<!-- Ледяной Лук -->
+		<ingredient id="281" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="696000" />
+		<!-- Лук Стихии -->
+		<production id="282" count="1" />
+	</item>	
+	<item>	
+		<!-- Ледяной Лук -->
+		<ingredient id="281" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="696000" />
+		<!-- Элитный Эльфийский Лук -->
+		<production id="285" count="1" />
+	</item>	
+	<item>	
+		<!-- Лук Стихии -->
+		<ingredient id="282" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1716000" />
+		<!-- Длинный Лук Аката -->
+		<production id="283" count="1" />
+	</item>	
+	<item>	
+		<!-- Элитный Эльфийский Лук -->
+		<ingredient id="285" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1716000" />
+		<!-- Длинный Лук Аката -->
+		<production id="283" count="1" />
+	</item>	
+	<item>	
+		<!-- Длинный Лук Аката -->
+		<ingredient id="283" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="2196000" />
+		<!-- Лук Превосходства -->
+		<production id="286" count="1" />
+	</item>	
+	<item>	
+		<!-- Кованый Кинжал -->
+		<ingredient id="220" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="282000" />
+		<!-- Трехгранный Кинжал -->
+		<production id="222" count="1" />
+	</item>	
+	<item>	
+		<!-- Нож Ассасина -->
+		<ingredient id="221" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="282000" />
+		<!-- Трехгранный Кинжал -->
+		<production id="222" count="1" />
+	</item>	
+	<item>	
+		<!-- Трехгранный Кинжал -->
+		<ingredient id="222" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="387600" />
+		<!-- Кукри -->
+		<production id="223" count="1" />
+	</item>	
+	<item>	
+		<!-- Трехгранный Кинжал -->
+		<ingredient id="222" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="387600" />
+		<!-- Кинжал Маны -->
+		<production id="238" count="1" />
+	</item>	
+	<item>	
+		<!-- Трехгранный Кинжал -->
+		<ingredient id="222" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="387600" />
+		<!-- Нож Мистика -->
+		<production id="239" count="1" />
+	</item>	
+	<item>	
+		<!-- Трехгранный Кинжал -->
+		<ingredient id="222" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="387600" />
+		<!-- Нож Заклинателя -->
+		<production id="240" count="1" />
+	</item>	
+	<item>	
+		<!-- Трехгранный Кинжал -->
+		<ingredient id="222" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="387600" />
+		<!-- Нож Шилен -->
+		<production id="241" count="1" />
+	</item>	
+	<item>	
+		<!-- Кукри -->
+		<ingredient id="223" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="519600" />
+		<!-- Дага -->
+		<production id="224" count="1" />
+	</item>	
+	<item>	
+		<!-- Кукри -->
+		<ingredient id="223" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="519600" />
+		<!-- Проклятая Дага -->
+		<production id="1660" count="1" />
+	</item>	
+	<item>	
+		<!-- Кинжал Маны -->
+		<ingredient id="238" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="519600" />
+		<!-- Дага -->
+		<production id="224" count="1" />
+	</item>	
+	<item>	
+		<!-- Кинжал Маны -->
+		<ingredient id="238" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="519600" />
+		<!-- Проклятая Дага -->
+		<production id="1660" count="1" />
+	</item>	
+	<item>	
+		<!-- Нож Мистика -->
+		<ingredient id="239" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="519600" />
+		<!-- Дага -->
+		<production id="224" count="1" />
+	</item>	
+	<item>	
+		<!-- Нож Мистика -->
+		<ingredient id="239" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="519600" />
+		<!-- Проклятая Дага -->
+		<production id="1660" count="1" />
+	</item>	
+	<item>	
+		<!-- Нож Заклинателя -->
+		<ingredient id="240" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="519600" />
+		<!-- Дага -->
+		<production id="224" count="1" />
+	</item>	
+	<item>	
+		<!-- Нож Заклинателя -->
+		<ingredient id="240" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="519600" />
+		<!-- Проклятая Дага -->
+		<production id="1660" count="1" />
+	</item>	
+	<item>	
+		<!-- Нож Шилен -->
+		<ingredient id="241" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="519600" />
+		<!-- Дага -->
+		<production id="224" count="1" />
+	</item>	
+	<item>	
+		<!-- Нож Шилен -->
+		<ingredient id="241" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="519600" />
+		<!-- Проклятая Дага -->
+		<production id="1660" count="1" />
+	</item>	
+	<item>	
+		<!-- Дага -->
+		<ingredient id="224" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="480000" />
+		<!-- Мифриловый Кинжал -->
+		<production id="225" count="1" />
+	</item>	
+	<item>	
+		<!-- Проклятая Дага -->
+		<ingredient id="1660" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="480000" />
+		<!-- Мифриловый Кинжал -->
+		<production id="225" count="1" />
+	</item>	
+	<item>	
+		<!-- Мифриловый Кинжал -->
+		<ingredient id="225" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="588000" />
+		<!-- Проклятый Кинжал -->
+		<production id="226" count="1" />
+	</item>	
+	<item>	
+		<!-- Мифриловый Кинжал -->
+		<ingredient id="225" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="588000" />
+		<!-- Кинжал Темных Эльфов -->
+		<production id="232" count="1" />
+	</item>	
+	<item>	
+		<!-- Проклятый Кинжал -->
+		<ingredient id="226" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="696000" />
+		<!-- Стилет -->
+		<production id="227" count="1" />
+	</item>	
+	<item>	
+		<!-- Проклятый Кинжал -->
+		<ingredient id="226" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="696000" />
+		<!-- Кортик Духовного Пламени -->
+		<production id="242" count="1" />
+	</item>	
+	<item>	
+		<!-- Клык Росомахи -->
+		<ingredient id="230" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="696000" />
+		<!-- Стилет -->
+		<production id="227" count="1" />
+	</item>	
+	<item>	
+		<!-- Клык Росомахи -->
+		<ingredient id="230" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="696000" />
+		<!-- Кортик Духовного Пламени -->
+		<production id="242" count="1" />
+	</item>	
+	<item>	
+		<!-- Кинжал Темных Эльфов -->
+		<ingredient id="232" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="696000" />
+		<!-- Стилет -->
+		<production id="227" count="1" />
+	</item>	
+	<item>	
+		<!-- Кинжал Темных Эльфов -->
+		<ingredient id="232" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="696000" />
+		<!-- Кортик Духовного Пламени -->
+		<production id="242" count="1" />
+	</item>	
+	<item>	
+		<!-- Стилет -->
+		<ingredient id="227" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1716000" />
+		<!-- Изящный Кинжал -->
+		<production id="231" count="1" />
+	</item>	
+	<item>	
+		<!-- Стилет -->
+		<ingredient id="227" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1716000" />
+		<!-- Кинжал Тьмы -->
+		<production id="233" count="1" />
+	</item>	
+	<item>	
+		<!-- Кортик Духовного Пламени -->
+		<ingredient id="242" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1716000" />
+		<!-- Изящный Кинжал -->
+		<production id="231" count="1" />
+	</item>	
+	<item>	
+		<!-- Кортик Духовного Пламени -->
+		<ingredient id="242" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1716000" />
+		<!-- Кинжал Тьмы -->
+		<production id="233" count="1" />
+	</item>	
+	<item>	
+		<!-- Изящный Кинжал -->
+		<ingredient id="231" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="2196000" />
+		<!-- Кристальный Кинжал -->
+		<production id="228" count="1" />
+	</item>	
+	<item>	
+		<!-- Кинжал Тьмы -->
+		<ingredient id="233" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="2196000" />
+		<!-- Кристальный Кинжал -->
+		<production id="228" count="1" />
+	</item>	
+	<item>	
+		<!-- Коготь Тигра -->
+		<ingredient id="258" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="282000" />
+		<!-- Джамадхар -->
+		<production id="259" count="1" />
+	</item>	
+	<item>	
+		<!-- Джамадхар -->
+		<ingredient id="259" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="387600" />
+		<!-- Трехгранный Джамадхар -->
+		<production id="260" count="1" />
+	</item>	
+	<item>	
+		<!-- Трехгранный Джамадхар -->
+		<ingredient id="260" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="519600" />
+		<!-- Бичхва -->
+		<production id="261" count="1" />
+	</item>	
+	<item>	
+		<!-- Бичхва -->
+		<ingredient id="261" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="480000" />
+		<!-- Шипованный Джамадхар -->
+		<production id="262" count="1" />
+	</item>	
+	<item>	
+		<!-- Шипованный Джамадхар -->
+		<ingredient id="262" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="588000" />
+		<!-- Чакра -->
+		<production id="263" count="1" />
+	</item>	
+	<item>	
+		<!-- Чакра -->
+		<ingredient id="263" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="696000" />
+		<!-- Кастет -->
+		<production id="4233" count="1" />
+	</item>	
+	<item>	
+		<!-- Кастет -->
+		<ingredient id="4233" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1716000" />
+		<!-- Кастетные Клинки -->
+		<production id="265" count="1" />
+	</item>	
+	<item>	
+		<!-- Кастетные Клинки -->
+		<ingredient id="265" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="2196000" />
+		<!-- Большая Пата -->
+		<production id="266" count="1" />
+	</item>	
+	<item>	
+		<!-- Свиток Мудрости -->
+		<ingredient id="101" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="282000" />
+		<!-- Божественный Жезл -->
+		<production id="315" count="1" />
+	</item>	
+	<item>	
+		<!-- Ветвь Жизни -->
+		<ingredient id="312" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="282000" />
+		<!-- Божественный Жезл -->
+		<production id="315" count="1" />
+	</item>	
+	<item>	
+		<!-- Искушение Бездны -->
+		<ingredient id="313" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="282000" />
+		<!-- Божественный Жезл -->
+		<production id="315" count="1" />
+	</item>	
+	<item>	
+		<!-- Доказательство Возмездия -->
+		<ingredient id="314" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="282000" />
+		<!-- Божественный Жезл -->
+		<production id="315" count="1" />
+	</item>	
+	<item>	
+		<!-- Божественный Жезл -->
+		<ingredient id="315" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="387600" />
+		<!-- Кровь Святых -->
+		<production id="316" count="1" />
+	</item>	
+	<item>	
+		<!-- Божественный Жезл -->
+		<ingredient id="315" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="387600" />
+		<!-- Книга Крови -->
+		<production id="317" count="1" />
+	</item>	
+	<item>	
+		<!-- Кровь Святых -->
+		<ingredient id="316" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="519600" />
+		<!-- Кровавое Распятие -->
+		<production id="318" count="1" />
+	</item>	
+	<item>	
+		<!-- Книга Крови -->
+		<ingredient id="317" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="519600" />
+		<!-- Кровавое Распятие -->
+		<production id="318" count="1" />
+	</item>	
+	<item>	
+		<!-- Рог Славы -->
+		<ingredient id="325" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1716000" />
+		<!-- Книга Безбожника -->
+		<production id="326" count="1" />
+	</item>	
+	<item>	
+		<!-- Трезубец -->
+		<ingredient id="291" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="282000" />
+		<!-- Гизарма -->
+		<production id="292" count="1" />
+	</item>	
+	<item>	
+		<!-- Трезубец -->
+		<ingredient id="291" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="282000" />
+		<!-- Трезубец Гномов -->
+		<production id="295" count="1" />
+	</item>	
+	<item>	
+		<!-- Гизарма -->
+		<ingredient id="292" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="387600" />
+		<!-- Молот Войны -->
+		<production id="293" count="1" />
+	</item>	
+	<item>	
+		<!-- Гизарма -->
+		<ingredient id="292" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="387600" />
+		<!-- Гизарма Гномов -->
+		<production id="296" count="1" />
+	</item>	
+	<item>	
+		<!-- Трезубец Гномов -->
+		<ingredient id="295" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="387600" />
+		<!-- Молот Войны -->
+		<production id="293" count="1" />
+	</item>	
+	<item>	
+		<!-- Трезубец Гномов -->
+		<ingredient id="295" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="387600" />
+		<!-- Гизарма Гномов -->
+		<production id="296" count="1" />
+	</item>	
+	<item>	
+		<!-- Молот Войны -->
+		<ingredient id="293" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="519600" />
+		<!-- Крылатое Копье -->
+		<production id="93" count="1" />
+	</item>	
+	<item>	
+		<!-- Молот Войны -->
+		<ingredient id="293" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="519600" />
+		<!-- Молот Смерти -->
+		<production id="294" count="1" />
+	</item>	
+	<item>	
+		<!-- Гизарма Гномов -->
+		<ingredient id="296" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="519600" />
+		<!-- Крылатое Копье -->
+		<production id="93" count="1" />
+	</item>	
+	<item>	
+		<!-- Гизарма Гномов -->
+		<ingredient id="296" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="519600" />
+		<!-- Молот Смерти -->
+		<production id="294" count="1" />
+	</item>	
+	<item>	
+		<!-- Крылатое Копье -->
+		<ingredient id="93" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="480000" />
+		<!-- Глефа -->
+		<production id="297" count="1" />
+	</item>	
+	<item>	
+		<!-- Молот Смерти -->
+		<ingredient id="294" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="480000" />
+		<!-- Глефа -->
+		<production id="297" count="1" />
+	</item>	
+	<item>	
+		<!-- Глефа -->
+		<ingredient id="297" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="588000" />
+		<!-- Боевая Коса -->
+		<production id="96" count="1" />
+	</item>	
+	<item>	
+		<!-- Глефа -->
+		<ingredient id="297" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="588000" />
+		<!-- Глефа Орков -->
+		<production id="298" count="1" />
+	</item>	
+	<item>	
+		<!-- Глефа -->
+		<ingredient id="297" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="588000" />
+		<!-- Кромсатель -->
+		<production id="302" count="1" />
+	</item>	
+	<item>	
+		<!-- Боевая Коса -->
+		<ingredient id="96" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="696000" />
+		<!-- Бердыш -->
+		<production id="94" count="1" />
+	</item>	
+	<item>	
+		<!-- Глефа Орков -->
+		<ingredient id="298" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="696000" />
+		<!-- Бердыш -->
+		<production id="94" count="1" />
+	</item>	
+	<item>	
+		<!-- Кромсатель -->
+		<ingredient id="302" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="696000" />
+		<!-- Бердыш -->
+		<production id="94" count="1" />
+	</item>	
+	<item>	
+		<!-- Бердыш -->
+		<ingredient id="94" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1716000" />
+		<!-- Секира -->
+		<production id="95" count="1" />
+	</item>	
+	<item>	
+		<!-- Секира -->
+		<ingredient id="95" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="2196000" />
+		<!-- Секира Орков -->
+		<production id="299" count="1" />
+	</item>	
+	<item>	
+		<!-- Скорпион -->
+		<ingredient id="301" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1620000" />
+		<!-- Секира Орков -->
+		<production id="299" count="1" />
+	</item>	
+	<item>	
+		<!-- Селекционер -->
+		<ingredient id="303" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1620000" />
+		<!-- Секира Орков -->
+		<production id="299" count="1" />
+	</item>	
+	<item>	
+		<!-- Сабля -->
+		<ingredient id="123" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="282000" />
+		<!-- Полуторный Меч -->
+		<production id="69" count="1" />
+	</item>	
+	<item>	
+		<!-- Сабля -->
+		<ingredient id="123" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="282000" />
+		<!-- Хребетный Меч -->
+		<production id="125" count="1" />
+	</item>	
+	<item>	
+		<!-- Сабля -->
+		<ingredient id="123" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="282000" />
+		<!-- Меч Ремесленника -->
+		<production id="126" count="1" />
+	</item>	
+	<item>	
+		<!-- Сабля -->
+		<ingredient id="123" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="282000" />
+		<!-- Меч Рыцаря -->
+		<production id="128" count="1" />
+	</item>	
+	<item>	
+		<!-- Полуторный Меч -->
+		<ingredient id="69" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="387600" />
+		<!-- Багровый Меч -->
+		<production id="127" count="1" />
+	</item>	
+	<item>	
+		<!-- Полуторный Меч -->
+		<ingredient id="69" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="387600" />
+		<!-- Меч Эльфов -->
+		<production id="130" count="1" />
+	</item>	
+	<item>	
+		<!-- Хребетный Меч -->
+		<ingredient id="125" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="387600" />
+		<!-- Багровый Меч -->
+		<production id="127" count="1" />
+	</item>	
+	<item>	
+		<!-- Хребетный Меч -->
+		<ingredient id="125" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="387600" />
+		<!-- Меч Эльфов -->
+		<production id="130" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Ремесленника -->
+		<ingredient id="126" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="387600" />
+		<!-- Багровый Меч -->
+		<production id="127" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Ремесленника -->
+		<ingredient id="126" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="387600" />
+		<!-- Меч Эльфов -->
+		<production id="130" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Рыцаря -->
+		<ingredient id="128" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="387600" />
+		<!-- Багровый Меч -->
+		<production id="127" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Рыцаря -->
+		<ingredient id="128" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="387600" />
+		<!-- Меч Эльфов -->
+		<production id="130" count="1" />
+	</item>	
+	<item>	
+		<!-- Багровый Меч -->
+		<ingredient id="127" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="519600" />
+		<!-- Меч Революции -->
+		<production id="129" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Эльфов -->
+		<ingredient id="130" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="519600" />
+		<!-- Меч Революции -->
+		<production id="129" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Революции -->
+		<ingredient id="129" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="480000" />
+		<!-- Длинный Меч Эльфов -->
+		<production id="2499" count="1" />
+	</item>	
+	<item>	
+		<!-- Клеймор -->
+		<ingredient id="70" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="588000" />
+		<!-- Фламберг -->
+		<production id="71" count="1" />
+	</item>	
+	<item>	
+		<!-- Длинный Меч Эльфов -->
+		<ingredient id="2499" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="588000" />
+		<!-- Громовержец -->
+		<production id="72" count="1" />
+	</item>	
+	<item>	
+		<!-- Громовержец -->
+		<ingredient id="72" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="696000" />
+		<!-- Шамшир -->
+		<production id="73" count="1" />
+	</item>	
+	<item>	
+		<!-- Громовержец -->
+		<ingredient id="72" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="696000" />
+		<!-- Катана -->
+		<production id="74" count="1" />
+	</item>	
+	<item>	
+		<!-- Громовержец -->
+		<ingredient id="72" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="696000" />
+		<!-- Меч Духов -->
+		<production id="131" count="1" />
+	</item>	
+	<item>	
+		<!-- Громовержец -->
+		<ingredient id="72" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="696000" />
+		<!-- Меч Налетчика -->
+		<production id="133" count="1" />
+	</item>	
+	<item>	
+		<!-- Шамшир -->
+		<ingredient id="73" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1716000" />
+		<!-- Экскалибур -->
+		<production id="75" count="1" />
+	</item>	
+	<item>	
+		<!-- Шамшир -->
+		<ingredient id="73" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1716000" />
+		<!-- Меч Иллюзий -->
+		<production id="76" count="1" />
+	</item>	
+	<item>	
+		<!-- Шамшир -->
+		<ingredient id="73" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1716000" />
+		<!-- Цуруги -->
+		<production id="77" count="1" />
+	</item>	
+	<item>	
+		<!-- Шамшир -->
+		<ingredient id="73" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1716000" />
+		<!-- Меч Гомункула -->
+		<production id="84" count="1" />
+	</item>	
+	<item>	
+		<!-- Шамшир -->
+		<ingredient id="73" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1716000" />
+		<!-- Меч Рубежа -->
+		<production id="132" count="1" />
+	</item>	
+	<item>	
+		<!-- Шамшир -->
+		<ingredient id="73" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1716000" />
+		<!-- Меч Кошмаров -->
+		<production id="134" count="1" />
+	</item>	
+	<item>	
+		<!-- Шамшир -->
+		<ingredient id="73" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1716000" />
+		<!-- Меч Шепчущей Смерти -->
+		<production id="145" count="1" />
+	</item>	
+	<item>	
+		<!-- Катана -->
+		<ingredient id="74" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1716000" />
+		<!-- Экскалибур -->
+		<production id="75" count="1" />
+	</item>	
+	<item>	
+		<!-- Катана -->
+		<ingredient id="74" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1716000" />
+		<!-- Меч Иллюзий -->
+		<production id="76" count="1" />
+	</item>	
+	<item>	
+		<!-- Катана -->
+		<ingredient id="74" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1716000" />
+		<!-- Цуруги -->
+		<production id="77" count="1" />
+	</item>	
+	<item>	
+		<!-- Катана -->
+		<ingredient id="74" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1716000" />
+		<!-- Меч Гомункула -->
+		<production id="84" count="1" />
+	</item>	
+	<item>	
+		<!-- Катана -->
+		<ingredient id="74" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1716000" />
+		<!-- Меч Рубежа -->
+		<production id="132" count="1" />
+	</item>	
+	<item>	
+		<!-- Катана -->
+		<ingredient id="74" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1716000" />
+		<!-- Меч Кошмаров -->
+		<production id="134" count="1" />
+	</item>	
+	<item>	
+		<!-- Катана -->
+		<ingredient id="74" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1716000" />
+		<!-- Меч Шепчущей Смерти -->
+		<production id="145" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Духов -->
+		<ingredient id="131" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1716000" />
+		<!-- Экскалибур -->
+		<production id="75" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Духов -->
+		<ingredient id="131" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1716000" />
+		<!-- Меч Иллюзий -->
+		<production id="76" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Духов -->
+		<ingredient id="131" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1716000" />
+		<!-- Цуруги -->
+		<production id="77" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Духов -->
+		<ingredient id="131" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1716000" />
+		<!-- Меч Гомункула -->
+		<production id="84" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Духов -->
+		<ingredient id="131" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1716000" />
+		<!-- Меч Рубежа -->
+		<production id="132" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Духов -->
+		<ingredient id="131" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1716000" />
+		<!-- Меч Кошмаров -->
+		<production id="134" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Духов -->
+		<ingredient id="131" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1716000" />
+		<!-- Меч Шепчущей Смерти -->
+		<production id="145" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Налетчика -->
+		<ingredient id="133" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1716000" />
+		<!-- Экскалибур -->
+		<production id="75" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Налетчика -->
+		<ingredient id="133" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1716000" />
+		<!-- Меч Иллюзий -->
+		<production id="76" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Налетчика -->
+		<ingredient id="133" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1716000" />
+		<!-- Цуруги -->
+		<production id="77" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Налетчика -->
+		<ingredient id="133" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1716000" />
+		<!-- Меч Гомункула -->
+		<production id="84" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Налетчика -->
+		<ingredient id="133" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1716000" />
+		<!-- Меч Рубежа -->
+		<production id="132" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Налетчика -->
+		<ingredient id="133" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1716000" />
+		<!-- Меч Кошмаров -->
+		<production id="134" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Налетчика -->
+		<ingredient id="133" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1716000" />
+		<!-- Меч Шепчущей Смерти -->
+		<production id="145" count="1" />
+	</item>	
+	<item>	
+		<!-- Экскалибур -->
+		<ingredient id="75" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="2196000" />
+		<!-- Длинный Меч Самурая -->
+		<production id="135" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Иллюзий -->
+		<ingredient id="76" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="2196000" />
+		<!-- Длинный Меч Самурая -->
+		<production id="135" count="1" />
+	</item>	
+	<item>	
+		<!-- Цуруги -->
+		<ingredient id="77" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="2196000" />
+		<!-- Длинный Меч Самурая -->
+		<production id="135" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Гомункула -->
+		<ingredient id="84" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="2196000" />
+		<!-- Длинный Меч Самурая -->
+		<production id="135" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Рубежа -->
+		<ingredient id="132" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="2196000" />
+		<!-- Длинный Меч Самурая -->
+		<production id="135" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Кошмаров -->
+		<ingredient id="134" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="2196000" />
+		<!-- Длинный Меч Самурая -->
+		<production id="135" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Шепчущей Смерти -->
+		<ingredient id="145" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="2196000" />
+		<!-- Длинный Меч Самурая -->
+		<production id="135" count="1" />
+	</item>	
+	<item>	
+		<!-- Сабля*Сабля -->
+		<ingredient id="2516" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="219600" />
+		<!-- Сабля*Полуторный Меч -->
+		<production id="2517" count="1" />
+	</item>	
+	<item>	
+		<!-- Сабля*Сабля -->
+		<ingredient id="2516" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="219600" />
+		<!-- Сабля*Хребетный Меч -->
+		<production id="2518" count="1" />
+	</item>	
+	<item>	
+		<!-- Сабля*Сабля -->
+		<ingredient id="2516" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="219600" />
+		<!-- Сабля*Меч Ремесленника -->
+		<production id="2519" count="1" />
+	</item>	
+	<item>	
+		<!-- Сабля*Сабля -->
+		<ingredient id="2516" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="219600" />
+		<!-- Сабля*Меч Рыцаря -->
+		<production id="2520" count="1" />
+	</item>	
+	<item>	
+		<!-- Сабля*Полуторный Меч -->
+		<ingredient id="2517" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="408000" />
+		<!-- Сабля*Багровый Меч -->
+		<production id="2521" count="1" />
+	</item>	
+	<item>	
+		<!-- Сабля*Полуторный Меч -->
+		<ingredient id="2517" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="408000" />
+		<!-- Сабля*Меч Эльфов -->
+		<production id="2522" count="1" />
+	</item>	
+	<item>	
+		<!-- Сабля*Полуторный Меч -->
+		<ingredient id="2517" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="408000" />
+		<!-- Полуторный Меч*Полуторный Меч -->
+		<production id="2525" count="1" />
+	</item>	
+	<item>	
+		<!-- Сабля*Полуторный Меч -->
+		<ingredient id="2517" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="408000" />
+		<!-- Полуторный Меч*Хребетный Меч -->
+		<production id="2526" count="1" />
+	</item>	
+	<item>	
+		<!-- Сабля*Полуторный Меч -->
+		<ingredient id="2517" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="408000" />
+		<!-- Полуторный Меч*Меч Ремесленника -->
+		<production id="2527" count="1" />
+	</item>	
+	<item>	
+		<!-- Сабля*Полуторный Меч -->
+		<ingredient id="2517" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="408000" />
+		<!-- Полуторный Меч*Меч Рыцаря -->
+		<production id="2528" count="1" />
+	</item>	
+	<item>	
+		<!-- Сабля*Полуторный Меч -->
+		<ingredient id="2517" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="408000" />
+		<!-- Хребетный Меч*Хребетный Меч -->
+		<production id="2533" count="1" />
+	</item>	
+	<item>	
+		<!-- Сабля*Полуторный Меч -->
+		<ingredient id="2517" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="408000" />
+		<!-- Хребетный Меч*Меч Ремесленника -->
+		<production id="2534" count="1" />
+	</item>	
+	<item>	
+		<!-- Сабля*Полуторный Меч -->
+		<ingredient id="2517" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="408000" />
+		<!-- Хребетный Меч*Меч Рыцаря -->
+		<production id="2535" count="1" />
+	</item>	
+	<item>	
+		<!-- Сабля*Полуторный Меч -->
+		<ingredient id="2517" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="408000" />
+		<!-- Меч Ремесленника*Меч Ремесленника -->
+		<production id="2540" count="1" />
+	</item>	
+	<item>	
+		<!-- Сабля*Полуторный Меч -->
+		<ingredient id="2517" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="408000" />
+		<!-- Меч Ремесленника*Меч Рыцаря -->
+		<production id="2541" count="1" />
+	</item>	
+	<item>	
+		<!-- Сабля*Полуторный Меч -->
+		<ingredient id="2517" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="408000" />
+		<!-- Меч Рыцаря*Меч Рыцаря -->
+		<production id="2546" count="1" />
+	</item>	
+	<item>	
+		<!-- Сабля*Хребетный Меч -->
+		<ingredient id="2518" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="408000" />
+		<!-- Сабля*Багровый Меч -->
+		<production id="2521" count="1" />
+	</item>	
+	<item>	
+		<!-- Сабля*Хребетный Меч -->
+		<ingredient id="2518" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="408000" />
+		<!-- Сабля*Меч Эльфов -->
+		<production id="2522" count="1" />
+	</item>	
+	<item>	
+		<!-- Сабля*Хребетный Меч -->
+		<ingredient id="2518" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="408000" />
+		<!-- Полуторный Меч*Полуторный Меч -->
+		<production id="2525" count="1" />
+	</item>	
+	<item>	
+		<!-- Сабля*Хребетный Меч -->
+		<ingredient id="2518" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="408000" />
+		<!-- Полуторный Меч*Хребетный Меч -->
+		<production id="2526" count="1" />
+	</item>	
+	<item>	
+		<!-- Сабля*Хребетный Меч -->
+		<ingredient id="2518" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="408000" />
+		<!-- Полуторный Меч*Меч Ремесленника -->
+		<production id="2527" count="1" />
+	</item>	
+	<item>	
+		<!-- Сабля*Хребетный Меч -->
+		<ingredient id="2518" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="408000" />
+		<!-- Полуторный Меч*Меч Рыцаря -->
+		<production id="2528" count="1" />
+	</item>	
+	<item>	
+		<!-- Сабля*Хребетный Меч -->
+		<ingredient id="2518" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="408000" />
+		<!-- Хребетный Меч*Хребетный Меч -->
+		<production id="2533" count="1" />
+	</item>	
+	<item>	
+		<!-- Сабля*Хребетный Меч -->
+		<ingredient id="2518" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="408000" />
+		<!-- Хребетный Меч*Меч Ремесленника -->
+		<production id="2534" count="1" />
+	</item>	
+	<item>	
+		<!-- Сабля*Хребетный Меч -->
+		<ingredient id="2518" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="408000" />
+		<!-- Хребетный Меч*Меч Рыцаря -->
+		<production id="2535" count="1" />
+	</item>	
+	<item>	
+		<!-- Сабля*Хребетный Меч -->
+		<ingredient id="2518" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="408000" />
+		<!-- Меч Ремесленника*Меч Ремесленника -->
+		<production id="2540" count="1" />
+	</item>	
+	<item>	
+		<!-- Сабля*Хребетный Меч -->
+		<ingredient id="2518" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="408000" />
+		<!-- Меч Ремесленника*Меч Рыцаря -->
+		<production id="2541" count="1" />
+	</item>	
+	<item>	
+		<!-- Сабля*Хребетный Меч -->
+		<ingredient id="2518" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="408000" />
+		<!-- Меч Рыцаря*Меч Рыцаря -->
+		<production id="2546" count="1" />
+	</item>	
+	<item>	
+		<!-- Сабля*Меч Ремесленника -->
+		<ingredient id="2519" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="408000" />
+		<!-- Сабля*Багровый Меч -->
+		<production id="2521" count="1" />
+	</item>	
+	<item>	
+		<!-- Сабля*Меч Ремесленника -->
+		<ingredient id="2519" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="408000" />
+		<!-- Сабля*Меч Эльфов -->
+		<production id="2522" count="1" />
+	</item>	
+	<item>	
+		<!-- Сабля*Меч Ремесленника -->
+		<ingredient id="2519" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="408000" />
+		<!-- Полуторный Меч*Полуторный Меч -->
+		<production id="2525" count="1" />
+	</item>	
+	<item>	
+		<!-- Сабля*Меч Ремесленника -->
+		<ingredient id="2519" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="408000" />
+		<!-- Полуторный Меч*Хребетный Меч -->
+		<production id="2526" count="1" />
+	</item>	
+	<item>	
+		<!-- Сабля*Меч Ремесленника -->
+		<ingredient id="2519" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="408000" />
+		<!-- Полуторный Меч*Меч Ремесленника -->
+		<production id="2527" count="1" />
+	</item>	
+	<item>	
+		<!-- Сабля*Меч Ремесленника -->
+		<ingredient id="2519" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="408000" />
+		<!-- Полуторный Меч*Меч Рыцаря -->
+		<production id="2528" count="1" />
+	</item>	
+	<item>	
+		<!-- Сабля*Меч Ремесленника -->
+		<ingredient id="2519" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="408000" />
+		<!-- Хребетный Меч*Хребетный Меч -->
+		<production id="2533" count="1" />
+	</item>	
+	<item>	
+		<!-- Сабля*Меч Ремесленника -->
+		<ingredient id="2519" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="408000" />
+		<!-- Хребетный Меч*Меч Ремесленника -->
+		<production id="2534" count="1" />
+	</item>	
+	<item>	
+		<!-- Сабля*Меч Ремесленника -->
+		<ingredient id="2519" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="408000" />
+		<!-- Хребетный Меч*Меч Рыцаря -->
+		<production id="2535" count="1" />
+	</item>	
+	<item>	
+		<!-- Сабля*Меч Ремесленника -->
+		<ingredient id="2519" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="408000" />
+		<!-- Меч Ремесленника*Меч Ремесленника -->
+		<production id="2540" count="1" />
+	</item>	
+	<item>	
+		<!-- Сабля*Меч Ремесленника -->
+		<ingredient id="2519" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="408000" />
+		<!-- Меч Ремесленника*Меч Рыцаря -->
+		<production id="2541" count="1" />
+	</item>	
+	<item>	
+		<!-- Сабля*Меч Ремесленника -->
+		<ingredient id="2519" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="408000" />
+		<!-- Меч Рыцаря*Меч Рыцаря -->
+		<production id="2546" count="1" />
+	</item>	
+	<item>	
+		<!-- Сабля*Меч Рыцаря -->
+		<ingredient id="2520" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="408000" />
+		<!-- Сабля*Багровый Меч -->
+		<production id="2521" count="1" />
+	</item>	
+	<item>	
+		<!-- Сабля*Меч Рыцаря -->
+		<ingredient id="2520" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="408000" />
+		<!-- Сабля*Меч Эльфов -->
+		<production id="2522" count="1" />
+	</item>	
+	<item>	
+		<!-- Сабля*Меч Рыцаря -->
+		<ingredient id="2520" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="408000" />
+		<!-- Полуторный Меч*Полуторный Меч -->
+		<production id="2525" count="1" />
+	</item>	
+	<item>	
+		<!-- Сабля*Меч Рыцаря -->
+		<ingredient id="2520" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="408000" />
+		<!-- Полуторный Меч*Хребетный Меч -->
+		<production id="2526" count="1" />
+	</item>	
+	<item>	
+		<!-- Сабля*Меч Рыцаря -->
+		<ingredient id="2520" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="408000" />
+		<!-- Полуторный Меч*Меч Ремесленника -->
+		<production id="2527" count="1" />
+	</item>	
+	<item>	
+		<!-- Сабля*Меч Рыцаря -->
+		<ingredient id="2520" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="408000" />
+		<!-- Полуторный Меч*Меч Рыцаря -->
+		<production id="2528" count="1" />
+	</item>	
+	<item>	
+		<!-- Сабля*Меч Рыцаря -->
+		<ingredient id="2520" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="408000" />
+		<!-- Хребетный Меч*Хребетный Меч -->
+		<production id="2533" count="1" />
+	</item>	
+	<item>	
+		<!-- Сабля*Меч Рыцаря -->
+		<ingredient id="2520" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="408000" />
+		<!-- Хребетный Меч*Меч Ремесленника -->
+		<production id="2534" count="1" />
+	</item>	
+	<item>	
+		<!-- Сабля*Меч Рыцаря -->
+		<ingredient id="2520" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="408000" />
+		<!-- Хребетный Меч*Меч Рыцаря -->
+		<production id="2535" count="1" />
+	</item>	
+	<item>	
+		<!-- Сабля*Меч Рыцаря -->
+		<ingredient id="2520" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="408000" />
+		<!-- Меч Ремесленника*Меч Ремесленника -->
+		<production id="2540" count="1" />
+	</item>	
+	<item>	
+		<!-- Сабля*Меч Рыцаря -->
+		<ingredient id="2520" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="408000" />
+		<!-- Меч Ремесленника*Меч Рыцаря -->
+		<production id="2541" count="1" />
+	</item>	
+	<item>	
+		<!-- Сабля*Меч Рыцаря -->
+		<ingredient id="2520" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="408000" />
+		<!-- Меч Рыцаря*Меч Рыцаря -->
+		<production id="2546" count="1" />
+	</item>	
+	<item>	
+		<!-- Сабля*Багровый Меч -->
+		<ingredient id="2521" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Полуторный Меч*Багровый Меч -->
+		<production id="2529" count="1" />
+	</item>	
+	<item>	
+		<!-- Сабля*Багровый Меч -->
+		<ingredient id="2521" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Полуторный Меч*Меч Эльфов -->
+		<production id="2530" count="1" />
+	</item>	
+	<item>	
+		<!-- Сабля*Багровый Меч -->
+		<ingredient id="2521" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Хребетный Меч*Багровый Меч -->
+		<production id="2536" count="1" />
+	</item>	
+	<item>	
+		<!-- Сабля*Багровый Меч -->
+		<ingredient id="2521" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Хребетный Меч*Меч Эльфов -->
+		<production id="2537" count="1" />
+	</item>	
+	<item>	
+		<!-- Сабля*Багровый Меч -->
+		<ingredient id="2521" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Меч Ремесленника*Багровый Меч -->
+		<production id="2542" count="1" />
+	</item>	
+	<item>	
+		<!-- Сабля*Багровый Меч -->
+		<ingredient id="2521" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Меч Ремесленника*Меч Эльфов -->
+		<production id="2543" count="1" />
+	</item>	
+	<item>	
+		<!-- Сабля*Багровый Меч -->
+		<ingredient id="2521" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Меч Рыцаря*Багровый Меч -->
+		<production id="2547" count="1" />
+	</item>	
+	<item>	
+		<!-- Сабля*Багровый Меч -->
+		<ingredient id="2521" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Меч Рыцаря*Меч Эльфов -->
+		<production id="2548" count="1" />
+	</item>	
+	<item>	
+		<!-- Сабля*Меч Эльфов -->
+		<ingredient id="2522" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Полуторный Меч*Багровый Меч -->
+		<production id="2529" count="1" />
+	</item>	
+	<item>	
+		<!-- Сабля*Меч Эльфов -->
+		<ingredient id="2522" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Полуторный Меч*Меч Эльфов -->
+		<production id="2530" count="1" />
+	</item>	
+	<item>	
+		<!-- Сабля*Меч Эльфов -->
+		<ingredient id="2522" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Хребетный Меч*Багровый Меч -->
+		<production id="2536" count="1" />
+	</item>	
+	<item>	
+		<!-- Сабля*Меч Эльфов -->
+		<ingredient id="2522" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Хребетный Меч*Меч Эльфов -->
+		<production id="2537" count="1" />
+	</item>	
+	<item>	
+		<!-- Сабля*Меч Эльфов -->
+		<ingredient id="2522" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Меч Ремесленника*Багровый Меч -->
+		<production id="2542" count="1" />
+	</item>	
+	<item>	
+		<!-- Сабля*Меч Эльфов -->
+		<ingredient id="2522" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Меч Ремесленника*Меч Эльфов -->
+		<production id="2543" count="1" />
+	</item>	
+	<item>	
+		<!-- Сабля*Меч Эльфов -->
+		<ingredient id="2522" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Меч Рыцаря*Багровый Меч -->
+		<production id="2547" count="1" />
+	</item>	
+	<item>	
+		<!-- Сабля*Меч Эльфов -->
+		<ingredient id="2522" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Меч Рыцаря*Меч Эльфов -->
+		<production id="2548" count="1" />
+	</item>	
+	<item>	
+		<!-- Полуторный Меч*Полуторный Меч -->
+		<ingredient id="2525" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Полуторный Меч*Багровый Меч -->
+		<production id="2529" count="1" />
+	</item>	
+	<item>	
+		<!-- Полуторный Меч*Полуторный Меч -->
+		<ingredient id="2525" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Полуторный Меч*Меч Эльфов -->
+		<production id="2530" count="1" />
+	</item>	
+	<item>	
+		<!-- Полуторный Меч*Полуторный Меч -->
+		<ingredient id="2525" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Хребетный Меч*Багровый Меч -->
+		<production id="2536" count="1" />
+	</item>	
+	<item>	
+		<!-- Полуторный Меч*Полуторный Меч -->
+		<ingredient id="2525" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Хребетный Меч*Меч Эльфов -->
+		<production id="2537" count="1" />
+	</item>	
+	<item>	
+		<!-- Полуторный Меч*Полуторный Меч -->
+		<ingredient id="2525" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Меч Ремесленника*Багровый Меч -->
+		<production id="2542" count="1" />
+	</item>	
+	<item>	
+		<!-- Полуторный Меч*Полуторный Меч -->
+		<ingredient id="2525" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Меч Ремесленника*Меч Эльфов -->
+		<production id="2543" count="1" />
+	</item>	
+	<item>	
+		<!-- Полуторный Меч*Полуторный Меч -->
+		<ingredient id="2525" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Меч Рыцаря*Багровый Меч -->
+		<production id="2547" count="1" />
+	</item>	
+	<item>	
+		<!-- Полуторный Меч*Полуторный Меч -->
+		<ingredient id="2525" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Меч Рыцаря*Меч Эльфов -->
+		<production id="2548" count="1" />
+	</item>	
+	<item>	
+		<!-- Полуторный Меч*Хребетный Меч -->
+		<ingredient id="2526" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Полуторный Меч*Багровый Меч -->
+		<production id="2529" count="1" />
+	</item>	
+	<item>	
+		<!-- Полуторный Меч*Хребетный Меч -->
+		<ingredient id="2526" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Полуторный Меч*Меч Эльфов -->
+		<production id="2530" count="1" />
+	</item>	
+	<item>	
+		<!-- Полуторный Меч*Хребетный Меч -->
+		<ingredient id="2526" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Хребетный Меч*Багровый Меч -->
+		<production id="2536" count="1" />
+	</item>	
+	<item>	
+		<!-- Полуторный Меч*Хребетный Меч -->
+		<ingredient id="2526" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Хребетный Меч*Меч Эльфов -->
+		<production id="2537" count="1" />
+	</item>	
+	<item>	
+		<!-- Полуторный Меч*Хребетный Меч -->
+		<ingredient id="2526" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Меч Ремесленника*Багровый Меч -->
+		<production id="2542" count="1" />
+	</item>	
+	<item>	
+		<!-- Полуторный Меч*Хребетный Меч -->
+		<ingredient id="2526" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Меч Ремесленника*Меч Эльфов -->
+		<production id="2543" count="1" />
+	</item>	
+	<item>	
+		<!-- Полуторный Меч*Хребетный Меч -->
+		<ingredient id="2526" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Меч Рыцаря*Багровый Меч -->
+		<production id="2547" count="1" />
+	</item>	
+	<item>	
+		<!-- Полуторный Меч*Хребетный Меч -->
+		<ingredient id="2526" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Меч Рыцаря*Меч Эльфов -->
+		<production id="2548" count="1" />
+	</item>	
+	<item>	
+		<!-- Полуторный Меч*Меч Ремесленника -->
+		<ingredient id="2527" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Полуторный Меч*Багровый Меч -->
+		<production id="2529" count="1" />
+	</item>	
+	<item>	
+		<!-- Полуторный Меч*Меч Ремесленника -->
+		<ingredient id="2527" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Полуторный Меч*Меч Эльфов -->
+		<production id="2530" count="1" />
+	</item>	
+	<item>	
+		<!-- Полуторный Меч*Меч Ремесленника -->
+		<ingredient id="2527" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Хребетный Меч*Багровый Меч -->
+		<production id="2536" count="1" />
+	</item>	
+	<item>	
+		<!-- Полуторный Меч*Меч Ремесленника -->
+		<ingredient id="2527" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Хребетный Меч*Меч Эльфов -->
+		<production id="2537" count="1" />
+	</item>	
+	<item>	
+		<!-- Полуторный Меч*Меч Ремесленника -->
+		<ingredient id="2527" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Меч Ремесленника*Багровый Меч -->
+		<production id="2542" count="1" />
+	</item>	
+	<item>	
+		<!-- Полуторный Меч*Меч Ремесленника -->
+		<ingredient id="2527" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Меч Ремесленника*Меч Эльфов -->
+		<production id="2543" count="1" />
+	</item>	
+	<item>	
+		<!-- Полуторный Меч*Меч Ремесленника -->
+		<ingredient id="2527" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Меч Рыцаря*Багровый Меч -->
+		<production id="2547" count="1" />
+	</item>	
+	<item>	
+		<!-- Полуторный Меч*Меч Ремесленника -->
+		<ingredient id="2527" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Меч Рыцаря*Меч Эльфов -->
+		<production id="2548" count="1" />
+	</item>	
+	<item>	
+		<!-- Полуторный Меч*Меч Рыцаря -->
+		<ingredient id="2528" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Полуторный Меч*Багровый Меч -->
+		<production id="2529" count="1" />
+	</item>	
+	<item>	
+		<!-- Полуторный Меч*Меч Рыцаря -->
+		<ingredient id="2528" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Полуторный Меч*Меч Эльфов -->
+		<production id="2530" count="1" />
+	</item>	
+	<item>	
+		<!-- Полуторный Меч*Меч Рыцаря -->
+		<ingredient id="2528" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Хребетный Меч*Багровый Меч -->
+		<production id="2536" count="1" />
+	</item>	
+	<item>	
+		<!-- Полуторный Меч*Меч Рыцаря -->
+		<ingredient id="2528" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Хребетный Меч*Меч Эльфов -->
+		<production id="2537" count="1" />
+	</item>	
+	<item>	
+		<!-- Полуторный Меч*Меч Рыцаря -->
+		<ingredient id="2528" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Меч Ремесленника*Багровый Меч -->
+		<production id="2542" count="1" />
+	</item>	
+	<item>	
+		<!-- Полуторный Меч*Меч Рыцаря -->
+		<ingredient id="2528" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Меч Ремесленника*Меч Эльфов -->
+		<production id="2543" count="1" />
+	</item>	
+	<item>	
+		<!-- Полуторный Меч*Меч Рыцаря -->
+		<ingredient id="2528" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Меч Рыцаря*Багровый Меч -->
+		<production id="2547" count="1" />
+	</item>	
+	<item>	
+		<!-- Полуторный Меч*Меч Рыцаря -->
+		<ingredient id="2528" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Меч Рыцаря*Меч Эльфов -->
+		<production id="2548" count="1" />
+	</item>	
+	<item>	
+		<!-- Хребетный Меч*Хребетный Меч -->
+		<ingredient id="2533" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Полуторный Меч*Багровый Меч -->
+		<production id="2529" count="1" />
+	</item>	
+	<item>	
+		<!-- Хребетный Меч*Хребетный Меч -->
+		<ingredient id="2533" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Полуторный Меч*Меч Эльфов -->
+		<production id="2530" count="1" />
+	</item>	
+	<item>	
+		<!-- Хребетный Меч*Хребетный Меч -->
+		<ingredient id="2533" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Хребетный Меч*Багровый Меч -->
+		<production id="2536" count="1" />
+	</item>	
+	<item>	
+		<!-- Хребетный Меч*Хребетный Меч -->
+		<ingredient id="2533" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Хребетный Меч*Меч Эльфов -->
+		<production id="2537" count="1" />
+	</item>	
+	<item>	
+		<!-- Хребетный Меч*Хребетный Меч -->
+		<ingredient id="2533" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Меч Ремесленника*Багровый Меч -->
+		<production id="2542" count="1" />
+	</item>	
+	<item>	
+		<!-- Хребетный Меч*Хребетный Меч -->
+		<ingredient id="2533" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Меч Ремесленника*Меч Эльфов -->
+		<production id="2543" count="1" />
+	</item>	
+	<item>	
+		<!-- Хребетный Меч*Хребетный Меч -->
+		<ingredient id="2533" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Меч Рыцаря*Багровый Меч -->
+		<production id="2547" count="1" />
+	</item>	
+	<item>	
+		<!-- Хребетный Меч*Хребетный Меч -->
+		<ingredient id="2533" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Меч Рыцаря*Меч Эльфов -->
+		<production id="2548" count="1" />
+	</item>	
+	<item>	
+		<!-- Хребетный Меч*Меч Ремесленника -->
+		<ingredient id="2534" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Полуторный Меч*Багровый Меч -->
+		<production id="2529" count="1" />
+	</item>	
+	<item>	
+		<!-- Хребетный Меч*Меч Ремесленника -->
+		<ingredient id="2534" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Полуторный Меч*Меч Эльфов -->
+		<production id="2530" count="1" />
+	</item>	
+	<item>	
+		<!-- Хребетный Меч*Меч Ремесленника -->
+		<ingredient id="2534" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Хребетный Меч*Багровый Меч -->
+		<production id="2536" count="1" />
+	</item>	
+	<item>	
+		<!-- Хребетный Меч*Меч Ремесленника -->
+		<ingredient id="2534" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Хребетный Меч*Меч Эльфов -->
+		<production id="2537" count="1" />
+	</item>	
+	<item>	
+		<!-- Хребетный Меч*Меч Ремесленника -->
+		<ingredient id="2534" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Меч Ремесленника*Багровый Меч -->
+		<production id="2542" count="1" />
+	</item>	
+	<item>	
+		<!-- Хребетный Меч*Меч Ремесленника -->
+		<ingredient id="2534" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Меч Ремесленника*Меч Эльфов -->
+		<production id="2543" count="1" />
+	</item>	
+	<item>	
+		<!-- Хребетный Меч*Меч Ремесленника -->
+		<ingredient id="2534" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Меч Рыцаря*Багровый Меч -->
+		<production id="2547" count="1" />
+	</item>	
+	<item>	
+		<!-- Хребетный Меч*Меч Ремесленника -->
+		<ingredient id="2534" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Меч Рыцаря*Меч Эльфов -->
+		<production id="2548" count="1" />
+	</item>	
+	<item>	
+		<!-- Хребетный Меч*Меч Рыцаря -->
+		<ingredient id="2535" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Полуторный Меч*Багровый Меч -->
+		<production id="2529" count="1" />
+	</item>	
+	<item>	
+		<!-- Хребетный Меч*Меч Рыцаря -->
+		<ingredient id="2535" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Полуторный Меч*Меч Эльфов -->
+		<production id="2530" count="1" />
+	</item>	
+	<item>	
+		<!-- Хребетный Меч*Меч Рыцаря -->
+		<ingredient id="2535" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Хребетный Меч*Багровый Меч -->
+		<production id="2536" count="1" />
+	</item>	
+	<item>	
+		<!-- Хребетный Меч*Меч Рыцаря -->
+		<ingredient id="2535" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Хребетный Меч*Меч Эльфов -->
+		<production id="2537" count="1" />
+	</item>	
+	<item>	
+		<!-- Хребетный Меч*Меч Рыцаря -->
+		<ingredient id="2535" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Меч Ремесленника*Багровый Меч -->
+		<production id="2542" count="1" />
+	</item>	
+	<item>	
+		<!-- Хребетный Меч*Меч Рыцаря -->
+		<ingredient id="2535" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Меч Ремесленника*Меч Эльфов -->
+		<production id="2543" count="1" />
+	</item>	
+	<item>	
+		<!-- Хребетный Меч*Меч Рыцаря -->
+		<ingredient id="2535" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Меч Рыцаря*Багровый Меч -->
+		<production id="2547" count="1" />
+	</item>	
+	<item>	
+		<!-- Хребетный Меч*Меч Рыцаря -->
+		<ingredient id="2535" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Меч Рыцаря*Меч Эльфов -->
+		<production id="2548" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Ремесленника*Меч Ремесленника -->
+		<ingredient id="2540" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Полуторный Меч*Багровый Меч -->
+		<production id="2529" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Ремесленника*Меч Ремесленника -->
+		<ingredient id="2540" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Полуторный Меч*Меч Эльфов -->
+		<production id="2530" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Ремесленника*Меч Ремесленника -->
+		<ingredient id="2540" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Хребетный Меч*Багровый Меч -->
+		<production id="2536" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Ремесленника*Меч Ремесленника -->
+		<ingredient id="2540" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Хребетный Меч*Меч Эльфов -->
+		<production id="2537" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Ремесленника*Меч Ремесленника -->
+		<ingredient id="2540" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Меч Ремесленника*Багровый Меч -->
+		<production id="2542" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Ремесленника*Меч Ремесленника -->
+		<ingredient id="2540" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Меч Ремесленника*Меч Эльфов -->
+		<production id="2543" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Ремесленника*Меч Ремесленника -->
+		<ingredient id="2540" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Меч Рыцаря*Багровый Меч -->
+		<production id="2547" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Ремесленника*Меч Ремесленника -->
+		<ingredient id="2540" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Меч Рыцаря*Меч Эльфов -->
+		<production id="2548" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Ремесленника*Меч Рыцаря -->
+		<ingredient id="2541" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Полуторный Меч*Багровый Меч -->
+		<production id="2529" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Ремесленника*Меч Рыцаря -->
+		<ingredient id="2541" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Полуторный Меч*Меч Эльфов -->
+		<production id="2530" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Ремесленника*Меч Рыцаря -->
+		<ingredient id="2541" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Хребетный Меч*Багровый Меч -->
+		<production id="2536" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Ремесленника*Меч Рыцаря -->
+		<ingredient id="2541" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Хребетный Меч*Меч Эльфов -->
+		<production id="2537" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Ремесленника*Меч Рыцаря -->
+		<ingredient id="2541" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Меч Ремесленника*Багровый Меч -->
+		<production id="2542" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Ремесленника*Меч Рыцаря -->
+		<ingredient id="2541" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Меч Ремесленника*Меч Эльфов -->
+		<production id="2543" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Ремесленника*Меч Рыцаря -->
+		<ingredient id="2541" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Меч Рыцаря*Багровый Меч -->
+		<production id="2547" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Ремесленника*Меч Рыцаря -->
+		<ingredient id="2541" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Меч Рыцаря*Меч Эльфов -->
+		<production id="2548" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Рыцаря*Меч Рыцаря -->
+		<ingredient id="2546" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Полуторный Меч*Багровый Меч -->
+		<production id="2529" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Рыцаря*Меч Рыцаря -->
+		<ingredient id="2546" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Полуторный Меч*Меч Эльфов -->
+		<production id="2530" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Рыцаря*Меч Рыцаря -->
+		<ingredient id="2546" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Хребетный Меч*Багровый Меч -->
+		<production id="2536" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Рыцаря*Меч Рыцаря -->
+		<ingredient id="2546" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Хребетный Меч*Меч Эльфов -->
+		<production id="2537" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Рыцаря*Меч Рыцаря -->
+		<ingredient id="2546" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Меч Ремесленника*Багровый Меч -->
+		<production id="2542" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Рыцаря*Меч Рыцаря -->
+		<ingredient id="2546" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Меч Ремесленника*Меч Эльфов -->
+		<production id="2543" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Рыцаря*Меч Рыцаря -->
+		<ingredient id="2546" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Меч Рыцаря*Багровый Меч -->
+		<production id="2547" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Рыцаря*Меч Рыцаря -->
+		<ingredient id="2546" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="312000" />
+		<!-- Меч Рыцаря*Меч Эльфов -->
+		<production id="2548" count="1" />
+	</item>	
+	<item>	
+		<!-- Полуторный Меч*Багровый Меч -->
+		<ingredient id="2529" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="360000" />
+		<!-- Сабля*Меч Революции -->
+		<production id="2523" count="1" />
+	</item>	
+	<item>	
+		<!-- Полуторный Меч*Багровый Меч -->
+		<ingredient id="2529" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="360000" />
+		<!-- Багровый Меч*Багровый Меч -->
+		<production id="2551" count="1" />
+	</item>	
+	<item>	
+		<!-- Полуторный Меч*Багровый Меч -->
+		<ingredient id="2529" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="360000" />
+		<!-- Багровый Меч*Меч Эльфов -->
+		<production id="2552" count="1" />
+	</item>	
+	<item>	
+		<!-- Полуторный Меч*Багровый Меч -->
+		<ingredient id="2529" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="360000" />
+		<!-- Меч Эльфов*Меч Эльфов -->
+		<production id="2555" count="1" />
+	</item>	
+	<item>	
+		<!-- Полуторный Меч*Меч Эльфов -->
+		<ingredient id="2530" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="360000" />
+		<!-- Сабля*Меч Революции -->
+		<production id="2523" count="1" />
+	</item>	
+	<item>	
+		<!-- Полуторный Меч*Меч Эльфов -->
+		<ingredient id="2530" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="360000" />
+		<!-- Багровый Меч*Багровый Меч -->
+		<production id="2551" count="1" />
+	</item>	
+	<item>	
+		<!-- Полуторный Меч*Меч Эльфов -->
+		<ingredient id="2530" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="360000" />
+		<!-- Багровый Меч*Меч Эльфов -->
+		<production id="2552" count="1" />
+	</item>	
+	<item>	
+		<!-- Полуторный Меч*Меч Эльфов -->
+		<ingredient id="2530" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="360000" />
+		<!-- Меч Эльфов*Меч Эльфов -->
+		<production id="2555" count="1" />
+	</item>	
+	<item>	
+		<!-- Хребетный Меч*Багровый Меч -->
+		<ingredient id="2536" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="360000" />
+		<!-- Сабля*Меч Революции -->
+		<production id="2523" count="1" />
+	</item>	
+	<item>	
+		<!-- Хребетный Меч*Багровый Меч -->
+		<ingredient id="2536" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="360000" />
+		<!-- Багровый Меч*Багровый Меч -->
+		<production id="2551" count="1" />
+	</item>	
+	<item>	
+		<!-- Хребетный Меч*Багровый Меч -->
+		<ingredient id="2536" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="360000" />
+		<!-- Багровый Меч*Меч Эльфов -->
+		<production id="2552" count="1" />
+	</item>	
+	<item>	
+		<!-- Хребетный Меч*Багровый Меч -->
+		<ingredient id="2536" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="360000" />
+		<!-- Меч Эльфов*Меч Эльфов -->
+		<production id="2555" count="1" />
+	</item>	
+	<item>	
+		<!-- Хребетный Меч*Меч Эльфов -->
+		<ingredient id="2537" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="360000" />
+		<!-- Сабля*Меч Революции -->
+		<production id="2523" count="1" />
+	</item>	
+	<item>	
+		<!-- Хребетный Меч*Меч Эльфов -->
+		<ingredient id="2537" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="360000" />
+		<!-- Багровый Меч*Багровый Меч -->
+		<production id="2551" count="1" />
+	</item>	
+	<item>	
+		<!-- Хребетный Меч*Меч Эльфов -->
+		<ingredient id="2537" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="360000" />
+		<!-- Багровый Меч*Меч Эльфов -->
+		<production id="2552" count="1" />
+	</item>	
+	<item>	
+		<!-- Хребетный Меч*Меч Эльфов -->
+		<ingredient id="2537" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="360000" />
+		<!-- Меч Эльфов*Меч Эльфов -->
+		<production id="2555" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Ремесленника*Багровый Меч -->
+		<ingredient id="2542" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="360000" />
+		<!-- Сабля*Меч Революции -->
+		<production id="2523" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Ремесленника*Багровый Меч -->
+		<ingredient id="2542" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="360000" />
+		<!-- Багровый Меч*Багровый Меч -->
+		<production id="2551" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Ремесленника*Багровый Меч -->
+		<ingredient id="2542" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="360000" />
+		<!-- Багровый Меч*Меч Эльфов -->
+		<production id="2552" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Ремесленника*Багровый Меч -->
+		<ingredient id="2542" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="360000" />
+		<!-- Меч Эльфов*Меч Эльфов -->
+		<production id="2555" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Ремесленника*Меч Эльфов -->
+		<ingredient id="2543" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="360000" />
+		<!-- Сабля*Меч Революции -->
+		<production id="2523" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Ремесленника*Меч Эльфов -->
+		<ingredient id="2543" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="360000" />
+		<!-- Багровый Меч*Багровый Меч -->
+		<production id="2551" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Ремесленника*Меч Эльфов -->
+		<ingredient id="2543" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="360000" />
+		<!-- Багровый Меч*Меч Эльфов -->
+		<production id="2552" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Ремесленника*Меч Эльфов -->
+		<ingredient id="2543" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="360000" />
+		<!-- Меч Эльфов*Меч Эльфов -->
+		<production id="2555" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Рыцаря*Багровый Меч -->
+		<ingredient id="2547" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="360000" />
+		<!-- Сабля*Меч Революции -->
+		<production id="2523" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Рыцаря*Багровый Меч -->
+		<ingredient id="2547" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="360000" />
+		<!-- Багровый Меч*Багровый Меч -->
+		<production id="2551" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Рыцаря*Багровый Меч -->
+		<ingredient id="2547" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="360000" />
+		<!-- Багровый Меч*Меч Эльфов -->
+		<production id="2552" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Рыцаря*Багровый Меч -->
+		<ingredient id="2547" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="360000" />
+		<!-- Меч Эльфов*Меч Эльфов -->
+		<production id="2555" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Рыцаря*Меч Эльфов -->
+		<ingredient id="2548" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="360000" />
+		<!-- Сабля*Меч Революции -->
+		<production id="2523" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Рыцаря*Меч Эльфов -->
+		<ingredient id="2548" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="360000" />
+		<!-- Багровый Меч*Багровый Меч -->
+		<production id="2551" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Рыцаря*Меч Эльфов -->
+		<ingredient id="2548" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="360000" />
+		<!-- Багровый Меч*Меч Эльфов -->
+		<production id="2552" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Рыцаря*Меч Эльфов -->
+		<ingredient id="2548" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="360000" />
+		<!-- Меч Эльфов*Меч Эльфов -->
+		<production id="2555" count="1" />
+	</item>	
+	<item>	
+		<!-- Сабля*Меч Революции -->
+		<ingredient id="2523" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="192000" />
+		<!-- Полуторный Меч*Меч Революции -->
+		<production id="2531" count="1" />
+	</item>	
+	<item>	
+		<!-- Сабля*Меч Революции -->
+		<ingredient id="2523" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="192000" />
+		<!-- Хребетный Меч*Меч Революции -->
+		<production id="2538" count="1" />
+	</item>	
+	<item>	
+		<!-- Сабля*Меч Революции -->
+		<ingredient id="2523" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="192000" />
+		<!-- Меч Ремесленника*Меч Революции -->
+		<production id="2544" count="1" />
+	</item>	
+	<item>	
+		<!-- Сабля*Меч Революции -->
+		<ingredient id="2523" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="192000" />
+		<!-- Меч Рыцаря*Меч Революции -->
+		<production id="2549" count="1" />
+	</item>	
+	<item>	
+		<!-- Багровый Меч*Багровый Меч -->
+		<ingredient id="2551" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="192000" />
+		<!-- Полуторный Меч*Меч Революции -->
+		<production id="2531" count="1" />
+	</item>	
+	<item>	
+		<!-- Багровый Меч*Багровый Меч -->
+		<ingredient id="2551" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="192000" />
+		<!-- Хребетный Меч*Меч Революции -->
+		<production id="2538" count="1" />
+	</item>	
+	<item>	
+		<!-- Багровый Меч*Багровый Меч -->
+		<ingredient id="2551" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="192000" />
+		<!-- Меч Ремесленника*Меч Революции -->
+		<production id="2544" count="1" />
+	</item>	
+	<item>	
+		<!-- Багровый Меч*Багровый Меч -->
+		<ingredient id="2551" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="192000" />
+		<!-- Меч Рыцаря*Меч Революции -->
+		<production id="2549" count="1" />
+	</item>	
+	<item>	
+		<!-- Багровый Меч*Меч Эльфов -->
+		<ingredient id="2552" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="192000" />
+		<!-- Полуторный Меч*Меч Революции -->
+		<production id="2531" count="1" />
+	</item>	
+	<item>	
+		<!-- Багровый Меч*Меч Эльфов -->
+		<ingredient id="2552" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="192000" />
+		<!-- Хребетный Меч*Меч Революции -->
+		<production id="2538" count="1" />
+	</item>	
+	<item>	
+		<!-- Багровый Меч*Меч Эльфов -->
+		<ingredient id="2552" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="192000" />
+		<!-- Меч Ремесленника*Меч Революции -->
+		<production id="2544" count="1" />
+	</item>	
+	<item>	
+		<!-- Багровый Меч*Меч Эльфов -->
+		<ingredient id="2552" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="192000" />
+		<!-- Меч Рыцаря*Меч Революции -->
+		<production id="2549" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Эльфов*Меч Эльфов -->
+		<ingredient id="2555" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="192000" />
+		<!-- Полуторный Меч*Меч Революции -->
+		<production id="2531" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Эльфов*Меч Эльфов -->
+		<ingredient id="2555" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="192000" />
+		<!-- Хребетный Меч*Меч Революции -->
+		<production id="2538" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Эльфов*Меч Эльфов -->
+		<ingredient id="2555" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="192000" />
+		<!-- Меч Ремесленника*Меч Революции -->
+		<production id="2544" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Эльфов*Меч Эльфов -->
+		<ingredient id="2555" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="192000" />
+		<!-- Меч Рыцаря*Меч Революции -->
+		<production id="2549" count="1" />
+	</item>	
+	<item>	
+		<!-- Полуторный Меч*Меч Революции -->
+		<ingredient id="2531" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="204000" />
+		<!-- Сабля*Длинный Меч Эльфов -->
+		<production id="2524" count="1" />
+	</item>	
+	<item>	
+		<!-- Хребетный Меч*Меч Революции -->
+		<ingredient id="2538" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="204000" />
+		<!-- Сабля*Длинный Меч Эльфов -->
+		<production id="2524" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Ремесленника*Меч Революции -->
+		<ingredient id="2544" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="204000" />
+		<!-- Сабля*Длинный Меч Эльфов -->
+		<production id="2524" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Рыцаря*Меч Революции -->
+		<ingredient id="2549" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="204000" />
+		<!-- Сабля*Длинный Меч Эльфов -->
+		<production id="2524" count="1" />
+	</item>	
+	<item>	
+		<!-- Сабля*Длинный Меч Эльфов -->
+		<ingredient id="2524" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="216000" />
+		<!-- Полуторный Меч*Длинный Меч Эльфов -->
+		<production id="2532" count="1" />
+	</item>	
+	<item>	
+		<!-- Сабля*Длинный Меч Эльфов -->
+		<ingredient id="2524" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="216000" />
+		<!-- Хребетный Меч*Длинный Меч Эльфов -->
+		<production id="2539" count="1" />
+	</item>	
+	<item>	
+		<!-- Сабля*Длинный Меч Эльфов -->
+		<ingredient id="2524" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="216000" />
+		<!-- Меч Ремесленника*Длинный Меч Эльфов -->
+		<production id="2545" count="1" />
+	</item>	
+	<item>	
+		<!-- Сабля*Длинный Меч Эльфов -->
+		<ingredient id="2524" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="216000" />
+		<!-- Меч Рыцаря*Длинный Меч Эльфов -->
+		<production id="2550" count="1" />
+	</item>	
+	<item>	
+		<!-- Сабля*Длинный Меч Эльфов -->
+		<ingredient id="2524" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="216000" />
+		<!-- Багровый Меч*Меч Революции -->
+		<production id="2553" count="1" />
+	</item>	
+	<item>	
+		<!-- Сабля*Длинный Меч Эльфов -->
+		<ingredient id="2524" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="216000" />
+		<!-- Меч Эльфов*Меч Революции -->
+		<production id="2556" count="1" />
+	</item>	
+	<item>	
+		<!-- Полуторный Меч*Длинный Меч Эльфов -->
+		<ingredient id="2532" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="480000" />
+		<!-- Багровый Меч*Длинный Меч Эльфов -->
+		<production id="2554" count="1" />
+	</item>	
+	<item>	
+		<!-- Полуторный Меч*Длинный Меч Эльфов -->
+		<ingredient id="2532" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="480000" />
+		<!-- Меч Эльфов*Длинный Меч Эльфов -->
+		<production id="2557" count="1" />
+	</item>	
+	<item>	
+		<!-- Полуторный Меч*Длинный Меч Эльфов -->
+		<ingredient id="2532" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="480000" />
+		<!-- Меч Революции*Меч Революции -->
+		<production id="2558" count="1" />
+	</item>	
+	<item>	
+		<!-- Хребетный Меч*Длинный Меч Эльфов -->
+		<ingredient id="2539" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="480000" />
+		<!-- Багровый Меч*Длинный Меч Эльфов -->
+		<production id="2554" count="1" />
+	</item>	
+	<item>	
+		<!-- Хребетный Меч*Длинный Меч Эльфов -->
+		<ingredient id="2539" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="480000" />
+		<!-- Меч Эльфов*Длинный Меч Эльфов -->
+		<production id="2557" count="1" />
+	</item>	
+	<item>	
+		<!-- Хребетный Меч*Длинный Меч Эльфов -->
+		<ingredient id="2539" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="480000" />
+		<!-- Меч Революции*Меч Революции -->
+		<production id="2558" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Ремесленника*Длинный Меч Эльфов -->
+		<ingredient id="2545" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="480000" />
+		<!-- Багровый Меч*Длинный Меч Эльфов -->
+		<production id="2554" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Ремесленника*Длинный Меч Эльфов -->
+		<ingredient id="2545" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="480000" />
+		<!-- Меч Эльфов*Длинный Меч Эльфов -->
+		<production id="2557" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Ремесленника*Длинный Меч Эльфов -->
+		<ingredient id="2545" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="480000" />
+		<!-- Меч Революции*Меч Революции -->
+		<production id="2558" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Рыцаря*Длинный Меч Эльфов -->
+		<ingredient id="2550" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="480000" />
+		<!-- Багровый Меч*Длинный Меч Эльфов -->
+		<production id="2554" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Рыцаря*Длинный Меч Эльфов -->
+		<ingredient id="2550" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="480000" />
+		<!-- Меч Эльфов*Длинный Меч Эльфов -->
+		<production id="2557" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Рыцаря*Длинный Меч Эльфов -->
+		<ingredient id="2550" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="480000" />
+		<!-- Меч Революции*Меч Революции -->
+		<production id="2558" count="1" />
+	</item>	
+	<item>	
+		<!-- Багровый Меч*Меч Революции -->
+		<ingredient id="2553" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="480000" />
+		<!-- Багровый Меч*Длинный Меч Эльфов -->
+		<production id="2554" count="1" />
+	</item>	
+	<item>	
+		<!-- Багровый Меч*Меч Революции -->
+		<ingredient id="2553" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="480000" />
+		<!-- Меч Эльфов*Длинный Меч Эльфов -->
+		<production id="2557" count="1" />
+	</item>	
+	<item>	
+		<!-- Багровый Меч*Меч Революции -->
+		<ingredient id="2553" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="480000" />
+		<!-- Меч Революции*Меч Революции -->
+		<production id="2558" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Эльфов*Меч Революции -->
+		<ingredient id="2556" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="480000" />
+		<!-- Багровый Меч*Длинный Меч Эльфов -->
+		<production id="2554" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Эльфов*Меч Революции -->
+		<ingredient id="2556" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="480000" />
+		<!-- Меч Эльфов*Длинный Меч Эльфов -->
+		<production id="2557" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Эльфов*Меч Революции -->
+		<ingredient id="2556" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="480000" />
+		<!-- Меч Революции*Меч Революции -->
+		<production id="2558" count="1" />
+	</item>	
+	<item>	
+		<!-- Багровый Меч*Длинный Меч Эльфов -->
+		<ingredient id="2554" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="564000" />
+		<!-- Меч Революции*Длинный Меч Эльфов -->
+		<production id="2559" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Эльфов*Длинный Меч Эльфов -->
+		<ingredient id="2557" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="564000" />
+		<!-- Меч Революции*Длинный Меч Эльфов -->
+		<production id="2559" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Революции*Меч Революции -->
+		<ingredient id="2558" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="564000" />
+		<!-- Меч Революции*Длинный Меч Эльфов -->
+		<production id="2559" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Революции*Длинный Меч Эльфов -->
+		<ingredient id="2559" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="576000" />
+		<!-- Длинный Меч Эльфов*Длинный Меч Эльфов -->
+		<production id="2560" count="1" />
+	</item>	
+	<item>	
+		<!-- Длинный Меч Эльфов*Длинный Меч Эльфов -->
+		<ingredient id="2560" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1152000" />
+		<!-- Громовержец*Громовержец -->
+		<production id="2561" count="1" />
+	</item>	
+	<item>	
+		<!-- Громовержец*Громовержец -->
+		<ingredient id="2561" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="600000" />
+		<!-- Громовержец*Шамшир -->
+		<production id="2562" count="1" />
+	</item>	
+	<item>	
+		<!-- Громовержец*Громовержец -->
+		<ingredient id="2561" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="600000" />
+		<!-- Громовержец*Катана -->
+		<production id="2563" count="1" />
+	</item>	
+	<item>	
+		<!-- Громовержец*Громовержец -->
+		<ingredient id="2561" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="600000" />
+		<!-- Громовержец*Меч Духов -->
+		<production id="2564" count="1" />
+	</item>	
+	<item>	
+		<!-- Громовержец*Громовержец -->
+		<ingredient id="2561" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="600000" />
+		<!-- Громовержец*Меч Налетчика -->
+		<production id="2565" count="1" />
+	</item>	
+	<item>	
+		<!-- Громовержец*Шамшир -->
+		<ingredient id="2562" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1020000" />
+		<!-- Шамшир*Шамшир -->
+		<production id="2572" count="1" />
+	</item>	
+	<item>	
+		<!-- Громовержец*Шамшир -->
+		<ingredient id="2562" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1020000" />
+		<!-- Шамшир*Катана -->
+		<production id="2573" count="1" />
+	</item>	
+	<item>	
+		<!-- Громовержец*Шамшир -->
+		<ingredient id="2562" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1020000" />
+		<!-- Шамшир*Меч Духов -->
+		<production id="2574" count="1" />
+	</item>	
+	<item>	
+		<!-- Громовержец*Шамшир -->
+		<ingredient id="2562" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1020000" />
+		<!-- Шамшир*Меч Налетчика -->
+		<production id="2575" count="1" />
+	</item>	
+	<item>	
+		<!-- Громовержец*Шамшир -->
+		<ingredient id="2562" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1020000" />
+		<!-- Катана*Катана -->
+		<production id="2582" count="1" />
+	</item>	
+	<item>	
+		<!-- Громовержец*Шамшир -->
+		<ingredient id="2562" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1020000" />
+		<!-- Катана*Меч Духов -->
+		<production id="2583" count="1" />
+	</item>	
+	<item>	
+		<!-- Громовержец*Шамшир -->
+		<ingredient id="2562" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1020000" />
+		<!-- Катана*Меч Налетчика -->
+		<production id="2584" count="1" />
+	</item>	
+	<item>	
+		<!-- Громовержец*Шамшир -->
+		<ingredient id="2562" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1020000" />
+		<!-- Меч Духов*Меч Духов -->
+		<production id="2591" count="1" />
+	</item>	
+	<item>	
+		<!-- Громовержец*Шамшир -->
+		<ingredient id="2562" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1020000" />
+		<!-- Меч Духов*Меч Налетчика -->
+		<production id="2592" count="1" />
+	</item>	
+	<item>	
+		<!-- Громовержец*Шамшир -->
+		<ingredient id="2562" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1020000" />
+		<!-- Меч Налетчика*Меч Налетчика -->
+		<production id="2599" count="1" />
+	</item>	
+	<item>	
+		<!-- Громовержец*Катана -->
+		<ingredient id="2563" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1020000" />
+		<!-- Шамшир*Шамшир -->
+		<production id="2572" count="1" />
+	</item>	
+	<item>	
+		<!-- Громовержец*Катана -->
+		<ingredient id="2563" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1020000" />
+		<!-- Шамшир*Катана -->
+		<production id="2573" count="1" />
+	</item>	
+	<item>	
+		<!-- Громовержец*Катана -->
+		<ingredient id="2563" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1020000" />
+		<!-- Шамшир*Меч Духов -->
+		<production id="2574" count="1" />
+	</item>	
+	<item>	
+		<!-- Громовержец*Катана -->
+		<ingredient id="2563" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1020000" />
+		<!-- Шамшир*Меч Налетчика -->
+		<production id="2575" count="1" />
+	</item>	
+	<item>	
+		<!-- Громовержец*Катана -->
+		<ingredient id="2563" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1020000" />
+		<!-- Катана*Катана -->
+		<production id="2582" count="1" />
+	</item>	
+	<item>	
+		<!-- Громовержец*Катана -->
+		<ingredient id="2563" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1020000" />
+		<!-- Катана*Меч Духов -->
+		<production id="2583" count="1" />
+	</item>	
+	<item>	
+		<!-- Громовержец*Катана -->
+		<ingredient id="2563" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1020000" />
+		<!-- Катана*Меч Налетчика -->
+		<production id="2584" count="1" />
+	</item>	
+	<item>	
+		<!-- Громовержец*Катана -->
+		<ingredient id="2563" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1020000" />
+		<!-- Меч Духов*Меч Духов -->
+		<production id="2591" count="1" />
+	</item>	
+	<item>	
+		<!-- Громовержец*Катана -->
+		<ingredient id="2563" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1020000" />
+		<!-- Меч Духов*Меч Налетчика -->
+		<production id="2592" count="1" />
+	</item>	
+	<item>	
+		<!-- Громовержец*Катана -->
+		<ingredient id="2563" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1020000" />
+		<!-- Меч Налетчика*Меч Налетчика -->
+		<production id="2599" count="1" />
+	</item>	
+	<item>	
+		<!-- Громовержец*Меч Духов -->
+		<ingredient id="2564" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1020000" />
+		<!-- Шамшир*Шамшир -->
+		<production id="2572" count="1" />
+	</item>	
+	<item>	
+		<!-- Громовержец*Меч Духов -->
+		<ingredient id="2564" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1020000" />
+		<!-- Шамшир*Катана -->
+		<production id="2573" count="1" />
+	</item>	
+	<item>	
+		<!-- Громовержец*Меч Духов -->
+		<ingredient id="2564" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1020000" />
+		<!-- Шамшир*Меч Духов -->
+		<production id="2574" count="1" />
+	</item>	
+	<item>	
+		<!-- Громовержец*Меч Духов -->
+		<ingredient id="2564" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1020000" />
+		<!-- Шамшир*Меч Налетчика -->
+		<production id="2575" count="1" />
+	</item>	
+	<item>	
+		<!-- Громовержец*Меч Духов -->
+		<ingredient id="2564" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1020000" />
+		<!-- Катана*Катана -->
+		<production id="2582" count="1" />
+	</item>	
+	<item>	
+		<!-- Громовержец*Меч Духов -->
+		<ingredient id="2564" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1020000" />
+		<!-- Катана*Меч Духов -->
+		<production id="2583" count="1" />
+	</item>	
+	<item>	
+		<!-- Громовержец*Меч Духов -->
+		<ingredient id="2564" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1020000" />
+		<!-- Катана*Меч Налетчика -->
+		<production id="2584" count="1" />
+	</item>	
+	<item>	
+		<!-- Громовержец*Меч Духов -->
+		<ingredient id="2564" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1020000" />
+		<!-- Меч Духов*Меч Духов -->
+		<production id="2591" count="1" />
+	</item>	
+	<item>	
+		<!-- Громовержец*Меч Духов -->
+		<ingredient id="2564" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1020000" />
+		<!-- Меч Духов*Меч Налетчика -->
+		<production id="2592" count="1" />
+	</item>	
+	<item>	
+		<!-- Громовержец*Меч Духов -->
+		<ingredient id="2564" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1020000" />
+		<!-- Меч Налетчика*Меч Налетчика -->
+		<production id="2599" count="1" />
+	</item>	
+	<item>	
+		<!-- Громовержец*Меч Налетчика -->
+		<ingredient id="2565" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1020000" />
+		<!-- Шамшир*Шамшир -->
+		<production id="2572" count="1" />
+	</item>	
+	<item>	
+		<!-- Громовержец*Меч Налетчика -->
+		<ingredient id="2565" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1020000" />
+		<!-- Шамшир*Катана -->
+		<production id="2573" count="1" />
+	</item>	
+	<item>	
+		<!-- Громовержец*Меч Налетчика -->
+		<ingredient id="2565" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1020000" />
+		<!-- Шамшир*Меч Духов -->
+		<production id="2574" count="1" />
+	</item>	
+	<item>	
+		<!-- Громовержец*Меч Налетчика -->
+		<ingredient id="2565" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1020000" />
+		<!-- Шамшир*Меч Налетчика -->
+		<production id="2575" count="1" />
+	</item>	
+	<item>	
+		<!-- Громовержец*Меч Налетчика -->
+		<ingredient id="2565" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1020000" />
+		<!-- Катана*Катана -->
+		<production id="2582" count="1" />
+	</item>	
+	<item>	
+		<!-- Громовержец*Меч Налетчика -->
+		<ingredient id="2565" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1020000" />
+		<!-- Катана*Меч Духов -->
+		<production id="2583" count="1" />
+	</item>	
+	<item>	
+		<!-- Громовержец*Меч Налетчика -->
+		<ingredient id="2565" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1020000" />
+		<!-- Катана*Меч Налетчика -->
+		<production id="2584" count="1" />
+	</item>	
+	<item>	
+		<!-- Громовержец*Меч Налетчика -->
+		<ingredient id="2565" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1020000" />
+		<!-- Меч Духов*Меч Духов -->
+		<production id="2591" count="1" />
+	</item>	
+	<item>	
+		<!-- Громовержец*Меч Налетчика -->
+		<ingredient id="2565" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1020000" />
+		<!-- Меч Духов*Меч Налетчика -->
+		<production id="2592" count="1" />
+	</item>	
+	<item>	
+		<!-- Громовержец*Меч Налетчика -->
+		<ingredient id="2565" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="1020000" />
+		<!-- Меч Налетчика*Меч Налетчика -->
+		<production id="2599" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Жреца -->
+		<ingredient id="7885" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="282000" />
+		<!-- Полуторный Меч -->
+		<production id="69" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Жреца -->
+		<ingredient id="7885" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="282000" />
+		<!-- Хребетный Меч -->
+		<production id="125" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Жреца -->
+		<ingredient id="7885" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="282000" />
+		<!-- Меч Ремесленника -->
+		<production id="126" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Жреца -->
+		<ingredient id="7885" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="282000" />
+		<!-- Меч Рыцаря -->
+		<production id="128" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Гигантов -->
+		<ingredient id="7881" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="480000" />
+		<!-- Клеймор -->
+		<production id="70" count="1" />
+	</item>	
+	<item>	
+		<!-- Меч Магического Тумана -->
+		<ingredient id="7886" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="480000" />
+		<!-- Длинный Меч Эльфов -->
+		<production id="2499" count="1" />
+	</item>	
+	<item>	
+		<!-- Булава Жреца -->
+		<ingredient id="7890" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="480000" />
+		<!-- Костолом -->
+		<production id="159" count="1" />
+	</item>	
+	<item>	
+		<!-- Булава Жреца -->
+		<ingredient id="7890" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="480000" />
+		<!-- Посох Жизни -->
+		<production id="189" count="1" />
+	</item>	
+	<item>	
+		<!-- Молот Гигантов -->
+		<ingredient id="7896" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="480000" />
+		<!-- Молот Атубы -->
+		<production id="187" count="1" />
+	</item>	
+	<item>	
+		<!-- Молот Гигантов -->
+		<ingredient id="7896" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="480000" />
+		<!-- Посох Призрака -->
+		<production id="188" count="1" />
+	</item>	
+	<item>	
+		<!-- Молот Гигантов -->
+		<ingredient id="7896" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="480000" />
+		<!-- Булава Атубы -->
+		<production id="190" count="1" />
+	</item>	
+	<item>	
+		<!-- Рог Карика -->
+		<ingredient id="7898" count="1" />
+		<!-- Древняя Адена -->
+		<ingredient id="5575" count="480000" />
+		<!-- Топор Паагрио -->
+		<production id="203" count="1" />
+	</item>	
+</list>

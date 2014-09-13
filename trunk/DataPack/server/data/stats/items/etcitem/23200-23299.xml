@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "../../dtd/item.dtd">
+<!--
+	Done by: Mifesto
+	Team: MMORPG-TEAM.COM
+-->
+<list>
+	<!--
+		Название: Руна Опыта 50% - 30 дней
+		Описание : Витаминный предмет\\nДревняя руна, содержащая в себе мистическую силу. Если хранить ее в инвентаре, увеличивает получаемый опыт на 50%. Оставшееся время расходуется, даже если Вы не находитесь в игре. Нельзя обменять и выбросить. Можно уничтожить. Можно положить в хранилище.\0
+	-->
+	<etcitem id="23253" name="Руна Опыта 50%" add_name="30 дней">
+		<set name="icon" value="br_cashtex.item.br_cash_rune_of_exp_i00"/>
+		<set name="type" value="RUNE"/>
+		<set name="destroyable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="true"/>
+		<set name="augmentable" value="false"/>
+		<set name="enchantable" value="false"/>
+		<set name="attributable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="durability" value="43200"/>
+		<set name="temporal" value="true"/>
+		<skills>
+			<!--Rune of XP 50%-->
+			<skill id="22039" level="2"/>
+		</skills>
+	</etcitem>
+	<!--
+		Название: Руна Опыта 100% - 1 час
+		Описание : Витаминный предмет\\nДревняя руна, содержащая в себе мистическую силу. Если хранить ее в инвентаре, увеличивает получаемый опыт на 100%. Оставшееся время расходуется, даже если Вы не находитесь в игре. Нельзя обменять и выбросить. Можно уничтожить. Можно положить в хранилище.\0
+	-->
+	<etcitem id="23254" name="Руна Опыта 100%" add_name="1 час">
+		<set name="icon" value="br_cashtex.item.br_cash_rune_of_exp_i00"/>
+		<set name="type" value="RUNE"/>
+		<set name="destroyable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="true"/>
+		<set name="augmentable" value="false"/>
+		<set name="enchantable" value="false"/>
+		<set name="attributable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="durability" value="60"/>
+		<set name="temporal" value="true"/>
+		<skills>
+			<skill id="26046" level="6"/>
+		</skills>
+	</etcitem>
+	<!--
+		Название: Руна Опыта 100% - 7 дней
+		Описание : Витаминный предмет\\nДревняя руна, содержащая в себе мистическую силу. Если хранить ее в инвентаре, увеличивает получаемый опыт на 100%. Оставшееся время расходуется, даже если Вы не находитесь в игре. Нельзя обменять и выбросить. Можно уничтожить. Можно положить в хранилище.\0
+	-->
+	<etcitem id="23255" name="Руна Опыта 100%" add_name="7 дней">
+		<set name="icon" value="br_cashtex.item.br_cash_rune_of_exp_i00"/>
+		<set name="type" value="RUNE"/>
+		<set name="destroyable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="true"/>
+		<set name="augmentable" value="false"/>
+		<set name="enchantable" value="false"/>
+		<set name="attributable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="durability" value="10080"/>
+		<set name="temporal" value="true"/>
+		<skills>
+			<skill id="26046" level="6"/>
+		</skills>
+	</etcitem>
+	<!--
+		Название: Руна Опыта 100% - 30 дней
+		Описание : Витаминный предмет\\nДревняя руна, содержащая в себе мистическую силу. Если хранить ее в инвентаре, увеличивает получаемый опыт на 100%. Оставшееся время расходуется, даже если Вы не находитесь в игре. Нельзя обменять и выбросить. Можно уничтожить. Можно положить в хранилище.\0
+	-->
+	<etcitem id="23256" name="Руна Опыта 100%" add_name="30 дней">
+		<set name="icon" value="br_cashtex.item.br_cash_rune_of_exp_i00"/>
+		<set name="type" value="RUNE"/>
+		<set name="destroyable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="true"/>
+		<set name="augmentable" value="false"/>
+		<set name="enchantable" value="false"/>
+		<set name="attributable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="durability" value="43200"/>
+		<set name="temporal" value="true"/>
+		<skills>
+			<skill id="26046" level="6"/>
+		</skills>
+	</etcitem>
+	<!--
+		Название: Руна Опыта 200% - 1 час
+		Описание : Витаминный предмет\\nДревняя руна, содержащая в себе мистическую силу. Если хранить ее в инвентаре, увеличивает получаемый опыт на 200%. Оставшееся время расходуется, даже если Вы не находитесь в игре. Нельзя обменять и выбросить. Можно уничтожить. Можно положить в хранилище.\0
+	-->
+	<etcitem id="23257" name="Руна Опыта 200%" add_name="1 час">
+		<set name="icon" value="br_cashtex.item.br_cash_rune_of_exp_i00"/>
+		<set name="type" value="RUNE"/>
+		<set name="destroyable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="true"/>
+		<set name="augmentable" value="false"/>
+		<set name="enchantable" value="false"/>
+		<set name="attributable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="durability" value="60"/>
+		<set name="temporal" value="true"/>
+		<skills>
+			<skill id="26046" level="7"/>
+		</skills>
+	</etcitem>
+	<!--
+		Название: Руна Опыта 200% - 7 дней
+		Описание : Витаминный предмет\\nДревняя руна, содержащая в себе мистическую силу. Если хранить ее в инвентаре, увеличивает получаемый опыт на 200%. Оставшееся время расходуется, даже если Вы не находитесь в игре. Нельзя обменять и выбросить. Можно уничтожить. Можно положить в хранилище.\0
+	-->
+	<etcitem id="23258" name="Руна Опыта 200%" add_name="7 дней">
+		<set name="icon" value="br_cashtex.item.br_cash_rune_of_exp_i00"/>
+		<set name="type" value="RUNE"/>
+		<set name="destroyable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="true"/>
+		<set name="augmentable" value="false"/>
+		<set name="enchantable" value="false"/>
+		<set name="attributable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="durability" value="10080"/>
+		<set name="temporal" value="true"/>
+		<skills>
+			<skill id="26046" level="7"/>
+		</skills>
+	</etcitem>
+	<!--
+		Название: Руна Опыта 200% - 30 дней
+		Описание : Витаминный предмет\\nДревняя руна, содержащая в себе мистическую силу. Если хранить ее в инвентаре, увеличивает получаемый опыт на 200%. Оставшееся время расходуется, даже если Вы не находитесь в игре. Нельзя обменять и выбросить. Можно уничтожить. Можно положить в хранилище.\0
+	-->
+	<etcitem id="23259" name="Руна Опыта 200%" add_name="30 дней">
+		<set name="icon" value="br_cashtex.item.br_cash_rune_of_exp_i00"/>
+		<set name="type" value="RUNE"/>
+		<set name="destroyable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="true"/>
+		<set name="augmentable" value="false"/>
+		<set name="enchantable" value="false"/>
+		<set name="attributable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="durability" value="43200"/>
+		<set name="temporal" value="true"/>
+		<skills>
+			<skill id="26046" level="7"/>
+		</skills>
+	</etcitem>
+	<!--
+		Название: Руна SP 50% - 30 дней
+		Описание : Витаминный предмет\\nДревняя руна, содержащая в себе мистическую силу. Если хранить ее в инвентаре, увеличивает SP на 50%. Оставшееся время расходуется, даже если Вы не находитесь в игре. Нельзя обменять и выбросить. Можно уничтожить. Можно положить в хранилище.\0
+	-->
+	<etcitem id="23260" name="Руна SP 50%" add_name="30 дней">
+		<set name="icon" value="br_cashtex.item.br_cash_rune_of_sp_i00"/>
+		<set name="type" value="RUNE"/>
+		<set name="destroyable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="true"/>
+		<set name="augmentable" value="false"/>
+		<set name="enchantable" value="false"/>
+		<set name="attributable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="durability" value="43200"/>
+		<set name="temporal" value="true"/>
+		<skills>
+			<!--Rune of SP 50%-->
+			<skill id="22040" level="2"/>
+		</skills>
+	</etcitem>
+	<!--
+		Название: Руна SP 100% - 1 час
+		Описание : Витаминный предмет\\nДревняя руна, содержащая в себе мистическую силу. Если хранить ее в инвентаре, увеличивает SP на 100%. Оставшееся время расходуется, даже если Вы не находитесь в игре. Нельзя обменять и выбросить. Можно уничтожить. Можно положить в хранилище.\0
+	-->
+	<etcitem id="23261" name="Руна SP 100%" add_name="1 час">
+		<set name="icon" value="br_cashtex.item.br_cash_rune_of_sp_i00"/>
+		<set name="type" value="RUNE"/>
+		<set name="destroyable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="true"/>
+		<set name="augmentable" value="false"/>
+		<set name="enchantable" value="false"/>
+		<set name="attributable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="durability" value="60"/>
+		<set name="temporal" value="true"/>
+		<skills>
+			<skill id="26047" level="6"/>
+		</skills>
+	</etcitem>
+	<!--
+		Название: Руна SP 100% - 7 дней
+		Описание : Витаминный предмет\\nДревняя руна, содержащая в себе мистическую силу. Если хранить ее в инвентаре, увеличивает SP на 100%. Оставшееся время расходуется, даже если Вы не находитесь в игре. Нельзя обменять и выбросить. Можно уничтожить. Можно положить в хранилище.\0
+	-->
+	<etcitem id="23262" name="Руна SP 100%" add_name="7 дней">
+		<set name="icon" value="br_cashtex.item.br_cash_rune_of_sp_i00"/>
+		<set name="type" value="RUNE"/>
+		<set name="destroyable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="true"/>
+		<set name="augmentable" value="false"/>
+		<set name="enchantable" value="false"/>
+		<set name="attributable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="durability" value="10080"/>
+		<set name="temporal" value="true"/>
+		<skills>
+            <skill id="26047" level="6"/>
+		</skills>
+	</etcitem>
+	<!--
+		Название: Руна SP 100% - 30 дней
+		Описание : Витаминный предмет\\nДревняя руна, содержащая в себе мистическую силу. Если хранить ее в инвентаре, увеличивает SP на 100%. Оставшееся время расходуется, даже если Вы не находитесь в игре. Нельзя обменять и выбросить. Можно уничтожить. Можно положить в хранилище.\0
+	-->
+	<etcitem id="23263" name="Руна SP 100%" add_name="30 дней">
+		<set name="icon" value="br_cashtex.item.br_cash_rune_of_sp_i00"/>
+		<set name="type" value="RUNE"/>
+		<set name="destroyable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="true"/>
+		<set name="augmentable" value="false"/>
+		<set name="enchantable" value="false"/>
+		<set name="attributable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="durability" value="43200"/>
+		<set name="temporal" value="true"/>
+		<skills>
+            <skill id="26047" level="6"/>
+		</skills>
+	</etcitem>
+	<!--
+		Название: Руна SP 200% - 1 час
+		Описание : Витаминный предмет\\nДревняя руна, содержащая в себе мистическую силу. Если хранить ее в инвентаре, увеличивает SP на 200%. Оставшееся время расходуется, даже если Вы не находитесь в игре. Нельзя обменять и выбросить. Можно уничтожить. Можно положить в хранилище.\0
+	-->
+	<etcitem id="23264" name="Руна SP 200%" add_name="1 час">
+		<set name="icon" value="br_cashtex.item.br_cash_rune_of_sp_i00"/>
+		<set name="type" value="RUNE"/>
+		<set name="destroyable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="true"/>
+		<set name="augmentable" value="false"/>
+		<set name="enchantable" value="false"/>
+		<set name="attributable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="durability" value="60"/>
+		<set name="temporal" value="true"/>
+		<skills>
+            <skill id="26047" level="7"/>
+		</skills>
+	</etcitem>
+	<!--
+		Название: Руна SP 200% - 7 дней
+		Описание : Витаминный предмет\\nДревняя руна, содержащая в себе мистическую силу. Если хранить ее в инвентаре, увеличивает SP на 200%. Оставшееся время расходуется, даже если Вы не находитесь в игре. Нельзя обменять и выбросить. Можно уничтожить. Можно положить в хранилище.\0
+	-->
+	<etcitem id="23265" name="Руна SP 200%" add_name="7 дней">
+		<set name="icon" value="br_cashtex.item.br_cash_rune_of_sp_i00"/>
+		<set name="type" value="RUNE"/>
+		<set name="destroyable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="true"/>
+		<set name="augmentable" value="false"/>
+		<set name="enchantable" value="false"/>
+		<set name="attributable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="durability" value="10080"/>
+		<set name="temporal" value="true"/>
+		<skills>
+            <skill id="26047" level="7"/>
+		</skills>
+	</etcitem>
+	<!--
+		Название: Руна SP 200% - 30 дней
+		Описание : Витаминный предмет\\nДревняя руна, содержащая в себе мистическую силу. Если хранить ее в инвентаре, увеличивает SP на 200%. Оставшееся время расходуется, даже если Вы не находитесь в игре. Нельзя обменять и выбросить. Можно уничтожить. Можно положить в хранилище.\0
+	-->
+	<etcitem id="23266" name="Руна SP 200%" add_name="30 дней">
+		<set name="icon" value="br_cashtex.item.br_cash_rune_of_sp_i00"/>
+		<set name="type" value="RUNE"/>
+		<set name="destroyable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="true"/>
+		<set name="augmentable" value="false"/>
+		<set name="enchantable" value="false"/>
+		<set name="attributable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="durability" value="43200"/>
+		<set name="temporal" value="true"/>
+		<skills>
+            <skill id="26047" level="7"/>
+		</skills>
+	</etcitem>
+	<!--
+		Название: Руна Мафр 50% - 1 час
+		Описание : Витаминный предмет\\nПри наличии в инвентаре шанс выпадения трофеев +50%. Нельзя обменять/выбросить. Можно уничтожить. Можно положить в личное хранилище.\0
+	-->
+	<etcitem id="23270" name="Руна Мафр 50%" add_name="1 час">
+		<set name="icon" value="BranchSys3.lcon.g_rune_itemdrop_up"/>
+		<set name="type" value="RUNE"/>
+		<set name="destroyable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="true"/>
+		<set name="augmentable" value="false"/>
+		<set name="enchantable" value="false"/>
+		<set name="attributable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="durability" value="60"/>
+		<set name="temporal" value="true"/>
+		<skills>
+			<!--Maphr's Rune-->
+			<skill id="22587" level="2"/>
+		</skills>
+	</etcitem>
+	<!--
+		Название: Руна Мафр 100% - 1 час
+		Описание : Витаминный предмет\\nПри наличии в инвентаре шанс выпадения трофеев +100%. Нельзя обменять/выбросить. Можно уничтожить. Можно положить в личное хранилище.\0
+	-->
+	<etcitem id="23271" name="Руна Мафр 100%" add_name="1 час">
+		<set name="icon" value="BranchSys3.lcon.g_rune_itemdrop_up"/>
+		<set name="type" value="RUNE"/>
+		<set name="destroyable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="true"/>
+		<set name="augmentable" value="false"/>
+		<set name="enchantable" value="false"/>
+		<set name="attributable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="durability" value="60"/>
+		<set name="temporal" value="true"/>
+		<skills>
+			<!--Maphr's Rune-->
+			<skill id="22587" level="3"/>
+		</skills>
+	</etcitem>
+	<!--
+		Название: Руна Мафр 200% - 1 час
+		Описание : Витаминный предмет\\nПри наличии в инвентаре шанс выпадения трофеев +200%. Нельзя обменять/выбросить. Можно уничтожить. Можно положить в личное хранилище.\0
+	-->
+	<etcitem id="23272" name="Руна Мафр 200%" add_name="1 час">
+		<set name="icon" value="BranchSys3.lcon.g_rune_itemdrop_up"/>
+		<set name="type" value="RUNE"/>
+		<set name="destroyable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="true"/>
+		<set name="augmentable" value="false"/>
+		<set name="enchantable" value="false"/>
+		<set name="attributable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="durability" value="60"/>
+		<set name="temporal" value="true"/>
+		<skills>
+			<!--Maphr's Rune-->
+			<skill id="22587" level="4"/>
+		</skills>
+	</etcitem>
+	<!--
+		Название: Руна Мафр 50% - 30 дней
+		Описание : Витаминный предмет\\nПри наличии в инвентаре шанс выпадения трофеев +50%. Нельзя обменять/выбросить. Можно уничтожить. Можно положить в личное хранилище.\0
+	-->
+	<etcitem id="23273" name="Руна Мафр 50%" add_name="30 дней">
+		<set name="icon" value="BranchSys3.lcon.g_rune_itemdrop_up"/>
+		<set name="type" value="RUNE"/>
+		<set name="destroyable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="true"/>
+		<set name="augmentable" value="false"/>
+		<set name="enchantable" value="false"/>
+		<set name="attributable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="durability" value="43200"/>
+		<set name="temporal" value="true"/>
+		<skills>
+			<!--Maphr's Rune-->
+			<skill id="22587" level="2"/>
+		</skills>
+	</etcitem>
+	<!--
+		Название: Руна Мафр 100% - 30 дней
+		Описание : Витаминный предмет\\nПри наличии в инвентаре шанс выпадения трофеев +100%. Нельзя обменять/выбросить. Можно уничтожить. Можно положить в личное хранилище.\0
+	-->
+	<etcitem id="23274" name="Руна Мафр 100%" add_name="30 дней">
+		<set name="icon" value="BranchSys3.lcon.g_rune_itemdrop_up"/>
+		<set name="type" value="RUNE"/>
+		<set name="destroyable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="true"/>
+		<set name="augmentable" value="false"/>
+		<set name="enchantable" value="false"/>
+		<set name="attributable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="durability" value="43200"/>
+		<set name="temporal" value="true"/>
+		<skills>
+			<!--Maphr's Rune-->
+			<skill id="22587" level="3"/>
+		</skills>
+	</etcitem>
+	<!--
+		Название: Руна Мафр 200% - 30 дней
+		Описание : Витаминный предмет\\nПри наличии в инвентаре шанс выпадения трофеев +200%. Нельзя обменять/выбросить. Можно уничтожить. Можно положить в личное хранилище.\0
+	-->
+	<etcitem id="23275" name="Руна Мафр 200%" add_name="30 дней">
+		<set name="icon" value="BranchSys3.lcon.g_rune_itemdrop_up"/>
+		<set name="type" value="RUNE"/>
+		<set name="destroyable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="true"/>
+		<set name="augmentable" value="false"/>
+		<set name="enchantable" value="false"/>
+		<set name="attributable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="durability" value="43200"/>
+		<set name="temporal" value="true"/>
+		<skills>
+			<!--Maphr's Rune-->
+			<skill id="22587" level="4"/>
+		</skills>
+	</etcitem>
+</list>

@@ -1,0 +1,2351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>	
+	
+	<skill id="10001" levels="1" name="Великое Владение Мечом/Дробящим Оружием">
+		<!--
+			Увеличивает СИЛ на 2, Физ. Атк. на 205 при использовании меча/дробящего оружия.
+			Дополнительно Увеличивает агрессию монстров монстров на 60% от нанесенного урона мечом/дубиной.
+			Дает шанс обнулить или увеличить в два раза время перезарядки умений. Зависит от СИЛ.
+			ALF: Tauti Comfirmed
+		-->
+		<table name="#pAtk">205</table>
+		<set name="magicLevel" val="85"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="saveVs" val="STR"/> 
+		<set name="operateType" val="OP_PASSIVE"/>
+		<set name="relationSkillsId" val="257;205;217"/>
+		<enchant1 levels="10" name="Power">
+			<table name="#pAtk">218 232 245 259 272 286 299 313 326 340</table>
+		</enchant1>
+		<triggers>
+			<trigger id="10060" level="1" type="ATTACK" chance="60"/>
+		</triggers>
+		<for>
+			<add order="0x40" stat="pAtk" val="#pAtk">
+				<using kind="Sword, Big Sword, Blunt, Big Blunt"/>
+			</add>
+			<add order="0x10" stat="STR" val="2">
+				<using kind="Sword, Big Sword, Blunt, Big Blunt"/>
+			</add>
+		</for>
+	</skill>
+	<skill id="10002" levels="1" name="Великое Владение Тяжелой Броней">
+		<!--
+			Увеличивает СИЛ на 2. 
+			При использовании тяжелых доспехов Макс HP +6883, Физ. Защ. +315, бонус восстановления MP +8.4, сила вражеской Крит. Атк. -35%. 
+			10% полученного урона возвращает врагу. 
+			Если HP ниже 30%, дополнительно Физ. Защ. +280, Уклонение +17.
+			ALF: Tauti Comfirmed
+		-->
+		<table name="#pDef">315</table>
+		<table name="#pDefBonus">280</table>
+		<set name="magicLevel" val="85"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<set name="relationSkillsId" val="191;231;232;253;259;291;429;"/>
+		<enchant1 levels="10" name="Power">
+			<table name="#pDef">335 356 377 397 418 439 459 480 501 522</table>
+			<table name="#pDefBonus">298 316 334 353 371 389 408 426 444 463</table>
+		</enchant1>
+		<for>
+			<add order="0x10" stat="STR" val="2"/>
+			<add order="0x40" stat="maxHp" val="6883">
+				<using armor="Heavy"/>
+			</add>
+			<add order="0x40" stat="pDef" val="#pDef">
+				<using armor="Heavy"/>
+			</add>
+			<mul order="0x30" stat="regMp" val="1.084">
+				<using armor="Heavy"/>
+			</mul>
+			<mul order="0x30" stat="critDamRcpt" val="0.65">
+				<using armor="Heavy"/>
+			</mul>
+			<add order="0x40" stat="reflectDam" val="10">
+				<using armor="Heavy"/>
+			</add>
+			<add order="0x40" stat="rEvas" val="17">
+				<and>
+					<using armor="Heavy"/>
+					<player percentHP="30"/>
+				</and>
+			</add>
+			<add order="0x40" stat="pDef" val="#pDefBonus">
+				<and>
+					<using armor="Heavy"/>
+					<player percentHP="30"/>
+				</and>
+			</add>
+		</for>
+	</skill>
+	<skill id="10003" levels="1" name="Великое Владение Щитом">
+		<!--
+			Увеличивает СИЛ на 2.
+			Также повышает шанс блока щитом на 100%.
+			При удачном блоке Защита Щитом увеличивается на 80% и дополнительно на 209.
+			ALF: Tauti Comfirmed
+		-->
+		<set name="magicLevel" val="85"/>
+		<table name="#sDef">209</table>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="relationSkillsId" val="318;153;316"/>
+		<triggers>
+			<trigger id="10003" level="1" type="SHIELD_BLOCK" chance="80"/> <!--Не знаю, можно ли так. Но триггера для него не увидел-->
+		</triggers>
+		<enchant1 levels="10" name="Power">
+			<table name="#sDef">222 236 249 263 277 290 304 317 331 345</table>
+		</enchant1>
+		<for>
+			<add order="0x10" stat="STR" val="2"/>
+			<mul order="0x30" stat="rShld" val="2"/>
+			<mul order="0x30" stat="sDef" val="1.8"/>
+			<add order="0x40" stat="sDef" val="#sDef"/>
+		</for>
+	</skill>
+	<skill id="10004" levels="1" name="Великое Магическое Сопротивление">
+		<!--
+			Увеличивает СИЛ на 2, Маг. Защ. на 158 и шанс отмены Маг. Атк. на 25%.
+			Сопротивление Маг. Атк. и стихиям увеличивается с опеределенной вероятностью при получении урона.
+			ALF: Tauti Comfirmed
+		-->
+		<table name="#mDef">158</table>
+		<set name="magicLevel" val="85"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<set name="relationSkillsId" val="147;466"/>
+		<enchant1 levels="10" name="Power">
+			<table name="#mDef">168 178 188 199 209 219 230 240 250 261</table>
+		</enchant1>
+		<triggers>
+			<trigger id="10058" level="1" type="RECEIVE_DAMAGE" chance="50">
+				<player damage="50;0"/>
+			</trigger>
+		</triggers>
+		<for>
+			<add order="0x10" stat="STR" val="2"/>
+			<add order="0x40" stat="mDef" val="#mDef"/>
+			<mul order="0x30" stat="concentration" val="0.75"/>
+		</for>
+	</skill>
+	<skill id="10005" levels="1" name="Великое Сопротивление Отрицательным Эффектам">
+		<!--
+			Увеличивает СИЛ на 2, устойчивость к удержанию, сну, ментальным атакам, яду, кровотечению и оглушению на 20.
+			Также с определенной вероятностью отражает на врага злые чары
+			ALF: Tauti Comfirmed
+		-->
+		<table name="#vuln">20</table>
+		<set name="magicLevel" val="85"/>		
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<set name="relationSkillsId" val="329;351;328;335;350;134"/>
+		<enchant1 levels="10" name="Power">
+			<table name="#vuln">21 22 23 24 25 26 27 28 29 30</table>
+		</enchant1>
+		<for>
+			<add order="0x10" stat="STR" val="2"/>
+			<add order="0x40" stat="rootResist" val="#vuln"/>
+			<add order="0x40" stat="sleepResist" val="#vuln"/>
+			<add order="0x40" stat="mentalResist" val="#vuln"/>
+			<add order="0x40" stat="poisonResist" val="#vuln"/>
+			<add order="0x40" stat="bleedResist" val="#vuln"/>
+			<add order="0x40" stat="stunResist" val="#vuln"/>
+			<add order="0x40" stat="reflectPhysicDebuff" val="2"/>
+			<add order="0x40" stat="reflectMagicDebuff" val="2"/>
+		</for>
+	</skill>
+	<skill id="10006" levels="1" name="Последняя капля">
+		<!--
+			Увеличивает СИЛ на 2.
+			С определенной вероятностью увеличивает Физ. Атк. умений и Физ. Защ., если персонаж получает урон.
+			ALF: Tauti Comfirmed
+		-->
+		<set name="magicLevel" val="85"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<set name="relationSkillsId" val="983;6687"/>
+		<triggers>
+			<trigger id="10007" level="1" type="RECEIVE_DAMAGE" chance="15">
+				<player damage="100;0"/>
+			</trigger>
+		</triggers>
+		<for>
+			<add order="0x10" stat="STR" val="2"/>
+		</for>
+	</skill>
+	<skill id="10007" levels="3" name="Последняя капля">
+		<set name="icon" val="icon.skill10007" />
+        <table name="#power">1.25 1.3 1.35</table>
+		<table name="#magicLevel">85</table>
+		<set name="magicLevel" val="#magicLevel"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="operateType" val="OP_ACTIVE"/>
+        <set name="isTrigger" val="true"/>
+        <for>
+            <effect count="1" name="Buff" stackType="PhysicalPose" time="10" val="0">
+                <mul order="0x30" stat="sDef" val="#power"/>
+                <mul order="0x30" stat="skillPower" val="#power"/>
+            </effect>
+        </for>
+    </skill>
+	<skill id="10008" levels="8" name="Заряд Щита">
+	<!--
+		Атакует врага щитом. Мощность 10821.
+		Требуется щит.
+		Также уменьшает Физ. Защ. на 10%, Физ. Уклонение -2, увеличивает силу Крит. Атк. на 10%.
+		ALF: Tauti Comfirmed
+	-->
+		<table name="#magicLevel">85 86 88 90 92 94 96 98</table>
+		<table name="#Power">10821 11196 11948 12700 13452 14204 14956 15708</table>
+		<table name="#powerPvP">0</table>
+		<table name="#element">none</table>
+		<table name="#elementPower">0</table>
+		<set name="power" val="#Power"/>
+		<set name="powerPvP" val="#powerPvP"/>
+		<set name="elementPower" val="#elementPower"/>
+		<set name="element" val="#element"/>
+		<set name="target" val="TARGET_ONE"/>
+		<set name="magicLevel" val="#magicLevel"/>
+		<set name="skillType" val="PDAM"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="relationSkillsId" val="984"/>
+		<set name="alterSkillsId" val="10249;10250;14579"/>
+		<set name="nextAction" val="attack"/>
+		<cond msgId="113" addName="1">
+			<using kind="Shield"/>
+		</cond>
+		<enchant1 levels="10" name="Cost"/>
+		<enchant2 levels="10" name="Duel">
+			<table name="#Power">16460 16836 17212 17588 17964 18340 18716 19092 19468 19844</table>
+			<table name="#powerPvP">16460 16836 17212 17588 17964 18340 18716 19092 19468 19844</table>
+		</enchant2>
+		<enchant3 levels="10" name="Fire Attack">
+			<table name="#element">fire</table>
+			<table name="#elementPower">20 23 26 30 33 36 40 43 46 50</table>
+		</enchant3>
+		<enchant4 levels="10" name="Water Attack">
+			<table name="#element">water</table>
+			<table name="#elementPower">20 23 26 30 33 36 40 43 46 50</table>
+		</enchant4>
+		<enchant5 levels="10" name="Wind Attack">
+			<table name="#element">wind</table>
+			<table name="#elementPower">20 23 26 30 33 36 40 43 46 50</table>
+		</enchant5>
+		<enchant6 levels="10" name="Earth Attack">
+			<table name="#element">earth</table>
+			<table name="#elementPower">20 23 26 30 33 36 40 43 46 50</table>
+		</enchant6>
+		<enchant7 levels="10" name="Holy Attack">
+			<table name="#element">holy</table>
+			<table name="#elementPower">20 23 26 30 33 36 40 43 46 50</table>
+		</enchant7>
+		<enchant8 levels="10" name="Dark Attack">
+			<table name="#element">unholy</table>
+			<table name="#elementPower">20 23 26 30 33 36 40 43 46 50</table>
+		</enchant8>
+		<for>
+			   <effect name="Debuff" time="9" val="0" stackOrder="1" stackType="critical_dmg_down" effectPower="80">
+				   <mul order="0x30" stat="critDamRcpt" val="1.1" />
+				   <mul order="0x30" stat="pDef" val="0.9" />
+				   <sub order="0x40" stat="rEvas" val="2" />
+			   </effect>
+		</for>
+	</skill>
+	<skill id="10009" levels="8" name="Страшный Суд">
+	<!--
+		Атакует врага и наносит дополнительный урон.
+		Мощность 13673.
+		Уменьшает Скорость на 10%.
+		Требуется меч/дробящее оружие. Сверхудар. Крит. удар.
+		ALF: Tauti Comfirmed
+	-->
+		<table name="#magicLevel">85 86 88 90 92 94 96 98</table>
+		<table name="#Power">13673 14145 15089 16034 16978 17923 18867 19812</table>
+		<table name="#powerPvP">0</table>
+		<table name="#element">none</table>
+		<table name="#elementPower">0</table>
+		<set name="nextAction" val="attack"/>
+		<set name="power" val="#Power"/>
+		<set name="powerPvP" val="#powerPvP"/>
+		<set name="element" val="#element"/>
+		<set name="elementPower" val="#elementPower"/>
+		<set name="target" val="TARGET_ONE"/>
+		<set name="saveVs" val="MEN"/>
+		<set name="skillType" val="PDAM"/>
+		<set name="magicLevel" val="#magicLevel"/>
+		<set name="overHit" val="true"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="relationSkillsId" val="401;115;400"/>
+		<cond msgId="113" addName="1">
+			<using kind="Sword, Blunt, Big Sword, Big Blunt"/>
+		</cond>
+		<enchant1 levels="10" name="Cost"/>
+		<enchant2 levels="10" name="Duel">
+			<table name="#powerPvP">20756 21229 21701 22173 22645 23118 23590 24062 24534 25007</table>
+		</enchant2>
+		<enchant3 levels="10" name="Fire Attack">
+			<table name="#element">fire</table>
+			<table name="#elementPower">20 23 26 30 33 36 40 43 46 50</table>
+		</enchant3>
+		<enchant4 levels="10" name="Water Attack">
+			<table name="#element">water</table>
+			<table name="#elementPower">20 23 26 30 33 36 40 43 46 50</table>
+		</enchant4>
+		<enchant5 levels="10" name="Wind Attack">
+			<table name="#element">wind</table>
+			<table name="#elementPower">20 23 26 30 33 36 40 43 46 50</table>
+		</enchant5>
+		<enchant6 levels="10" name="Earth Attack">
+			<table name="#element">earth</table>
+			<table name="#elementPower">20 23 26 30 33 36 40 43 46 50</table>
+		</enchant6>
+		<enchant7 levels="10" name="Holy Attack">
+			<table name="#element">holy</table>
+			<table name="#elementPower">20 23 26 30 33 36 40 43 46 50</table>
+		</enchant7>
+		<enchant8 levels="10" name="Dark Attack">
+			<table name="#element">unholy</table>
+			<table name="#elementPower">20 23 26 30 33 36 40 43 46 50</table>
+		</enchant8>
+		<!--enchant9 levels="10" name="Recycle"/-->
+		<for>
+			<effect name="Debuff" time="10" val="0" stackOrder="3" stackType="speed_down">
+				<mul order="0x30" stat="runSpd" val="0.9"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="10010" levels="8" name="Кара Правосудия">
+	<!--
+		Атакует врага и наносит дополнительный урон.
+		Мощность 17476. Физ./Маг. Атк. -20%.
+		Ограничивает использование магических умений.
+		Требуется меч/дробящее оружие. Сверхудар. Крит. удар.
+		ALF: Tauti Comfirmed
+	-->
+		<table name="#Power">17476 18677 19878 21079 22280 23481 24683 25884</table>
+		<table name="#magicLevel">85 86 88 90 92 94 96 98</table>
+		<table name="#element">none</table>
+		<table name="#elementPower">0</table>
+		<table name="#powerPvP">0</table>
+		<set name="nextAction" val="attack"/>
+		<set name="power" val="#Power"/>
+		<set name="element" val="#element"/>
+		<set name="elementPower" val="#elementPower"/>
+		<set name="target" val="TARGET_ONE"/>
+		<set name="skillType" val="PDAM"/>
+		<set name="magicLevel" val="#magicLevel"/>
+		<set name="overHit" val="true"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="relationSkillsId" val="102;127"/>
+		<cond msgId="113" addName="1">
+			<using kind="Sword, Blunt, Big Sword, Big Blunt"/>
+		</cond>
+		<enchant1 levels="10" name="Cost"/>
+		<enchant2 levels="10" name="Duel">
+			<table name="#powerPvP">26484 27085 27685 28286 28887 29487 30088 30688 31289 31890</table>
+		</enchant2>
+		<enchant3 levels="10" name="Fire Attack">
+			<table name="#element">fire</table>
+			<table name="#elementPower">20 23 26 30 33 36 40 43 46 50</table>
+		</enchant3>
+		<enchant4 levels="10" name="Water Attack">
+			<table name="#element">water</table>
+			<table name="#elementPower">20 23 26 30 33 36 40 43 46 50</table>
+		</enchant4>
+		<enchant5 levels="10" name="Wind Attack">
+			<table name="#element">wind</table>
+			<table name="#elementPower">20 23 26 30 33 36 40 43 46 50</table>
+		</enchant5>
+		<enchant6 levels="10" name="Earth Attack">
+			<table name="#element">earth</table>
+			<table name="#elementPower">20 23 26 30 33 36 40 43 46 50</table>
+		</enchant6>
+		<enchant7 levels="10" name="Holy Attack">
+			<table name="#element">holy</table>
+			<table name="#elementPower">20 23 26 30 33 36 40 43 46 50</table>
+		</enchant7>
+		<enchant8 levels="10" name="Dark Attack">
+			<table name="#element">unholy</table>
+			<table name="#elementPower">20 23 26 30 33 36 40 43 46 50</table>
+		</enchant8>
+		<!--enchant9 levels="10" name="Recycle"/-->
+		<for>
+			<effect count="1" name="Mute" stackOrder="-1" stackType="Mute" time="5" val="0"/>
+			<effect count="1" name="Debuff" stackOrder="3" stackType="pAtkDown" time="15" val="0">
+				<mul order="0x30" stat="pAtk" val="0.8"/>
+				<mul order="0x30" stat="mAtk" val="0.8"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="10011" levels="5" name="Импульс Щита">
+	<!--
+		Атакует врагов перед собой и наносит дополнительный урон.
+		Мощность 9870.
+		Оглушает на 1 сек.
+		Требуется щит.
+		ALF: Tauti Comfirmed
+	-->
+		<table name="#magicLevel">85 88 91 94 97</table>
+		<table name="#Power">9870 10901 10933 12965 13997</table>
+		<table name="#activateRate">25</table>
+		<table name="#element">none</table>
+		<table name="#elementPower">0</table>
+		<set name="affectLimit" val="5;12"/>		
+		<set name="magicLevel" val="#magicLevel"/>
+		<set name="power" val="#Power"/>
+		<set name="element" val="#element"/>
+		<set name="elementPower" val="#elementPower"/>
+		<set name="target" val="TARGET_MULTIFACE"/>
+		<set name="skillType" val="PDAM"/>
+		<set name="skillRadius" val="150" />
+		<set name="flyType" val="PUSH_HORIZONTAL" />
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="relationSkillsId" val="92;352"/>
+		<set name="nextAction" val="attack"/>
+		<cond msgId="113" addName="1">
+			<using kind="Shield"/>
+		</cond>
+		<enchant1 levels="10" name="Cost"/>
+		<enchant2 levels="10" name="Chance">
+			<table name="#activateRate">26 27 28 29 30 31 32 33 34 35</table>
+		</enchant2>
+		<enchant3 levels="10" name="Fire Attack">
+			<table name="#element">fire</table>
+			<table name="#elementPower">20 23 26 30 33 36 40 43 46 50</table>
+		</enchant3>
+		<enchant4 levels="10" name="Water Attack">
+			<table name="#element">water</table>
+			<table name="#elementPower">20 23 26 30 33 36 40 43 46 50</table>
+		</enchant4>
+		<enchant5 levels="10" name="Wind Attack">
+			<table name="#element">wind</table>
+			<table name="#elementPower">20 23 26 30 33 36 40 43 46 50</table>
+		</enchant5>
+		<enchant6 levels="10" name="Earth Attack">
+			<table name="#element">earth</table>
+			<table name="#elementPower">20 23 26 30 33 36 40 43 46 50</table>
+		</enchant6>
+		<enchant7 levels="10" name="Holy Attack">
+			<table name="#element">holy</table>
+			<table name="#elementPower">20 23 26 30 33 36 40 43 46 50</table>
+		</enchant7>
+		<enchant8 levels="10" name="Dark Attack">
+			<table name="#element">unholy</table>
+			<table name="#elementPower">20 23 26 30 33 36 40 43 46 50</table>
+		</enchant8>
+		<!--enchant9 levels="10" name="Recycle"/-->
+		<for>
+			<effect count="1" name="Stun" time="1" val="0"/>
+		</for>
+	</skill>
+	<skill id="10012" levels="7" name="Волна Щита">
+	<!--
+		Атакует врагов перед собой и наносит дополнительный урон.
+		Мощность 10174.
+		Оглушает на 9 сек. Требуется щит.
+		ALF: Tauti Comfirmed
+	-->
+		<table name="#magicLevel">87 89 91 93 95 97 99</table>
+		<table name="#Power">10174 10833 11492 12150 12809 13468 14126</table>
+		<table name="#activateRate">25</table>
+		<set name="affectLimit" val="5;12"/>
+		<set name="magicLevel" val="#magicLevel"/>
+		<set name="power" val="#Power"/>
+		<set name="element" val="#element"/>
+		<set name="elementPower" val="#elementPower"/>
+		<set name="target" val="TARGET_MULTIFACE"/>
+		<set name="skillType" val="PDAM"/>
+		<set name="skillRadius" val="150"/>
+		<set name="flyType" val="PUSH_DOWN_HORIZONTAL" />
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="nextAction" val="attack"/>
+		<cond msgId="113" addName="1">
+			<using kind="Shield"/>
+		</cond>
+		<enchant1 levels="10" name="Cost"/>
+		<enchant2 levels="10" name="Chance">
+			<table name="#activateRate">26 27 28 29 30 31 32 33 34 35</table>
+		</enchant2>
+		<enchant3 levels="10" name="Fire Attack">
+			<table name="#element">fire</table>
+			<table name="#elementPower">20 23 26 30 33 36 40 43 46 50</table>
+		</enchant3>
+		<enchant4 levels="10" name="Water Attack">
+			<table name="#element">water</table>
+			<table name="#elementPower">20 23 26 30 33 36 40 43 46 50</table>
+		</enchant4>
+		<enchant5 levels="10" name="Wind Attack">
+			<table name="#element">wind</table>
+			<table name="#elementPower">20 23 26 30 33 36 40 43 46 50</table>
+		</enchant5>
+		<enchant6 levels="10" name="Earth Attack">
+			<table name="#element">earth</table>
+			<table name="#elementPower">20 23 26 30 33 36 40 43 46 50</table>
+		</enchant6>
+		<enchant7 levels="10" name="Holy Attack">
+			<table name="#element">holy</table>
+			<table name="#elementPower">20 23 26 30 33 36 40 43 46 50</table>
+		</enchant7>
+		<enchant8 levels="10" name="Dark Attack">
+			<table name="#element">unholy</table>
+			<table name="#elementPower">20 23 26 30 33 36 40 43 46 50</table>
+		</enchant8>
+		<!--enchant9 levels="10" name="Recycle"/-->
+		<for>
+			<effect count="1" name="Stun" time="9" val="0"/>
+		</for>
+	</skill>
+	<skill id="10013" levels="8" name="Мощный Клинок">
+	<!--
+		Атакует врагов перед собой и наносит дополнительный урон.
+		Мощность 10314.
+		Требуется меч/дробящее оружие/парные мечи.
+		Сверхудар. Крит. удар.
+		ALF: Tauti Comfirmed
+	-->
+		<table name="#magicLevel">85 86 88 90 92 94 96 98</table>
+		<table name="#Power">10314 11026 11738 12450 13162 13874 14586 15298</table>
+		<table name="#powerPvP">0</table>
+		<table name="#element">none</table>
+		<table name="#elementPower">0</table>
+		<set name="nextAction" val="attack"/>
+		<set name="power" val="#Power"/>
+		<set name="powerPvP" val="#powerPvP"/>
+		<set name="element" val="#element"/>
+		<set name="elementPower" val="#elementPower"/>
+		<set name="flyType" val="PUSH_DOWN_HORIZONTAL"/>
+		<set name="target" val="TARGET_MULTIFACE"/>
+		<set name="skillRadius" val="400"/>
+		<set name="skillType" val="PDAM"/>
+		<set name="magicLevel" val="#magicLevel"/>
+		<set name="overHit" val="true"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="relationSkillsId" val="105;49;5062;5325;5386;6315"/>
+		<cond msgId="113" addName="1">
+			<using kind="Sword, Blunt, Big Sword, Big Blunt"/>
+		</cond>
+		<enchant1 levels="10" name="Cost"/>
+		<enchant2 levels="10" name="Duel">
+			<table name="#powerPvP">15654 16010 16366 16722 17078 17434 17790 18146 18502 18859</table>
+		</enchant2>
+		<enchant3 levels="10" name="Fire Attack">
+			<table name="#element">fire</table>
+			<table name="#elementPower">20 23 26 30 33 36 40 43 46 50</table>
+		</enchant3>
+		<enchant4 levels="10" name="Water Attack">
+			<table name="#element">water</table>
+			<table name="#elementPower">20 23 26 30 33 36 40 43 46 50</table>
+		</enchant4>
+		<enchant5 levels="10" name="Wind Attack">
+			<table name="#element">wind</table>
+			<table name="#elementPower">20 23 26 30 33 36 40 43 46 50</table>
+		</enchant5>
+		<enchant6 levels="10" name="Earth Attack">
+			<table name="#element">earth</table>
+			<table name="#elementPower">20 23 26 30 33 36 40 43 46 50</table>
+		</enchant6>
+		<enchant7 levels="10" name="Holy Attack">
+			<table name="#element">holy</table>
+			<table name="#elementPower">20 23 26 30 33 36 40 43 46 50</table>
+		</enchant7>
+		<enchant8 levels="10" name="Dark Attack">
+			<table name="#element">unholy</table>
+			<table name="#elementPower">20 23 26 30 33 36 40 43 46 50</table>
+		</enchant8>
+		<!--enchant9 levels="10" name="Recycle"/-->
+	</skill>
+	<skill id="10014" levels="8" name="Цепь Галактики">
+	<!--
+		Атакует врагов вокруг персонажа и наносит дополнительный урон.
+		Мощность 14300.
+		Также уменьшает эффективность восстанавливающих HP умений на 90%.
+		ALF: Tauti Comfirmed
+	-->
+		<table name="#power">14300 14789 15769 16748 17727 18707 19686 20666</table>
+		<table name="#powerPvP">0</table>
+		<table name="#magicLevel">85 86 88 90 92 94 96 98</table>
+		<table name="#elementPower">0</table>
+		<table name="#element">none</table>
+		<set name="elementPower" val="#elementPower"/>
+		<set name="element" val="#element"/>
+		<set name="power" val="#power"/>
+		<set name="powerPvP" val="#powerPvP"/>
+		<set name="magicLevel" val="#magicLevel"/>
+		<set name="target" val="TARGET_AURA"/>
+		<set name="skillRadius" val="250"/>
+		<set name="skillType" val="PDAM"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<enchant1 levels="10" name="Cost"/>
+		<enchant2 levels="10" name="Duel">
+			<table name="#powerPvP">21645 22135 22625 23114 23604 24094 24583 25073 25563 26053</table>
+		</enchant2>
+		<enchant3 levels="10" name="Fire Attack">
+			<table name="#element">fire</table>
+			<table name="#elementPower">20 23 26 30 33 36 40 43 46 50</table>
+		</enchant3>
+		<enchant4 levels="10" name="Water Attack">
+			<table name="#element">water</table>
+			<table name="#elementPower">20 23 26 30 33 36 40 43 46 50</table>
+		</enchant4>
+		<enchant5 levels="10" name="Wind Attack">
+			<table name="#element">wind</table>
+			<table name="#elementPower">20 23 26 30 33 36 40 43 46 50</table>
+		</enchant5>
+		<enchant6 levels="10" name="Earth Attack">
+			<table name="#element">earth</table>
+			<table name="#elementPower">20 23 26 30 33 36 40 43 46 50</table>
+		</enchant6>
+		<enchant7 levels="10" name="Holy Attack">
+			<table name="#element">holy</table>
+			<table name="#elementPower">20 23 26 30 33 36 40 43 46 50</table>
+		</enchant7>
+		<enchant8 levels="10" name="Dark Attack">
+			<table name="#element">unholy</table>
+			<table name="#elementPower">20 23 26 30 33 36 40 43 46 50</table>
+		</enchant8>
+		<!--enchant9 levels="10" name="Recycle"/-->
+		<for>
+			<effect count="1" name="Debuff" time="4" val="0">
+				<mul order="0x30" stat="hpEff" val="0.1"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="10015" levels="6" name="Цепной Удар">
+		<table name="#magicLevel">85 87 90 93 96 99</table>
+		<table name="#activateRate">60 65 70 75 80 85</table>
+		<table name="#power">1630</table>
+		<set name="magicLevel" val="#magicLevel"/>
+		<set name="power" val="#power" />
+		<set name="target" val="TARGET_ONE"/>
+		<set name="skillType" val="PDAM"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="relationSkillsId" val="402;403"/>
+		<set name="flyType" val="THROW_HORIZONTAL" />
+		<set name="flySpeed" val="600" />
+		<set name="flyToBack" val="true" />
+		<cond msgId="113" addName="1">
+			<using kind="Shield"/>
+		</cond>
+		<enchant1 levels="10" name="Power">
+			<table name="#power">1730 1830 1930 2030 2130 2330 2430 2530 2630 2730</table>
+		</enchant1>
+        <for>
+			<effect count="1" name="TargetToMe" time="1" val="0" chance="#activateRate"/>
+        </for>
+	</skill>
+	<skill id="10016" levels="6" name="Цепная Гидра">
+		<table name="#magicLevel">89 91 93 95 97 99</table>
+		<table name="#activateRate">60 65 70 75 80 85</table>
+		<table name="#radius">150</table>
+		<set name="magicLevel" val="#magicLevel"/>
+		<set name="target" val="TARGET_MULTIFACE" />
+		<set name="skillType" val="DEBUFF" />
+		<set name="skillRadius" val="#radius" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="weaponsAllowed" val="2" />
+		<set name="relationSkillsId" val="404;107" />
+		<enchant1 levels="10" name="Radius">
+			<table name="#radius"> 200 210 220 230 240 250 260 270 280 290 300 </table>
+		</enchant1>
+		<for>
+			<effect count="1" name="TargetToMe" time="1" val="0" chance="#activateRate"/>
+		</for>
+	</skill>
+	<skill id="10017" levels="4" name="Максимальная Защита">
+		<!-- 
+		 тест!
+		-->
+		<table name="#magicLevel">85 90 95 99</table>
+		<table name="#pDef">4000 6000 8000 10000</table>
+		<table name="#mDef">4000 6000 8000 10000</table>
+		<table name="#limit">300 200 150 100</table>
+		<table name="#ref">20 40 60 100</table>
+		<table name="#abnormal_time">30</table>
+		<table name="#runSpd">0</table>
+		<set name="magicLevel" val="#magicLevel"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="target" val="TARGET_SELF"/>
+		<enchant1 levels="10" name="cost"/>
+		<enchant2 levels="10" name="time">
+			<table name="#abnormal_time">31 32 33 34 35 36 37 38 39 40</table>
+		</enchant2>
+		<enchant3 levels="10" name="WindWalk">
+			<table name="#runSpd">1 2 3 4 5 6 7 8 9 10</table>
+		</enchant3>
+		<!-- TODO Шанс оглушающей атаки -->
+		<enchant4 levels="10" name="Stun"/>
+		<enchant9 levels="10" name="recovery">
+			<table name="#reuseDelay">873000 846000 819000 792000 765000 738000 711000 684000 657000 630000</table>
+		</enchant9>
+		<for>
+			<effect abnormal="invul1" count="1" name="Buff" stackOrder="-1" stackType="ImobileBuff" time="#abnormal_time" val="0">
+				<add order="0x40" stat="pDef" val="#pDef"/>
+				<add order="0x40" stat="mDef" val="#mDef"/>
+				<add order="0x40" stat="cancelResist" val="80"/>
+				<set order="0x40" stat="receiveDamageLimit" val="#limit"/>
+				<add order="0x40" stat="runSpd" val="#runSpd"/>
+			</effect>
+			<effect count="1" name="Buff" stackOrder="2" stackType="DmgShield" time="#abnormal_time" val="0">
+				<add order="0x40" stat="reflectDam" val="#ref" />
+				<add order="0x40" stat="reflectPhysicSkill" val="100"/>
+				<add order="0x40" stat="reflectMagicSkill" val="100"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="10018" levels="2" name="Благородная Жертва">
+		<table name="#magicLevel">91 96</table>
+		<table name="#Val">60 90</table>
+		<table name="#time">10</table>
+		<table name="#hp">0</table>
+		<set name="magicLevel" val="#magicLevel"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="target" val="TARGET_PARTY_ONE"/>
+		<enchant1 levels="10" name="Cost"/>
+		<enchant2 levels="10" name="Time">
+			<table name="#time">11 12 13 14 15 16 17 18 19 20</table>
+		</enchant2> 
+		<!--  TODO: Модифицировать силу HP: Восстанавливает 1% HP -->
+		<enchant3 levels="10" name="HpPower">
+			<table name="#hp">1 2 3 4 5 6 7 8 9 10</table>
+		</enchant3>
+		<!--enchant9 levels="10" name="Recycle"/-->
+		<for>
+			<effect count="1" name="AbsorbDamageToEffector" time="#time" val="0" stackOrder="1" stackType="pDefSpec">
+				<add order="0x40" stat="transferToEffectorDam" val="#Val" />
+			</effect>
+		</for>
+	</skill>
+    <skill id="10019" levels="2" name="Защита Веры">
+        <table name="#Def">5000 10000</table>
+        <table name="#magicLevel">85 97</table>
+        <table name="#debuffResist">1.5 1.7</table>
+        <table name="#time">15</table>
+        <table name="#reuseDelay">900000</table>
+        <table name="#mpConsume2">127 140</table>
+        <set name="mpConsume2" val="#mpConsume2"/>
+        <set name="reuseDelay" val="#reuseDelay"/>
+        <set name="hitTime" val="500"/>
+        <set name="magicLevel" val="#magicLevel"/>
+        <set name="operateType" val="OP_ACTIVE"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="target" val="TARGET_PARTY"/>
+        <set name="skillRadius" val="1000"/>
+        <enchant1 levels="10" name="cost">
+            <table name="#mpConsume2">131 123 114 106 98 89 81 72 64 56</table>
+        </enchant1>
+        <enchant2 levels="10" name="time">
+            <table name="#time">16 17 18 19 20 21 22 23 24 25</table>
+        </enchant2>
+        <enchant9 levels="10" name="recovery">
+            <table name="#reuseDelay">873000 846000 819000 792000 765000 738000 711000 684000 657000 630000</table>
+        </enchant9>
+        <for>
+            <effect count="1" name="AbsorbDamageToEffector" time="#time" val="0" stackOrder="1" stackType="pDefSpec">
+                <add order="0x40" stat="reflectAndBlockMSkillDam" val="20"/>
+                <add order="0x40" stat="transferToEffectorDam" val="90"/>
+                <add order="0x40" stat="pDef" val="#Def"/>
+                <add order="0x40" stat="mDef" val="#Def"/>
+                <mul order="0x30" stat="debuffResist" val="#debuffResist"/>
+            </effect>
+        </for>
+    </skill>
+    <skill id="10020" levels="4" name="Фокусировка Щита">
+        <table name="#pDef">350 400 450 500</table>
+        <table name="#sDef">700 800 900 1000</table>
+        <table name="#rShld">1.35 1.4 1.45 1.5</table>
+        <table name="#magicLevel">85 90 95 99</table>
+        <set name="mpConsume2" val="50"/>
+        <set name="aggroPoints" val="673"/>
+        <set name="magicLevel" val="#magicLevel"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="CONT"/>
+        <set name="operateType" val="OP_TOGGLE"/>
+        <set name="weaponsAllowed" val="2"/>
+        <for>
+            <effect count="0x7fffffff" name="LDManaDamOverTime" time="3" val="3">
+                <add order="0x40" stat="sDef" val="#sDef"/>
+                <add order="0x40" stat="pDef" val="#pDef"/>
+                <mul order="0x30" stat="rShld" val="#rShld"/>
+            </effect>
+        </for>
+    </skill>
+	<skill id="10021" levels="4" name="Шипованный Щит">
+	<!--
+		В течение 10 секунд позволят отразить 10% урона. Требуется щит. Шанс 50% отразить атакующую магию и направить ее обратно на врага.
+		ALF: Tauti Comfirmed
+	-->
+		<table name="#ref">10 15 20 25</table>
+		<table name="#time">10</table>
+		<set name="target" val="TARGET_SELF"/>		
+		<set name="skillType" val="BUFF"/>
+		<set name="magicType" val="MAGIC" />
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="relationSkillsId" val="86;916;4214;4576;4176;4532;4545"/>
+		<cond msgId="113" addName="1">
+			<using kind="Shield"/>
+		</cond>
+		<enchant1 levels="10" name="Cost"/>
+		<enchant2 levels="1000" name="Time">
+			<table name="#time">11 12 13 14 15 16 17 18 19 20</table>
+		</enchant2>
+		<!--enchant9 levels="10" name="Recycle"/-->
+		<for>
+			<effect name="Buff" time="#time" val="0" stackOrder="3" stackType="dmg_shield">
+				<add order="0x40" stat="reflectDam" val="#ref"/>
+				<add order="0x40" stat="reflectPhysicSkill" val="50"/>
+				<add order="0x40" stat="reflectMagicSkill" val="50"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="10022" levels="1" name="Отрицание Смерти">
+	<!--
+		В течение 10 секунд HP не падает ниже 1.
+		ALF: Tauti Comfirmed
+	-->
+		<table name="#hp">0</table>
+		<set name="magicLevel" val="87"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<table name="#time">10</table>
+		<enchant1 levels="10" name="Cost"/>
+		<enchant2 levels="10" name="Time">
+			<table name="#time">11 12 13 14 15 16 17 18 19 20</table>
+		</enchant2>
+		<!--  TODO: Модифицировать силу HP: Восстанавливает 1% HP -->
+		<enchant3 levels="10" name="HpPower">
+			<table name="#hp">1 2 3 4 5 6 7 8 9 10</table>
+		</enchant3>
+		<!--enchant9 levels="10" name="Recycle"/-->
+		<for>
+			<effect count="1" name="IgnoreDeath" time="#time" val="0"/>
+		</for>
+	</skill>
+	<skill id="10023" levels="2" name="Атака Короля">
+	<!--
+		Призывает Льва Света и наносит большой урон врагам впереди и вокруг персонажа. Мощность 60000. Требуется щит. Сверхудар.
+		ALF: Tauti Comfirmed
+	-->
+		<table name="#pwr">60000 70000</table>
+		<table name="#magicLevel">95 98</table>
+		<table name="#element">none</table>
+		<table name="#elementPower">0</table>
+		<set name="flyType" val="PUSH_DOWN_HORIZONTAL"/>
+		<set name="magicLevel" val="#magicLevel"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="power" val="#pwr"/>
+		<set name="skillType" val="PDAM"/>
+		<set name="skillRadius" val="150" />
+		<set name="target" val="TARGET_MULTIFACE"/>
+		<set name="overHit" val="true"/>
+		<set name="element" val="#element"/>
+		<set name="elementPower" val="#elementPower"/>
+		<cond msgId="113" addName="1">
+			<using kind="Shield"/>
+		</cond>
+		<enchant1 levels="10" name="Cost"/>
+		<enchant2 levels="10" name="Duel"/>
+		<enchant3 levels="10" name="Fire Attack">
+			<table name="#element">fire</table>
+			<table name="#elementPower">20 23 26 30 33 36 40 43 46 50</table>
+		</enchant3>
+		<enchant4 levels="10" name="Water Attack">
+			<table name="#element">water</table>
+			<table name="#elementPower">20 23 26 30 33 36 40 43 46 50</table>
+		</enchant4>
+		<enchant5 levels="10" name="Wind Attack">
+			<table name="#element">wind</table>
+			<table name="#elementPower">20 23 26 30 33 36 40 43 46 50</table>
+		</enchant5>
+		<enchant6 levels="10" name="Earth Attack">
+			<table name="#element">earth</table>
+			<table name="#elementPower">20 23 26 30 33 36 40 43 46 50</table>
+		</enchant6>
+		<enchant7 levels="10" name="Holy Attack">
+			<table name="#element">holy</table>
+			<table name="#elementPower">20 23 26 30 33 36 40 43 46 50</table>
+		</enchant7>
+		<enchant8 levels="10" name="Dark Attack">
+			<table name="#element">unholy</table>
+			<table name="#elementPower">20 23 26 30 33 36 40 43 46 50</table>
+		</enchant8>
+		<enchant9 levels="10" name="Cons"/>
+	</skill>
+	<skill id="10024" levels="1" name="Жертвенность">
+	<!--
+		Персонаж притягивает члена группы к себе и в течение 15 секунд получает 90% урона вместо него. 
+		Если умение наносит больше 10 ед. урона, то персонаж получает только 10 ед. урона. Требуется щит.
+		ALF: Tauti Comfirmed
+	-->
+		<table name="#heal">0</table>
+		<table name="#mpConsume2">96</table>
+		<set name="mpConsume2" val="#mpConsume2" />
+		<set name="castRange" val="900" />
+		<set name="coolTime" val="470" />
+		<set name="hitTime" val="700" />
+		<table name="#reuseDelay">600000</table>
+        <set name="magicType" val="MAGIC" />
+        <set name="magicLevel" val="99"/>
+        <set name="operateType" val="OP_ACTIVE"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="target" val="TARGET_PARTY_ONE"/>
+        <cond msgId="113" addName="1">
+			<using kind="Shield"/>
+        </cond>
+        <enchant1 levels="10" name="Cost">
+            <table name="#mpConsume2">93 91 89 84 80 76 71 77 63 58</table>
+        </enchant1>
+        <enchant2 levels="10" name="Power">
+            <table name="#heal">1 2 3 4 5 6 7 8 9 10</table>
+        </enchant2>
+        <for>
+			<effect count="1" name="HealPercent" time="0" val="#heal" />
+			<effect count="1" name="AbsorbDamageToEffector" time="15" val="0" stackOrder="1" stackType="pDefSpec">
+			    <add order="0x40" stat="transferToEffectorDam" val="90"/>
+			</effect>
+			<effect count="1" name="TargetToMe" time="1" val="0"/>
+			<effect applyOnCaster="true" count="1" name="Buff" time="15" val="0">
+			    <set order="0x40" stat="receiveDamageLimit" val="10"/>
+			    <player damage="10;0"/>
+			</effect>
+        </for>
+    </skill>
+	<skill id="10025" levels="4" name="Клятва Рыцаря">
+		<table name="#magicLevel">85 90 95 99</table>
+		<table name="#Def">1.5 1.7 2 2.2</table>
+		<table name="#Spd">10 20 25 30</table>
+		<table name="#AtkSpd">1.10 1.15 1.20 1.25</table>
+		<table name="#cAtk">1.3 1.4 1.5 1.6</table>
+		<table name="#rCrit">30 40 50 60</table>
+		<table name="#accCombat">4 6 8 10</table>
+		<table name="#time">60</table>
+		<table name="#sDef">1</table>
+		<table name="#pAtk">1</table>
+		<set name="magicLevel" val="#magicLevel"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="magicType" val="MAGIC" />
+		<set name="operateType" val="OP_ACTIVE"/>
+		<enchant1 levels="10" name="Cost"/>
+		<enchant2 levels="10" name="Time">
+			<table name="#time">62 64 66 68 70 72 74 76 78 80</table>
+		</enchant2>
+		<enchant3 levels="10" name="ShieldDef">
+			<table name="#sDef">1.02 1.04 1.06 1.08 1.1 1.12 1.14 1.16 1.18 1.20</table>
+		</enchant3>
+		<enchant4 levels="10" name="pAtkPower">
+			<table name="#pAtk">1.01 1.02 1.03 1.04 1.05 1.06 1.07 1.08 1.09 1.1</table>
+		</enchant4>
+		<enchant9 levels="10" name="Cost"/>
+		<set name="relationSkillsId" val="406;22;449;278;67;33;10;65"/>
+		<for>
+			<effect name="Buff" time="#time" val="0" stackOrder="3" stackType="md_up">
+				<mul order="0x30" stat="mDef" val="#Def"/>
+				<mul order="0x30" stat="pDef" val="#Def"/>
+				<add order="0x30" stat="runSpd" val="#Spd"/>
+				<mul order="0x30" stat="pAtkSpd" val="#AtkSpd">
+					<using kind="Sword,Blunt"/>
+				</mul>
+				<add order="0x40" stat="accCombat" val="#accCombat">
+					<using kind="Sword,Blunt"/>
+				</add>
+				<mul order="0x40" stat="cAtk" val="#cAtk">
+					<using kind="Blunt"/>
+				</mul>
+				<add order="0x40" stat="rCrit" val="#rCrit">
+					<using kind="Sword"/>
+				</add>
+				<mul order="0x30" stat="sDef" val="#sDef" />
+				<mul order="0x30" stat="pAtk" val="#pAtk" />
+			</effect>
+		</for>
+	</skill>
+    <skill id="10026" levels="6" name="Великая Ненависть">
+		<!--
+			Провоцирует выбранного противника, заставляя его сменить цель и атаковать персонажа.
+			ALF: Tauti Comfirmed
+		-->
+        <table name="#magicLevel">85 87 90 93 96 99</table>
+        <table name="#effectPoint">9937 10000 10070 10130 10200 10270</table>
+        <set name="effectPoint" val="#effectPoint"/>
+        <set name="magicLevel" val="#magicLevel"/>
+        <set name="power" val="5500"/>
+        <table name="#pDef">1</table>
+        <table name="#pAtk">1</table>
+        <table name="#stunResist">0</table>
+        <set name="target" val="TARGET_ONE"/>
+        <set name="skillType" val="AGGRESSION"/>
+        <set name="operateType" val="OP_ACTIVE"/>
+        <set name="isReuseDelayPermanent" val="true"/>
+        <set name="relationSkillsId" val="979;28;14889;14890;14891;1682;5992;6665;4697;4663"/>
+        <enchant1 levels="10" name="Time">
+            <table name="#pDef">0.99 0.98 0.97 0.96 0.95 0.94 0.93 0.92 0.91 0.9</table>
+        </enchant1>
+        <enchant2 levels="10" name="Power">
+            <table name="#pAtk">0.99 0.98 0.97 0.96 0.95 0.94 0.93 0.92 0.91 0.9</table>
+        </enchant2>
+        <enchant3 levels="10" name="Power">
+            <table name="#stunResist">1 2 3 4 5 6 7 8 9 10</table>
+        </enchant3>
+        <for>
+        <!--    <effect count="1" name="TargetToMe" time="3" val="0"/></effect> -->
+            <effect count="1" name="Aggression" time="3" val="0"></effect>
+                <mul order="0x30" stat="pDef" val="#pDef"/>
+                <mul order="0x30" stat="pAtk" val="#pAtk"/>
+                <sud order="0x40" stat="stunResist" val="#stunResist" />
+        </for>
+    </skill>
+    <skill id="10027" levels="5" name="Великая Аура Ненавести">
+		<!--
+			Провоцирует врагов вокруг персонажа и заставляет сменить цель и атаковать персонажа.
+			ALF: Tauti Comfirmed
+		-->
+        <table name="#magicLevel">85 88 91 94 97</table>
+        <table name="#effectPoint">6349 6402 6452 6499 6542</table>
+        <set name="effectPoint" val="#effectPoint"/>
+        <set name="magicLevel" val="#magicLevel"/>
+        <set name="target" val="TARGET_AURA"/>
+        <set name="skillRadius" val="400"/>
+        <set name="skillType" val="AGGRESSION"/>
+        <set name="operateType" val="OP_ACTIVE"/>
+        <set name="relationSkillsId" val="1704;18;980;5832;5967"/>
+        <table name="#pDef">1</table>
+        <table name="#pAtk">1</table>
+        <table name="#stunResist">0</table>
+        <enchant1 levels="10" name="Time">
+            <table name="#pDef">0.99 0.98 0.97 0.96 0.95 0.94 0.93 0.92 0.91 0.9</table>
+        </enchant1>
+        <enchant2 levels="10" name="Power">
+            <table name="#pAtk">0.99 0.98 0.97 0.96 0.95 0.94 0.93 0.92 0.91 0.9</table>
+        </enchant2>
+        <enchant3 levels="10" name="Power">
+            <table name="#stunResist">1 2 3 4 5 6 7 8 9 10</table>
+        </enchant3>
+        <for>
+            <effect count="1" name="Aggression" time="3" val="0">
+                <mul order="0x30" stat="pDef" val="#pDef"/>
+                <mul order="0x30" stat="pAtk" val="#pAtk"/>
+                <sud order="0x40" stat="stunResist" val="#stunResist" />
+            </effect>
+        </for>
+    </skill>
+    <skill id="10028" levels="1" name="Аура Гнева">
+		<!--
+			селф?
+		-->
+		<set name="magicLevel" val="85"/>
+		<set name="operateType" val="OP_TOGGLE"/>
+		<set name="skillType" val="CONT"/>
+		<set name="isForceAura" val="true"/>
+		<set name="target" val="TARGET_SELF"/>
+        <cond msg="A sword or blunt weapon has to be equipped to use this skill">
+            <using kind="Sword,Blunt"/>
+        </cond>
+        <for>
+        <effect name="GiantForceAura" count="0x7fffffff" abnormal="sigelAura2" time="3" val="10" stackType="SigelAura" stackOrder="1">
+                <def name="forceSkillId" val="10029"/>
+                <mul order="0x30" stat="pAtk" val="1.10">
+				       <using kind="Sword, Blunt"/>
+					   </mul>
+                <mul order="0x30" stat="pAtkSpd" val="1.10">
+				       <using kind="Sword, Blunt"/>
+					   </mul>
+                <add order="0x30" stat="runSpd" val="10">
+						<using kind="Sword, Blunt"/>
+				</add>
+            </effect>
+        </for>
+    </skill>
+ 	<skill id="10029" levels="1" name="Аура Гнева">
+		<!-- 
+			дебаф 10 секунд, надо аурой?
+		-->
+	    <table name="#amount">0.8</table>
+        <table name="#magicLevel">85</table>
+        <set name="magicLevel" val="#magicLevel"/>
+        <set name="target" val="TARGET_AURA"/>
+        <set name="skillType" val="DEBUFF"/>
+        <set name="operateType" val="OP_TOGGLE"/>
+        <set name="skillRadius" val="200"/>
+	    <set name="effectRange" val="200"/>
+        <set name="isDebuff" val="true"/>
+		        <for>
+			<effect name="Debuff" time="9" val="0">
+				<mul stat="pAtk" order="0x30" val="0.8"/>
+				<mul stat="pAtkSpd" order="0x30" val="0.8"/>
+				<using kind="Sword,Blunt"/>
+			</effect>
+        </for>
+    </skill>
+	<skill id="10030" levels="1" name="Аура Вызова">
+		<set name="class_level" val="5"/>
+		<set name="skillRadius" val="1000"/>
+		<set name="effectPoint" val="1000"/><!--рандом-->
+		<set name="operateType" val="OP_TOGGLE"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="reuseDelay" val="1000"/>
+		<set name="hitTime" val="500"/>
+        <set name="relationSkillsId" val="982"/>
+        <for>
+        <effect name="GiantForceAura" count="0x7fffffff" abnormal="sigelAura2" time="3" val="10" stackType="SigelAura" stackOrder="1">
+                <def name="forceSkillId" val="10031"/>
+				<mul order="0x30" stat="pAtk" val="1.05" />
+				<mul stat="pAtkSpd" order="0x30" val="1.05"/> 
+                <mul order="0x30" stat="mpConsum" val="0.8">
+				<using kind="Sword, Blunt"/>
+				</mul>
+            </effect>
+        </for>
+    </skill>
+	<skill id="10031" levels="1" name="Аура Вызова">
+		<set name="magicLevel" val="85"/>
+		<set name="operateType" val="OP_TOGGLE"/>
+		<set name="skillType" val="CONT"/>
+		<set name="isForceAura" val="true"/>
+		<set name="target" val="TARGET_PARTY"/>
+		<for>
+        <effect name="GiantForceAura" count="0x7fffffff" abnormal="sigelAura2" time="3" val="10" stackType="SigelAura1" stackOrder="1">
+				<def name="auraSkillId" val="10030" />
+				<mul order="0x30" stat="pAtk" val="1.05" > 
+					<not>
+						<player classId="139"/>
+					</not>	
+				</mul>
+				<mul order="0x30" stat="pAtkSpd" val="1.05" > 
+					<not>
+						<player classId="139"/>
+					</not>	
+				</mul>	
+                <mul order="0x30" stat="mpConsum" val="0.8">
+				<not>
+						<player classId="139"/>
+					</not>	
+				</mul>				
+			</effect>
+		</for>
+	</skill>
+		<skill id="10032" levels="1" name="Аура Стали">
+		<set name="skillRadius" val="1000"/>
+		<set name="operateType" val="OP_TOGGLE"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="reuseDelay" val="1000"/>
+		<set name="hitTime" val="500"/>
+        <set name="relationSkillsId" val="982"/>
+        <for>
+        <effect name="GiantForceAura" count="0x7fffffff" abnormal="sigelAura2" time="3" val="10" stackType="SigelAura" stackOrder="1">
+                <def name="forceSkillId" val="10033"/>
+				<mul stat="pAtkSpd" order="0x30" val="1.05"/>
+				<mul stat="pAtk" order="0x30" val="1.05"/>
+				<add stat="pDef" order="0x40" val="215">
+					<using armor="Heavy"/>
+				</add>
+				<mul stat="sDef" order="0x30" val="1.50">
+					<using armor="Heavy"/>
+				</mul>
+				<mul stat="rShld" order="0x30" val="2">
+					<using armor="Heavy"/>
+				</mul>
+				<sub stat="bowWpnVuln" order="0x40" val="20">
+					<using armor="Heavy"/>
+				</sub>
+				<sub stat="crossbowWpnVuln" order="0x40" val="20">
+					<using armor="Heavy"/>
+				</sub>
+				<mul stat="critDamRcpt" order="0x30" val="1.15">
+					<using armor="Heavy"/>
+				</mul>
+            </effect>
+        </for>
+    </skill>
+	<skill id="10033" levels="1" name="Аура Стали">
+		<set name="magicLevel" val="85"/>
+		<set name="operateType" val="OP_TOGGLE"/>
+		<set name="skillType" val="CONT"/>
+		<set name="isForceAura" val="true"/>
+		<set name="target" val="TARGET_PARTY"/>
+		<for>
+        <effect name="GiantForceAura" count="0x7fffffff" abnormal="sigelAura2" time="3" val="10" stackType="SigelAura1" stackOrder="1">
+				<def name="auraSkillId" val="10032" />
+				<mul order="0x30" stat="pAtk" val="1.05" > 
+					<not>
+						<player classId="139"/>
+					</not>	
+				</mul>
+				<mul order="0x30" stat="pAtkSpd" val="1.05" > 
+					<not>
+						<player classId="139"/>
+					</not>	
+				</mul>	
+                <mul order="0x30" stat="bowWpnVuln" val="1.2">
+				<not>
+						<player classId="139"/>
+					</not>	
+				</mul>	
+                <mul order="0x30" stat="bowWpnVuln" val="1.2">
+				<not>
+						<player classId="139"/>
+					</not>	
+				</mul>	
+                <mul order="0x30" stat="regHp" val="1.1">
+				<not>
+						<player classId="139"/>
+					</not>	
+				</mul>	
+                <mul order="0x30" stat="crossbowWpnVuln" val="20">
+				<not>
+						<player classId="139"/>
+					</not>	
+				</mul>	
+                <mul order="0x30" stat="pDef" val="1.2">
+				<not>
+						<player classId="139"/>
+					</not>	
+				</mul>					
+			</effect>
+		</for>
+	</skill>
+	<skill id="10034" levels="1" name="Аура Сопротивления">
+		<set name="class_level" val="5"/>
+		<set name="skillRadius" val="1000"/>
+		<set name="operateType" val="OP_TOGGLE"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="reuseDelay" val="1000"/>
+		<set name="hitTime" val="500"/>
+        <set name="relationSkillsId" val="982"/>
+        <for>
+        <effect name="GiantForceAura" count="0x7fffffff" abnormal="sigelAura2" time="3" val="10" stackType="SigelAura" stackOrder="1">
+                <def name="forceSkillId" val="10035"/>
+				<mul stat="pAtk" order="0x30" val="1.05"/>
+				<mul stat="pAtkSpd" order="0x30" val="1.05"/>
+				<mul stat="mDef" order="0x30" val="1.10"/>
+				<add stat="defenceFire" order="0x40" val="20"/>
+				<add stat="defenceWater" order="0x40" val="20"/>
+				<add stat="defenceWind" order="0x40" val="20"/>
+				<add stat="defenceEarth" order="0x40" val="20"/>
+				<add stat="defenceHoly" order="0x40" val="20"/>
+				<add stat="defenceUnholy" order="0x40" val="20"/>
+            </effect>
+        </for>
+    </skill>
+	<skill id="10035" levels="1" name="Аура Сопротивления">
+		<set name="magicLevel" val="85"/>
+		<set name="operateType" val="OP_TOGGLE"/>
+		<set name="skillType" val="CONT"/>
+		<set name="isForceAura" val="true"/>
+		<set name="target" val="TARGET_PARTY"/>
+		<for>
+        <effect name="GiantForceAura" count="0x7fffffff" abnormal="sigelAura2" time="3" val="10" stackType="SigelAura1" stackOrder="1">
+				<def name="auraSkillId" val="10034" />
+				<mul order="0x30" stat="pAtk" val="1.05" > 
+					<not>
+						<player classId="139"/>
+					</not>	
+				</mul>
+				<mul order="0x30" stat="pAtkSpd" val="1.05" > 
+					<not>
+						<player classId="139"/>
+					</not>	
+				</mul>	
+                <mul order="0x30" stat="mDef" val="1.1">
+				<not>
+						<player classId="139"/>
+					</not>	
+				</mul>	
+                <add stat="defenceFire" order="0x40" val="20">
+				<not>
+						<player classId="139"/>
+					</not>	
+				</add>	
+                <add stat="defenceWater" order="0x40" val="20">
+				<not>
+						<player classId="139"/>
+					</not>	
+				</add>	
+                <add stat="defenceWind" order="0x40" val="20">
+				<not>
+						<player classId="139"/>
+					</not>	
+				</add>	
+               <add stat="defenceEarth" order="0x40" val="20">
+				<not>
+						<player classId="139"/>
+					</not>	
+				</add>	
+               <add stat="defenceUnholy" order="0x40" val="20">
+				<not>
+						<player classId="139"/>
+					</not>	
+				</add>	
+               <add stat="defenceHoly" order="0x40" val="20">
+				<not>
+						<player classId="139"/>
+					</not>	
+				</add>					
+		</effect>
+		</for>
+	</skill>
+	<skill id="10036" levels="1" name="Аура Выносливости">
+		<set name="class_level" val="5"/>
+		<set name="skillRadius" val="1000"/>
+		<set name="operateType" val="OP_TOGGLE"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="reuseDelay" val="1000"/>
+		<set name="hitTime" val="500"/>
+        <set name="relationSkillsId" val="982"/>
+        <for>
+        <effect name="GiantForceAura" count="0x7fffffff" abnormal="sigelAura2" time="3" val="10" stackType="SigelAura" stackOrder="1">
+                <def name="forceSkillId" val="10037"/>
+				<mul stat="pAtk" order="0x30" val="1.05"/>
+				<mul stat="pAtkSpd" order="0x30" val="1.05"/>
+				<add stat="rootResist" order="0x40" val="10"/>
+				<add stat="debuffResist" order="0x40" val="10"/>
+				<mul stat="hpEff" order="0x30" val="1.15"/>
+				<mul stat="regHp" order="0x30" val="1.05"/>
+            </effect>
+        </for>
+    </skill>
+	<skill id="10037" levels="1" name="Аура Выносливости"><!-- Также увеличивает устойчивость к удержанию и отрицательным эффектам.kakum?-->
+		<set name="magicLevel" val="85"/>
+		<set name="operateType" val="OP_TOGGLE"/>
+		<set name="skillType" val="CONT"/>
+		<set name="isForceAura" val="true"/>
+		<set name="target" val="TARGET_PARTY"/>
+		<for>
+        <effect name="GiantForceAura" count="0x7fffffff" abnormal="sigelAura2" time="3" val="10" stackType="SigelAura1" stackOrder="1">
+				<def name="auraSkillId" val="10036" />
+				<mul order="0x30" stat="pAtk" val="1.05" > 
+					<not>
+						<player classId="139"/>
+					</not>	
+				</mul>
+				<mul order="0x30" stat="pAtkSpd" val="1.05" > 
+					<not>
+						<player classId="139"/>
+					</not>	
+				</mul>	
+                <mul stat="pAtkSpd" order="0x30" val="1.05">
+				<not>
+						<player classId="139"/>
+					</not>	
+				</mul>	
+                <add stat="rootResist" order="0x40" val="10">
+				<not>
+						<player classId="139"/>
+					</not>	
+				</add>	
+                <add stat="debuffResist" order="0x40" val="10">
+				<not>
+						<player classId="139"/>
+					</not>	
+				</add>	
+               <mul stat="hpEff" order="0x30" val="1.15">
+				<not>
+						<player classId="139"/>
+					</not>	
+				</mul>	
+                <mul stat="regHp" order="0x30" val="1.05">
+				<not>
+						<player classId="139"/>
+					</not>	
+				</mul>					
+			</effect>
+		</for>
+	</skill>
+	<skill id="10038" levels="1" name="Аура Духа">
+		<set name="class_level" val="5"/>
+		<set name="skillRadius" val="1000"/>
+		<set name="operateType" val="OP_TOGGLE"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="reuseDelay" val="1000"/>
+		<set name="hitTime" val="500"/>
+        <set name="relationSkillsId" val="982"/>
+        <for>
+        <effect name="GiantForceAura" count="0x7fffffff" abnormal="sigelAura2" time="3" val="10" stackType="SigelAura" stackOrder="1">
+                <def name="forceSkillId" val="10039"/>
+				<mul stat="pAtk" order="0x30" val="1.05"/>
+				<mul stat="pAtkSpd" order="0x30" val="1.05"/>
+				<add stat="rootResist" order="0x40" val="10"/>
+				<add stat="debuffResist" order="0x40" val="10"/>
+				<mul stat="mpEff" order="0x30" val="1.15"/>
+				<mul stat="regMp" order="0x30" val="1.05"/>
+            </effect>
+        </for>
+    </skill>
+	<skill id="10039" levels="1" name="Аура Духа"><!-- Также увеличивает устойчивость к удержанию и отрицательным эффектам.kakum?-->
+		<set name="magicLevel" val="85"/>
+		<set name="operateType" val="OP_TOGGLE"/>
+		<set name="skillType" val="CONT"/>
+		<set name="isForceAura" val="true"/>
+		<set name="target" val="TARGET_PARTY"/>
+		<for>
+        <effect name="GiantForceAura" count="0x7fffffff" abnormal="sigelAura2" time="3" val="10" stackType="SigelAura1" stackOrder="1">
+				<def name="auraSkillId" val="10038" />
+				<mul order="0x30" stat="pAtk" val="1.05" > 
+					<not>
+						<player classId="139"/>
+					</not>	
+				</mul>
+				<mul order="0x30" stat="pAtkSpd" val="1.05" > 
+					<not>
+						<player classId="139"/>
+					</not>	
+				</mul>	
+                <mul stat="pAtkSpd" order="0x30" val="1.05">
+				<not>
+						<player classId="139"/>
+					</not>	
+				</mul>	
+                <add stat="rootResist" order="0x40" val="10">
+				<not>
+						<player classId="139"/>
+					</not>	
+				</add>	
+                <add stat="debuffResist" order="0x40" val="10">
+				<not>
+						<player classId="139"/>
+					</not>	
+				</add>	
+               <mul stat="mpEff" order="0x30" val="1.15">
+				<not>
+						<player classId="139"/>
+					</not>	
+				</mul>	
+                <mul stat="regMp" order="0x30" val="1.05">
+				<not>
+						<player classId="139"/>
+					</not>	
+				</mul>					
+			</effect>
+		</for>
+	</skill>
+	<skill id="10040" levels="6" name="Призывает Золотого Льва">
+		<table name="#npcIds">14936 14937 14938 14939 14974 14975</table>
+		<set name="summonTotalLifeTime" val="3600000"/>
+		<set name="summonTimeLostIdle" val="500"/>
+		<set name="summonTimeLostActive" val="1000"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="SUMMON"/>
+		<set name="summonType" val="PET"/>
+		<set name="magicType" val="MAGIC" />
+		<set name="magicLevel" val="85"/>
+		<set name="relationSkillsId" val="283"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="npcId" val="#npcIds"/>
+		<enchant1 levels="10" name="Power">
+			<table name="#npcIds">14976 14977 14978 14979 14980 14981 14982 14983 14984 14985</table>
+		</enchant1>
+	</skill>
+	<skill id="10043" levels="8" name="Призыв Куба Рыцаря">
+	<!--
+		Призывает Куб Рыцаря. Куб снимает злые чары, наложенные на персонажа.
+	-->
+		<table name="#cubicLevel">1 2 3 4 5 6 7 8</table>
+		<table name="#mpConsume2">55 63 69 75 88 97 115 132</table>
+		<table name="#mpConsume1">14 20 25 32 41 48 59 80</table>
+		<table name="#magicLevel">85 87 89 90 92 94 97 99</table>
+		<table name="#timeDebuffRessist">0 6 6 6 6 6 6 6</table>
+        <table name="#Def">0 0 0 500 500 500 500 500</table>
+		<set name="magicType" val="MAGIC"/>
+		<set name="reuseDelay" val="5000"/>
+		<set name="magicLevel" val="#magicLevel"/>
+		<set name="hitTime" val="1"/>
+		<set name="hitCancelTime" val="1"/>
+		<set name="mpConsume1" val="#mpConsume1"/>
+		<set name="mpConsume2" val="#mpConsume2"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="cancelable" val="false"/>
+		<set name="relationSkillsId" val="779;780;781;782;783;97"/>
+		<for>
+			<effect name="Cubic" stackType="Crystal_cubic" stackOrder="1" time="900">
+				<def name="cubicId" val="15"/>
+				<def name="cubicLevel" val="#cubicLevel"/>
+				<player cubic="15"/>
+			</effect>
+			<effect count="1" name="Buff" time="9" val="0">
+                <add order="0x40" stat="pDef" val="#Def"/>
+                <add order="0x40" stat="mDef" val="#Def"/>
+            </effect>
+            <effect name="DebuffImmunity" time="#timeDebuffRessist"/>
+		</for>
+	</skill>
+	<skill id="10044" levels="1" name="Великое Владение Стихиями">
+	<!--
+		Увеличивает СИЛ на 2, сопротивление стихиям на 20.
+	-->
+		<table name="#element">20</table>
+		<set name="magicLevel" val="85"/>
+		<set name="target" val="TARGET_ONE"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<set name="relationSkillsId" val="197"/>
+		<enchant1 levels="10" name="Power">
+			<table name="#element">21 22 23 24 25 26 27 28 29 30</table>
+		</enchant1>
+		<for>
+			<add order="0x10" stat="STR" val="2"/>
+			<add order="0x40" stat="defenceEarth" val="#element"/>
+			<add order="0x40" stat="defenceFire" val="#element"/>
+			<add order="0x40" stat="defenceWater" val="#element"/>
+			<add order="0x40" stat="defenceWind" val="#element"/>
+			<add order="0x40" stat="defenceHoly" val="#element"/>
+			<add order="0x40" stat="defenceUnholy" val="#element"/>
+		</for>
+	</skill>
+	<skill id="10045" levels="3" name="Заряд Щита">
+	<!--
+		Атакует щитом. Наносит 11196 ед. дополнительного урона.
+		Уменьшает Физ. Защ. на 10%, Уклонение на 2 и увеличивает силу Крит. Атк. на 10%.
+	-->
+		<table name="#Power">11196 11196 11196</table>
+		<table name="#rCrit">10 20 30</table>
+		<table name="#pDef">0.9 0.8 0.7</table>
+		<table name="#rEvas">2 3 4</table>
+		<table name="#elementPower">0</table>
+		<table name="#element">none</table>
+		<table name="#magicLevel">85 86 87</table>
+		<set name="elementPower" val="#elementPower"/>
+		<set name="element" val="#element"/>
+		<set name="power" val="#Power"/>
+		<set name="target" val="TARGET_ONE"/>
+		<set name="weaponsAllowed" val="2"/>
+		<set name="magicLevel" val="#magicLevel"/>
+		<set name="skillType" val="PDAM"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="alterSkillsId" val="10249;10250;14579"/>
+		<for>
+			<effect name="Debuff" time="9" val="0">
+				<add order="0x40" stat="rCrit" val="#rCrit"/>
+				<mul order="0x30" stat="pDef" val="#pDef"/>
+				<sub order="0x40" stat="rEvas" val="#rEvas"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="10046" levels="3" name="Заряд Щита">
+		<table name="#Power">11948 11948 11948</table>
+		<table name="#rCrit">10 20 30</table>
+		<table name="#pDef">10 20 30</table>
+		<table name="#rEvas">2 3 4</table>
+		<table name="#elementPower">0</table>
+		<table name="#element">none</table>
+		<table name="#magicLevel">85 86 87</table>
+		<set name="elementPower" val="#elementPower"/>
+		<set name="element" val="#element"/>
+		<set name="power" val="#Power"/>
+		<set name="target" val="TARGET_ONE"/>
+		<set name="weaponsAllowed" val="2"/>
+		<set name="magicLevel" val="#magicLevel"/>
+		<set name="coolTime" val="300"/>
+		<set name="skillType" val="PDAM"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="alterSkillsId" val="10249;10250;14579"/>
+		<for>
+			<effect name="Debuff" time="9" val="0" stackOrder="1" stackType="critical_dmg_down" effectPower="80"/>
+			<add order="0x40" stat="rCrit" val="#rCrit"/>
+			<mul order="0x30" stat="pDef" val="#pDef"/>
+			<sub order="0x40" stat="rEvas" val="#rEvas"/>
+		</for>
+	</skill>
+	<skill id="10047" levels="3" name="Заряд Щита">
+		<table name="#Power">12700 12700 12700</table>
+		<table name="#rCrit">10 20 30</table>
+		<table name="#pDef">10 20 30</table>
+		<table name="#rEvas">2 3 4</table>
+		<table name="#elementPower">0</table>
+		<table name="#element">none</table>
+		<table name="#magicLevel">85 86 87</table>
+		<set name="elementPower" val="#elementPower"/>
+		<set name="element" val="#element"/>
+		<set name="power" val="#Power"/>
+		<set name="target" val="TARGET_ONE"/>
+		<set name="weaponsAllowed" val="2"/>
+		<set name="magicLevel" val="#magicLevel"/>
+		<set name="coolTime" val="300"/>
+		<set name="skillType" val="PDAM"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="alterSkillsId" val="10249;10250;14579"/>
+		<for>
+			<effect name="Debuff" time="9" val="0" stackOrder="1" stackType="critical_dmg_down" effectPower="80"/>
+			<add order="0x40" stat="rCrit" val="#rCrit"/>
+			<mul order="0x30" stat="pDef" val="#pDef"/>
+			<sub order="0x40" stat="rEvas" val="#rEvas"/>
+		</for>
+	</skill>
+	<skill id="10048" levels="3" name="Заряд Щита">
+		<table name="#Power">13452 13452 13452</table>
+		<table name="#rCrit">10 20 30</table>
+		<table name="#pDef">10 20 30</table>
+		<table name="#rEvas">2 3 4</table>
+		<table name="#elementPower">0</table>
+		<table name="#element">none</table>
+		<table name="#magicLevel">85 86 87</table>
+		<set name="elementPower" val="#elementPower"/>
+		<set name="element" val="#element"/>
+		<set name="power" val="#Power"/>
+		<set name="target" val="TARGET_ONE"/>
+		<set name="weaponsAllowed" val="2"/>
+		<set name="magicLevel" val="#magicLevel"/>
+		<set name="coolTime" val="300"/>
+		<set name="skillType" val="PDAM"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="alterSkillsId" val="10249;10250;14579"/>
+		<for>
+			<effect name="Debuff" time="9" val="0" stackOrder="1" stackType="critical_dmg_down" effectPower="80"/>
+			<add order="0x40" stat="rCrit" val="#rCrit"/>
+			<mul order="0x30" stat="pDef" val="#pDef"/>
+			<sub order="0x40" stat="rEvas" val="#rEvas"/>
+		</for>
+	</skill>
+	<skill id="10049" levels="3" name="Заряд Щита">
+		<table name="#Power">14204 14204 14204</table>
+		<table name="#rCrit">10 20 30</table>
+		<table name="#pDef">10 20 30</table>
+		<table name="#rEvas">2 3 4</table>
+		<table name="#elementPower">0</table>
+		<table name="#element">none</table>
+		<table name="#magicLevel">85 86 87</table>
+		<set name="elementPower" val="#elementPower"/>
+		<set name="element" val="#element"/>
+		<set name="power" val="#Power"/>
+		<set name="target" val="TARGET_ONE"/>
+		<set name="weaponsAllowed" val="2"/>
+		<set name="magicLevel" val="#magicLevel"/>
+		<set name="coolTime" val="300"/>
+		<set name="skillType" val="PDAM"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="alterSkillsId" val="10249;10250;14579"/>
+		<for>
+			<effect name="Debuff" time="9" val="0" stackOrder="1" stackType="critical_dmg_down" effectPower="80"/>
+			<add order="0x40" stat="rCrit" val="#rCrit"/>
+			<mul order="0x30" stat="pDef" val="#pDef"/>
+			<sub order="0x40" stat="rEvas" val="#rEvas"/>
+		</for>
+	</skill>
+	<skill id="10050" levels="3" name="Заряд Щита">
+		<table name="#Power">14956 14956 14956</table>
+		<table name="#rCrit">10 20 30</table>
+		<table name="#pDef">10 20 30</table>
+		<table name="#rEvas">2 3 4</table>
+		<table name="#elementPower">0</table>
+		<table name="#element">none</table>
+		<table name="#magicLevel">85 86 87</table>
+		<set name="elementPower" val="#elementPower"/>
+		<set name="element" val="#element"/>
+		<set name="power" val="#Power"/>
+		<set name="target" val="TARGET_ONE"/>
+		<set name="weaponsAllowed" val="2"/>
+		<set name="magicLevel" val="#magicLevel"/>
+		<set name="coolTime" val="300"/>
+		<set name="skillType" val="PDAM"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="alterSkillsId" val="10249;10250;14579"/>
+		<for>
+			<effect name="Debuff" time="9" val="0" stackOrder="1" stackType="critical_dmg_down" effectPower="80"/>
+			<add order="0x40" stat="rCrit" val="#rCrit"/>
+			<mul order="0x30" stat="pDef" val="#pDef"/>
+			<sub order="0x40" stat="rEvas" val="#rEvas"/>
+		</for>
+	</skill>
+	<skill id="10051" levels="6" name="Львиный Рев">
+		<table name="#magicLevel"> 85 86 89 92 95 98 </table>
+		<table name="#activateRate">50 52 54 56 58 60</table>
+		<table name="#Power">1051 1084 1118 1151 1185 1218</table>
+		<table name="#Holy">0</table>
+		<table name="#Dark">0</table>
+		<set name="power" val="#Power"/>
+		<set name="magicLevel" val="#magicLevel"/>
+		<set name="activateRate" val="#activateRate"/>
+		<set name="target" val="TARGET_ONE"/>
+		<set name="skillType" val="PDAM"/>
+		<set name="skillInterrupt" val="true"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="nextAction" val="attack"/>
+		<enchant1 levels="10" name="Power">
+			<table name="#Power">1300 1350 1400 1450 1500 1550 1600 1650 1700 1750</table>
+		</enchant1>
+		<for>
+			<effect count="1" name="MutePhisycal" time="60" val="0">
+				<sub order="0x40" stat="defenceFire" val="#Holy"/>
+				<sub order="0x40" stat="defenceWind" val="#Dark"/>
+				<sub order="0x40" stat="defenceWater" val="#Dark"/>
+				<sub order="0x40" stat="defenceEarth" val="#Holy"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="10052" levels="6" name="Когти Льва">
+		<table name="#magicLevel">85 86 87 88 89 90</table>
+		<table name="#power">2112 2156 2200 2241 2282 2320</table>
+		<set name="power" val="#power"/>
+		<set name="target" val="TARGET_ONE"/>
+		<set name="magicLevel" val="#magicLevel"/>
+		<set name="skillType" val="PDAM"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="nextAction" val="attack"/>
+		<enchant1 levels="10" name="Power">
+			<table name="#Power">2350 2400 2450 2500 2550 2600 2650 2700 2750 2800</table>
+		</enchant1>
+	</skill>
+	<skill id="10053" levels="6" name="Бросок Льва">
+		<table name="#power">3200 3300 3400 3500 3600 3700</table>
+		<table name="#effectPoint">145 150 154 164 169 173</table>
+		<table name="#magicLevel">85 86 87 88 89 90</table>
+		<set name="activateRate" val="50"/>
+		<set name="effectPoint" val="#effectPoint"/>
+		<set name="magicLevel" val="#magicLevel"/>
+		<set name="save" val="4"/>
+		<set name="power" val="#power"/>
+		<set name="target" val="TARGET_ONE"/>
+		<set name="overHit" val="true"/>
+		<set name="coolTime" val="720"/>
+		<set name="skillType" val="PDAM"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="nextAction" val="attack"/>
+		<enchant1 levels="10" name="Power">
+			<table name="#Power">3750 3800 3850 3900 3950 4000 4050 4100 4150 4200</table>
+		</enchant1>
+		<for>
+			<effect count="1" name="Stun" stackOrder="-1" stackType="Stun" time="9" val="0"/>
+		</for>
+	</skill>
+	<skill id="10054" levels="6" name="Львиное Пламя">
+		<table name="#effectPoint">227 243 268 285 313 331</table>
+		<table name="#power">90 92 94 96 97 99</table>
+		<table name="#magicLevel">85 86 87 88 89 90</table>
+		<set name="effectPoint" val="#effectPoint"/>
+		<set name="power" val="#power"/>
+		<set name="magicLevel" val="#magicLevel"/>
+		<set name="element" val="fire"/>
+		<set name="target" val="TARGET_ONE"/>
+		<set name="skillType" val="MDAM"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="shieldignore" val="true"/>
+		<enchant1 levels="10" name="Power">
+			<table name="#Power">100 102 104 106 108 110 112 114 118 120</table>
+		</enchant1>
+	</skill>
+	<skill id="10059" levels="3" name="Заряд Щита">
+		<table name="#Power">15708 15708 15708</table>
+		<table name="#rCrit">10 20 30</table>
+		<table name="#pDef">10 20 30</table>
+		<table name="#rEvas">2 3 4</table>
+		<table name="#elementPower">0</table>
+		<table name="#element">none</table>
+		<table name="#magicLevel">85 86 87</table>
+		<set name="elementPower" val="#elementPower"/>
+		<set name="element" val="#element"/>
+		<set name="power" val="#Power"/>
+		<set name="target" val="TARGET_ONE"/>
+		<set name="weaponsAllowed" val="2"/>
+		<set name="magicLevel" val="#magicLevel"/>
+		<set name="coolTime" val="300"/>
+		<set name="skillType" val="PDAM"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<for>
+			<effect name="Debuff" time="9" val="0" stackOrder="1" stackType="critical_dmg_down" effectPower="80"/>
+			<add order="0x40" stat="rCrit" val="#rCrit"/>
+			<mul order="0x30" stat="pDef" val="#pDef"/>
+			<sub order="0x40" stat="rEvas" val="#rEvas"/>
+		</for>
+	</skill>
+	<skill id="10060" levels="1" name="Яростная Атака">
+		<set name="coolTime" val="200"/>
+		<set name="reuseDelay" val="6000"/>
+		<set name="power" val="3928"/>
+		<set name="magicLevel" val="85"/>
+		<set name="castRange" val="600"/>
+		<set name="hitTime" val="700"/>
+		<set name="hitCancelTime" val="500"/>
+		<set name="effectPoint" val="3241"/>
+		<set name="target" val="TARGET_ONE"/>
+		<set name="skillType" val="AGGRESSION"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="isReuseDelayPermanent" val="true"/>
+		<for>
+			<effect count="1" name="Aggression" time="3" val="0"/>
+		</for>
+	</skill>
+	<skill id="10061" levels="1" name="Мастер Призыва">
+	<!-- Исправить Уменьшает Физ. Защ. в качестве платы за призыв Льва. -->
+		<set name="magicType" val="SPECIAL"/>
+		<set name="magicLevel" val="86"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="isSaveable" val="false"/>
+		<set name="skillType" val="EFFECT"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<for>
+			<effect name="Debuff" time="9" val="0" effectPower="80"/>
+			<mul order="0x30" stat="pDef" val="50"/>
+		</for>
+	</skill>
+	<skill id="10062" levels="4" name="Дух Феникса">
+		<!--
+			На 10 сек. повышает на 2% Физ./Маг. Защ. всех членов группы
+		-->
+		<table name="#pDef">1.02 1.03 1.04 1.06</table>
+		<table name="#mDef">1.02 1.03 1.04 1.06</table>
+		<table name="#magicLevel">85 90 95 99</table>
+		<set name="magicLevel" val="#magicLevel"/>
+		<set name="target" val="TARGET_PARTY"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="icon" val="icon.skill10062" />
+		<set name="reuseDelay" val="1000"/>
+		<set name="saveVs" val="STR"/> 
+		<set name="operateType" val="OP_ACTIVE"/>
+		<for>
+			<mul order="0x30" stat="pDef" val="#pDef"/>
+			<mul order="0x30" stat="mDef" val="#pDef"/>
+		</for>
+		<triggers>
+			<trigger id="10063" level="1" type="RECEIVE_DAMAGE" chance="30">
+				<player damage="50;0"/>
+			</trigger>
+		</triggers>
+	</skill>
+	<skill id="10063" levels="4" name="Дух Феникса">
+		<!--
+			На 10 сек. повышает на 2% Физ./Маг. Защ. всех членов группы
+		-->
+		<table name="#pDef">1.02 1.03 1.04 1.06</table>
+		<table name="#mDef">1.02 1.03 1.04 1.06</table>
+		<table name="#magicLevel">85 90 95 99</table>
+		<set name="magicLevel" val="#magicLevel"/>
+		<set name="target" val="TARGET_PARTY"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="reuseDelay" val="1000"/>
+		<set name="saveVs" val="STR"/> 
+		<set name="operateType" val="OP_ACTIVE"/>
+		<for>
+			<mul order="0x30" stat="pDef" val="#pDef"/>
+			<mul order="0x30" stat="mDef" val="#pDef"/>
+		</for>
+	</skill>
+	<skill id="10064" levels="4" name="Священное Жертвоприношение">
+		<!--
+			За счет НР персонажа восстанавливает 1000 НР объекта. Требуется щит.
+		-->
+		<table name="#hpConsume">1000 1300 1500 2000</table>
+		<table name="#magicLevel">85 90 95 99</table>
+		<table name="#power">1000 1300 1500 2000</table>
+		<set name="magicType" val="MAGIC" />
+		<set name="icon" val="icon.skill10064" />
+		<set name="reuseDelay" val="2000" />
+		<set name="power" val="#power" />
+		<set name="magicLevel" val="#magicLevel" />
+		<set name="castRange" val="600" />
+		<set name="hitTime" val="1500" />
+		<set name="hitCancelTime" val="500" />
+		<set name="hpConsume" val="#hpConsume" />
+		<set name="useSS" val="true" />
+		<set name="target" val="TARGET_ONE" />
+		<set name="skillType" val="HEAL" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="10065" levels="4" name="Защита Великого Щита">
+		<!--
+		Защита Щитом +5%
+		Защита Щитом +7%
+		Защита Щитом +10%
+		Защита Щитом +15%
+		-->
+		<table name="#magicLevel">85 90 95 99</table>
+		<table name="#sDef">1.05 1.07 1.10 1.15</table>
+		<set name="magicLevel" val="#magicLevel"/>
+		<set name="icon" val="icon.skill10065" />
+		<set name="operateType" val="OP_PASSIVE"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="target" val="TARGET_SELF"/>
+		<for>
+			<mul order="0x30" stat="sDef" val="#sDef"/>
+		</for>
+	</skill>
+
+	<!--Рыцарь Ада Сигеля-->
+	<skill id="10066" levels="4" name="Дух Мести">
+	<!--
+		На 10 сек. повышает на 2% Физ./Маг. Защ. всех членов группы
+	-->
+		<table name="#pDef">1.02 1.03 1.04 1.06</table>
+		<table name="#mDef">1.02 1.03 1.04 1.06</table>
+		<table name="#magicLevel">85 90 95 99</table>
+		<set name="magicLevel" val="#magicLevel"/>
+		<set name="target" val="TARGET_PARTY"/>
+		<set name="icon" val="icon.skill10066" />
+		<set name="skillType" val="BUFF"/>
+		<set name="reuseDelay" val="1000"/>
+		<set name="saveVs" val="STR"/> 
+		<set name="operateType" val="OP_ACTIVE"/>
+		<for>
+			<mul order="0x30" stat="pDef" val="#pDef"/>
+			<mul order="0x30" stat="mDef" val="#pDef"/>
+		</for>
+		<triggers>
+			<trigger id="10067" level="1" type="RECEIVE_DAMAGE" chance="30">
+				<player damage="50;0"/>
+			</trigger>
+		</triggers>
+	</skill>
+	<skill id="10067" levels="4" name="Дух Мести">
+	<!--
+		На 10 сек. повышает на 2% Физ./Маг. Защ. всех членов группы
+	-->
+		<table name="#pDef">1.02 1.03 1.04 1.06</table>
+		<table name="#mDef">1.02 1.03 1.04 1.06</table>
+		<table name="#magicLevel">85 90 95 99</table>
+		<set name="magicLevel" val="#magicLevel"/>
+		<set name="target" val="TARGET_PARTY"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="reuseDelay" val="1000"/>
+		<set name="saveVs" val="STR"/> 
+		<set name="operateType" val="OP_ACTIVE"/>
+		<for>
+			<mul order="0x30" stat="pDef" val="#pDef"/>
+			<mul order="0x30" stat="mDef" val="#pDef"/>
+		</for>
+	</skill>
+	<skill id="10068" levels="4" name="Призыв Кровавой Пантеры">
+		<table name="#npcIds">15138 15139 15140 15141</table>
+		<set name="summonTotalLifeTime" val="3600000"/>
+		<set name="summonTimeLostIdle" val="500"/>
+		<set name="summonTimeLostActive" val="1000"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="icon" val="icon.skill10068" />
+		<set name="skillType" val="SUMMON"/>
+		<set name="summonType" val="PET"/>
+		<set name="hitTime" val="4500"/>
+		<set name="magicType" val="MAGIC" />
+		<table name="#magicLevel">85 90 95 99</table>
+		<set name="magicLevel" val="#magicLevel" />
+		<set name="relationSkillsId" val="283"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="npcId" val="#npcIds"/>
+	</skill>
+	<skill id="10069" levels="4" name="Вампиризм">
+		<set name="icon" val="icon.skill10069" />
+		<set name="magicType" val="MAGIC" />
+		<set name="reuseDelay" val="2000" />
+		<table name="#magicLevel">85 90 95 99</table>
+		<set name="magicLevel" val="#magicLevel" />
+		<set name="hitTime" val="4000" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<triggers>
+			<trigger id="10070" level="1" type="ATTACK" chance="30"/>
+		</triggers>
+	</skill>
+	<skill id="10070" levels="4" name="Вампиризм">
+		<!--
+		-->
+		<table name="#magicLevel">85 90 95 99</table>
+		<table name="#power">100 130 150 200</table>
+		<set name="magicType" val="MAGIC" />
+		<set name="icon" val="icon.skill10070" />
+		<set name="reuseDelay" val="2000" />
+		<set name="power" val="#power" />
+		<set name="magicLevel" val="#magicLevel" />
+		<set name="castRange" val="600" />
+		<set name="hitTime" val="1500" />
+		<set name="hitCancelTime" val="500" />
+		<set name="useSS" val="true" />
+		<set name="target" val="TARGET_ONE" />
+		<set name="skillType" val="HEAL" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+
+	<!--Храмовник Евы Сигеля-->
+	<skill id="10071" levels="4" name="Дух Евы">
+	<!--
+		На 10 сек. повышает на 2% Физ./Маг. Защ. всех членов группы
+	-->
+		<table name="#pDef">1.02 1.03 1.04 1.06</table>
+		<table name="#mDef">1.02 1.03 1.04 1.06</table>
+		<table name="#magicLevel">85 90 95 99</table>
+		<set name="magicLevel" val="#magicLevel"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="icon" val="icon.skill10066" />
+		<set name="hitTime" val="1000" />
+		<set name="skillType" val="BUFF"/>
+		<set name="reuseDelay" val="1000"/>
+		<set name="saveVs" val="STR"/> 
+		<set name="operateType" val="OP_ACTIVE"/>
+		<for>
+			<mul order="0x30" stat="pDef" val="#pDef"/>
+			<mul order="0x30" stat="mDef" val="#pDef"/>
+		</for>
+		<triggers>
+			<trigger id="10072" level="1" type="RECEIVE_DAMAGE" chance="30">
+				<player damage="50;0"/>
+			</trigger>
+		</triggers>
+	</skill>
+	<skill id="10072" levels="4" name="Дух Евы">
+	<!--
+		На 10 сек. повышает на 2% Физ./Маг. Защ. всех членов группы
+	-->
+		<table name="#pDef">1.02 1.03 1.04 1.06</table>
+		<table name="#mDef">1.02 1.03 1.04 1.06</table>
+		<table name="#magicLevel">85 90 95 99</table>
+		<set name="magicLevel" val="#magicLevel"/>
+		<set name="target" val="TARGET_PARTY"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="reuseDelay" val="1000"/>
+		<set name="isTrigger" val="true"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<for>
+			<mul order="0x30" stat="pDef" val="#pDef"/>
+			<mul order="0x30" stat="mDef" val="#pDef"/>
+		</for>
+	</skill>
+	<skill id="10073" levels="4" name="Призвать Кубик Поэмы">
+	<!--
+		Призывает Кубик Поэмы. Оживляющий Кубик при помощи магии восстанавливает НР персонажа, призвавшего его.
+	-->
+		<table name="#cubicLevel">1 2 3 4</table>
+		<table name="#mpConsume2">88 97 115 132</table>
+		<table name="#mpConsume1">41 48 59 80</table>
+		<table name="#magicLevel">85 90 95 99</table>
+		<set name="magicLevel" val="#magicLevel"/>
+		<set name="magicType" val="MAGIC"/>
+		<set name="reuseDelay" val="5000"/>
+		<set name="magicLevel" val="#magicLevel"/>
+		<set name="hitTime" val="6000"/>
+		<set name="hitCancelTime" val="500"/>
+		<set name="mpConsume1" val="#mpConsume1"/>
+		<set name="mpConsume2" val="#mpConsume2"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="cancelable" val="false"/>
+		<for>
+			<effect name="Cubic" stackType="Tank1" time="900">
+				<def name="cubicId" val="18"/>
+				<def name="cubicLevel" val="#cubicLevel"/>
+				<player cubic="18"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="10074" levels="4" name="Призвать Кубик Разума">
+	<!--
+		Призывает Кубик Разума. Кубик Разума Сигеля при помощи магии восстанавливает МР персонажа, призвавшего его.
+	-->
+		<table name="#cubicLevel">1 2 3 4</table>
+		<table name="#mpConsume2">88 97 115 132</table>
+		<table name="#mpConsume1">41 48 59 80</table>
+		<table name="#magicLevel">85 90 95 99</table>
+		<set name="magicLevel" val="#magicLevel"/>
+		<set name="magicType" val="MAGIC"/>
+		<set name="reuseDelay" val="5000"/>
+		<set name="magicLevel" val="#magicLevel"/>
+		<set name="hitTime" val="6000"/>
+		<set name="hitCancelTime" val="500"/>
+		<set name="mpConsume1" val="#mpConsume1"/>
+		<set name="mpConsume2" val="#mpConsume2"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="cancelable" val="false"/>
+		<for>
+			<effect name="Cubic" stackType="Tank2" time="900">
+				<def name="cubicId" val="19"/>
+				<def name="cubicLevel" val="#cubicLevel"/>
+				<player cubic="19"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="10075" levels="1" name="Великое Владение Кубиками">
+		<table name="#magicLevel">85</table>
+		<set name="icon" val="icon.skill10075" />
+		<set name="magicLevel" val="#magicLevel" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="cubicsLimit" val="3" />
+		</for>
+	</skill>
+	<skill id="10076" levels="4" name="Великая Оборонительная Боевая Стойка">
+		<set name="icon" val="icon.skill10076" />
+		<table name="#magicLevel">85 90 95 99</table>
+		<table name="#shield">1.05 1.07 1.10 1.15</table>
+		<set name="magicLevel" val="#magicLevel" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="rShld" val="#shield" />
+		</for>
+	</skill>
+	<!--Храмовник Шилен Сигеля-->
+	<skill id="10077" levels="4" name="Дух Шилен">
+	<!--
+		На 10 сек. повышает на 2% Физ./Маг. Защ. всех членов группы
+	-->
+		<table name="#pDef">1.02 1.03 1.04 1.06</table>
+		<table name="#mDef">1.02 1.03 1.04 1.06</table>
+		<table name="#LVL">1 2 3 4</table>
+		<table name="#magicLevel">85 90 95 99</table>
+		<set name="magicLevel" val="#magicLevel"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="icon" val="icon.skill10066" />
+		<set name="hitTime" val="1000" />
+		<set name="skillType" val="BUFF"/>
+		<set name="reuseDelay" val="1000"/>
+		<set name="saveVs" val="STR"/> 
+		<set name="operateType" val="OP_ACTIVE"/>
+		<for>
+			<mul order="0x30" stat="pDef" val="#pDef"/>
+			<mul order="0x30" stat="mDef" val="#pDef"/>
+		</for>
+		<triggers>
+			<trigger id="10078" level="#LVL" type="RECEIVE_DAMAGE" chance="100">
+				<player damage="1;0"/>
+			</trigger>
+		</triggers>
+	</skill>
+	<skill id="10078" levels="4" name="Дух Шилен">
+	<!--
+		На 10 сек. повышает на 2% Физ./Маг. Защ. всех членов группы
+	-->
+		<table name="#pDef">1.02 1.03 1.04 1.06</table>
+		<table name="#mDef">1.02 1.03 1.04 1.06</table>
+		<table name="#magicLevel">85 90 95 99</table>
+		<set name="magicLevel" val="#magicLevel"/>
+		<set name="target" val="TARGET_PARTY"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="reuseDelay" val="1000"/>
+		<set name="isTrigger" val="true"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<for>
+			<mul order="0x30" stat="pDef" val="#pDef"/>
+			<mul order="0x30" stat="mDef" val="#pDef"/>
+		</for>
+	</skill>
+	<skill id="10079" levels="4" name="Призвать Призрачный Кубик">
+	<!--
+		Призывает Призрачный Кубик. При помощи магии снижает Скор. Маг/Скор. Атк. противника.
+	-->
+		<table name="#cubicLevel">1 2 3 4</table>
+		<table name="#mpConsume2">88 97 115 132</table>
+		<table name="#mpConsume1">41 48 59 80</table>
+		<table name="#magicLevel">85 90 95 99</table>
+		<set name="magicLevel" val="#magicLevel"/>
+		<set name="magicType" val="MAGIC"/>
+		<set name="reuseDelay" val="5000"/>
+		<set name="magicLevel" val="#magicLevel"/>
+		<set name="hitTime" val="6000"/>
+		<set name="hitCancelTime" val="500"/>
+		<set name="mpConsume1" val="#mpConsume1"/>
+		<set name="mpConsume2" val="#mpConsume2"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="cancelable" val="false"/>
+		<for>
+			<effect name="Cubic" stackType="Tank4" time="900">
+				<def name="cubicId" val="20"/>
+				<def name="cubicLevel" val="#cubicLevel"/>
+				<player cubic="20"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="10080" levels="4" name="Призвать Кубик Сглаза">
+	<!--
+		Призывает Куб Рыцаря. Куб снимает злые чары, наложенные на персонажа.
+	-->
+		<table name="#cubicLevel">1 2 3 4</table>
+		<table name="#mpConsume2">88 97 115 132</table>
+		<table name="#mpConsume1">41 48 59 80</table>
+		<table name="#magicLevel">85 90 95 99</table>
+		<set name="magicLevel" val="#magicLevel"/>
+		<set name="magicType" val="MAGIC"/>
+		<set name="reuseDelay" val="5000"/>
+		<set name="magicLevel" val="#magicLevel"/>
+		<set name="hitTime" val="6000"/>
+		<set name="hitCancelTime" val="500"/>
+		<set name="mpConsume1" val="#mpConsume1"/>
+		<set name="mpConsume2" val="#mpConsume2"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="cancelable" val="false"/>
+		<for>
+			<effect name="Cubic" stackType="Tank3" time="900">
+				<def name="cubicId" val="21"/>
+				<def name="cubicLevel" val="#cubicLevel"/>
+				<player cubic="21"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="10081" levels="4" name="Вспышка Света">
+		<table name="#magicLevel">85 90 95 99</table>
+		<table name="#magic">15574 18556 20701 22848</table>
+		<set name="magicType" val="MAGIC" />
+		<set name="icon" val="icon.skill1170" />
+		<set name="magicLevel" val="#magicLevel" />
+		<set name="useSS" val="false" />
+		<set name="power" val="#magic" />
+		<set name="target" val="TARGET_ONE" />
+		<set name="skillType" val="PDAM" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="delayedEffect" val="6125" />
+		<set name="castRange" val="1000" />
+		<set name="hitTime" val="3000" />
+		<set name="trait" val="PARALYZE" />
+		<set name="saveVs" val="STR" />
+		<set name="reuseDelay" val="5000"/>
+		<for>
+			<effect count="1" name="Paralyze" time="5" val="0"/>
+		</for>
+	</skill>
+	<skill id="10085" levels="4" name="Призрачный Кубик">
+		<!--Last edit: 24.12.2010-->
+		<table name="#magicLevel">85 90 95 99</table>
+		<table name="#p">0.95 0.93 0.90 0.95</table>
+		<table name="#m">0.95 0.93 0.90 0.95</table>
+		<set name="levelModifier" val="1" />
+		<set name="magicType" val="MAGIC" />
+		<set name="icon" val="icon.skill1170" />
+		<set name="magicLevel" val="#magicLevel" />
+		<set name="useSS" val="false" />
+		<set name="target" val="TARGET_ONE" />
+		<set name="skillType" val="DEBUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="delayedEffect" val="6125" />
+		<set name="isHideUseMessage" val="true" />
+		<set name="castRange" val="1000" />
+		<set name="hitTime" val="3000" />
+		<for>
+			<effect count="1" name="Debuff" time="5" val="0">
+				<mul order="0x30" stat="pAtkSpd" val="#p" />
+				<mul order="0x30" stat="mAtkSpd" val="#m" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="10086" levels="4" name="Призрачный Кубик">
+		<!--Last edit: 24.12.2010-->
+		<table name="#magicLevel">85 90 95 99</table>
+		<table name="#p">0.95 0.93 0.90 0.95</table>
+		<table name="#m">0.95 0.93 0.90 0.95</table>
+		<set name="levelModifier" val="1" />
+		<set name="magicType" val="MAGIC" />
+		<set name="icon" val="icon.skill1170" />
+		<set name="magicLevel" val="#magicLevel" />
+		<set name="useSS" val="false" />
+		<set name="target" val="TARGET_ONE" />
+		<set name="skillType" val="DEBUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="delayedEffect" val="6125" />
+		<set name="isHideUseMessage" val="true" />
+		<set name="castRange" val="1000" />
+		<set name="hitTime" val="3000" />
+		<for>
+			<effect count="1" name="Debuff" time="5" val="0">
+				<mul order="0x30" stat="pDef" val="#p" />
+				<mul order="0x30" stat="mDef" val="#m" />
+			</effect>
+		</for>
+	</skill>	
+	<!-- не знаю откуда это -->
+	<skill id="10041" levels="4" name="Призыв Куба Отчаяния">
+	<!-- Summon-КУБИК -->
+		<set name="target" val="TARGET_NONE"/>
+		<set name="skillType" val="NOTDONE"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+	</skill>
+	<skill id="10042" levels="3" name="Призыв Куба Жизни">
+		<table name="#magicLevel">94 97 99</table>
+		<set name="magicLevel" val="#magicLevel"/>
+		<table name="#heal">34 64 104</table>
+		<set name="reuseDelay" val="12000"/>
+		<set name="hitTime" val="1200"/>
+		<set name="mpConsume2" val="43"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="target" val="TARGET_SELF"/>
+		<for>
+			<effect count="1" name="HealPercent" time="1" val="#heal"/>
+		</for>
+	</skill>
+	<skill id="10055" levels="1" name="Атака Куба">
+	<!-- Уменьшает Физ. Атк. Эффект 3. Тригет скил -->
+		<set name="target" val="TARGET_NONE"/>
+		<set name="skillType" val="NOTDONE"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+	</skill>
+	<skill id="10056" levels="8" name="Защита Куба">
+		<set name="castRange" val="600"/>
+		<set name="effectPoint" val="408"/>
+		<set name="castRange" val="1000"/>
+		<set name="hitTime" val="3000"/>
+        <table name="#magicLevel">85 87 89 90 92 94 97 99</table>
+        <table name="#count">1 3 6 6 6 6 6 6</table>
+        <table name="#mDef">0 0 0 0 500 500 500 500</table>
+        <table name="#pDef">0 0 0 500 500 500 500 500</table>
+        <table name="#heal">0 0 0 0 0 3 6 10</table>
+        <set name="magicLevel" val="#magicLevel"/>
+        <set name="target" val="TARGET_ONE"/>
+        <set name="magicType" val="MAGIC"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="operateType" val="OP_ACTIVE"/>
+		<set name="dispelType" val="negative"/>
+		<set name="negateCount" val="3" />
+        <set name="isOffensive" val="false"/>
+        <set name="effectPoint" val="408"/>
+        <set name="useSS" val="false"/>
+        <set name="isHideUseMessage" val="true"/>
+        <for>
+			<add order="0x40" stat="mDef" val="#mDef"/>
+            <add order="0x40" stat="pDef" val="#pDef"/>
+            <mul order="0x30" stat="debuffResist" val="100"/>
+            <effect name="HealPercent" time="0" val="#heal"/>
+			<effect count="1" name="DispelEffects" time="0" val="0">
+                <def name="dispelType" val="negative"/>
+                <def name="cancelRate" val="100"/>
+                <def name="negateCount" val="10"/>
+            </effect>
+		</for>
+	</skill>
+	<skill id="10057" levels="1" name="Проклятие Куба">
+	<!-- Отравляет и понижает HP. Эффект 5. Тригет скил -->
+		<set name="target" val="TARGET_NONE"/>
+		<set name="skillType" val="NOTDONE"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+	</skill>
+	<skill id="10058" levels="1" name="Благословение Защиты">
+		<set name="magicType" val="SPECIAL"/>
+		<set name="reuseDelay" val="30000"/>
+		<set name="magicLevel" val="85"/>
+		<set name="castRange" val="400"/>
+		<set name="hitCancelTime" val="500"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="isTrigger" val="true"/>
+		<for>
+			<effect count="1" name="Buff" stackType="ProtectionOf" time="10" val="0">
+				<add order="0x60" stat="mDef" val="1500"/>
+				<add order="0x40" stat="defenceFire" val="50"/>
+				<add order="0x40" stat="defenceWater" val="50"/>
+				<add order="0x40" stat="defenceWind" val="50"/>
+				<add order="0x40" stat="defenceEarth" val="50"/>
+				<add order="0x40" stat="defenceUnholy" val="50"/>
+				<add order="0x40" stat="defenceHoly" val="50"/>
+			</effect>
+		</for>
+	</skill>
+</list>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "item.dtd">
+<list>
+	<etcitem id="37495" name="Чешуя Линдвиора">
+        <set name="class" value="OTHER"/>
+        <set name="crystal_type" value="NONE"/>
+        <set name="stackable" value="true"/>
+        <set name="type" value="OTHER"/>
+	</etcitem>
+	<etcitem id="37496" name="TКнига Умений: Оседлать Линдрако">
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.etc_kamael_skill_book_i01"/>
+		<set name="stackable" value="false"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="120"/>
+	</etcitem>
+</list>

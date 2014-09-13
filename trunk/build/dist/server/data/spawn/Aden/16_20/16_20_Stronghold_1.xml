@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "spawn.dtd">
+<!--Задумка спавна (c)Mangol,(c)KilRoy-->
+<list>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-122360" y="73206" z="-2872" h="40960" />
+		<npc id="32181" /><!--Mellon-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-122254" y="73438" z="-2872" h="16384" />
+		<npc id="32183" /><!--Yunha-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-122118" y="73302" z="-2872" h="0" />
+		<npc id="32182" /><!--Coplan-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-122057" y="74316" z="-3000" h="16576" />
+		<npc id="32336" /><!--Marksman-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-122455" y="72302" z="-2976" h="49232" />
+		<npc id="32336" /><!--Marksman-->
+	</spawn>	
+</list>	

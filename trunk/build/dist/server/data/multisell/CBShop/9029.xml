@@ -1,0 +1,237 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+
+<!-- S-80 Weapon -->
+<!-- © 2010 by mathuza -->
+
+<list maintainEnchantment="true">
+
+    <!-- Icarus Hammer - Anger -->
+  <item id="37">
+    <ingredient id="13419" count="1"/>
+    <production id="10452" count="1"/>
+  </item>
+
+  <!-- Icarus Hammer - Rsk. Focus -->
+  <item id="38">
+    <ingredient id="13419" count="1"/>
+    <production id="10454" count="1"/>
+  </item>
+
+  <!-- Icarus Hammer - Health -->
+  <item id="39">
+    <ingredient id="13419" count="1"/>
+    <production id="10453" count="1"/>
+  </item>
+
+  <!-- Icarus Hand - Focus -->
+  <item id="40">
+    <ingredient id="13419" count="1"/>
+    <production id="10459" count="1"/>
+  </item>
+
+  <!-- Icarus Hand - Haste -->
+  <item id="41">
+    <ingredient id="13419" count="1"/>
+    <production id="10460" count="1"/>
+  </item>
+
+  <!-- Icarus Hand - Rsk. Evasion -->
+  <item id="42">
+    <ingredient id="13419" count="1"/>
+    <production id="10458" count="1"/>
+  </item>
+
+  <!-- Icarus Heavy Arms - Focus -->
+  <item id="43">
+    <ingredient id="13419" count="1"/>
+    <production id="10437" count="1"/>
+  </item>
+
+  <!-- Icarus Heavy Arms - Health -->
+  <item id="44">
+    <ingredient id="13419" count="1"/>
+    <production id="10438" count="1"/>
+  </item>
+
+  <!-- Icarus Heavy Arms - Light -->
+  <item id="45">
+    <ingredient id="13419" count="1"/>
+    <production id="10439" count="1"/>
+  </item>
+
+  <!-- Icarus Sawsword Focus -->
+  <item id="46">
+    <ingredient id="13419" count="1"/>
+    <production id="10434" count="1"/>
+  </item>
+
+  <!-- Icarus Sawsword Health -->
+  <item id="47">
+    <ingredient id="13419" count="1"/>
+    <production id="10435" count="1"/>
+  </item>
+
+  <!-- Icarus Sawsword Light -->
+  <item id="48">
+    <ingredient id="13419" count="1"/>
+    <production id="10436" count="1"/>
+  </item>
+
+  <!-- Icarus Shooter - Cheap Shot -->
+  <item id="49">
+    <ingredient id="13419" count="1"/>
+    <production id="10467" count="1"/>
+  </item>
+
+  <!-- Icarus Shooter - Focus -->
+  <item id="50">
+    <ingredient id="13419" count="1"/>
+    <production id="10469" count="1"/>
+  </item>
+
+  <!-- Icarus Shooter - Guidance -->
+  <item id="51">
+    <ingredient id="13419" count="1"/>
+    <production id="10468" count="1"/>
+  </item>
+
+  <!-- Icarus Spirit - Acumen -->
+  <item id="52">
+    <ingredient id="13419" count="1"/>
+    <production id="10440" count="1"/>
+  </item>
+
+  <!-- Icarus Spirit - Conversion -->
+  <item id="53">
+    <ingredient id="13419" count="1"/>
+    <production id="10442" count="1"/>
+  </item>
+
+  <!-- Icarus Spirit - Mana Up -->
+  <item id="54">
+    <ingredient id="13419" count="1"/>
+    <production id="10441" count="1"/>
+  </item>
+
+  <!-- Icarus Spitter - Cheap Shot -->
+  <item id="55">
+    <ingredient id="13419" count="1"/>
+    <production id="10443" count="1"/>
+  </item>
+
+  <!-- Icarus Spitter - Focus -->
+  <item id="56">
+    <ingredient id="13419" count="1"/>
+    <production id="10445" count="1"/>
+  </item>
+
+  <!-- Icarus Spitter - Guidance -->
+  <item id="57">
+    <ingredient id="13419" count="1"/>
+    <production id="10444" count="1"/>
+  </item>
+
+  <!-- Icarus Stinger - Focus -->
+  <item id="58">
+    <ingredient id="13419" count="1"/>
+    <production id="10461" count="1"/>
+  </item>
+
+  <!-- Icarus Stinger - Health -->
+  <item id="59">
+    <ingredient id="13419" count="1"/>
+    <production id="10462" count="1"/>
+  </item>
+
+  <!-- Icarus Stinger - Light -->
+  <item id="60">
+    <ingredient id="13419" count="1"/>
+    <production id="10463" count="1"/>
+  </item>
+
+  <!-- Icarus Trident - Anger -->
+  <item id="61">
+    <ingredient id="13419" count="1"/>
+    <production id="10449" count="1"/>
+  </item>
+
+  <!-- Icarus Trident - Critical Stun -->
+  <item id="62">
+    <ingredient id="13419" count="1"/>
+    <production id="10450" count="1"/>
+  </item>
+
+  <!-- Icarus Trident - Light -->
+  <item id="63">
+    <ingredient id="13419" count="1"/>
+    <production id="10451" count="1"/>
+  </item>
+
+  <!-- Icarus Wingblade - Focus -->
+  <item id="64">
+    <ingredient id="13419" count="1"/>
+    <production id="10464" count="1"/>
+  </item>
+
+  <!-- Icarus Wingblade - Health -->
+  <item id="65">
+    <ingredient id="13419" count="1"/>
+    <production id="10465" count="1"/>
+  </item>
+
+  <!-- Icarus Wingblade - Light -->
+  <item id="66">
+    <ingredient id="13419" count="1"/>
+    <production id="10466" count="1"/>
+  </item>
+
+  <!-- Icarus Hall - Conversion -->
+  <item id="67">
+    <ingredient id="13419" count="1"/>
+    <production id="10456" count="1"/>
+  </item>
+
+  <!-- Icarus Disperser - Critical Damage -->
+  <item id="68">
+    <ingredient id="13419" count="1"/>
+    <production id="10448" count="1"/>
+  </item>
+
+  <!-- Icarus Disperser - Evasion -->
+  <item id="69">
+    <ingredient id="13419" count="1"/>
+    <production id="10447" count="1"/>
+  </item>
+
+  <!-- Icarus Disperser - Focus -->
+  <item id="70">
+    <ingredient id="13419" count="1"/>
+    <production id="10446" count="1"/>
+  </item>
+
+  <!-- Icarus Hall - Acumen -->
+  <item id="71">
+    <ingredient id="13419" count="1"/>
+    <production id="10457" count="1"/>
+  </item>
+
+  <!-- Icarus Hall - Mana Up -->
+  <item id="72">
+    <ingredient id="13419" count="1"/>
+    <production id="10455" count="1"/>
+  </item>
+
+  <!-- Icarus Dual Sword -->
+  <item id="73">
+    <ingredient id="13419" count="1"/>
+    <production id="10415" count="1"/>
+  </item>
+  
+    <!-- Icarus Dual Dager -->
+  <item id="73">
+    <ingredient id="13419" count="1"/>
+    <production id="13883" count="1"/>
+  </item>
+
+
+</list>

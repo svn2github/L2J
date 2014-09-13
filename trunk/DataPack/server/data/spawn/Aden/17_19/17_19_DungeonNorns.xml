@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "spawn.dtd">
+<!--Задумка спавна (c)Mangol,(c)KilRoy-->
+<list>		
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-79624" y="55755" z="-4952" h="49152" />
+		<npc id="32255" /><!--Icon of the Past-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-88066" y="55755" z="-4600" h="49152" />
+		<npc id="32256" /><!--Icon of the Present-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-88453" y="51531" z="-4503" h="49152" />
+		<npc id="32257" /><!--Icon of the Future-->
+	</spawn>
+</list>		

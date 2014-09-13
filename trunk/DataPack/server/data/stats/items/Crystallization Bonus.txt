@@ -1,0 +1,230 @@
+/================
+|  Оружее (в Боунд, резать все шансы на 3, кол заточек всегда 1)
+\================
+Р грейд:
+		<crystallization_bonus>
+			<!--Scroll: Enchant Weapon (R-grade)-->
+			<item id="17526" count="1" chance="31.50"/>
+			<!--Yellow Soul Crystal Fragment (R-grade)-->
+			<item id="19508" count="1" chance="6.0"/>
+			<!--Giant's Warsmith's Holder-->
+			<item id="19305" count="1" chance="100.0"/>
+		</crystallization_bonus>
+
+Р95 грейд:
+		<crystallization_bonus>
+			<!--Scroll: Enchant Weapon (R-grade)-->
+			<item id="17526" count="3" chance="44.71"/>
+			<!--Yellow Soul Crystal Fragment (R95-grade)-->
+			<item id="19511" count="1" chance="7.0"/>
+			<!--Ancient Warsmith's Holder-->
+			<item id="19514" count="1" chance="100.0"/>
+		</crystallization_bonus>
+
+Р99 грейд:
+		<crystallization_bonus>
+			<!--Scroll: Enchant Weapon (R-grade)-->
+			<item id="17526" count="3" chance="59.46"/>
+			<!--Yellow Soul Crystal Fragment (R99-grade)-->
+			<item id="19467" count="1" chance="8.0"/>
+			<!--Legendary Warsmith's Holder-->
+			<item id="19518" count="1" chance="100.0"/>
+		</crystallization_bonus>
+
+/================
+|  Доспехи (в Боунд, резать все шансы на 3, кол заточек всегда 1)
+\================
+Р грейд:
+	Верх доспехов:
+		<crystallization_bonus>
+			<!--Scroll: Enchant Weapon (R-grade)-->
+			<item id="17527" count="1" chance="100.0"/>
+			<!--Teal Soul Crystal Fragment (R-grade)-->
+			<item id="19509" count="1" chance="6.0"/>
+			<!--Giant's Arcsmith's Anvil-->
+			<item id="19307" count="1" chance="100.0"/>
+		</crystallization_bonus>
+	Низ доспехов:
+		<crystallization_bonus>
+			<!--Scroll: Enchant Weapon (R-grade)-->
+			<item id="17527" count="1" chance="100.0"/>
+			<!--Teal Soul Crystal Fragment (R-grade)-->
+			<item id="19509" count="1" chance="6.0"/>
+			<!--Giant's Arcsmith's Anvil-->
+			<item id="19307" count="1" chance="100.0"/>
+		</crystallization_bonus>
+	Шлем:
+		<crystallization_bonus>
+			<!--Scroll: Enchant Weapon (R-grade)-->
+			<item id="17527" count="1" chance="66.0"/>
+			<!--Purple Soul Crystal Fragment (R-grade)-->
+			<item id="19510" count="1" chance="6.0"/>
+			<!--Giant's Reorin's Mold-->
+			<item id="19306" count="1" chance="83.3"/>
+		</crystallization_bonus>
+	Перчатки:
+		<crystallization_bonus>
+			<!--Scroll: Enchant Weapon (R-grade)-->
+			<item id="17527" count="1" chance="44.0"/>
+			<!--Purple Soul Crystal Fragment (R-grade)-->
+			<item id="19510" count="1" chance="6.0"/>
+			<!--Giant's Reorin's Mold-->
+			<item id="19306" count="1" chance="83.3"/>
+		</crystallization_bonus>
+	Сапоги:
+		<crystallization_bonus>
+			<!--Scroll: Enchant Weapon (R-grade)-->
+			<item id="17527" count="1" chance="44.0"/>
+			<!--Purple Soul Crystal Fragment (R-grade)-->
+			<item id="19510" count="1" chance="6.0"/>
+			<!--Giant's Reorin's Mold-->
+			<item id="19306" count="1" chance="83.3"/>
+		</crystallization_bonus>
+	Щит / Символ:
+		<crystallization_bonus>
+			<!--Scroll: Enchant Weapon (R-grade)-->
+			<item id="17527" count="1" chance="46.20"/>
+			<!--Teal Soul Crystal Fragment (R-grade)-->
+			<item id="19509" count="1" chance="6.0"/>
+			<!--Giant's Reorin's Mold-->
+			<item id="19306" count="1" chance="87.54"/>
+		</crystallization_bonus>
+	Аксессуары:
+		<crystallization_bonus>
+			<!--Scroll: Enchant Weapon (R-grade)-->
+			<item id="17527" count="1" chance="45.80"/>
+			<!--Yellow Soul Crystal Fragment (R-grade)-->
+			<item id="19508" count="1" chance="6.0"/>
+			<!--Giant's Warsmith's Holder-->
+			<item id="19308" count="1" chance="100.0"/>
+		</crystallization_bonus>
+
+Р95 грейд:
+	Верх доспехов:
+		<crystallization_bonus>
+			<!--Scroll: Enchant Weapon (R-grade)-->
+			<item id="17527" count="3" chance="100.0"/>
+			<!--Teal Soul Crystal Fragment (R95-grade)-->
+			<item id="19512" count="1" chance="7.0"/>
+			<!--Ancient Arcsmith's Anvil-->
+			<item id="19516" count="1" chance="100.0"/>
+		</crystallization_bonus>
+	Низ доспехов:
+		<crystallization_bonus>
+			<!--Scroll: Enchant Weapon (R-grade)-->
+			<item id="17527" count="3" chance="100.0"/>
+			<!--Teal Soul Crystal Fragment (R95-grade)-->
+			<item id="19512" count="1" chance="7.0"/>
+			<!--Ancient Arcsmith's Anvil-->
+			<item id="19516" count="1" chance="100.0"/>
+		</crystallization_bonus>
+	Шлем:
+		<crystallization_bonus>
+			<!--Scroll: Enchant Weapon (R-grade)-->
+			<item id="17527" count="3" chance="84.0"/>
+			<!--Purple Soul Crystal Fragment (R95-grade)-->
+			<item id="19513" count="1" chance="7.0"/>
+			<!--Ancient Reorin's Mold-->
+			<item id="19515" count="1" chance="100.0"/>
+		</crystallization_bonus>
+	Перчатки:
+		<crystallization_bonus>
+			<!--Scroll: Enchant Weapon (R-grade)-->
+			<item id="17527" count="3" chance="67.0"/>
+			<!--Purple Soul Crystal Fragment (R95-grade)-->
+			<item id="19513" count="1" chance="7.0"/>
+			<!--Ancient Reorin's Mold-->
+			<item id="19515" count="1" chance="100.0"/>
+		</crystallization_bonus>
+	Сапоги:
+		<crystallization_bonus>
+			<!--Scroll: Enchant Weapon (R-grade)-->
+			<item id="17527" count="3" chance="67.0"/>
+			<!--Purple Soul Crystal Fragment (R95-grade)-->
+			<item id="19513" count="1" chance="7.0"/>
+			<!--Ancient Reorin's Mold-->
+			<item id="19515" count="1" chance="100.0"/>
+		</crystallization_bonus>
+	Щит / Символ:
+		<crystallization_bonus>
+			<!--Scroll: Enchant Weapon (R-grade)-->
+			<item id="17527" count="3" chance="61.0"/>
+			<!--Teal Soul Crystal Fragment (R95-grade)-->
+			<item id="19512" count="1" chance="7.0"/>
+			<!--Ancient Reorin's Mold-->
+			<item id="19515" count="1" chance="100.0"/>
+		</crystallization_bonus>
+	Аксессуары:
+		<crystallization_bonus>
+			<!--Scroll: Enchant Weapon (R-grade)-->
+			<item id="17527" count="3" chance="100.0"/>
+			<!--Yellow Soul Crystal Fragment (R95-grade)-->
+			<item id="19511" count="1" chance="7.0"/>
+			<!--Ancient Warsmith's Mold-->
+			<item id="19517" count="1" chance="100.0"/>
+		</crystallization_bonus>
+
+Р99 грейд:
+	Верх доспехов:
+		<crystallization_bonus>
+			<!--Scroll: Enchant Weapon (R-grade)-->
+			<item id="17527" count="5" chance="100.0"/>
+			<!--Teal Soul Crystal Fragment (R99-grade)-->
+			<item id="19468" count="1" chance="8.0"/>
+			<!--Legendary Arcsmith's Anvil-->
+			<item id="19520" count="1" chance="100.0"/>
+		</crystallization_bonus>
+	Низ доспехов:
+		<crystallization_bonus>
+			<!--Scroll: Enchant Weapon (R-grade)-->
+			<item id="17527" count="5" chance="100.0"/>
+			<!--Teal Soul Crystal Fragment (R99-grade)-->
+			<item id="19468" count="1" chance="8.0"/>
+			<!--Legendary Arcsmith's Anvil-->
+			<item id="19520" count="1" chance="100.0"/>
+		</crystallization_bonus>
+	Шлем:
+		<crystallization_bonus>
+			<!--Scroll: Enchant Weapon (R-grade)-->
+			<item id="17527" count="5" chance="87.0"/>
+			<!--Purple Soul Crystal Fragment (R99-grade)-->
+			<item id="19469" count="1" chance="8.0"/>
+			<!--Legendary Reorin's Mold-->
+			<item id="19519" count="1" chance="100.0"/>
+		</crystallization_bonus>
+	Перчатки:
+		<crystallization_bonus>
+			<!--Scroll: Enchant Weapon (R-grade)-->
+			<item id="17527" count="5" chance="87.0"/>
+			<!--Purple Soul Crystal Fragment (R99-grade)-->
+			<item id="19469" count="1" chance="8.0"/>
+			<!--Legendary Reorin's Mold-->
+			<item id="19519" count="1" chance="100.0"/>
+		</crystallization_bonus>
+	Сапоги:
+		<crystallization_bonus>
+			<!--Scroll: Enchant Weapon (R-grade)-->
+			<item id="17527" count="5" chance="87.0"/>
+			<!--Purple Soul Crystal Fragment (R99-grade)-->
+			<item id="19469" count="1" chance="8.0"/>
+			<!--Legendary Reorin's Mold-->
+			<item id="19519" count="1" chance="100.0"/>
+		</crystallization_bonus>
+	Щит / Символ:
+		<crystallization_bonus>
+			<!--Scroll: Enchant Weapon (R-grade)-->
+			<item id="17527" count="5" chance="83.0"/>
+			<!--Teal Soul Crystal Fragment (R99-grade)-->
+			<item id="19468" count="1" chance="8.0"/>
+			<!--Legendary Reorin's Mold-->
+			<item id="19519" count="1" chance="100.0"/>
+		</crystallization_bonus>
+	Аксессуары:
+		<crystallization_bonus>
+			<!--Scroll: Enchant Weapon (R-grade)-->
+			<item id="17527" count="5" chance="100.0"/>
+			<!--Yellow Soul Crystal Fragment (R99-grade)-->
+			<item id="19467" count="1" chance="8.0"/>
+			<!--Legendary Warsmith's Mold-->
+			<item id="19521" count="1" chance="100.0"/>
+		</crystallization_bonus>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "item.dtd">
+<list>
+<etcitem id="36414" name="Когти Дракона">
+        <set name="class" value="OTHER"/>
+        <set name="crystal_type" value="NONE"/>
+        <set name="stackable" value="true"/>
+        <set name="type" value="OTHER"/>
+</etcitem>
+<etcitem id="36400" name="Песочные Часы Невитта - 1 час">
+	<!-- Витаминный предмет Песочные часы, при использовании которых в течение 1 часа бонус очков опыта +50%. Использование возможно независимо от уровня. Нельзя обменять/выбросить/продать в личной торговой лавке. Можно передавать между персонажами одного аккаунта с помощью Менеджера Витаминов. Можно положить в личное хранилище. -->
+        <set name="class" value="OTHER"/>
+        <set name="crystal_type" value="NONE"/>
+        <set name="stackable" value="true"/>
+        <set name="type" value="OTHER"/>
+</etcitem>
+<etcitem id="36401" name="Мешок Удачи	Ивент">
+	<!-- Щелкните дважды по предмету, чтобы получить 2 Свитка Пылающей Страсти и Звездную Конфету Всплеска Энергии. Нельзя обменять/выбросить. Можно положить в личное хранилище. -->
+        <set name="class" value="OTHER"/>
+        <set name="crystal_type" value="NONE"/>
+        <set name="stackable" value="true"/>
+        <set name="type" value="OTHER"/>
+</etcitem>
+<etcitem id="36402" name="Мешок Удачи Высокого Уровня	Ивент">
+	<!-- Щелкните дважды по предмету, чтобы получить 6 Свитков Пылающей Страсти, 2 Звездные Конфеты Всплеска Энергии, Благословенное Перо 2 шт, Небесный Коктейль 2 шт, Элитный Камень: Модифицировать Доспех (R) 1шт. Нельзя обменять/выбросить. Можно положить в личное хранилище. -->
+        <set name="class" value="OTHER"/>
+        <set name="crystal_type" value="NONE"/>
+        <set name="stackable" value="true"/>
+        <set name="type" value="OTHER"/>
+</etcitem>
+<etcitem id="36403" name="Мешок Удачи Наивысшего Уровня	Ивент">
+	<!-- Щелкните дважды по предмету, чтобы получить Свиток Пылающей Страсти 12шт, Звездные Конфеты Всплеска Энергии 2 шт, Благословенное Перо 3 шт, Небесный Коктейль 2 шт, Энергию Разрушения 2 шт, Сундук Редких Аксессуаров (временный). Если Вы удачливы, то можно так же дополнительно получить Сундук Редких Аксессуаров (постоянный), Сундук с Оружием (R99), Сундук со Свитком Снятия Оков. Нельзя обменять/выбросить. Можно положить в личное хранилище. -->
+        <set name="class" value="OTHER"/>
+        <set name="crystal_type" value="NONE"/>
+        <set name="stackable" value="true"/>
+        <set name="type" value="OTHER"/>
+</etcitem>
+<etcitem id="36404" name="Свиток Жаркой Страсти	Ивент">
+	<!-- При использовании бонус очков опыта и SP +30%. Нельзя обменять/выбросить. Можно положить в личное хранилище. -->
+        <set name="class" value="OTHER"/>
+        <set name="crystal_type" value="NONE"/>
+        <set name="stackable" value="true"/>
+        <set name="type" value="OTHER"/>
+</etcitem>
+<etcitem id="36405" name="Сундук Редких Аксессуаров (временный)	Ивент">
+	<!-- Щелкните дважды по предмету, чтобы получить Благословенные Серьги Антараса (14 дней), Благословенное Ожерелье Валакаса, Кольцо Таути, Кольцо Земляного Червя. Нельзя обменять/выбросить. Можно положить в личное хранилище. -->
+        <set name="class" value="OTHER"/>
+        <set name="crystal_type" value="NONE"/>
+        <set name="stackable" value="true"/>
+        <set name="type" value="OTHER"/>
+</etcitem>
+<etcitem id="36406" name="Сундук Редких Аксессуаров (постоянный)	Ивент">
+	<!-- Щелкните дважды по предмету, чтобы получить один из предметов - Благословенные Серьги Антараса (14 дней), Благословенное Ожерелье Валакаса, Кольцо Таути, Кольцо Земляного Червя. -->
+        <set name="class" value="OTHER"/>
+        <set name="crystal_type" value="NONE"/>
+        <set name="stackable" value="true"/>
+        <set name="type" value="OTHER"/>
+</etcitem>
+<etcitem id="36407" name="Сундук Оружия - Ранг R99 	Ивент">
+	<!-- Щелкните дважды по предмету, чтобы получить один из видов Неопознанного Оружия Хелиоса. -->
+        <set name="class" value="OTHER"/>
+        <set name="crystal_type" value="NONE"/>
+        <set name="stackable" value="true"/>
+        <set name="type" value="OTHER"/>
+</etcitem>
+<etcitem id="36408" name="Свиток Снятия Оков	Ивент">
+	<!-- Щелкните дважды по предмету, чтобы получить один из Свитков Снятия Оков Оружия/Доспехов Ранга R/R95/R99. -->
+        <set name="class" value="OTHER"/>
+        <set name="crystal_type" value="NONE"/>
+        <set name="stackable" value="true"/>
+        <set name="type" value="OTHER"/>
+</etcitem>
+<etcitem id="36414" name="Когти Дракона">
+	<!-- Материал для изготовления Оружия Дракона. -->
+        <set name="class" value="OTHER"/>
+        <set name="crystal_type" value="NONE"/>
+        <set name="stackable" value="true"/>
+        <set name="type" value="OTHER"/>
+</etcitem>
+<etcitem id="36415" name="Кровь Дракона">
+	<!-- Предмет, расходуемый при использовании умения Оружие Дракона. -->
+        <set name="class" value="OTHER"/>
+        <set name="crystal_type" value="NONE"/>
+        <set name="stackable" value="true"/>
+        <set name="type" value="OTHER"/>
+</etcitem>
+<etcitem id="36416" name="Зубы Дракона">
+	<!-- Предмет, расходуемый при использовании умения Оружие Дракона. -->
+        <set name="class" value="OTHER"/>
+        <set name="crystal_type" value="NONE"/>
+        <set name="stackable" value="true"/>
+        <set name="type" value="OTHER"/>
+</etcitem>
+</list>

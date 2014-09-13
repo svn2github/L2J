@@ -1,0 +1,2014 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<config showall="false" notax="true" keepenchanted="true" isnew="true"/>
+	<item>
+		<!-- Большой Меч - Гром -->
+		<ingredient id="10870" count="1" />
+		<!-- Большой Меч -->
+		<production id="78" count="1" />
+	</item>
+	<item>
+		<!-- Двуручный Топор - Молния -->
+		<ingredient id="10874" count="1" />
+		<!-- Двуручный Топор -->
+		<production id="300" count="1" />
+	</item>
+	<item>
+		<!-- Безымянная Победа - Гром -->
+		<ingredient id="10882" count="1" />
+		<!-- Безымянная Победа -->
+		<production id="9308" count="1" />
+	</item>
+	<item>
+		<!-- Длинный Лук Темных Эльфов - Концентрация -->
+		<ingredient id="10886" count="1" />
+		<!-- Длинный Лук Темных Эльфов -->
+		<production id="284" count="1" />
+	</item>
+	<item>
+		<!-- Меч Вальхаллы - Природа -->
+		<ingredient id="10893" count="1" />
+		<!-- Меч Вальхаллы -->
+		<production id="148" count="1" />
+	</item>
+	<item>
+		<!-- Рассеиватель Заклинаний - Град -->
+		<ingredient id="10898" count="1" />
+		<!-- Рассеиватель Заклинания -->
+		<production id="7892" count="1" />
+	</item>
+	<item>
+		<!-- Коготь Артро - Разрушение -->
+		<ingredient id="10902" count="1" />
+		<!-- Коготь Артро -->
+		<production id="267" count="1" />
+	</item>
+	<item>
+		<!-- Молот Ледяной Бури - Гром -->
+		<ingredient id="10906" count="1" />
+		<!-- Молот Ледяной Бури -->
+		<production id="7900" count="1" />
+	</item>
+	<item>
+		<!-- Боевая Рапира - Разрушение -->
+		<ingredient id="10912" count="1" />
+		<!-- Боевая Рапира -->
+		<production id="9304" count="1" />
+	</item>
+	<item>
+		<!-- Посох Духа - Град -->
+		<ingredient id="10916" count="1" />
+		<!-- Посох Духа -->
+		<production id="92" count="1" />
+	</item>
+	<item>
+		<!-- Крис - Замешательство -->
+		<ingredient id="10926" count="1" />
+		<!-- Крис -->
+		<production id="229" count="1" />
+	</item>
+	<item>
+		<!-- Кешанберк - Разрушение -->
+		<ingredient id="10930" count="1" />
+		<!-- Кешанберк -->
+		<production id="142" count="1" />
+	</item>
+	<item>
+		<!-- Миротворец - Концентрация -->
+		<ingredient id="10934" count="1" />
+		<!-- Миротворец -->
+		<production id="9312" count="1" />
+	</item>
+	<item>
+		<!-- Тяжелый Топор Войны - Земля -->
+		<ingredient id="10938" count="1" />
+		<!-- Тяжелый Топор Войны -->
+		<production id="91" count="1" />
+	</item>
+	<item>
+		<!-- Нож Ада - Замешательство -->
+		<ingredient id="10942" count="1" />
+		<!-- Нож Ада -->
+		<production id="243" count="1" />
+	</item>
+	<item>
+		<!-- Меч Стража - Великая Буря -->
+		<ingredient id="10955" count="1" />
+		<!-- Меч Стража -->
+		<production id="7883" count="1" />
+	</item>
+	<item>
+		<!-- Дамаскус - Земля -->
+		<ingredient id="10959" count="1" />
+		<!-- Дамаскус -->
+		<production id="79" count="1" />
+	</item>
+	<item>
+		<!-- Расчленитель - Великая Буря -->
+		<ingredient id="10963" count="1" />
+		<!-- Расчленитель -->
+		<production id="9320" count="1" />
+	</item>
+	<item>
+		<!-- Пика - Земля -->
+		<ingredient id="10967" count="1" />
+		<!-- Пика -->
+		<production id="97" count="1" />
+	</item>
+	<item>
+		<!-- Цестус Беллиона - Великая Буря -->
+		<ingredient id="10971" count="1" />
+		<!-- Цестус Беллиона -->
+		<production id="268" count="1" />
+	</item>
+	<item>
+		<!-- Посох Злых Духов - Святой Дух -->
+		<ingredient id="10975" count="1" />
+		<!-- Посох Злых Духов -->
+		<production id="210" count="1" />
+	</item>
+	<item>
+		<!-- Топор Мертвеца - Оползень -->
+		<ingredient id="10979" count="1" />
+		<!-- Топор Мертвеца -->
+		<production id="171" count="1" />
+	</item>
+	<item>
+		<!-- Звезда Боли - Великая Буря -->
+		<ingredient id="10983" count="1" />
+		<!-- Звезда Боли -->
+		<production id="7901" count="1" />
+	</item>
+	<item>
+		<!-- Топор Искусства Войны - Оползень -->
+		<ingredient id="10988" count="1" />
+		<!-- Топор Искусства Войны -->
+		<production id="175" count="1" />
+	</item>
+	<item>
+		<!-- Кинжал Демона - Великая Буря -->
+		<ingredient id="10992" count="1" />
+		<!-- Кинжал Демона -->
+		<production id="234" count="1" />
+	</item>
+	<item>
+		<!-- Кости Каим Ванула - Земля -->
+		<ingredient id="10997" count="1" />
+		<!-- Кости Каим Ванула -->
+		<production id="7893" count="1" />
+	</item>
+	<item>
+		<!-- Колишмард - Земля -->
+		<ingredient id="11001" count="1" />
+		<!-- Колишмард -->
+		<production id="9316" count="1" />
+	</item>
+	<item>
+		<!-- Слезы Чародея - Одаренность -->
+		<ingredient id="11005" count="1" />
+		<!-- Слезы Чародея -->
+		<production id="7889" count="1" />
+	</item>
+	<item>
+		<!-- Лук Угрозы - Земля -->
+		<ingredient id="11009" count="1" />
+		<!-- Лук Угрозы -->
+		<production id="287" count="1" />
+	</item>
+	<item>
+		<!-- Цербер - Земля -->
+		<ingredient id="11013" count="1" />
+		<!-- Цербер -->
+		<production id="9324" count="1" />
+	</item>
+	<item>
+		<!-- Посох Даспариона - Град -->
+		<ingredient id="11017" count="1" />
+		<!-- Посох Даспариона -->
+		<production id="212" count="1" />
+	</item>
+	<item>
+		<!-- Певец Судьбы - Концентрация -->
+		<ingredient id="11021" count="1" />
+		<!-- Певец Судьбы -->
+		<production id="9336" count="1" />
+	</item>
+	<item>
+		<!-- Белая Молния - Разрушение -->
+		<ingredient id="11025" count="1" />
+		<!-- Белая Молния -->
+		<production id="9328" count="1" />
+	</item>
+	<item>
+		<!-- Метеоритный Дождь - Земля -->
+		<ingredient id="11029" count="1" />
+		<!-- Метеоритный Дождь -->
+		<production id="2504" count="1" />
+	</item>
+	<item>
+		<!-- Кровавый Торнадо - Разрушение -->
+		<ingredient id="11033" count="1" />
+		<!-- Кровавый Торнадо -->
+		<production id="269" count="1" />
+	</item>
+	<item>
+		<!-- Кровавая Орхидея - Замешательство -->
+		<ingredient id="11037" count="1" />
+		<!-- Кровавая Орхидея -->
+		<production id="235" count="1" />
+	</item>
+	<item>
+		<!-- Меч Стихий - Град -->
+		<ingredient id="11041" count="1" />
+		<!-- Меч Стихий -->
+		<production id="150" count="1" />
+	</item>
+	<item>
+		<!-- Глаз Духа - Град -->
+		<ingredient id="11045" count="1" />
+		<!-- Глаз Духа -->
+		<production id="7894" count="1" />
+	</item>
+	<item>
+		<!-- Мастер Инферно - Концентрация -->
+		<ingredient id="11049" count="1" />
+		<!-- Мастер Инферно -->
+		<production id="7884" count="1" />
+	</item>
+	<item>
+		<!-- Кровавый Лук - Концентрация -->
+		<ingredient id="11053" count="1" />
+		<!-- Кровавый Лук -->
+		<production id="288" count="1" />
+	</item>
+	<item>
+		<!-- Клинок Таллума - Разрушение -->
+		<ingredient id="11058" count="1" />
+		<!-- Клинок Таллума -->
+		<production id="80" count="1" />
+	</item>
+	<item>
+		<!-- Молот Разрушителя - Гром -->
+		<ingredient id="11062" count="1" />
+		<!-- Молот Разрушителя -->
+		<production id="7899" count="1" />
+	</item>
+	<item>
+		<!-- Священная Боль - Концентрация -->
+		<ingredient id="11066" count="1" />
+		<!-- Священная Боль -->
+		<production id="9332" count="1" />
+	</item>
+	<item>
+		<!-- Алебарда - Гром -->
+		<ingredient id="11070" count="1" />
+		<!-- Алебарда -->
+		<production id="98" count="1" />
+	</item>
+	<item>
+		<!-- Протыкатель - Молния -->
+		<ingredient id="11075" count="1" />
+		<!-- Протыкатель -->
+		<production id="9340" count="1" />
+	</item>
+	<item>
+		<!-- Темный Легион - Молния -->
+		<ingredient id="11080" count="1" />
+		<!-- Темный Легион -->
+		<production id="2500" count="1" />
+	</item>
+	<item>
+		<!-- Гробовщик - Злой Дух -->
+		<ingredient id="11084" count="1" />
+		<!-- Гробовщик -->
+		<production id="9344" count="1" />
+	</item>
+	<item>
+		<!-- Крушитель Рока - Молния -->
+		<ingredient id="11088" count="1" />
+		<!-- Крушитель Рока -->
+		<production id="7902" count="1" />
+	</item>
+	<item>
+		<!-- Погибель Дракона - Земля -->
+		<ingredient id="11092" count="1" />
+		<!-- Погибель Дракона -->
+		<production id="270" count="1" />
+	</item>
+	<item>
+		<!-- Убийца Драконов - Злой Дух -->
+		<ingredient id="11096" count="1" />
+		<!-- Убийца Драконов -->
+		<production id="81" count="1" />
+	</item>
+	<item>
+		<!-- Пылающий Череп Дракона - Мудрость -->
+		<ingredient id="11100" count="1" />
+		<!-- Пылающий Череп Дракона -->
+		<production id="7895" count="1" />
+	</item>
+	<item>
+		<!-- Ветвь Древа Жизни - Природа -->
+		<ingredient id="11104" count="1" />
+		<!-- Ветвь Древа Жизни -->
+		<production id="213" count="1" />
+	</item>
+	<item>
+		<!-- Легендарный Меч - Святой Дух -->
+		<ingredient id="11108" count="1" />
+		<!-- Легендарный Меч -->
+		<production id="151" count="1" />
+	</item>
+	<item>
+		<!-- Жнец - Ясновидение -->
+		<ingredient id="11112" count="1" />
+		<!-- Жнец -->
+		<production id="9348" count="1" />
+	</item>
+	<item>
+		<!-- Душегуб - Пожар -->
+		<ingredient id="11116" count="1" />
+		<!-- Душегуб -->
+		<production id="236" count="1" />
+	</item>
+	<item>
+		<!-- Элизиум - Великая Буря -->
+		<ingredient id="11120" count="1" />
+		<!-- Элизиум -->
+		<production id="164" count="1" />
+	</item>
+	<item>
+		<!-- Пронзатель Душ - Ясновидение -->
+		<ingredient id="11124" count="1" />
+		<!-- Пронзатель Душ -->
+		<production id="289" count="1" />
+	</item>
+	<item>
+		<!-- Глефа Таллума - Пожар -->
+		<ingredient id="11128" count="1" />
+		<!-- Глефа Таллума -->
+		<production id="305" count="1" />
+	</item>
+	<item>
+		<!-- Буря Наги - Зуб -->
+		<ingredient id="11133" count="1" />
+		<!-- Буря Наги -->
+		<production id="8682" count="1" />
+	</item>
+	<item>
+		<!-- Кристалл Дэймона - Мудрость -->
+		<ingredient id="11137" count="1" />
+		<!-- Кристалл Дэймона -->
+		<production id="8688" count="1" />
+	</item>
+	<item>
+		<!-- Топор Баракиэля - Пожар -->
+		<ingredient id="11141" count="1" />
+		<!-- Топор Баракиэля -->
+		<production id="8680" count="1" />
+	</item>
+	<item>
+		<!-- Песня Мести - Концентрация -->
+		<ingredient id="11145" count="1" />
+		<!-- Песня Мести -->
+		<production id="9360" count="1" />
+	</item>
+	<item>
+		<!-- Трезубец Чудовища - Разрушение -->
+		<ingredient id="11149" count="1" />
+		<!-- Трезубец Чудовища -->
+		<production id="8681" count="1" />
+	</item>
+	<item>
+		<!-- Балтганг - Земля -->
+		<ingredient id="11153" count="1" />
+		<!-- Балтганг -->
+		<production id="9356" count="1" />
+	</item>
+	<item>
+		<!-- Лук Шиид - Концентрация -->
+		<ingredient id="11157" count="1" />
+		<!-- Лук Шиид -->
+		<production id="8684" count="1" />
+	</item>
+	<item>
+		<!-- Меч Ипоса - Земля -->
+		<ingredient id="11161" count="1" />
+		<!-- Меч Ипоса -->
+		<production id="8679" count="1" />
+	</item>
+	<item>
+		<!-- Ураган Собекка - Оползень -->
+		<ingredient id="11165" count="1" />
+		<!-- Ураган Собекка -->
+		<production id="8685" count="1" />
+	</item>
+	<item>
+		<!-- Клинок Сирры - Оползень -->
+		<ingredient id="11169" count="1" />
+		<!-- Клинок Сирры -->
+		<production id="8678" count="1" />
+	</item>
+	<item>
+		<!-- Гравированная Рапира - Оползень -->
+		<ingredient id="11173" count="1" />
+		<!-- Гравированная Рапира -->
+		<production id="9352" count="1" />
+	</item>
+	<item>
+		<!-- Копье Тифона - Оползень -->
+		<ingredient id="11177" count="1" />
+		<!-- Копье Тифона -->
+		<production id="8683" count="1" />
+	</item>
+	<item>
+		<!-- Язык Темиса - Одаренность -->
+		<ingredient id="11182" count="1" />
+		<!-- Язык Темиса -->
+		<production id="8686" count="1" />
+	</item>
+	<item>
+		<!-- Рука Кабрио - Одаренность -->
+		<ingredient id="11186" count="1" />
+		<!-- Рука Кабрио -->
+		<production id="8687" count="1" />
+	</item>
+	<item>
+		<!-- Грам - Молния -->
+		<ingredient id="11190" count="1" />
+		<!-- Грам -->
+		<production id="9368" count="1" />
+	</item>
+	<item>
+		<!-- Демон Одиночка - Молния -->
+		<ingredient id="11194" count="1" />
+		<!-- Демон Одиночка -->
+		<production id="6371" count="1" />
+	</item>
+	<item>
+		<!-- Лук Дракона - Земля -->
+		<ingredient id="11198" count="1" />
+		<!-- Лук Дракона -->
+		<production id="7575" count="1" />
+	</item>
+	<item>
+		<!-- Топор Охотника на Драконов - Молния -->
+		<ingredient id="11202" count="1" />
+		<!-- Топор Охотника на Драконов -->
+		<production id="6369" count="1" />
+	</item>
+	<item>
+		<!-- Леветайн - Гром -->
+		<ingredient id="11206" count="1" />
+		<!-- Леветайн -->
+		<production id="9364" count="1" />
+	</item>
+	<item>
+		<!-- Базальтовый Боевой Молот - Концентрация -->
+		<ingredient id="11210" count="1" />
+		<!-- Базальтовый Боевой Молот -->
+		<production id="6365" count="1" />
+	</item>
+	<item>
+		<!-- Шарнга - Земля -->
+		<ingredient id="11214" count="1" />
+		<!-- Шарнга -->
+		<production id="9372" count="1" />
+	</item>
+	<item>
+		<!-- Святое Копье - Разрушение -->
+		<ingredient id="11218" count="1" />
+		<!-- Святое Копье -->
+		<production id="6370" count="1" />
+	</item>
+	<item>
+		<!-- Посох Тайн - Природа -->
+		<ingredient id="11222" count="1" />
+		<!-- Посох Тайн -->
+		<production id="6579" count="1" />
+	</item>
+	<item>
+		<!-- Убийца Ангелов - Концентрация -->
+		<ingredient id="11226" count="1" />
+		<!-- Убийца Ангелов -->
+		<production id="6367" count="1" />
+	</item>
+	<item>
+		<!-- Имперский Посох - Природа -->
+		<ingredient id="11230" count="1" />
+		<!-- Имперский Посох -->
+		<production id="6366" count="1" />
+	</item>
+	<item>
+		<!-- Забытый Клинок - Гром -->
+		<ingredient id="11235" count="1" />
+		<!-- Забытый Клинок -->
+		<production id="6364" count="1" />
+	</item>
+	<item>
+		<!-- Разделитель Небес - Молния -->
+		<ingredient id="11239" count="1" />
+		<!-- Разделитель Небес -->
+		<production id="6372" count="1" />
+	</item>
+	<item>
+		<!-- Древний Меч Династии - Великая Буря -->
+		<ingredient id="11243" count="1" />
+		<!-- Древний Меч Династии -->
+		<production id="9380" count="1" />
+	</item>
+	<item>
+		<!-- Нож Династии - Великая Буря -->
+		<ingredient id="11247" count="1" />
+		<!-- Нож Династии -->
+		<production id="9446" count="1" />
+	</item>
+	<item>
+		<!-- Рапира Династии - Земля -->
+		<ingredient id="11252" count="1" />
+		<!-- Рапира Династии -->
+		<production id="9376" count="1" />
+	</item>
+	<item>
+		<!-- Булава Династии - Земля -->
+		<ingredient id="11256" count="1" />
+		<!-- Булава Династии -->
+		<production id="9449" count="1" />
+	</item>
+	<item>
+		<!-- Коготь Тигра Династии - Великая Буря -->
+		<ingredient id="11260" count="1" />
+		<!-- Коготь Тигра Династии -->
+		<production id="9450" count="1" />
+	</item>
+	<item>
+		<!-- Лук Династии - Великая Буря -->
+		<ingredient id="11264" count="1" />
+		<!-- Лук Династии -->
+		<production id="9445" count="1" />
+	</item>
+	<item>
+		<!-- Клинок Династии - Великая Буря -->
+		<ingredient id="11268" count="1" />
+		<!-- Клинок Династии -->
+		<production id="9443" count="1" />
+	</item>
+	<item>
+		<!-- Меч Династии - Земля -->
+		<ingredient id="11272" count="1" />
+		<!-- Меч Династии -->
+		<production id="9442" count="1" />
+	</item>
+	<item>
+		<!-- Посох Династии - Святой Дух -->
+		<ingredient id="11276" count="1" />
+		<!-- Посох Династии -->
+		<production id="10252" count="1" />
+	</item>
+	<item>
+		<!-- Дубина Династии - Оползень -->
+		<ingredient id="11280" count="1" />
+		<!-- Дубина Династии -->
+		<production id="9448" count="1" />
+	</item>
+	<item>
+		<!-- Крушитель Династии - Великая Буря -->
+		<ingredient id="11284" count="1" />
+		<!-- Крушитель Династии -->
+		<production id="10253" count="1" />
+	</item>
+	<item>
+		<!-- Арбалет Династии - Великая Буря -->
+		<ingredient id="11288" count="1" />
+		<!-- Арбалет Династии -->
+		<production id="9384" count="1" />
+	</item>
+	<item>
+		<!-- Фантом Династии - Природа -->
+		<ingredient id="11292" count="1" />
+		<!-- Фантом Династии -->
+		<production id="9444" count="1" />
+	</item>
+	<item>
+		<!-- Алебарда Династии - Земля -->
+		<ingredient id="11296" count="1" />
+		<!-- Алебарда Династии -->
+		<production id="9447" count="1" />
+	</item>
+	<item>
+		<!-- Распылитель Икара - Замешательство -->
+		<ingredient id="11301" count="1" />
+		<!-- Распылитель Икара -->
+		<production id="10216" count="1" />
+	</item>
+	<item>
+		<!-- Зазубренный Меч Икара - Разрушение -->
+		<ingredient id="11305" count="1" />
+		<!-- Зазубренный Меч Икара -->
+		<production id="10215" count="1" />
+	</item>
+	<item>
+		<!-- Арбалет Икара - Концентрация -->
+		<ingredient id="11309" count="1" />
+		<!-- Арбалет Икара -->
+		<production id="10226" count="1" />
+	</item>
+	<item>
+		<!-- Жало Икара - Разрушение -->
+		<ingredient id="11313" count="1" />
+		<!-- Жало Икара -->
+		<production id="10224" count="1" />
+	</item>
+	<item>
+		<!-- Дух Икара - Природа -->
+		<ingredient id="11317" count="1" />
+		<!-- Дух Икара -->
+		<production id="10217" count="1" />
+	</item>
+	<item>
+		<!-- Лук Икара - Концентрация -->
+		<ingredient id="11321" count="1" />
+		<!-- Лук Икара -->
+		<production id="10223" count="1" />
+	</item>
+	<item>
+		<!-- Крылатый Клинок Икара - Гром -->
+		<ingredient id="11325" count="1" />
+		<!-- Крылатый Клинок Икара -->
+		<production id="10225" count="1" />
+	</item>
+	<item>
+		<!-- Трезубец Икара - Молния -->
+		<ingredient id="11329" count="1" />
+		<!-- Трезубец Икара -->
+		<production id="10219" count="1" />
+	</item>
+	<item>
+		<!-- Молот Икара - Земля -->
+		<ingredient id="11333" count="1" />
+		<!-- Молот Икара -->
+		<production id="10220" count="1" />
+	</item>
+	<item>
+		<!-- Рука Икара - Разрушение -->
+		<ingredient id="11337" count="1" />
+		<!-- Рука Икара -->
+		<production id="10221" count="1" />
+	</item>
+	<item>
+		<!-- Тяжелые Руки Икара - Гром -->
+		<ingredient id="11341" count="1" />
+		<!-- Тяжелые Руки Икара -->
+		<production id="10218" count="1" />
+	</item>
+	<item>
+		<!-- Холл Икара - Град -->
+		<ingredient id="11345" count="1" />
+		<!-- Холл Икара -->
+		<production id="10222" count="1" />
+	</item>
+	<item>
+		<!-- Резак Венеры - Гром -->
+		<ingredient id="16042" count="1" />
+		<!-- Резак Венеры -->
+		<production id="13457" count="1" />
+	</item>
+	<item>
+		<!-- Эспадон Венеры - Великая Буря -->
+		<ingredient id="16043" count="1" />
+		<!-- Эспадон Венеры -->
+		<production id="13458" count="1" />
+	</item>
+	<item>
+		<!-- Расчленитель Венеры - Одаренность -->
+		<ingredient id="16044" count="1" />
+		<!-- Расчленитель Венеры -->
+		<production id="13459" count="1" />
+	</item>
+	<item>
+		<!-- Острие Венеры - Великая Буря -->
+		<ingredient id="16045" count="1" />
+		<!-- Острие Венеры -->
+		<production id="13460" count="1" />
+	</item>
+	<item>
+		<!-- Воитель Венеры - Великая Буря -->
+		<ingredient id="16046" count="1" />
+		<!-- Воитель Венеры -->
+		<production id="13461" count="1" />
+	</item>
+	<item>
+		<!-- Буревестник Венеры - Гром -->
+		<ingredient id="16047" count="1" />
+		<!-- Буревестник Венеры -->
+		<production id="13462" count="1" />
+	</item>
+	<item>
+		<!-- Мститель Венеры - Оползень -->
+		<ingredient id="16048" count="1" />
+		<!-- Мститель Венеры -->
+		<production id="13463" count="1" />
+	</item>
+	<item>
+		<!-- Возмездие Венеры - Великая Буря -->
+		<ingredient id="16049" count="1" />
+		<!-- Возмездие Венеры -->
+		<production id="13464" count="1" />
+	</item>
+	<item>
+		<!-- Заклинатель Венеры - Одаренность -->
+		<ingredient id="16050" count="1" />
+		<!-- Заклинатель Венеры -->
+		<production id="13465" count="1" />
+	</item>
+	<item>
+		<!-- Певец Венеры - Град -->
+		<ingredient id="16051" count="1" />
+		<!-- Певец Венеры -->
+		<production id="13466" count="1" />
+	</item>
+	<item>
+		<!-- Бросок Венеры - Ясновидение -->
+		<ingredient id="16052" count="1" />
+		<!-- Бросок Венеры -->
+		<production id="13467" count="1" />
+	</item>
+	<item>
+		<!-- Клещи Венеры - Гром -->
+		<ingredient id="16053" count="1" />
+		<!-- Клещи Венеры -->
+		<production id="13468" count="1" />
+	</item>
+	<item>
+		<!-- Страж Венеры - Ясновидение -->
+		<ingredient id="16054" count="1" />
+		<!-- Страж Венеры -->
+		<production id="13469" count="1" />
+	</item>
+	<item>
+		<!-- Оскал Венеры - Великая Буря -->
+		<ingredient id="16055" count="1" />
+		<!-- Оскал Венеры -->
+		<production id="13470" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Рукавицы Зубея -->
+		<ingredient id="11349" count="1" />
+		<!-- Запечатанные Рукавицы Зубея -->
+		<production id="612" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Сапоги Зубея -->
+		<ingredient id="11350" count="1" />
+		<!-- Запечатанные Сапоги Зубея -->
+		<production id="554" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Перчатки Авадона -->
+		<ingredient id="11351" count="1" />
+		<!-- Запечатанные Перчатки Авадона -->
+		<production id="2464" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Сапоги Авадона -->
+		<ingredient id="11352" count="1" />
+		<!-- Запечатанные Сапоги Авадона -->
+		<production id="600" count="1" />
+	</item>
+	<item>
+		<!-- Кожаные Набедренники Зубея  -->
+		<ingredient id="11353" count="1" />
+		<!-- Кожаные Набедренники Зубея -->
+		<production id="2388" count="1" />
+	</item>
+	<item>
+		<!-- Кожаная Рубаха Зубея -->
+		<ingredient id="11354" count="1" />
+		<!-- Кожаная Рубаха Зубея -->
+		<production id="2384" count="1" />
+	</item>
+	<item>
+		<!-- Набедренники Зубея -->
+		<ingredient id="11355" count="1" />
+		<!-- Набедренники Зубея -->
+		<production id="383" count="1" />
+	</item>
+	<item>
+		<!-- Щит Зубея -->
+		<ingredient id="11362" count="1" />
+		<!-- Щит Зубея -->
+		<production id="633" count="1" />
+	</item>
+	<item>
+		<!-- Кираса Зубея -->
+		<ingredient id="11364" count="1" />
+		<!-- Кираса Зубея -->
+		<production id="357" count="1" />
+	</item>
+	<item>
+		<!-- Кожаный Доспех Авадона -->
+		<ingredient id="11368" count="1" />
+		<!-- Кожаный Доспех Авадона -->
+		<production id="2390" count="1" />
+	</item>
+	<item>
+		<!-- Мантия Авадона -->
+		<ingredient id="11369" count="1" />
+		<!-- Мантия Авадона -->
+		<production id="2406" count="1" />
+	</item>
+	<item>
+		<!-- Щит Авадона -->
+		<ingredient id="11374" count="1" />
+		<!-- Щит Авадона -->
+		<production id="673" count="1" />
+	</item>
+	<item>
+		<!-- Набедренники Авадона -->
+		<ingredient id="11375" count="1" />
+		<!-- Набедренники Авадона -->
+		<production id="2379" count="1" />
+	</item>
+	<item>
+		<!-- Кираса Авадона -->
+		<ingredient id="11376" count="1" />
+		<!-- Кираса Авадона -->
+		<production id="2376" count="1" />
+	</item>
+	<item>
+		<!-- Туника Зубея -->
+		<ingredient id="11377" count="1" />
+		<!-- Туника Зубея -->
+		<production id="2397" count="1" />
+	</item>
+	<item>
+		<!-- Штаны Зубея -->
+		<ingredient id="11378" count="1" />
+		<!-- Штаны Зубея -->
+		<production id="2402" count="1" />
+	</item>
+	<item>
+		<!-- Щит Рока -->
+		<ingredient id="11385" count="1" />
+		<!-- Щит Рока -->
+		<production id="110" count="1" />
+	</item>
+	<item>
+		<!-- Латный Доспех Рока -->
+		<ingredient id="11386" count="1" />
+		<!-- Латный Доспех Рока -->
+		<production id="2381" count="1" />
+	</item>
+	<item>
+		<!-- Кожаный Доспех Рока -->
+		<ingredient id="11388" count="1" />
+		<!-- Кожаный Доспех Рока -->
+		<production id="2392" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Перчатки Рока -->
+		<ingredient id="11389" count="1" />
+		<!-- Запечатанные Перчатки Рока -->
+		<production id="2475" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Сапоги Рока -->
+		<ingredient id="11390" count="1" />
+		<!-- Запечатанные Сапоги Рока -->
+		<production id="601" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Сапоги Синего Волка -->
+		<ingredient id="11391" count="1" />
+		<!-- Запечатанные Сапоги Синего Волка -->
+		<production id="2439" count="1" />
+	</item>
+	<item>
+		<!-- Запечатанные Перчатки Синего Волка -->
+		<ingredient id="11392" count="1" />
+		<!-- Запечатанные Перчатки Синего Волка -->
+		<production id="2487" count="1" />
+	</item>
+	<item>
+		<!-- Туника Рока -->
+		<ingredient id="11393" count="1" />
+		<!-- Туника Рока -->
+		<production id="2399" count="1" />
+	</item>
+	<item>
+		<!-- Набедренники Синего Волка -->
+		<ingredient id="11394" count="1" />
+		<!-- Набедренники Синего Волка -->
+		<production id="2380" count="1" />
+	</item>
+	<item>
+		<!-- Кожаный Доспех Синего Волка  -->
+		<ingredient id="11395" count="1" />
+		<!-- Кожаный Доспех Синего Волка -->
+		<production id="2391" count="1" />
+	</item>
+	<item>
+		<!-- Туника Синего Волка -->
+		<ingredient id="11402" count="1" />
+		<!-- Туника Синего Волка -->
+		<production id="2398" count="1" />
+	</item>
+	<item>
+		<!-- Штаны Синего Волка -->
+		<ingredient id="11404" count="1" />
+		<!-- Штаны Синего Волка -->
+		<production id="2403" count="1" />
+	</item>
+	<item>
+		<!-- Кираса Синего Волка -->
+		<ingredient id="11405" count="1" />
+		<!-- Кираса Синего Волка -->
+		<production id="358" count="1" />
+	</item>
+	<item>
+		<!-- Штаны Рока -->
+		<ingredient id="11406" count="1" />
+		<!-- Штаны Рока -->
+		<production id="2404" count="1" />
+	</item>
+	<item>
+		<!-- Набедренники Кристалла Тьмы -->
+		<ingredient id="11407" count="1" />
+		<!-- Набедренники Кристалла Тьмы -->
+		<production id="388" count="1" />
+	</item>
+	<item>
+		<!-- Перчатки Кристалла Тьмы (Тяжелые) -->
+		<ingredient id="11408" count="1" />
+		<!-- Перчатки Кристалла Тьмы (Тяжелый) -->
+		<production id="5765" count="1" />
+	</item>
+	<item>
+		<!-- Перчатки Кристалла Тьмы (Легкие) -->
+		<ingredient id="11409" count="1" />
+		<!-- Перчатки Кристалла Тьмы (Легкий) -->
+		<production id="5766" count="1" />
+	</item>
+	<item>
+		<!-- Перчатки Кристалла Тьмы (Магические) -->
+		<ingredient id="11410" count="1" />
+		<!-- Перчатки Кристалла Тьмы (Магический) -->
+		<production id="5767" count="1" />
+	</item>
+	<item>
+		<!-- Кожаный Доспех Кристалла Тьмы -->
+		<ingredient id="11411" count="1" />
+		<!-- Кожаный Доспех Кристалла Тьмы -->
+		<production id="2385" count="1" />
+	</item>
+	<item>
+		<!-- Мантия Кристалла Тьмы -->
+		<ingredient id="11412" count="1" />
+		<!-- Мантия Кристалла Тьмы -->
+		<production id="2407" count="1" />
+	</item>
+	<item>
+		<!-- Сапоги Кристалла Тьмы (Тяжелые) -->
+		<ingredient id="11413" count="1" />
+		<!-- Сапоги Кристалла Тьмы (Тяжелый) -->
+		<production id="5777" count="1" />
+	</item>
+	<item>
+		<!-- Сапоги Кристалла Тьмы (Легкие) -->
+		<ingredient id="11414" count="1" />
+		<!-- Сапоги Кристалла Тьмы (Легкий) -->
+		<production id="5778" count="1" />
+	</item>
+	<item>
+		<!-- Сапоги Кристалла Тьмы (Магические) -->
+		<ingredient id="11415" count="1" />
+		<!-- Сапоги Кристалла Тьмы (Магический) -->
+		<production id="5779" count="1" />
+	</item>
+	<item>
+		<!-- Щит Кристалла Тьмы -->
+		<ingredient id="11416" count="1" />
+		<!-- Щит Кристалла Тьмы -->
+		<production id="641" count="1" />
+	</item>
+	<item>
+		<!-- Кираса Кристалла Тьмы -->
+		<ingredient id="11418" count="1" />
+		<!-- Кираса Кристалла Тьмы -->
+		<production id="365" count="1" />
+	</item>
+	<item>
+		<!-- Поножи Кристалла Тьмы -->
+		<ingredient id="11419" count="1" />
+		<!-- Поножи Кристалла Тьмы -->
+		<production id="2389" count="1" />
+	</item>
+	<item>
+		<!-- Перчатки Таллума (Тяжелый) -->
+		<ingredient id="11437" count="1" />
+		<!-- Перчатки Таллума (Тяжелый) -->
+		<production id="5768" count="1" />
+	</item>
+	<item>
+		<!-- Перчатки Таллума (Легкий) -->
+		<ingredient id="11438" count="1" />
+		<!-- Перчатки Таллума (Легкий) -->
+		<production id="5769" count="1" />
+	</item>
+	<item>
+		<!-- Перчатки Таллума (Магический) -->
+		<ingredient id="11439" count="1" />
+		<!-- Перчатки Таллума (Магический) -->
+		<production id="5770" count="1" />
+	</item>
+	<item>
+		<!-- Кожаный Доспех Таллума -->
+		<ingredient id="11440" count="1" />
+		<!-- Кожаный Доспех Таллума -->
+		<production id="2393" count="1" />
+	</item>
+	<item>
+		<!-- Сапоги Таллума (Тяжелый) -->
+		<ingredient id="11441" count="1" />
+		<!-- Сапоги Таллума (Тяжелый) -->
+		<production id="5780" count="1" />
+	</item>
+	<item>
+		<!-- Сапоги Таллума (Легкий) -->
+		<ingredient id="11442" count="1" />
+		<!-- Сапоги Таллума (Легкий) -->
+		<production id="5781" count="1" />
+	</item>
+	<item>
+		<!-- Сапоги Таллума (Магический) -->
+		<ingredient id="11443" count="1" />
+		<!-- Сапоги Таллума (Магический) -->
+		<production id="5782" count="1" />
+	</item>
+	<item>
+		<!-- Туника Таллума -->
+		<ingredient id="11444" count="1" />
+		<!-- Туника Таллума -->
+		<production id="2400" count="1" />
+	</item>
+	<item>
+		<!-- Латный Доспех Таллума -->
+		<ingredient id="11445" count="1" />
+		<!-- Латный Доспех Таллума -->
+		<production id="2382" count="1" />
+	</item>
+	<item>
+		<!-- Штаны Таллума -->
+		<ingredient id="11447" count="1" />
+		<!-- Штаны Таллума -->
+		<production id="2405" count="1" />
+	</item>
+	<item>
+		<!-- Рукавицы Величия (Тяжелый) -->
+		<ingredient id="11448" count="1" />
+		<!-- Рукавицы Величия (Тяжелый) -->
+		<production id="5774" count="1" />
+	</item>
+	<item>
+		<!-- Рукавицы Величия (Легкий) -->
+		<ingredient id="11449" count="1" />
+		<!-- Рукавицы Величия (Легкий) -->
+		<production id="5775" count="1" />
+	</item>
+	<item>
+		<!-- Рукавицы Величия (Магический) -->
+		<ingredient id="11450" count="1" />
+		<!-- Рукавицы Величия (Магический) -->
+		<production id="5776" count="1" />
+	</item>
+	<item>
+		<!-- Кожаный Доспех Величия -->
+		<ingredient id="11451" count="1" />
+		<!-- Кожаный Доспех Величия -->
+		<production id="2395" count="1" />
+	</item>
+	<item>
+		<!-- Мантия Величия -->
+		<ingredient id="11452" count="1" />
+		<!-- Мантия Величия -->
+		<production id="2409" count="1" />
+	</item>
+	<item>
+		<!-- Сапоги Величия (Тяжелый) -->
+		<ingredient id="11453" count="1" />
+		<!-- Сапоги Величия (Тяжелый) -->
+		<production id="5786" count="1" />
+	</item>
+	<item>
+		<!-- Сапоги Величия (Легкий) -->
+		<ingredient id="11454" count="1" />
+		<!-- Сапоги Величия (Легкий) -->
+		<production id="5787" count="1" />
+	</item>
+	<item>
+		<!-- Сапоги Величия (Магический) -->
+		<ingredient id="11455" count="1" />
+		<!-- Сапоги Величия (Магический) -->
+		<production id="5788" count="1" />
+	</item>
+	<item>
+		<!-- Доспех Кошмаров -->
+		<ingredient id="11471" count="1" />
+		<!-- Доспех Кошмаров -->
+		<production id="374" count="1" />
+	</item>
+	<item>
+		<!-- Рукавицы Кошмаров (Тяжелый) -->
+		<ingredient id="11472" count="1" />
+		<!-- Рукавицы Кошмаров (Тяжелый) -->
+		<production id="5771" count="1" />
+	</item>
+	<item>
+		<!-- Рукавицы Кошмаров (Легкий) -->
+		<ingredient id="11473" count="1" />
+		<!-- Рукавицы Кошмаров (Легкий) -->
+		<production id="5772" count="1" />
+	</item>
+	<item>
+		<!-- Рукавицы Кошмаров (Магический) -->
+		<ingredient id="11474" count="1" />
+		<!-- Рукавицы Кошмаров (Магический) -->
+		<production id="5773" count="1" />
+	</item>
+	<item>
+		<!-- Кожаный Доспех Кошмаров -->
+		<ingredient id="11475" count="1" />
+		<!-- Кожаный Доспех Кошмаров -->
+		<production id="2394" count="1" />
+	</item>
+	<item>
+		<!-- Мантия Кошмаров -->
+		<ingredient id="11476" count="1" />
+		<!-- Мантия Кошмаров -->
+		<production id="2408" count="1" />
+	</item>
+	<item>
+		<!-- Сапоги Кошмаров (Тяжелый) -->
+		<ingredient id="11477" count="1" />
+		<!-- Сапоги Кошмаров (Тяжелый) -->
+		<production id="5783" count="1" />
+	</item>
+	<item>
+		<!-- Сапоги Кошмаров (Легкий) -->
+		<ingredient id="11478" count="1" />
+		<!-- Сапоги Кошмаров (Легкий) -->
+		<production id="5784" count="1" />
+	</item>
+	<item>
+		<!-- Сапоги Кошмаров (Магический) -->
+		<ingredient id="11479" count="1" />
+		<!-- Сапоги Кошмаров (Магический) -->
+		<production id="5785" count="1" />
+	</item>
+	<item>
+		<!-- Щит Кошмаров -->
+		<ingredient id="11480" count="1" />
+		<!-- Щит Кошмаров -->
+		<production id="2498" count="1" />
+	</item>
+	<item>
+		<!-- Перчатки из Драконьей Кожи -->
+		<ingredient id="11483" count="1" />
+		<!-- Перчатки из Драконьей Кожи -->
+		<production id="6380" count="1" />
+	</item>
+	<item>
+		<!-- Сапоги из Драконьей Кожи -->
+		<ingredient id="11484" count="1" />
+		<!-- Сапоги из Драконьей Кожи -->
+		<production id="6381" count="1" />
+	</item>
+	<item>
+		<!-- Доспех из Драконьей Кожи -->
+		<ingredient id="11485" count="1" />
+		<!-- Доспех из Драконьей Кожи -->
+		<production id="6379" count="1" />
+	</item>
+	<item>
+		<!-- Шлем из Драконьей Кожи -->
+		<ingredient id="11486" count="1" />
+		<!-- Шлем из Драконьей Кожи -->
+		<production id="6382" count="1" />
+	</item>
+	<item>
+		<!-- Перчатки Тайн -->
+		<ingredient id="11487" count="1" />
+		<!-- Перчатки Тайн -->
+		<production id="6384" count="1" />
+	</item>
+	<item>
+		<!-- Мантия Тайн -->
+		<ingredient id="11488" count="1" />
+		<!-- Мантия Тайн -->
+		<production id="6383" count="1" />
+	</item>
+	<item>
+		<!-- Сапоги Тайн -->
+		<ingredient id="11489" count="1" />
+		<!-- Сапоги Тайн -->
+		<production id="6385" count="1" />
+	</item>
+	<item>
+		<!-- Диадема Тайн -->
+		<ingredient id="11490" count="1" />
+		<!-- Диадема Тайн -->
+		<production id="6386" count="1" />
+	</item>
+	<item>
+		<!-- Набедренники Имперского Крестоносца -->
+		<ingredient id="11505" count="1" />
+		<!-- Набедренники Имперского Крестоносца -->
+		<production id="6374" count="1" />
+	</item>
+	<item>
+		<!-- Рукавицы Имперского Крестоносца -->
+		<ingredient id="11506" count="1" />
+		<!-- Рукавицы Имперского Крестоносца -->
+		<production id="6375" count="1" />
+	</item>
+	<item>
+		<!-- Сапоги Имперского Крестоносца -->
+		<ingredient id="11507" count="1" />
+		<!-- Сапоги Имперского Крестоносца -->
+		<production id="6376" count="1" />
+	</item>
+	<item>
+		<!-- Щит Имперского Крестоносца -->
+		<ingredient id="11508" count="1" />
+		<!-- Щит Имперского Крестоносца -->
+		<production id="6377" count="1" />
+	</item>
+	<item>
+		<!-- Шлем Имперского Крестоносца -->
+		<ingredient id="11509" count="1" />
+		<!-- Шлем Имперского Крестоносца -->
+		<production id="6378" count="1" />
+	</item>
+	<item>
+		<!-- Кираса Имперского Крестоносца -->
+		<ingredient id="11510" count="1" />
+		<!-- Кираса Имперского Крестоносца -->
+		<production id="6373" count="1" />
+	</item>
+	<item>
+		<!-- Символ Аркана -->
+		<ingredient id="13078" count="1" />
+		<!-- Символ Аркана -->
+		<production id="12811" count="1" />
+	</item>
+	<item>
+		<!-- Набедренники Династии -->
+		<ingredient id="11512" count="1" />
+		<!-- Набедренники Династии -->
+		<production id="9421" count="1" />
+	</item>
+	<item>
+		<!-- Рукавицы Династии -->
+		<ingredient id="11513" count="1" />
+		<!-- Рукавицы Династии (Тяжелый) -->
+		<production id="9423" count="1" />
+	</item>
+	<item>
+		<!-- Перчатки Династии -->
+		<ingredient id="11514" count="1" />
+		<!-- Перчатки Династии (Магический) -->
+		<production id="9439" count="1" />
+	</item>
+	<item>
+		<!-- Кожаные Перчатки Династии -->
+		<ingredient id="11515" count="1" />
+		<!-- Кожаные Перчатки Династии (Легкий) -->
+		<production id="9430" count="1" />
+	</item>
+	<item>
+		<!-- Кожаные Поножи Династии -->
+		<ingredient id="11516" count="1" />
+		<!-- Кожаные Поножи Династии -->
+		<production id="9428" count="1" />
+	</item>
+	<item>
+		<!-- Кожаный Доспех Династии -->
+		<ingredient id="11517" count="1" />
+		<!-- Кожаный Доспех Династии -->
+		<production id="9425" count="1" />
+	</item>
+	<item>
+		<!-- Кожаные Сапоги Династии -->
+		<ingredient id="11524" count="1" />
+		<!-- Кожаные Сапоги Династии (Легкий) -->
+		<production id="9431" count="1" />
+	</item>
+	<item>
+		<!-- Кожаный Шлем Династии -->
+		<ingredient id="11525" count="1" />
+		<!-- Кожаный Шлем Династии -->
+		<production id="9429" count="1" />
+	</item>
+	<item>
+		<!-- Сапоги Династии -->
+		<ingredient id="11526" count="1" />
+		<!-- Сапоги Династии (Тяжелый) -->
+		<production id="9424" count="1" />
+	</item>
+	<item>
+		<!-- Кираса Династии -->
+		<ingredient id="11527" count="1" />
+		<!-- Кираса Династии -->
+		<production id="9416" count="1" />
+	</item>
+	<item>
+		<!-- Щит Династии -->
+		<ingredient id="11532" count="1" />
+		<!-- Щит Династии -->
+		<production id="9441" count="1" />
+	</item>
+	<item>
+		<!-- Символ Династии -->
+		<ingredient id="10119" count="1" />
+		<!-- Символ Династии -->
+		<production id="12812" count="1" />
+	</item>
+	<item>
+		<!-- Ботинки Династии -->
+		<ingredient id="11533" count="1" />
+		<!-- Ботинки Династии (Магический) -->
+		<production id="9440" count="1" />
+	</item>
+	<item>
+		<!-- Диадема Династии -->
+		<ingredient id="11539" count="1" />
+		<!-- Диадема Династии -->
+		<production id="9438" count="1" />
+	</item>
+	<item>
+		<!-- Туника Династии -->
+		<ingredient id="11547" count="1" />
+		<!-- Туника Династии -->
+		<production id="9432" count="1" />
+	</item>
+	<item>
+		<!-- Шлем Династии -->
+		<ingredient id="11557" count="1" />
+		<!-- Шлем Династии -->
+		<production id="9422" count="1" />
+	</item>
+	<item>
+		<!-- Штаны Династии -->
+		<ingredient id="11558" count="1" />
+		<!-- Штаны Династии -->
+		<production id="9437" count="1" />
+	</item>
+	<item>
+		<!-- Шлем Дестино -->
+		<ingredient id="16289" count="1" />
+		<!-- Шлем Дестино -->
+		<production id="15606" count="1" />
+	</item>
+	<item>
+		<!-- Кожаный Шлем Дестино -->
+		<ingredient id="16290" count="1" />
+		<!-- Кожаный Шлем Дестино -->
+		<production id="15607" count="1" />
+	</item>
+	<item>
+		<!-- Диадема Дестино -->
+		<ingredient id="16291" count="1" />
+		<!-- Диадема Дестино -->
+		<production id="15608" count="1" />
+	</item>
+	<item>
+		<!-- Кираса Дестино -->
+		<ingredient id="16292" count="1" />
+		<!-- Кираса Дестино -->
+		<production id="15609" count="1" />
+	</item>
+	<item>
+		<!-- Кожаная Кираса Дестино -->
+		<ingredient id="16293" count="1" />
+		<!-- Кожаная Кираса Дестино -->
+		<production id="15610" count="1" />
+	</item>
+	<item>
+		<!-- Туника Дестино -->
+		<ingredient id="16294" count="1" />
+		<!-- Туника Дестино -->
+		<production id="15611" count="1" />
+	</item>
+	<item>
+		<!-- Набедренники Дестино -->
+		<ingredient id="16295" count="1" />
+		<!-- Набедренники Дестино -->
+		<production id="15612" count="1" />
+	</item>
+	<item>
+		<!-- Кожаные Брюки Дестино -->
+		<ingredient id="16296" count="1" />
+		<!-- Кожаные Брюки Дестино -->
+		<production id="15613" count="1" />
+	</item>
+	<item>
+		<!-- Штаны Дестино -->
+		<ingredient id="16297" count="1" />
+		<!-- Штаны Дестино -->
+		<production id="15614" count="1" />
+	</item>
+	<item>
+		<!-- Рукавицы Дестино -->
+		<ingredient id="16298" count="1" />
+		<!-- Рукавицы Дестино -->
+		<production id="15615" count="1" />
+	</item>
+	<item>
+		<!-- Кожаные Перчатки Дестино -->
+		<ingredient id="16299" count="1" />
+		<!-- Кожаные Перчатки Дестино -->
+		<production id="15616" count="1" />
+	</item>
+	<item>
+		<!-- Перчатки Дестино -->
+		<ingredient id="16300" count="1" />
+		<!-- Перчатки Дестино -->
+		<production id="15617" count="1" />
+	</item>
+	<item>
+		<!-- Сапоги Дестино -->
+		<ingredient id="16301" count="1" />
+		<!-- Сапоги Дестино -->
+		<production id="15618" count="1" />
+	</item>
+	<item>
+		<!-- Кожаные Сапоги Дестино -->
+		<ingredient id="16302" count="1" />
+		<!-- Кожаные Сапоги Дестино -->
+		<production id="15619" count="1" />
+	</item>
+	<item>
+		<!-- Ботинки Дестино -->
+		<ingredient id="16303" count="1" />
+		<!-- Ботинки Дестино -->
+		<production id="15620" count="1" />
+	</item>
+	<item>
+		<!-- Щит Дестино -->
+		<ingredient id="16304" count="1" />
+		<!-- Щит Дестино -->
+		<production id="15621" count="1" />
+	</item>
+	<item>
+		<!-- Символ Дестино -->
+		<ingredient id="16305" count="1" />
+		<!-- Символ Дестино -->
+		<production id="15622" count="1" />
+	</item>
+	<item>
+		<!-- Шлем Венеры -->
+		<ingredient id="16306" count="1" />
+		<!-- Шлем Венеры -->
+		<production id="13137" count="1" />
+	</item>
+	<item>
+		<!-- Кожаный Шлем Венеры -->
+		<ingredient id="16307" count="1" />
+		<!-- Кожаный Шлем Венеры -->
+		<production id="13138" count="1" />
+	</item>
+	<item>
+		<!-- Диадема Венеры -->
+		<ingredient id="16308" count="1" />
+		<!-- Диадема Венеры -->
+		<production id="13139" count="1" />
+	</item>
+	<item>
+		<!-- Кираса Венеры -->
+		<ingredient id="16309" count="1" />
+		<!-- Кираса Венеры -->
+		<production id="13432" count="1" />
+	</item>
+	<item>
+		<!-- Кожаная Кираса Венеры -->
+		<ingredient id="16310" count="1" />
+		<!-- Кожаная Кираса Венеры -->
+		<production id="13433" count="1" />
+	</item>
+	<item>
+		<!-- Туника Венеры -->
+		<ingredient id="16311" count="1" />
+		<!-- Туника Венеры -->
+		<production id="13434" count="1" />
+	</item>
+	<item>
+		<!-- Набедренники Венеры -->
+		<ingredient id="16312" count="1" />
+		<!-- Набедренники Венеры -->
+		<production id="13438" count="1" />
+	</item>
+	<item>
+		<!-- Кожаные Брюки Венеры -->
+		<ingredient id="16313" count="1" />
+		<!-- Кожаные Брюки Венеры -->
+		<production id="13441" count="1" />
+	</item>
+	<item>
+		<!-- Штаны Венеры -->
+		<ingredient id="16314" count="1" />
+		<!-- Штаны Венеры -->
+		<production id="13444" count="1" />
+	</item>
+	<item>
+		<!-- Рукавицы Венеры -->
+		<ingredient id="16315" count="1" />
+		<!-- Рукавицы Венеры -->
+		<production id="13439" count="1" />
+	</item>
+	<item>
+		<!-- Кожаные Перчатки Венеры -->
+		<ingredient id="16316" count="1" />
+		<!-- Кожаные Перчатки Венеры -->
+		<production id="13442" count="1" />
+	</item>
+	<item>
+		<!-- Перчатки Венеры -->
+		<ingredient id="16317" count="1" />
+		<!-- Перчатки Венеры -->
+		<production id="13445" count="1" />
+	</item>
+	<item>
+		<!-- Сапоги Венеры -->
+		<ingredient id="16318" count="1" />
+		<!-- Сапоги Венеры -->
+		<production id="13440" count="1" />
+	</item>
+	<item>
+		<!-- Кожаные Сапоги Венеры -->
+		<ingredient id="16319" count="1" />
+		<!-- Кожаные Сапоги Венеры -->
+		<production id="13443" count="1" />
+	</item>
+	<item>
+		<!-- Ботинки Венеры -->
+		<ingredient id="16320" count="1" />
+		<!-- Ботинки Венеры -->
+		<production id="13446" count="1" />
+	</item>
+	<item>
+		<!-- Щит Венеры -->
+		<ingredient id="16321" count="1" />
+		<!-- Защитник Венеры -->
+		<production id="13471" count="1" />
+	</item>
+	<item>
+		<!-- Символ Венеры -->
+		<ingredient id="16322" count="1" />
+		<!-- Символ Венеры -->
+		<production id="12813" count="1" />
+	</item>
+	<item>
+		<!-- Шлем Зубея (Тяжелый) -->
+		<ingredient id="11363" count="1" />
+		<!-- Шлем Зубея -->
+		<production id="503" count="1" />
+	</item>
+	<item>
+		<!-- Шлем Зубея (Легкий) -->
+		<ingredient id="12978" count="1" />
+		<!-- Шлем Зубея -->
+		<production id="503" count="1" />
+	</item>
+	<item>
+		<!-- Шлем Зубея (Магический) -->
+		<ingredient id="12979" count="1" />
+		<!-- Шлем Зубея -->
+		<production id="503" count="1" />
+	</item>
+	<item>
+		<!-- Диадема Авадона (Тяжелый) -->
+		<ingredient id="11373" count="1" />
+		<!-- Диадема Авадона -->
+		<production id="2415" count="1" />
+	</item>
+	<item>
+		<!-- Диадема Авадона (Легкий) -->
+		<ingredient id="12980" count="1" />
+		<!-- Диадема Авадона -->
+		<production id="2415" count="1" />
+	</item>
+	<item>
+		<!-- Диадема Авадона (Магический) -->
+		<ingredient id="12981" count="1" />
+		<!-- Диадема Авадона -->
+		<production id="2415" count="1" />
+	</item>
+	<item>
+		<!-- Шлем Рока (Тяжелый) -->
+		<ingredient id="11387" count="1" />
+		<!-- Шлем Рока -->
+		<production id="2417" count="1" />
+	</item>
+	<item>
+		<!-- Шлем Рока (Легкий) -->
+		<ingredient id="12982" count="1" />
+		<!-- Шлем Рока -->
+		<production id="2417" count="1" />
+	</item>
+	<item>
+		<!-- Шлем Рока (Магический) -->
+		<ingredient id="12983" count="1" />
+		<!-- Шлем Рока -->
+		<production id="2417" count="1" />
+	</item>
+	<item>
+		<!-- Шлем Синего Волка (Тяжелый) -->
+		<ingredient id="11403" count="1" />
+		<!-- Шлем Синего Волка -->
+		<production id="2416" count="1" />
+	</item>
+	<item>
+		<!-- Шлем Синего Волка (Легкий) -->
+		<ingredient id="12984" count="1" />
+		<!-- Шлем Синего Волка -->
+		<production id="2416" count="1" />
+	</item>
+	<item>
+		<!-- Шлем Синего Волка (Магический) -->
+		<ingredient id="12985" count="1" />
+		<!-- Шлем Синего Волка -->
+		<production id="2416" count="1" />
+	</item>
+	<item>
+		<!-- Шлем Кристалла Тьмы (Тяжелый) -->
+		<ingredient id="11417" count="1" />
+		<!-- Шлем Кристалла Тьмы -->
+		<production id="512" count="1" />
+	</item>
+	<item>
+		<!-- Шлем Кристалла Тьмы (Легкий) -->
+		<ingredient id="12986" count="1" />
+		<!-- Шлем Кристалла Тьмы -->
+		<production id="512" count="1" />
+	</item>
+	<item>
+		<!-- Шлем Кристалла Тьмы (Магический) -->
+		<ingredient id="12987" count="1" />
+		<!-- Шлем Кристалла Тьмы -->
+		<production id="512" count="1" />
+	</item>
+	<item>
+		<!-- Шлем Таллума (Тяжелый) -->
+		<ingredient id="11446" count="1" />
+		<!-- Шлем Таллума -->
+		<production id="547" count="1" />
+	</item>
+	<item>
+		<!-- Шлем Таллума (Легкий) -->
+		<ingredient id="12988" count="1" />
+		<!-- Шлем Таллума -->
+		<production id="547" count="1" />
+	</item>
+	<item>
+		<!-- Шлем Таллума (Магический) -->
+		<ingredient id="12989" count="1" />
+		<!-- Шлем Таллума -->
+		<production id="547" count="1" />
+	</item>
+	<item>
+		<!-- Диадема Величия (Тяжелый) -->
+		<ingredient id="11456" count="1" />
+		<!-- Диадема Величия -->
+		<production id="2419" count="1" />
+	</item>
+	<item>
+		<!-- Диадема Величия (Легкий) -->
+		<ingredient id="12990" count="1" />
+		<!-- Диадема Величия -->
+		<production id="2419" count="1" />
+	</item>
+	<item>
+		<!-- Диадема Величия (Магический) -->
+		<ingredient id="12991" count="1" />
+		<!-- Диадема Величия -->
+		<production id="2419" count="1" />
+	</item>
+	<item>
+		<!-- Шлем Кошмаров (Тяжелый) -->
+		<ingredient id="11481" count="1" />
+		<!-- Шлем Кошмаров -->
+		<production id="2418" count="1" />
+	</item>
+	<item>
+		<!-- Шлем Кошмаров (Легкий) -->
+		<ingredient id="12992" count="1" />
+		<!-- Шлем Кошмаров -->
+		<production id="2418" count="1" />
+	</item>
+	<item>
+		<!-- Шлем Кошмаров (Магический) -->
+		<ingredient id="12993" count="1" />
+		<!-- Шлем Кошмаров -->
+		<production id="2418" count="1" />
+	</item>
+	<item>
+		<!-- Адамантитовая Серьга -->
+		<ingredient id="11575" count="1" />
+		<!-- Адамантитовая Серьга -->
+		<production id="856" count="1" />
+	</item>
+	<item>
+		<!-- Адамантитовое Ожерелье -->
+		<ingredient id="11576" count="1" />
+		<!-- Адамантитовое Ожерелье -->
+		<production id="918" count="1" />
+	</item>
+	<item>
+		<!-- Адамантитовое Кольцо -->
+		<ingredient id="11577" count="1" />
+		<!-- Адамантитовое Кольцо -->
+		<production id="887" count="1" />
+	</item>
+	<item>
+		<!-- Черная Серьга -->
+		<ingredient id="11578" count="1" />
+		<!-- Черная Серьга -->
+		<production id="864" count="1" />
+	</item>
+	<item>
+		<!-- Черное Ожерелье -->
+		<ingredient id="11579" count="1" />
+		<!-- Черное Ожерелье -->
+		<production id="926" count="1" />
+	</item>
+	<item>
+		<!-- Черное Кольцо -->
+		<ingredient id="11580" count="1" />
+		<!-- Черное Кольцо -->
+		<production id="895" count="1" />
+	</item>
+	<item>
+		<!-- Ожерелье Феникса -->
+		<ingredient id="11584" count="1" />
+		<!-- Ожерелье Феникса -->
+		<production id="933" count="1" />
+	</item>
+	<item>
+		<!-- Кольцо Феникса -->
+		<ingredient id="11585" count="1" />
+		<!-- Кольцо Феникса -->
+		<production id="902" count="1" />
+	</item>
+	<item>
+		<!-- Серьга Феникса -->
+		<ingredient id="11586" count="1" />
+		<!-- Серьга Феникса -->
+		<production id="871" count="1" />
+	</item>
+	<item>
+		<!-- Ожерелье Величия -->
+		<ingredient id="11587" count="1" />
+		<!-- Ожерелье Величия -->
+		<production id="924" count="1" />
+	</item>
+	<item>
+		<!-- Кольцо Величия -->
+		<ingredient id="11588" count="1" />
+		<!-- Кольцо Величия -->
+		<production id="893" count="1" />
+	</item>
+	<item>
+		<!-- Серьга Величия -->
+		<ingredient id="11589" count="1" />
+		<!-- Серьга Величия -->
+		<production id="862" count="1" />
+	</item>
+	<item>
+		<!-- Ожерелье Татеосса -->
+		<ingredient id="11596" count="1" />
+		<!-- Ожерелье Татеосса -->
+		<production id="920" count="1" />
+	</item>
+	<item>
+		<!-- Кольцо Татеосса -->
+		<ingredient id="11597" count="1" />
+		<!-- Кольцо Татеосса -->
+		<production id="889" count="1" />
+	</item>
+	<item>
+		<!-- Серьга Татеосса -->
+		<ingredient id="11598" count="1" />
+		<!-- Серьга Татеосса -->
+		<production id="858" count="1" />
+	</item>
+	<item>
+		<!-- Ожерелье Династии -->
+		<ingredient id="11599" count="1" />
+		<!-- Ожерелье Династии -->
+		<production id="9456" count="1" />
+	</item>
+	<item>
+		<!-- Кольцо Династии -->
+		<ingredient id="11600" count="1" />
+		<!-- Кольцо Династии -->
+		<production id="9457" count="1" />
+	</item>
+	<item>
+		<!-- Серьга Династии -->
+		<ingredient id="11601" count="1" />
+		<!-- Серьга Династии -->
+		<production id="9455" count="1" />
+	</item>
+	<item>
+		<!-- Кольцо Дестино -->
+		<ingredient id="16378" count="1" />
+		<!-- Кольцо Дестино -->
+		<production id="15723" count="1" />
+	</item>
+	<item>
+		<!-- Серьга Дестино -->
+		<ingredient id="16379" count="1" />
+		<!-- Серьга Дестино -->
+		<production id="15724" count="1" />
+	</item>
+	<item>
+		<!-- Ожерелье Дестино -->
+		<ingredient id="16380" count="1" />
+		<!-- Ожерелье Дестино -->
+		<production id="15725" count="1" />
+	</item>
+	<item>
+		<!-- Кольцо Венеры -->
+		<ingredient id="16375" count="1" />
+		<!-- Кольцо Венеры -->
+		<production id="14165" count="1" />
+	</item>
+	<item>
+		<!-- Серьга Венеры -->
+		<ingredient id="16376" count="1" />
+		<!-- Серьга Венеры -->
+		<production id="14163" count="1" />
+	</item>
+	<item>
+		<!-- Ожерелье Венеры -->
+		<ingredient id="16377" count="1" />
+		<!-- Ожерелье Венеры -->
+		<production id="14164" count="1" />
+	</item>
+	<item>
+		<!-- Парные Мечи Династии - Земля -->
+		<ingredient id="11251" count="1" />
+		<!-- Парные Мечи Династии -->
+		<production id="10004" count="1" />
+	</item>
+	<item>
+		<!-- Парные Мечи Икара - Разрушение -->
+		<ingredient id="11300" count="1" />
+		<!-- Парные Мечи Икара -->
+		<production id="10415" count="1" />
+	</item>
+	<item>
+		<!-- Парные Кинжалы Династии - Великая Буря -->
+		<ingredient id="14526" count="1" />
+		<!-- Парные Кинжалы Династии -->
+		<production id="13882" count="1" />
+	</item>
+	<item>
+		<!-- Парные Кинжалы Икара - Замешательство -->
+		<ingredient id="14527" count="1" />
+		<!-- Парные Кинжалы Икара -->
+		<production id="13883" count="1" />
+	</item>
+	<item>
+		<!-- Парные Мечи Венеры - Разрушение -->
+		<ingredient id="16150" count="1" />
+		<!-- Парные Мечи Венеры -->
+		<production id="52" count="1" />
+	</item>
+	<item>
+		<!-- Парные Кинжалы Венеры - Великая Буря -->
+		<ingredient id="16148" count="1" />
+		<!-- Парные Кинжалы Венеры -->
+		<production id="13884" count="1" />
+	</item>
+	<item>
+		<!-- Кешанберк*Кешанберк - Разрушение -->
+		<ingredient id="11057" count="1" />
+		<!-- Кешанберк*Кешанберк -->
+		<production id="5233" count="1" />
+	</item>
+	<item>
+		<!-- Кешанберк*Дамаскус - Разрушение -->
+		<ingredient id="11074" count="1" />
+		<!-- Кешанберк*Дамаскус -->
+		<production id="5705" count="1" />
+	</item>
+	<item>
+		<!-- Дамаскус*Дамаскус - Молния -->
+		<ingredient id="11079" count="1" />
+		<!-- Дамаскус*Дамаскус -->
+		<production id="5706" count="1" />
+	</item>
+	<item>
+		<!-- Клинок Таллума*Дамаскус - Оползень -->
+		<ingredient id="11181" count="1" />
+		<!-- Клинок Таллума*Дамаскус -->
+		<production id="8938" count="1" />
+	</item>
+	<item>
+		<!-- Клинок Таллума*Темный Легион - Гром -->
+		<ingredient id="11234" count="1" />
+		<!-- Клинок Таллума*Темный Легион -->
+		<production id="6580" count="1" />
+	</item>
+	<item>
+		<!-- Красивый Шлем Венеры -->
+		<ingredient id="16837" count="1" />
+		<!-- Красивый Шлем Венеры -->
+		<production id="13140" count="1" />
+	</item>
+	<item>
+		<!-- Красивый Кожаный Шлем Венеры -->
+		<ingredient id="16838" count="1" />
+		<!-- Красивый Кожаный Шлем Венеры -->
+		<production id="13141" count="1" />
+	</item>
+	<item>
+		<!-- Красивая Диадема Венеры -->
+		<ingredient id="16839" count="1" />
+		<!-- Красивая Диадема Венеры -->
+		<production id="13142" count="1" />
+	</item>
+	<item>
+		<!-- Красивая Кираса Венеры -->
+		<ingredient id="16840" count="1" />
+		<!-- Красивая Кираса Венеры -->
+		<production id="13435" count="1" />
+	</item>
+	<item>
+		<!-- Красивая Кожаная Кираса Венеры -->
+		<ingredient id="16841" count="1" />
+		<!-- Красивая Кожаная Кираса Венеры -->
+		<production id="13436" count="1" />
+	</item>
+	<item>
+		<!-- Красивая Туника Венеры -->
+		<ingredient id="16842" count="1" />
+		<!-- Красивая Туника Венеры -->
+		<production id="13437" count="1" />
+	</item>
+	<item>
+		<!-- Красивые Набедренники Венеры -->
+		<ingredient id="16843" count="1" />
+		<!-- Красивые Набедренники Венеры -->
+		<production id="13448" count="1" />
+	</item>
+	<item>
+		<!-- Красивые Кожаные Брюки Венеры -->
+		<ingredient id="16844" count="1" />
+		<!-- Красивые Кожаные Брюки Венеры -->
+		<production id="13451" count="1" />
+	</item>
+	<item>
+		<!-- Красивые Штаны Венеры -->
+		<ingredient id="16845" count="1" />
+		<!-- Красивые Штаны Венеры -->
+		<production id="13454" count="1" />
+	</item>
+	<item>
+		<!-- Красивые Рукавицы Венеры -->
+		<ingredient id="16846" count="1" />
+		<!-- Красивые Рукавицы Венеры -->
+		<production id="13449" count="1" />
+	</item>
+	<item>
+		<!-- Красивые Кожаные Перчатки Венеры -->
+		<ingredient id="16847" count="1" />
+		<!-- Красивые Кожаные Перчатки Венеры -->
+		<production id="13452" count="1" />
+	</item>
+	<item>
+		<!-- Красивые Перчатки Венеры -->
+		<ingredient id="16848" count="1" />
+		<!-- Красивые Перчатки Венеры -->
+		<production id="13455" count="1" />
+	</item>
+	<item>
+		<!-- Красивые Сапоги Венеры -->
+		<ingredient id="16849" count="1" />
+		<!-- Красивые Сапоги Венеры -->
+		<production id="13450" count="1" />
+	</item>
+	<item>
+		<!-- Красивые Кожаные Сапоги Венеры -->
+		<ingredient id="16850" count="1" />
+		<!-- Красивые Кожаные Сапоги Венеры -->
+		<production id="13453" count="1" />
+	</item>
+	<item>
+		<!-- Красивые Ботинки Венеры -->
+		<ingredient id="16851" count="1" />
+		<!-- Красивые Ботинки Венеры -->
+		<production id="13456" count="1" />
+	</item>
+</list>

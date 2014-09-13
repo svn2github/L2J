@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE list SYSTEM "item.dtd">
+<list>
+<armor id="34925" name="Cloak of Light">
+        <set name="type" value="NONE"/>
+        <set name="weight" value="220"/>
+		<equip>
+            <slot id="BACK"/>
+        </equip>
+        <set name="ex_type" value="CLOAK"/>
+		<skills>
+            <skill id="19039" level="1"/>
+        </skills>
+        <for>
+            <add stat="pDef" order="0x10" value="50"/>
+            <add stat="mDef" order="0x10" value="40"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+            <enchant stat="mDef" order="0x0C" value="0"/>
+        </for>
+    </armor>
+	<armor id="34926" name="Cloak of Darkness">
+        <set name="type" value="NONE"/>
+        <set name="weight" value="220"/>
+		<equip>
+            <slot id="BACK"/>
+        </equip>
+        <set name="ex_type" value="CLOAK"/>
+		<skills>
+            <skill id="19040" level="1"/>
+
+        </skills>
+        <for>
+            <add stat="pDef" order="0x10" value="50"/>
+            <add stat="mDef" order="0x10" value="40"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+            <enchant stat="mDef" order="0x0C" value="0"/>
+        </for>
+    </armor>
+    <armor id="34935" name="Star Agathion Bracelet - Hye-jin Jang">
+        <set name="crystal_type" value="NONE"/>
+        <set name="icon" value="icon.bracelet_tersi_agathion"/>
+		<set name="durability" value="604800"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="150"/>
+        <equip>
+            <slot id="RIGHT_BRACELET"/>
+        </equip>
+        <set name="ex_type" value="BRACELET"/>
+    </armor>
+    <armor id="34936" name="Star Agathion Bracelet - Hyuk Jang">
+        <set name="crystal_type" value="NONE"/>
+        <set name="icon" value="icon.bracelet_tersi_agathion"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="150"/>
+        <equip>
+            <slot id="RIGHT_BRACELET"/>
+        </equip>
+        <set name="ex_type" value="BRACELET"/>
+    </armor>
+    <armor id="34937" name="Star Agathion Bracelet - Soo-ro Kim">
+        <set name="crystal_type" value="NONE"/>
+        <set name="icon" value="icon.bracelet_tersi_agathion"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="150"/>
+        <equip>
+            <slot id="RIGHT_BRACELET"/>
+        </equip>
+        <set name="ex_type" value="BRACELET"/>
+    </armor>
+    <armor id="34938" name="Star Agathion Bracelet - Jae-bum Park">
+        <set name="crystal_type" value="NONE"/>
+        <set name="icon" value="icon.bracelet_tersi_agathion"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="150"/>
+        <equip>
+            <slot id="RIGHT_BRACELET"/>
+        </equip>
+        <set name="ex_type" value="BRACELET"/>
+    </armor>
+    <armor id="34939" name="Star Agathion Bracelet - Shin-young Kim">
+        <set name="crystal_type" value="NONE"/>
+        <set name="icon" value="icon.bracelet_tersi_agathion"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="150"/>
+        <equip>
+            <slot id="RIGHT_BRACELET"/>
+        </equip>
+        <set name="ex_type" value="BRACELET"/>
+    </armor>
+    <armor id="34984" name="Talisman of Infinity">
+        <set name="crystal_type" value="NONE"/>
+        <set name="icon" value="BranchSys.br_rudolf_food_orange_i00"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="150"/>
+        <equip>
+            <slot id="TALISMAN"/>
+        </equip>
+        <set name="ex_type" value="OTHER_ITEMS"/>
+    </armor>
+    <armor id="34985" name="Talisman of Destruction">        <!--Done By Chekan-->
+        <set name="crystal_type" value="NONE"/>
+        <set name="icon" value="BranchSys.br_rudolf_food_orange_i00"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="150"/>
+		<set name="dropable" value="false"/>
+        <set name="sellable" value="false"/>
+        <set name="tradeable" value="false"/>
+        <equip>
+            <slot id="TALISMAN"/>
+        </equip>
+        <set name="ex_type" value="OTHER_ITEMS"/>
+		<skills>
+            <skill id="8864" level="2"/>
+        </skills>
+    </armor>
+    <armor id="34986" name="Talisman of Annihilation">        <!--Done By Chekan-->
+        <set name="crystal_type" value="NONE"/>
+        <set name="icon" value="BranchSys.br_rudolf_food_orange_i00"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="150"/>
+		<set name="dropable" value="false"/>
+        <set name="sellable" value="false"/>
+        <set name="tradeable" value="false"/>
+        <equip>
+            <slot id="TALISMAN"/>
+        </equip>
+        <set name="ex_type" value="OTHER_ITEMS"/>
+		<skills>
+            <skill id="8864" level="3"/>
+        </skills>
+    </armor>
+    <armor id="34987" name="Talisman of Hellfire">        <!--Done By Chekan-->
+        <set name="crystal_type" value="NONE"/>
+        <set name="icon" value="BranchSys.br_rudolf_food_red_i00"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="150"/>
+		<set name="dropable" value="false"/>
+        <set name="sellable" value="false"/>
+        <set name="tradeable" value="false"/>
+        <equip>
+            <slot id="TALISMAN"/>
+        </equip>
+        <set name="ex_type" value="OTHER_ITEMS"/>
+		<skills>
+            <skill id="8864" level="4"/>
+        </skills>
+    </armor>
+    <armor id="34988" name="Talisman of Desire">        <!--Done By Chekan-->
+        <set name="crystal_type" value="NONE"/>
+        <set name="icon" value="BranchSys.br_rudolf_food_blue_i00"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="150"/>
+		<set name="dropable" value="false"/>
+        <set name="sellable" value="false"/>
+        <set name="tradeable" value="false"/>
+        <equip>
+            <slot id="TALISMAN"/>
+        </equip>
+        <set name="ex_type" value="OTHER_ITEMS"/>
+		<skills>
+            <skill id="8864" level="5"/>
+        </skills>
+    </armor>
+    <armor id="34989" name="Talisman of Longing">        <!--Done By Chekan-->
+        <set name="crystal_type" value="NONE"/>
+        <set name="icon" value="BranchSys.br_rudolf_food_purple_i00"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="150"/>
+		<set name="dropable" value="false"/>
+        <set name="tradeable" value="false"/>
+		<set name="sellable" value="false"/>
+        <equip>
+            <slot id="TALISMAN"/>
+        </equip>
+        <set name="ex_type" value="OTHER_ITEMS"/>
+		<skills>
+            <skill id="8864" level="6"/>
+        </skills>
+    </armor>
+	<armor id="34996" name="Radiant Cloak of Light">
+        <set name="type" value="NONE"/>
+        <set name="weight" value="220"/>
+		<equip>
+            <slot id="BACK"/>
+        </equip>
+        <set name="ex_type" value="CLOAK"/>
+		<skills>
+            <skill id="19037" level="1"/>
+
+        </skills>
+        <for>
+            <add stat="pDef" order="0x10" value="50"/>
+            <add stat="mDef" order="0x10" value="40"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+            <enchant stat="mDef" order="0x0C" value="0"/>
+        </for>
+    </armor>
+	<armor id="34997" name="Cold Cloak of Darkness">
+        <set name="type" value="NONE"/>
+        <set name="weight" value="220"/>
+		<equip>
+            <slot id="BACK"/>
+        </equip>
+        <set name="ex_type" value="CLOAK"/>
+		<skills>
+            <skill id="19038" level="1"/>
+
+        </skills>
+        <for>
+            <add stat="pDef" order="0x10" value="50"/>
+            <add stat="mDef" order="0x10" value="40"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+            <enchant stat="mDef" order="0x0C" value="0"/>
+        </for>
+    </armor>
+</list>

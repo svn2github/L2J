@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list maintainEnchantment="true">
+	<item id="2">
+        <ingredient id="13419" count="1"/>
+        <production id="18100" count="1"/>
+    </item>
+	
+    <item id="3">
+        <ingredient id="13419" count="1"/>
+        <production id="18101" count="1"/>
+    </item>
+
+    <item id="4">
+        <ingredient id="13419" count="1"/>
+        <production id="18102" count="1"/>
+    </item>
+</list>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "spawn.dtd">
+<!--Задумка спавна (c)Mangol,(c)KilRoy-->
+<list>
+	<spawn count="1" respawn="240" respawn_random="0" period_of_day="none">
+		<point x="-119832" y="87098" z="-12608" h="0" />
+		<npc id="32237" /><!--Rodenpicula-->
+	</spawn>
+	<spawn count="1" respawn="240" respawn_random="0" period_of_day="none">
+		<point x="-120080" y="87176" z="-12608" h="0" />
+		<npc id="32239" /><!--Mother Nornil-->
+	</spawn>	
+</list>	

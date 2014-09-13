@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "item.dtd">
+<list>
+	<weapon id="36632" name="Тестовый Световой Меч">
+		<!--Done by Awakeninger Novell Team 2013-->
+		<set name="icon" value="icon.weapon_stilla_i20"/>
+		<set name="weight" value="100"/>
+		<set name="ex_type" value="SWORD"/>
+		<set name="type" value="SWORD"/>
+		<set name="crystal_type" value="R99"/>
+		<set name="crystal_count" value="2"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>
+		</equip>
+		<for>
+			<add stat="pAtk" order="0x10" value="1067"/>
+			<add stat="mAtk" order="0x10" value="298"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon>
+</list>

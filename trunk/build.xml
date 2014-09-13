@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="Awakeninger" default="dist" basedir=".">
+
+	<property name="build.version" value="1.0"/>
+
+	<property name="debug" value="on"/>
+	<!-->
+	<!-->
+	<property name="src.gameserver" location="Src/l2next/gameserver"/>
+	<property name="src.authserver" location="Src/l2next/loginserver"/>
+	<property name="src.commons" location="Src/l2next/commons"/>
+	<property name="src.scripts" location="DataPack/server/data/scripts"/>
+
+	<property name="dist" location="DataPack"/>
+	<property name="lib" location="DataPack/lib"/>
+
+	<property name="build" location="build"/>
+	<property name="build.classes" location="${build}/classes"/>
+
+	<property name="build.dist" location="${build}/dist"/>
+	<property name="build.dist.server" location="${build.dist}/server"/>
+	<property name="build.dist.tools" location="${build.dist}/tools"/>
+
+	<path id="classpath">
+		<fileset dir="${lib}">
+			<include name="**/*.jar"/>
+		</fileset>
+	</path>
+
+	<pathconvert property="jar.list" pathsep=" " refid="classpath">
+		<mapper type="flatten"/>
+	</pathconvert>
+
+	<property name="build.classpath" refid="classpath"/>
+
+	<tstamp>
+		<format property="build.tstamp" pattern="yyyy.MM.dd HH:mm"/>
+	</tstamp>
+
+	<target name="clean" description="Remove the output directories.">
+
+		<delete dir="${build}"/>
+
+	</target>
+
+	<target name="init" description="Create the output directories.">
+
+		<mkdir dir="${build}"/>
+
+	</target>
+
+	<target name="compile-commons" depends="init">
+		<delete dir="${build.classes}"/>
+		<mkdir dir="${build.classes}"/>
+
+		<javac srcdir="${src.commons}" destdir="${build.classes}" optimize="on" debug="${debug}" source="1.7"
+			   target="1.7" includeantruntime="false" encoding="UTF-8" nowarn="off" classpath="${build.classpath}">
+			<compilerarg value="-Xlint:all,-serial"/>
+		</javac>
+
+	</target>
+
+	<target name="commons-jar" depends="compile-commons">
+
+		<exec dir="${basedir}" executable="svnversion" outputproperty="build.revision" failifexecutionfails="false">
+			<arg line="-n ${src.commons}"/>
+		</exec>
+
+		<jar destfile="${build}/L2NT-Commons.jar">
+			<fileset dir="${build.classes}"/>
+			<manifest>
+				<attribute name="Build-By" value="${user.name}"/>
+				<attribute name="Build-Date" value="${build.tstamp}"/>
+				<attribute name="Implementation-Build" value="${build.revision}"/>
+				<attribute name="Implementation-Version" value="${build.version}"/>
+			</manifest>
+		</jar>
+	</target>
+
+	<target name="compile-gameserver" depends="commons-jar">
+		<delete dir="${build.classes}"/>
+		<mkdir dir="${build.classes}"/>
+
+		<javac srcdir="${src.gameserver}" destdir="${build.classes}" optimize="on" debug="${debug}" source="1.7"
+			   target="1.7" includeantruntime="false" encoding="UTF-8" nowarn="off"
+			   classpath="${build.classpath}:${build}/L2NT-Commons.jar">
+			<!--<compilerarg value="-Xlint:deprecation" /> -->
+			<compilerarg value="-Xlint:all,-serial"/>
+		</javac>
+
+
+	</target>
+
+	<target name="gameserver-jar" depends="compile-gameserver">
+
+		<exec dir="${basedir}" executable="svnversion" outputproperty="build.revision" failifexecutionfails="false">
+			<arg line="-n ${src.gameserver}"/>
+		</exec>
+
+		<concat destfile="${build}/dist/server/config/gameserver/eclipse-version.ini">
+			version=1
+			builddate=${build.tstamp}
+		</concat>
+
+		<jar destfile="${build}/L2NT-Gameserver.jar">
+			<fileset dir="${build.classes}"/>
+			<manifest>
+				<attribute name="Main-Class" value="l2nt.gameserver.GameServer"/>
+				<attribute name="Class-Path" value="${jar.list} L2NT-Commons.jar"/>
+				<attribute name="Build-By" value="${user.name}"/>
+				<attribute name="Build-Date" value="${build.tstamp}"/>
+				<attribute name="Implementation-Build" value="${build.revision}"/>
+				<attribute name="Implementation-Version" value="${build.version}"/>
+			</manifest>
+		</jar>
+	</target>
+
+	<target name="gameserver" depends="gameserver-jar">
+		<mkdir dir="${build.dist}"/>
+		<mkdir dir="${build.dist.tools}"/>
+		<mkdir dir="${build.dist.server}"/>
+		<mkdir dir="${build.dist.server}/geodata"/>
+		<mkdir dir="${build.dist.server}/log"/>
+
+
+		<copy todir="${build.dist}/serverslibs">
+			<fileset dir="${build}">
+				<include name="L2NT-Gameserver.jar"/>
+			</fileset>
+		</copy>
+
+		<fixcrlf srcdir="${build.dist.server}" eol="lf" eof="remove" includes="**/*.sh">
+		</fixcrlf>
+
+		<fixcrlf srcdir="${build.dist.server}" eol="crlf" eof="remove" includes="**/*.bat">
+		</fixcrlf>
+
+		<delete dir="${build.classes}"/>
+
+		<copy todir="${build.dist.server}" preservelastmodified="true">
+			<fileset dir="${dist}/server">
+				<include name="**/*.*"/>
+				<exclude name="/data/scripts/**/*"/>
+			</fileset>
+		</copy>
+		<copy todir="${build.dist.tools}" preservelastmodified="true">
+			<fileset dir="${dist}/DataBase">
+				<include name="**/*.*"/>
+			</fileset>
+		</copy>
+	</target>
+
+
+
+
+
+	
+
+	<target name="compile-authserver" depends="commons-jar">
+
+		<delete dir="${build.classes}"/>
+		<mkdir dir="${build.classes}"/>
+
+		<javac srcdir="${src.authserver}" optimize="on" destdir="${build.classes}" debug="${debug}" source="1.7"
+			   target="1.7" includeantruntime="false" encoding="UTF-8" nowarn="off"
+			   classpath="${build.classpath}:${build}/L2NT-Commons.jar">
+			<compilerarg value="-Xlint:all,-serial"/>
+		</javac>
+	</target>
+
+	<target name="authserver-jar" depends="compile-authserver">
+
+		<exec dir="${basedir}" executable="svnversion" outputproperty="build.revision" failifexecutionfails="false">
+			<arg line="-n ${src.authserver}"/>
+		</exec>
+
+		<jar destfile="${build}/L2NT-Loginserver.jar">
+			<fileset dir="${build.classes}"/>
+			<manifest>
+				<attribute name="Main-Class" value="l2nt.loginserver.AuthServer"/>
+				<attribute name="Class-Path" value="${jar.list} L2NT-Commons.jar"/>
+				<attribute name="Build-By" value="${user.name}"/>
+				<attribute name="Build-Date" value="${build.tstamp}"/>
+				<attribute name="Implementation-Build" value="${build.revision}"/>
+				<attribute name="Implementation-Version" value="${build.version}"/>
+			</manifest>
+		</jar>
+
+	</target>
+
+	<target name="authserver" depends="authserver-jar">
+
+		<mkdir dir="${build.dist}"/>
+		<mkdir dir="${build.dist}/serverslibs"/>
+
+		<copy todir="${build.dist}/serverslibs">
+			<fileset dir="${build}">
+				<include name="L2NT-Loginserver.jar"/>
+				<include name="L2NT-Commons.jar"/>
+			</fileset>
+		</copy>
+
+		<copy todir="${build.dist}/serverslibs">
+			<fileset dir="${lib}">
+				<include name="*.jar"/>
+				<exclude name="L2NT-Gameserver.jar"/>
+				<exclude name="7z.jar"/>
+			</fileset>
+		</copy>
+	</target>
+
+	<target name="dist" depends="authserver, gameserver">
+	</target>
+</project>

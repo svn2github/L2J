@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "item.dtd">
+<list>	
+<weapon id="36500" name="Резак Валакаса" add_name="Высшего Качества">
+		<set name="weight" value="1520"/>
+		<set name="type" value="SWORD"/>
+		<set name="ex_type" value="SWORD"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+        <skills>
+            <skill id="8901" level="1"/> <!-- Скилл Воина 2 лвл -->
+			<skill id="8890" level="1"/> <!-- Скилл *Защита* -->
+			<skill id="8896" level="1"/> <!-- Дыхание Валакаса -->
+			<skill id="8895" level="1"/> <!-- Хвост Антараса -->
+        </skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="2884"/>
+			<add stat="mAtk" order="0x10" value="1257"/>
+ 			<add stat="pAtkSpd" order="0x08" value="379"/>
+			<add stat="rCrit" order="0x08" value="80"/> <!-- Крит.Атк +8 -->
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon><!-- \\n<Предметное умение>\\nНаносимый урон в PvP +30%. HP/MP +100%, CP +200%, Скор. Атк. +1500. Шанс Физ. Крит. Атк. +500. Урон драконам +300%.\\n<Активные умения>\\n1. Защита: Скорость +100, неуязвимость для всех отрицательных эффектов. Время действия: 2 мин. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 10 мин.\\n2. Дыхание Валакаса: снижает на 90% Скор. Атк./ Скор. Маг./Скорость врагов, находящихся рядом, постепенно сковывает их и вызывает паралич. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 5 мин.\\n3. Метеор Валакаса: уменьшает количество СР у всех врагов, находящихся рядом. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 5 мин.\\n\0" -->
+	<weapon id="36501" name="Эспадон Валакаса" add_name="Высшего Качества">
+		<set name="weight" value="1740"/>
+		<set name="type" value="BIGSWORD"/>
+		<set name="ex_type" value="BIG_SWORD"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+        <skills>
+            <skill id="8901" level="1"/> <!-- Скилл Воина 2 лвл -->
+			<skill id="8890" level="1"/> <!-- Скилл *Защита* -->
+			<skill id="8896" level="1"/> <!-- Дыхание Валакаса -->
+			<skill id="8895" level="1"/> <!-- Хвост Антараса -->
+        </skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="3509"/>
+			<add stat="mAtk" order="0x10" value="1257"/>
+ 			<add stat="pAtkSpd" order="0x08" value="325"/>
+			<add stat="rCrit" order="0x08" value="80"/> <!-- Крит.Атк +8 -->
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon><!-- \\n<Предметное умение>\\nНаносимый урон в PvP +30%. HP/MP +100%, CP +200%, Скор. Атк. +1500. Шанс Физ. Крит. Атк. +500. Урон драконам +300%.\\n<Активные умения>\\n1. Защита: Скорость +100, неуязвимость для всех отрицательных эффектов. Время действия: 2 мин. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 10 мин.\\n2. Дыхание Валакаса: снижает на 90% Скор. Атк./ Скор. Маг./Скорость врагов, находящихся рядом, постепенно сковывает их и вызывает паралич. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 5 мин.\\n3. Метеор Валакаса: уменьшает количество СР у всех врагов, находящихся рядом. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 5 мин.\\n\0" -->
+	<weapon id="36502" name="Бросок Валакаса" add_name="Высшего Качества">
+		<set name="weight" value="1520"/>
+		<set name="type" value="BOW"/>
+		<set name="ex_type" value="BOW"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+        <skills>
+            <skill id="8901" level="1"/> <!-- Скилл Воина 2 лвл -->
+			<skill id="8890" level="1"/> <!-- Скилл *Защита* -->
+			<skill id="8896" level="1"/> <!-- Дыхание Валакаса -->
+			<skill id="8895" level="1"/> <!-- Хвост Антараса -->
+        </skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="5678"/>
+			<add stat="mAtk" order="0x10" value="1257"/>
+ 			<add stat="pAtkSpd" order="0x08" value="293"/>
+			<add stat="accCombat" order="0x10" value="-3.75"/> <!-- Точность -3.75 -->
+			<add stat="rCrit" order="0x08" value="120"/> <!-- Крит.Атк +12 -->
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon><!-- \\n<Предметное умение>\\nНаносимый урон в PvP +30%. HP/MP +100%, CP +200%, Скор. Атк. +1500. Шанс Физ. Крит. Атк. +500. Урон драконам +300%.\\n<Активные умения>\\n1. Защита: Скорость +100, неуязвимость для всех отрицательных эффектов. Время действия: 2 мин. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 10 мин.\\n2. Дыхание Валакаса: снижает на 90% Скор. Атк./ Скор. Маг./Скорость врагов, находящихся рядом, постепенно сковывает их и вызывает паралич. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 5 мин.\\n3. Метеор Валакаса: уменьшает количество СР у всех врагов, находящихся рядом. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 5 мин.\\n\0" -->
+	<weapon id="36503" name="Расчленитель Валакаса" add_name="Высшего Качества">
+		<set name="weight" value="1520"/>
+		<set name="type" value="SWORD"/>
+		<set name="ex_type" value="SWORD"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+        <skills>
+            <skill id="8903" level="1"/> <!-- Скилл Мага 2 лвл -->
+			<skill id="8890" level="1"/> <!-- Скилл *Защита* -->
+			<skill id="8896" level="1"/> <!-- Дыхание Валакаса -->
+			<skill id="8895" level="1"/> <!-- Хвост Антараса -->
+        </skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="2307"/>
+			<add stat="mAtk" order="0x10" value="1676"/>
+ 			<add stat="pAtkSpd" order="0x08" value="379"/>
+			<add stat="rCrit" order="0x08" value="80"/> <!-- Крит.Атк +8 -->
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon><!-- \\n<Предметное умение>\\nНаносимый урон в PvP +30%. HP/MP +100%, CP +200%, Скор. Маг. 1999. Шанс Маг. Крит. Атк. +500. Урон драконам +300%.\\n<Активные умения>\\n1. Защита: Скорость +100, неуязвимость для всех отрицательных эффектов. Время действия: 2 мин. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 10 мин.\\n2. Дыхание Валакаса: снижает на 90% Скор. Атк./ Скор. Маг./Скорость врагов, находящихся рядом, постепенно сковывает их и вызывает паралич. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 5 мин.\\n3. Метеор Валакаса: уменьшает количество СР у всех врагов, находящихся рядом. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 5 мин.\\n\0" -->
+	<weapon id="36504" name="Заклинатель Валакаса" add_name="Высшего Качества">
+		<set name="weight" value="1080"/>
+		<set name="type" value="BLUNT"/>
+		<set name="ex_type" value="BLUNT_WEAPON"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+        <skills>
+            <skill id="8903" level="1"/> <!-- Скилл Мага 2 лвл -->
+			<skill id="8890" level="1"/> <!-- Скилл *Защита* -->
+			<skill id="8896" level="1"/> <!-- Дыхание Валакаса -->
+			<skill id="8895" level="1"/> <!-- Хвост Антараса -->
+        </skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="2307"/>
+			<add stat="mAtk" order="0x10" value="1676"/>
+ 			<add stat="pAtkSpd" order="0x08" value="379"/>
+			<add stat="accCombat" order="0x10" value="8"/> <!-- Точность +8.0 -->
+			<add stat="rCrit" order="0x08" value="60"/> <!-- Крит.Атк +6 -->
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon><!-- \\n<Предметное умение>\\nНаносимый урон в PvP +30%. HP/MP +100%, CP +200%, Скор. Маг. 1999. Шанс Маг. Крит. Атк. +500. Урон драконам +300%.\\n<Активные умения>\\n1. Защита: Скорость +100, неуязвимость для всех отрицательных эффектов. Время действия: 2 мин. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 10 мин.\\n2. Дыхание Валакаса: снижает на 90% Скор. Атк./ Скор. Маг./Скорость врагов, находящихся рядом, постепенно сковывает их и вызывает паралич. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 5 мин.\\n3. Метеор Валакаса: уменьшает количество СР у всех врагов, находящихся рядом. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 5 мин.\\n\0" -->
+	<weapon id="36505" name="Возмездие Валакаса" add_name="Высшего Качества">
+		<set name="weight" value="1080"/>
+		<set name="type" value="BIGBLUNT"/>
+		<set name="ex_type" value="BIG_BLUNT_WEAPON"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+        <skills>
+            <skill id="8903" level="1"/> <!-- Скилл Мага 2 лвл -->
+			<skill id="8890" level="1"/> <!-- Скилл *Защита* -->
+			<skill id="8896" level="1"/> <!-- Дыхание Валакаса -->
+			<skill id="8895" level="1"/> <!-- Хвост Антараса -->
+        </skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="2809"/>
+			<add stat="mAtk" order="0x10" value="1843"/>
+ 			<add stat="pAtkSpd" order="0x08" value="325"/>
+			<add stat="accCombat" order="0x10" value="8"/> <!-- Точность +8.0 -->
+			<add stat="rCrit" order="0x08" value="60"/> <!-- Крит.Атк +6 -->
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon><!-- \\n<Предметное умение>\\nНаносимый урон в PvP +30%. HP/MP +100%, CP +200%, Скор. Маг. 1999. Шанс Маг. Крит. Атк. +500. Урон драконам +300%.\\n<Активные умения>\\n1. Защита: Скорость +100, неуязвимость для всех отрицательных эффектов. Время действия: 2 мин. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 10 мин.\\n2. Дыхание Валакаса: снижает на 90% Скор. Атк./ Скор. Маг./Скорость врагов, находящихся рядом, постепенно сковывает их и вызывает паралич. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 5 мин.\\n3. Метеор Валакаса: уменьшает количество СР у всех врагов, находящихся рядом. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 5 мин.\\n\0" -->
+	<weapon id="36506" name="Острие Линдвиора" add_name="Высшего Качества">
+		<set name="weight" value="1520"/>
+		<set name="type" value="DAGGER"/>
+		<set name="ex_type" value="DAGGER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+        <skills>
+            <skill id="8901" level="1"/> <!-- Скилл Воина 2 лвл -->
+			<skill id="8890" level="1"/> <!-- Скилл *Защита* -->
+			<skill id="8898" level="1"/> <!-- Дыхание Линдвиора -->
+			<skill id="8899" level="1"/> <!-- Взмах Крыльев Линдвиора -->
+        </skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="2523"/>
+			<add stat="mAtk" order="0x10" value="1257"/>
+ 			<add stat="pAtkSpd" order="0x08" value="433"/>
+			<add stat="accCombat" order="0x10" value="-3.75"/> <!-- Точность -3.75 -->
+			<add stat="rCrit" order="0x08" value="120"/> <!-- Крит.Атк +12 -->
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon><!-- \\n<Предметное умение>\\nНаносимый урон в PvP +30%. HP/MP +100%, CP +200%, Скор. Атк. +1500. Шанс Физ. Крит. Атк. +500. Урон драконам +300%.\\n<Активные умения>\\n1. Защита: Скорость +100, неуязвимость для всех отрицательных эффектов. Время действия: 2 мин. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 10 мин.\\n2. Дыхание Линдвиора: снижает на 90% Скор. Атк./ Скор. Маг./Скорость врагов, находящихся рядом, постепенно сковывает их и вызывает паралич. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 5 мин.\\n3. Крылья Линвиора: уменьшает количество СР у всех врагов, находящихся рядом. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 5 мин.\\n\0" -->
+	<weapon id="36507" name="Бросок Линдвиора" add_name="Высшего Качества">
+		<set name="weight" value="1520"/>
+		<set name="type" value="BOW"/>
+		<set name="ex_type" value="BOW"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="LEFT_RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+        <skills>
+            <skill id="8901" level="1"/> <!-- Скилл Воина 2 лвл -->
+			<skill id="8890" level="1"/> <!-- Скилл *Защита* -->
+			<skill id="8898" level="1"/> <!-- Дыхание Линдвиора -->
+			<skill id="8899" level="1"/> <!-- Взмах Крыльев Линдвиора -->
+        </skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="5678"/>
+			<add stat="mAtk" order="0x10" value="1257"/>
+ 			<add stat="pAtkSpd" order="0x08" value="293"/>
+			<add stat="accCombat" order="0x10" value="-3.75"/> <!-- Точность -3.75 -->
+			<add stat="rCrit" order="0x08" value="120"/> <!-- Крит.Атк +12 -->
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon><!-- \\n<Предметное умение>\\nНаносимый урон в PvP +30%. HP/MP +100%, CP +200%, Скор. Атк. +1500. Шанс Физ. Крит. Атк. +500. Урон драконам +300%.\\n<Активные умения>\\n1. Защита: Скорость +100, неуязвимость для всех отрицательных эффектов. Время действия: 2 мин. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 10 мин.\\n2. Дыхание Линдвиора: снижает на 90% Скор. Атк./ Скор. Маг./Скорость врагов, находящихся рядом, постепенно сковывает их и вызывает паралич. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 5 мин.\\n3. Крылья Линвиора: уменьшает количество СР у всех врагов, находящихся рядом. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 5 мин.\\n\0" -->
+	<weapon id="36508" name="Эспадон Линдвиора" add_name="Высшего Качества">
+		<set name="weight" value="1740"/>
+		<set name="type" value="BIGSWORD"/>
+		<set name="ex_type" value="BIG_SWORD"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+        <skills>
+            <skill id="8901" level="1"/> <!-- Скилл Воина 2 лвл -->
+			<skill id="8890" level="1"/> <!-- Скилл *Защита* -->
+			<skill id="8898" level="1"/> <!-- Дыхание Линдвиора -->
+			<skill id="8899" level="1"/> <!-- Взмах Крыльев Линдвиора -->
+        </skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="3509"/>
+			<add stat="mAtk" order="0x10" value="1257"/>
+ 			<add stat="pAtkSpd" order="0x08" value="325"/>
+			<add stat="rCrit" order="0x08" value="80"/> <!-- Крит.Атк +8 -->
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon><!-- \\n<Предметное умение>\\nНаносимый урон в PvP +30%. HP/MP +100%, CP +200%, Скор. Атк. +1500. Шанс Физ. Крит. Атк. +500. Урон драконам +300%.\\n<Активные умения>\\n1. Защита: Скорость +100, неуязвимость для всех отрицательных эффектов. Время действия: 2 мин. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 10 мин.\\n2. Дыхание Линдвиора: снижает на 90% Скор. Атк./ Скор. Маг./Скорость врагов, находящихся рядом, постепенно сковывает их и вызывает паралич. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 5 мин.\\n3. Крылья Линвиора: уменьшает количество СР у всех врагов, находящихся рядом. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 5 мин.\\n\0" -->
+	<weapon id="36509" name="Заклинатель Линдвиора" add_name="Высшего Качества">
+		<set name="weight" value="1520"/>
+		<set name="type" value="BLUNT"/>
+		<set name="ex_type" value="BLUNT_WEAPON"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+        <skills>
+            <skill id="8903" level="1"/> <!-- Скилл Мага 2 лвл -->
+			<skill id="8890" level="1"/> <!-- Скилл *Защита* -->
+			<skill id="8898" level="1"/> <!-- Дыхание Линдвиора -->
+			<skill id="8899" level="1"/> <!-- Взмах Крыльев Линдвиора -->
+        </skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="2307"/>
+			<add stat="mAtk" order="0x10" value="1676"/>
+ 			<add stat="pAtkSpd" order="0x08" value="379"/>
+			<add stat="rCrit" order="0x08" value="80"/> <!-- Крит.Атк +8 -->
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon><!-- \\n<Предметное умение>\\nНаносимый урон в PvP +30%. HP/MP +100%, CP +200%, Скор. Маг. 1999. Шанс Маг. Крит. Атк. +500. Урон драконам +300%.\\n<Активные умения>\\n1. Защита: Скорость +100, неуязвимость для всех отрицательных эффектов. Время действия: 2 мин. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 10 мин.\\n2. Дыхание Линдвиора: снижает на 90% Скор. Атк./ Скор. Маг./Скорость врагов, находящихся рядом, постепенно сковывает их и вызывает паралич. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 5 мин.\\n3. Крылья Линвиора: уменьшает количество СР у всех врагов, находящихся рядом. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 5 мин.\\n\0" -->
+	<weapon id="36510" name="Резак Линдвиора" add_name="Высшего Качества">
+		<set name="weight" value="1520"/>
+		<set name="type" value="SWORD"/>
+		<set name="ex_type" value="SWORD"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+        <skills>
+            <skill id="8901" level="1"/> <!-- Скилл Воина 2 лвл -->
+			<skill id="8890" level="1"/> <!-- Скилл *Защита* -->
+			<skill id="8898" level="1"/> <!-- Дыхание Линдвиора -->
+			<skill id="8899" level="1"/> <!-- Взмах Крыльев Линдвиора -->
+        </skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="2884"/>
+			<add stat="mAtk" order="0x10" value="1257"/>
+ 			<add stat="pAtkSpd" order="0x08" value="379"/>
+			<add stat="rCrit" order="0x08" value="80"/> <!-- Крит.Атк +8 -->
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon><!-- \\n<Предметное умение>\\nНаносимый урон в PvP +30%. HP/MP +100%, CP +200%, Скор. Атк. +1500. Шанс Физ. Крит. Атк. +500. Урон драконам +300%.\\n<Активные умения>\\n1. Защита: Скорость +100, неуязвимость для всех отрицательных эффектов. Время действия: 2 мин. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 10 мин.\\n2. Дыхание Линдвиора: снижает на 90% Скор. Атк./ Скор. Маг./Скорость врагов, находящихся рядом, постепенно сковывает их и вызывает паралич. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 5 мин.\\n3. Крылья Линвиора: уменьшает количество СР у всех врагов, находящихся рядом. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 5 мин.\\n\0" -->
+	<weapon id="36511" name="Страж Линдвиора" add_name="Высшего Качества">
+		<set name="weight" value="1580"/>
+		<set name="type" value="CROSSBOW"/>
+		<set name="ex_type" value="CROSSBOW"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+        <skills>
+            <skill id="8901" level="1"/> <!-- Скилл Воина 2 лвл -->
+			<skill id="8890" level="1"/> <!-- Скилл *Защита* -->
+			<skill id="8898" level="1"/> <!-- Дыхание Линдвиора -->
+			<skill id="8899" level="1"/> <!-- Взмах Крыльев Линдвиора -->
+        </skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="5678"/>
+			<add stat="mAtk" order="0x10" value="1257"/>
+ 			<add stat="pAtkSpd" order="0x08" value="325"/>
+			<add stat="accCombat" order="0x10" value="-3.75"/> <!-- Точность -3.75 -->
+			<add stat="rCrit" order="0x08" value="120"/> <!-- Крит.Атк +12 -->
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon><!-- \\n<Предметное умение>\\nНаносимый урон в PvP +30%. HP/MP +100%, CP +200%, Скор. Атк. +1500. Шанс Физ. Крит. Атк. +500. Урон драконам +300%.\\n<Активные умения>\\n1. Защита: Скорость +100, неуязвимость для всех отрицательных эффектов. Время действия: 2 мин. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 10 мин.\\n2. Дыхание Линдвиора: снижает на 90% Скор. Атк./ Скор. Маг./Скорость врагов, находящихся рядом, постепенно сковывает их и вызывает паралич. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 5 мин.\\n3. Крылья Линвиора: уменьшает количество СР у всех врагов, находящихся рядом. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 5 мин.\\n\0" -->
+	<weapon id="36512" name="Парные Кинжалы Линдвиора" add_name="Высшего Качества">
+		<set name="weight" value="2050"/>
+		<set name="type" value="DUALDAGGER"/>
+		<set name="ex_type" value="DUAL_DAGGER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="LEFT_RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+        <skills>
+            <skill id="8901" level="1"/> <!-- Скилл Воина 2 лвл -->
+			<skill id="8890" level="1"/> <!-- Скилл *Защита* -->
+			<skill id="8898" level="1"/> <!-- Дыхание Линдвиора -->
+			<skill id="8899" level="1"/> <!-- Взмах Крыльев Линдвиора -->
+        </skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="2523"/>
+			<add stat="mAtk" order="0x10" value="1257"/>
+ 			<add stat="pAtkSpd" order="0x08" value="433"/>
+			<add stat="accCombat" order="0x10" value="-3.75"/> <!-- Точность -3.75 -->
+			<add stat="rCrit" order="0x08" value="120"/> <!-- Крит.Атк +12 -->
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon><!-- \\n<Предметное умение>\\nНаносимый урон в PvP +30%. HP/MP +100%, CP +200%, Скор. Атк. +1500. Шанс Физ. Крит. Атк. +500. Урон драконам +300%.\\n<Активные умения>\\n1. Защита: Скорость +100, неуязвимость для всех отрицательных эффектов. Время действия: 2 мин. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 10 мин.\\n2. Дыхание Линдвиора: снижает на 90% Скор. Атк./ Скор. Маг./Скорость врагов, находящихся рядом, постепенно сковывает их и вызывает паралич. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 5 мин.\\n3. Крылья Линвиора: уменьшает количество СР у всех врагов, находящихся рядом. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 5 мин.\\n\0" -->
+</list>

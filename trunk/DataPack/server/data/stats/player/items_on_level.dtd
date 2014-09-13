@@ -1,0 +1,8 @@
+<!ELEMENT list (survey)*>
+    <!ELEMENT survey (item)*>
+    <!ATTLIST survey
+        level CDATA #REQUIRED>
+    <!ELEMENT item (#PCDATA)>
+    <!ATTLIST item
+        id CDATA #REQUIRED
+        count CDATA #REQUIRED>

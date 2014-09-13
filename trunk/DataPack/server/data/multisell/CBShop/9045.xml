@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list maintainEnchantment="true">
+  <item id="4">
+    <ingredient id="13419" count="1"/>
+    <production id="919" count="1"/>
+    <production id="857" count="1"/>
+    <production id="857" count="1"/>
+    <production id="888" count="1"/>
+    <production id="888" count="1"/>
+  </item>
+  <item id="5">
+    <ingredient id="13419" count="1"/>
+    <production id="119" count="1"/>
+    <production id="854" count="1"/>
+    <production id="854" count="1"/>
+    <production id="886" count="1"/>
+    <production id="886" count="1"/>
+  </item>
+  <item id="6">
+    <ingredient id="13419" count="1"/>
+    <production id="916" count="1"/>
+    <production id="853" count="1"/>
+    <production id="853" count="1"/>
+    <production id="884" count="1"/>
+    <production id="884" count="1"/>
+  </item>
+</list>

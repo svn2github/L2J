@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "../../dtd/item.dtd">
+<!--
+	Done by: Mifesto
+	Team: MMORPG-TEAM.COM
+-->
+<list>
+	<!--
+		Название: Оскал Венеры - Артефакт Дружбы - Время действия: 90 дн.
+		Описание : Эксклюзивное оружие Камаэль\\nШанс Крит. Атк. +131. Наносит дополнительный урон в PvP. Нельзя обменят/выбросить. Можно уничтожить. Можно положить в личное хранилище. Можно придать свойства стихий.\0
+	-->
+	<weapon id="23106" name="Оскал Венеры - Артефакт Дружбы" add_name="Время действия: 90 дн.">
+		<set name="icon" value="icon.weapon_vesper_nagen_i01"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="1800"/>
+		<set name="destroyable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="true"/>
+		<set name="augmentable" value="false"/>
+		<set name="enchantable" value="false"/>
+		<set name="attributable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="crystal_type" value="S80"/>
+		<set name="durability" value="129600"/>
+		<set name="temporal" value="true"/>
+		<set name="rnd_dam" value="15"/>
+		<set name="atk_range" value="40"/>
+		<equip>
+			<slot id="LEFT_RIGHT_HAND"/>
+		</equip>
+	</weapon>
+	<!--
+		Название: Шлем Верпеса - Артефакт Дружбы - Время действия: 90 дн.
+		Описание : Нельзя обменят/выбросить. Можно уничтожить. Можно положить в личное хранилище.\0
+	-->
+	<armor id="23107" name="Шлем Верпеса - Артефакт Дружбы" add_name="Время действия: 90 дн.">
+		<set name="icon" value="icon.armor_helmet_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="530"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="crystallizable" value="true"/>
+		<set name="crystal_type" value="S80"/>
+		<equip>
+			<slot id="HEAD"/>
+		</equip>
+	</armor>
+	<!--
+		Название: Кожаный Шлем Верпеса - Артефакт Дружбы - Время действия: 90 дн.
+		Описание : Нельзя обменят/выбросить. Можно уничтожить. Можно положить в личное хранилище.\0
+	-->
+	<armor id="23108" name="Кожаный Шлем Верпеса - Артефакт Дружбы" add_name="Время действия: 90 дн.">
+		<set name="icon" value="icon.armor_leather_helmet_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="530"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="crystallizable" value="true"/>
+		<set name="crystal_type" value="S80"/>
+		<equip>
+			<slot id="HEAD"/>
+		</equip>
+	</armor>
+	<!--
+		Название: Диадема Верпеса - Артефакт Дружбы - Время действия: 90 дн.
+		Описание : Нельзя обменят/выбросить. Можно уничтожить. Можно положить в личное хранилище.\0
+	-->
+	<armor id="23109" name="Диадема Верпеса - Артефакт Дружбы" add_name="Время действия: 90 дн.">
+		<set name="icon" value="icon.armor_circlet_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="530"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="crystallizable" value="true"/>
+		<set name="crystal_type" value="S80"/>
+		<equip>
+			<slot id="HEAD"/>
+		</equip>
+	</armor>
+	<!--
+		Название: Кираса Верпеса - Артефакт Дружбы - Время действия: 90 дн.
+		Описание : Нельзя обменят/выбросить. Можно уничтожить. Можно положить в личное хранилище.\0
+	-->
+	<armor id="23110" name="Кираса Верпеса - Артефакт Дружбы" add_name="Время действия: 90 дн.">
+		<set name="icon" value="icon.armor_t94_u_i03"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="7520"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="crystallizable" value="true"/>
+		<set name="crystal_type" value="S80"/>
+		<equip>
+			<slot id="CHEST"/>
+		</equip>
+	</armor>
+	<!--
+		Название: Кожаная Кираса Верпеса - Артефакт Дружбы - Время действия: 90 дн.
+		Описание : Нельзя обменят/выбросить. Можно уничтожить. Можно положить в личное хранилище.\0
+	-->
+	<armor id="23111" name="Кожаная Кираса Верпеса - Артефакт Дружбы" add_name="Время действия: 90 дн.">
+		<set name="icon" value="icon.armor_t95_u_i03"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="4140"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="crystallizable" value="true"/>
+		<set name="crystal_type" value="S80"/>
+		<equip>
+			<slot id="CHEST"/>
+		</equip>
+	</armor>
+	<!--
+		Название: Туника Верпеса - Артефакт Дружбы - Время действия: 90 дн.
+		Описание : Нельзя обменят/выбросить. Можно уничтожить. Можно положить в личное хранилище.\0
+	-->
+	<armor id="23112" name="Туника Верпеса - Артефакт Дружбы" add_name="Время действия: 90 дн.">
+		<set name="icon" value="icon.armor_t96_u_i03"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="1750"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="crystallizable" value="true"/>
+		<set name="crystal_type" value="S80"/>
+		<equip>
+			<slot id="CHEST"/>
+		</equip>
+		<for>
+			<add stat="maxMp" order="0x10" value="649.0"/>
+		</for>
+	</armor>
+	<!--
+		Название: Набедренники Верпеса - Артефакт Дружбы - Время действия: 90 дн.
+		Описание : Нельзя обменят/выбросить. Можно уничтожить. Можно положить в личное хранилище.\0
+	-->
+	<armor id="23113" name="Набедренники Верпеса - Артефакт Дружбы" add_name="Время действия: 90 дн.">
+		<set name="icon" value="icon.armor_t94_l_i03"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="3170"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="crystallizable" value="true"/>
+		<set name="crystal_type" value="S80"/>
+		<equip>
+			<slot id="LEGS"/>
+		</equip>
+	</armor>
+	<!--
+		Название: Кожаные Брюки Верпеса - Артефакт Дружбы - Время действия: 90 дн.
+		Описание : Нельзя обменят/выбросить. Можно уничтожить. Можно положить в личное хранилище.\0
+	-->
+	<armor id="23114" name="Кожаные Брюки Верпеса - Артефакт Дружбы" add_name="Время действия: 90 дн.">
+		<set name="icon" value="icon.armor_t95_l_i03"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="1320"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="crystallizable" value="true"/>
+		<set name="crystal_type" value="S80"/>
+		<equip>
+			<slot id="LEGS"/>
+		</equip>
+	</armor>
+	<!--
+		Название: Штаны Верпеса - Артефакт Дружбы - Время действия: 90 дн.
+		Описание : Нельзя обменят/выбросить. Можно уничтожить. Можно положить в личное хранилище.\0
+	-->
+	<armor id="23115" name="Штаны Верпеса - Артефакт Дружбы" add_name="Время действия: 90 дн.">
+		<set name="icon" value="icon.armor_t96_l_i03"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="850"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="crystallizable" value="true"/>
+		<set name="crystal_type" value="S80"/>
+		<equip>
+			<slot id="LEGS"/>
+		</equip>
+		<for>
+			<add stat="maxMp" order="0x10" value="427.0"/>
+		</for>
+	</armor>
+	<!--
+		Название: Рукавицы Верпеса - Артефакт Дружбы - Время действия: 90 дн.
+		Описание : Нельзя обменят/выбросить. Можно уничтожить. Можно положить в личное хранилище.\0
+	-->
+	<armor id="23116" name="Рукавицы Верпеса - Артефакт Дружбы" add_name="Время действия: 90 дн.">
+		<set name="icon" value="icon.armor_t94_g_i03"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="510"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="crystallizable" value="true"/>
+		<set name="crystal_type" value="S80"/>
+		<equip>
+			<slot id="GLOVES"/>
+		</equip>
+	</armor>
+	<!--
+		Название: Кожаные Перчатки - Артефакт Дружбы - Время действия: 90 дн.
+		Описание : Нельзя обменят/выбросить. Можно уничтожить. Можно положить в личное хранилище.\0
+	-->
+	<armor id="23117" name="Кожаные Перчатки - Артефакт Дружбы" add_name="Время действия: 90 дн.">
+		<set name="icon" value="icon.armor_t95_g_i03"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="510"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="crystallizable" value="true"/>
+		<set name="crystal_type" value="S80"/>
+		<equip>
+			<slot id="GLOVES"/>
+		</equip>
+	</armor>
+	<!--
+		Название: Перчатки Верпеса - Артефакт Дружбы - Время действия: 90 дн.
+		Описание : Нельзя обменят/выбросить. Можно уничтожить. Можно положить в личное хранилище.\0
+	-->
+	<armor id="23118" name="Перчатки Верпеса - Артефакт Дружбы" add_name="Время действия: 90 дн.">
+		<set name="icon" value="icon.armor_t96_g_i03"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="510"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="crystallizable" value="true"/>
+		<set name="crystal_type" value="S80"/>
+		<equip>
+			<slot id="GLOVES"/>
+		</equip>
+	</armor>
+	<!--
+		Название: Сапоги Верпеса - Артефакт Дружбы - Время действия: 90 дн.
+		Описание : Нельзя обменят/выбросить. Можно уничтожить. Можно положить в личное хранилище.\0
+	-->
+	<armor id="23119" name="Сапоги Верпеса - Артефакт Дружбы" add_name="Время действия: 90 дн.">
+		<set name="icon" value="icon.armor_t94_b_i03"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="1070"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="crystallizable" value="true"/>
+		<set name="crystal_type" value="S80"/>
+		<equip>
+			<slot id="FEET"/>
+		</equip>
+	</armor>
+	<!--
+		Название: Кожаные Сапоги Верпеса - Артефакт Дружбы - Время действия: 90 дн.
+		Описание : Нельзя обменят/выбросить. Можно уничтожить. Можно положить в личное хранилище.\0
+	-->
+	<armor id="23120" name="Кожаные Сапоги Верпеса - Артефакт Дружбы" add_name="Время действия: 90 дн.">
+		<set name="icon" value="icon.armor_t95_b_i03"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="1070"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="crystallizable" value="true"/>
+		<set name="crystal_type" value="S80"/>
+		<equip>
+			<slot id="FEET"/>
+		</equip>
+	</armor>
+	<!--
+		Название: Ботинки Верпеса - Артефакт Дружбы - Время действия: 90 дн.
+		Описание : Нельзя обменят/выбросить. Можно уничтожить. Можно положить в личное хранилище.\0
+	-->
+	<armor id="23121" name="Ботинки Верпеса - Артефакт Дружбы" add_name="Время действия: 90 дн.">
+		<set name="icon" value="icon.armor_t96_b_i03"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="1070"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="crystallizable" value="true"/>
+		<set name="crystal_type" value="S80"/>
+		<equip>
+			<slot id="FEET"/>
+		</equip>
+	</armor>
+	<!--
+		Название: Символ Дестино - Артефакт Дружбы - Время действия: 90 дн.
+		Описание : Нельзя обменят/выбросить. Можно уничтожить. Можно положить в личное хранилище.\0
+	-->
+	<armor id="23123" name="Символ Дестино - Артефакт Дружбы" add_name="Время действия: 90 дн.">
+		<set name="icon" value="icon.belleface_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="920"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="crystallizable" value="true"/>
+		<set name="crystal_type" value="S80"/>
+		<equip>
+			<slot id="LEFT_HAND"/>
+		</equip>
+	</armor>
+	<!--
+		Название: Упаковка: Комплект Тяжелых Доспехов Верпеса(S80) - Артефакт Дружбы - Время действия: 90 дн.
+		Описание : Используется, чтобы получить комплект тяжелых доспехов Верпеса - Артефакт Дружбы. Если не использовать, то исчезает через 90 дней. Нельзя обменят/выбросить. Можно уничтожить. Можно положить в личное хранилище.\0
+	-->
+	<etcitem id="23124" name="Упаковка: Комплект Тяжелых Доспехов Верпеса(S80) - Артефакт Дружбы" add_name="Время действия: 90 дн.">
+		<set name="icon" value="icon.etc_equip_item_box_i02"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="100"/>
+		<set name="destroyable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="augmentable" value="false"/>
+		<set name="enchantable" value="false"/>
+		<set name="attributable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+	</etcitem>
+	<!--
+		Название: Упаковка: Комплект Легких Доспехов Верпеса(S80) - Артефакт Дружбы - Время действия: 90 дн.
+		Описание : Используется, чтобы получить комплект легких доспехов Верпеса - Артефакт Дружбы. Если не использовать, то исчезает через 90 дней. Нельзя обменят/выбросить. Можно уничтожить. Можно положить в личное хранилище.\0
+	-->
+	<etcitem id="23125" name="Упаковка: Комплект Легких Доспехов Верпеса(S80) - Артефакт Дружбы" add_name="Время действия: 90 дн.">
+		<set name="icon" value="icon.etc_equip_item_box_i02"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="100"/>
+		<set name="destroyable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="augmentable" value="false"/>
+		<set name="enchantable" value="false"/>
+		<set name="attributable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+	</etcitem>
+	<!--
+		Название: Упаковка: Комплект Мантии Верпеса(S80) - Артефакт Дружбы - Время действия: 90 дн.
+		Описание : Используется, чтобы получить комплект мантии Верпеса - Артефакт Дружбы. Если не использовать, то исчезает через 90 дней. Нельзя обменят/выбросить. Можно уничтожить. Можно положить в личное хранилище.\0
+	-->
+	<etcitem id="23126" name="Упаковка: Комплект Мантии Верпеса(S80) - Артефакт Дружбы" add_name="Время действия: 90 дн.">
+		<set name="icon" value="icon.etc_equip_item_box_i02"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="100"/>
+		<set name="destroyable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="augmentable" value="false"/>
+		<set name="enchantable" value="false"/>
+		<set name="attributable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+	</etcitem>
+	<!--
+		Название: Сундук Доспехов - S80 (90 дн.)
+		Описание : Двойной щелчок по предмету, чтобы получить доспехи Артефакта дружбы ранга S80(90 дней). Нельзя обменят/выбросить. Можно уничтожить. Можно положить в личное хранилище.\0
+	-->
+	<etcitem id="23127" name="Сундук Доспехов - S80 (90 дн.)">
+		<set name="icon" value="BranchSys.icon.br_four_leaf_clover_box_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="100"/>
+		<set name="destroyable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="augmentable" value="false"/>
+		<set name="enchantable" value="false"/>
+		<set name="attributable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+	<!--
+		Название: Сундук Оружия - S80 (90 дн.)
+		Описание : Двойной щелчок по предмету, чтобы получить оружие Артефакта дружбы ранга S80(90 дней). Нельзя обменят/выбросить. Можно уничтожить. Можно положить в личное хранилище.\0
+	-->
+	<etcitem id="23128" name="Сундук Оружия - S80 (90 дн.)">
+		<set name="icon" value="BranchSys.icon.br_four_leaf_clover_box_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="100"/>
+		<set name="destroyable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="augmentable" value="false"/>
+		<set name="enchantable" value="false"/>
+		<set name="attributable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+	<!--
+		Название: Сундук Аксессуаров - S80 (90 дн.)
+		Описание : Двойной щелчок по предмету, чтобы получить аксессуары Артефакта дружбы ранга S80(90 дней). Нельзя обменят/выбросить. Можно уничтожить. Можно положить в личное хранилище.\0
+	-->
+	<etcitem id="23129" name="Сундук Аксессуаров - S80 (90 дн.)">
+		<set name="icon" value="BranchSys.icon.br_four_leaf_clover_box_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="100"/>
+		<set name="destroyable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="augmentable" value="false"/>
+		<set name="enchantable" value="false"/>
+		<set name="attributable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+	<!--
+		Название: Кольцо Верпеса - Артефакт Дружбы - Время действия: 90 дн.
+		Описание : MP +26. Нельзя обменят/выбросить. Можно уничтожить. Можно положить в личное хранилище.\0
+	-->
+	<armor id="23130" name="Кольцо Верпеса - Артефакт Дружбы" add_name="Время действия: 90 дн.">
+		<set name="icon" value="icon.accessary_ponshrnoen_ring_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="150"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="crystallizable" value="true"/>
+		<set name="crystal_type" value="S80"/>
+		<equip>
+			<slot id="RIGHT_FINGER"/>
+			<slot id="LEFT_FINGER"/>
+		</equip>
+		<for>
+			<add stat="maxMp" order="0x10" value="26.0"/>
+			<enchant stat="mDef" order="0x0C" value="0"/>
+		</for>
+	</armor>
+	<!--
+		Название: Серьга Верпеса - Артефакт Дружбы - Время действия: 90 дн.
+		Описание : MP +38. Нельзя обменят/выбросить. Можно уничтожить. Можно положить в личное хранилище.\0
+	-->
+	<armor id="23131" name="Серьга Верпеса - Артефакт Дружбы" add_name="Время действия: 90 дн.">
+		<set name="icon" value="icon.accessary_ponshrnoen_earring_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="150"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="crystallizable" value="true"/>
+		<set name="crystal_type" value="S80"/>
+		<equip>
+			<slot id="RIGHT_EAR"/>
+			<slot id="LEFT_EAR"/>
+		</equip>
+		<for>
+			<add stat="maxMp" order="0x10" value="38.0"/>
+			<enchant stat="mDef" order="0x0C" value="0"/>
+		</for>
+	</armor>
+	<!--
+		Название: Ожерелье Верпеса - Артефакт Дружбы - Время действия: 90 дн.
+		Описание : MP +51. Нельзя обменят/выбросить. Можно уничтожить. Можно положить в личное хранилище.\0
+	-->
+	<armor id="23132" name="Ожерелье Верпеса - Артефакт Дружбы" add_name="Время действия: 90 дн.">
+		<set name="icon" value="icon.accessary_ponshrnoen_necklace_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="150"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="crystallizable" value="true"/>
+		<set name="crystal_type" value="S80"/>
+		<equip>
+			<slot id="NECKLACE"/>
+		</equip>
+		<for>
+			<add stat="maxMp" order="0x10" value="51.0"/>
+			<enchant stat="mDef" order="0x0C" value="0"/>
+		</for>
+	</armor>
+	<!--
+		Название: Смена пола
+		Описание : Предмет Утвари. Используется в Северной Америке.\0
+	-->
+	<etcitem id="23133" name="Смена пола">
+		<set name="icon" value="BranchSys.icon.br_four_leaf_clover_box_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="100"/>
+		<set name="destroyable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="augmentable" value="false"/>
+		<set name="enchantable" value="false"/>
+		<set name="attributable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+	<!--
+		Название: Смена имени
+		Описание : Предмет Утвари. Используется в Северной Америке.\0
+	-->
+	<etcitem id="23134" name="Смена имени">
+		<set name="icon" value="BranchSys.icon.br_four_leaf_clover_box_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="100"/>
+		<set name="destroyable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="augmentable" value="false"/>
+		<set name="enchantable" value="false"/>
+		<set name="attributable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+	<!--
+		Название: Повторное перерождение
+		Описание : Предмет Утвари. Используется в Северной Америке.\0
+	-->
+	<etcitem id="23135" name="Повторное перерождение">
+		<set name="icon" value="BranchSys.icon.br_four_leaf_clover_box_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="100"/>
+		<set name="destroyable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="augmentable" value="false"/>
+		<set name="enchantable" value="false"/>
+		<set name="attributable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+</list>

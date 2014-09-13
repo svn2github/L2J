@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<skill id="14093" levels="5" name="Sakum Follower Blow" >
+		<table name="#mpConsume">24 25 26 27 28</table>
+		<set name="target" val="TARGET_ONE" />
+		<set name="skillType" val="PDAM" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="mpConsume" val="#mpConsume" />
+		<set name="hitTime" val="1500" />
+		<set name="magicLevel" val="38" />
+		<set name="reuseDelay" val="2000" />
+		<set name="castRange" val="80" />
+		<set name="power" val="150" /> <!-- TODO: С потолка -->
+	</skill>
+	<skill id="14094" levels="5" name="Sakum Follower Blow" >
+		<table name="#mpConsume">24 25 26 27 28</table>
+		<set name="target" val="TARGET_ONE" />
+		<set name="skillType" val="PDAM" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="mpConsume" val="#mpConsume" />
+		<set name="hitTime" val="1500" />
+		<set name="reuseDelay" val="2000" />
+		<set name="castRange" val="80" />
+		<set name="magicLevel" val="38" />
+		<set name="power" val="150" /> <!-- TODO: С потолка -->
+	</skill>
+	<skill id="14095" levels="1" name="Sakum Chaos" >
+		<set name="target" val="TARGET_ONE" />
+		<set name="skillType" val="DEBUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="mpConsume" val="38" />
+		<set name="hitTime" val="1500" />
+		<set name="reuseDelay" val="2000" />
+		<set name="castRange" val="80" />
+		<set name="magicLevel" val="38" />
+		<set name="power" val="150" /> <!-- TODO: С потолка -->
+	</skill>
+	<skill id="14096" levels="1" name="Sakum Feeler Blow" >
+		<set name="target" val="TARGET_ONE" />
+		<set name="skillType" val="DEBUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="mpConsume" val="38" />
+		<set name="hitTime" val="1500" />
+		<set name="reuseDelay" val="2000" />
+		<set name="castRange" val="80" />
+		<set name="magicLevel" val="38" />
+		<set name="power" val="150" /> <!-- TODO: С потолка -->
+	</skill>
+</list>

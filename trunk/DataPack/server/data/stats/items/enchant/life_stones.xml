@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "enchant_items.dtd">
+<!-- Автор: ALF (Чипаченко Е.Г.) -->
+<!--
+	id - айди итема
+	level - миниммальный уровень персонажа для юзания ЛСа
+	grade - тип ЛСа [LOW] [MIDDLE] [HIGHT] [TOP] [ACCESSORY] [FORGOTTEN] [UNDERWEAR]
+-->
+<list>
+    <life_stone id="8723" level="46" grade="LOW" />
+    <life_stone id="8724" level="49" grade="LOW" />
+    <life_stone id="8725" level="52" grade="LOW" />
+    <life_stone id="8726" level="55" grade="LOW" />
+    <life_stone id="8727" level="58" grade="LOW" />
+    <life_stone id="8728" level="61" grade="LOW" />
+    <life_stone id="8729" level="64" grade="LOW" />
+    <life_stone id="8730" level="67" grade="LOW" />
+    <life_stone id="8731" level="70" grade="LOW" />
+    <life_stone id="8732" level="76" grade="LOW" />
+
+    <life_stone id="8733" level="46" grade="MIDDLE" />
+    <life_stone id="8734" level="49" grade="MIDDLE" />
+    <life_stone id="8735" level="52" grade="MIDDLE" />
+    <life_stone id="8736" level="55" grade="MIDDLE" />
+    <life_stone id="8737" level="58" grade="MIDDLE" />
+    <life_stone id="8738" level="61" grade="MIDDLE" />
+    <life_stone id="8739" level="64" grade="MIDDLE" />
+    <life_stone id="8740" level="67" grade="MIDDLE" />
+    <life_stone id="8741" level="70" grade="MIDDLE" />
+    <life_stone id="8742" level="76" grade="MIDDLE" />
+
+    <life_stone id="8743" level="46" grade="HIGHT" />
+    <life_stone id="8744" level="49" grade="HIGHT" />
+    <life_stone id="8745" level="52" grade="HIGHT" />
+    <life_stone id="8746" level="55" grade="HIGHT" />
+    <life_stone id="8747" level="58" grade="HIGHT" />
+    <life_stone id="8748" level="61" grade="HIGHT" />
+    <life_stone id="8749" level="64" grade="HIGHT" />
+    <life_stone id="8750" level="67" grade="HIGHT" />
+    <life_stone id="8751" level="70" grade="HIGHT" />
+    <life_stone id="8752" level="76" grade="HIGHT" />
+
+    <life_stone id="8753" level="46" grade="TOP" />
+    <life_stone id="8754" level="49" grade="TOP" />
+    <life_stone id="8755" level="52" grade="TOP" />
+    <life_stone id="8756" level="55" grade="TOP" />
+    <life_stone id="8757" level="58" grade="TOP" />
+    <life_stone id="8758" level="61" grade="TOP" />
+    <life_stone id="8759" level="64" grade="TOP" />
+    <life_stone id="8760" level="67" grade="TOP" />
+    <life_stone id="8761" level="70" grade="TOP" />
+    <life_stone id="8762" level="76" grade="TOP" />
+
+    <life_stone id="9573" level="80" grade="LOW" />
+    <life_stone id="9574" level="80" grade="MIDDLE" />
+    <life_stone id="9575" level="80" grade="HIGHT" />
+    <life_stone id="9576" level="80" grade="TOP" />
+
+    <life_stone id="10483" level="82" grade="LOW" />
+    <life_stone id="10483" level="82" grade="MIDDLE" />
+    <life_stone id="10483" level="82" grade="HIGHT" />
+    <life_stone id="10483" level="82" grade="TOP" />
+
+    <life_stone id="12754" level="46" grade="ACCESSORY" />
+    <life_stone id="12755" level="49" grade="ACCESSORY" />
+    <life_stone id="12756" level="52" grade="ACCESSORY" />
+    <life_stone id="12757" level="55" grade="ACCESSORY" />
+    <life_stone id="12758" level="58" grade="ACCESSORY" />
+    <life_stone id="12759" level="61" grade="ACCESSORY" />
+    <life_stone id="12760" level="64" grade="ACCESSORY" />
+    <life_stone id="12761" level="67" grade="ACCESSORY" />
+    <life_stone id="12762" level="70" grade="ACCESSORY" />
+    <life_stone id="12763" level="76" grade="ACCESSORY" />
+
+    <life_stone id="12821" level="80" grade="ACCESSORY" />
+    <life_stone id="12822" level="82" grade="ACCESSORY" />
+
+    <life_stone id="12840" level="46" grade="ACCESSORY" />
+    <life_stone id="12841" level="49" grade="ACCESSORY" />
+    <life_stone id="12842" level="52" grade="ACCESSORY" />
+    <life_stone id="12843" level="55" grade="ACCESSORY" />
+    <life_stone id="12844" level="58" grade="ACCESSORY" />
+    <life_stone id="12845" level="61" grade="ACCESSORY" />
+    <life_stone id="12846" level="64" grade="ACCESSORY" />
+    <life_stone id="12847" level="67" grade="ACCESSORY" />
+    <life_stone id="12848" level="70" grade="ACCESSORY" />
+    <life_stone id="12849" level="76" grade="ACCESSORY" />
+    <life_stone id="12850" level="80" grade="ACCESSORY" />
+    <life_stone id="12851" level="82" grade="ACCESSORY" />
+
+    <life_stone id="14008" level="84" grade="ACCESSORY" />
+
+    <life_stone id="14166" level="84" grade="LOW" />
+    <life_stone id="14167" level="84" grade="MIDDLE" />
+    <life_stone id="14168" level="84" grade="HIGHT" />
+    <life_stone id="14169" level="84" grade="TOP" />
+
+    <life_stone id="16160" level="85" grade="LOW" />
+    <life_stone id="16161" level="85" grade="MIDDLE" />
+    <life_stone id="16162" level="85" grade="HIGHT" />
+    <life_stone id="16163" level="85" grade="TOP" />
+
+    <life_stone id="16164" level="86" grade="LOW" />
+    <life_stone id="16165" level="86" grade="MIDDLE" />
+    <life_stone id="16166" level="86" grade="HIGHT" />
+    <life_stone id="16167" level="86" grade="TOP" />
+
+    <life_stone id="16177" level="85" grade="ACCESSORY" />
+    <life_stone id="16178" level="86" grade="ACCESSORY" />
+
+    <!--
+    TODO:
+    17823	Камень Жизни Головных Аксессуаров	Воин	u,Камень Жизни, с помощью которого можно создать головное украшение. Можно добавить свойство для воина.
+    17824	Камень Жизни Головных Аксессуаров	Маг	u,Камень Жизни, с помощью которого можно создать головное украшение. Можно добавить свойство для мага.
+    -->
+    <!-- R -->
+    <life_stone id="18563" level="85" grade="LOW" />
+    <life_stone id="18564" level="85" grade="MIDDLE" />
+    <life_stone id="18565" level="85" grade="HIGHT" />
+    <life_stone id="18566" level="85" grade="TOP" />
+    <life_stone id="18567" level="85" grade="FORGOTTEN" />
+
+    <!-- R95 -->
+    <life_stone id="18568" level="95" grade="LOW" />
+    <life_stone id="18569" level="95" grade="MIDDLE" />
+    <life_stone id="18570" level="95" grade="HIGHT" />
+    <life_stone id="18571" level="95" grade="TOP" />
+    <life_stone id="18572" level="95" grade="FORGOTTEN" />
+
+    <!-- R99 -->
+    <life_stone id="18573" level="99" grade="LOW" />
+    <life_stone id="18574" level="99" grade="MIDDLE" />
+    <life_stone id="18575" level="99" grade="HIGHT" />
+    <life_stone id="18576" level="99" grade="TOP" />
+    <life_stone id="18577" level="99" grade="FORGOTTEN" />
+
+    <life_stone id="19166" level="85" grade="ACCESSORY" />
+    <life_stone id="19167" level="95" grade="ACCESSORY" />
+    <life_stone id="19168" level="99" grade="ACCESSORY" />
+
+    <!-- R -->
+    <life_stone id="34001" level="85" grade="HIGHT" />
+    <life_stone id="34002" level="85" grade="TOP" />
+    <!-- R95 -->
+    <life_stone id="34003" level="95" grade="HIGHT" />
+    <life_stone id="34004" level="95" grade="TOP" />
+    <!--
+    TODO:
+    34941	Камень Жизни для Головных Уборов
+    -->
+    <!-- R -->
+    <life_stone id="22629" level="85" grade="HIGHT" />
+    <life_stone id="22630" level="85" grade="TOP" />
+    <!-- R95 -->
+    <life_stone id="22631" level="95" grade="HIGHT" />
+    <life_stone id="22632" level="95" grade="TOP" />
+    <!-- R99 -->
+    <life_stone id="22633" level="99" grade="HIGHT" />
+    <life_stone id="22634" level="99" grade="TOP" />
+</list>

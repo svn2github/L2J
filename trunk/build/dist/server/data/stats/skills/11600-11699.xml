@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<skill id="11589" levels="4" name="Поэма Рога">
+		<table name="#pAtk">1.17 1.19 1.21 1.23</table>
+		<table name="#mAtk">1.79 1.83 1.87 1.91</table>
+		<table name="#time">1800</table>
+		<table name="#mpConsume2">190</table>
+		<table name="#target">TARGET_CLAN</table>
+		<set name="icon" val="icon.skill11589" />
+		<set name="reuseDelay" val="2000" />
+		<set name="hitTime" val="700" />
+		<set name="mpConsume2" val="#mpConsume2" />
+		<set name="target" val="#target" />
+		<set name="magicLevel" val="85" />
+		<set name="skillType" val="BUFF" />
+		<set name="skillRadius" val="1000" />
+		<set name="isMagic" val="true" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="relationSkillsId" val="989;1036;1068;1007;1009;1006;1517;123;988;1040;871;4211;4345;4393;4518;4520;4647;4173;1629;4029;4344;4517;4519;4525;4648;4173;5833;1632;4349;4396;5854" />
+		<enchant1  levels="10" name="Cost">
+			<table name="#mpConsume2">173 166 158 151 144 137 129 122 115 108</table>
+		</enchant1>
+		<enchant2  levels="10" name="Recycle">
+			<table name="#reuseDelay">1899 1799 1799 1700 1700 1600 1500 1500 1399 1399</table>
+		</enchant2>
+		<enchant3  levels="10" name="Time">
+			<table name="#abnormal_time">1980 2160 2340 2520 2700 2880 3060 3240 3420 3600</table>
+		</enchant3>
+		<for>
+			<effect name="Buff" time="#time" val="0" stackType="MagicDefUp;pAtk;pDef;mAtk">
+				<mul order="0x30" stat="pDef" val="1.15" />
+				<mul order="0x30" stat="pAtk" val="#pAtk" />
+				<mul order="0x30" stat="mAtk" val="#mAtk" />
+				<mul order="0x30" stat="mDef" val="1.30" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="11590" levels="4" name="Поэма Барабана">
+		<table name="#spd">0.85 0.9 0.95 1.0</table>
+		<table name="#time">1800</table>
+		<table name="#mpConsume2">170</table>
+		<table name="#target">TARGET_CLAN</table>
+		<set name="icon" val="icon.skill11590" />
+		<set name="reuseDelay" val="2000" />
+		<set name="hitTime" val="700" />
+		<set name="mpConsume2" val="#mpConsume2" />
+		<set name="target" val="#target" />
+		<set name="skillType" val="BUFF" />
+		<set name="skillRadius" val="1000" />
+		<set name="magicLevel" val="85" />
+		<set name="isMagic" val="true" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="relationSkillsId" val="1413;1363;1356" />
+		<enchant1 levels="10" group="7" name="Cost">
+			<table name="#mpConsume2">173 166 158 151 144 137 129 122 115 108</table>
+		</enchant1>
+		<enchant9 levels="10" name="Recycle">
+			<table name="#reuseDelay">1899 1799 1799 1700 1700 1600 1500 1500 1399 1399</table>
+		</enchant9>
+		<enchant2 levels="10" name="Time">
+			<table name="#abnormal_time">1980 2160 2340 2520 2700 2880 3060 3240 3420 3600</table>
+		</enchant2>
+		<for>
+			<effect name="Buff" time="#time" val="0" stackOrder="3" stackType="ancient">
+				<mul order="0x30" stat="maxMp" val="1.2" />
+				<mul order="0x30" stat="regHp" val="1.2" />
+				<add order="0x40" stat="mCritRate" val="20" />
+				<mul order="0x30" stat="cAtk" val="1.2" />				
+				<mul order="0x30" stat="pAtk" val="1.1" />
+				<mul order="0x30" stat="pDef" val="1.2" />
+				<mul order="0x30" stat="pAtkSpd" val="1.2" />
+				<mul order="0x30" stat="mAtkSpd" val="1.2" />
+				<mul order="0x30" stat="mAtk" val="1.2" />
+				<mul order="0x30" stat="mDef" val="1.2" />				
+				<mul order="0x30" stat="runSpd" val="#spd" />
+				<add order="0x40" stat="debuffResist" val="10" />				
+			</effect>
+		</for>
+	</skill>
+	<skill id="11591" levels="4" name="Поэма Органа">
+		<table name="#vuln">1.37 1.39 1.41 1.43</table>
+		<table name="#time">1800</table>
+		<table name="#mpConsume2">170</table>
+		<set name="icon" val="icon.skill11591" />
+		<set name="reuseDelay" val="2000" />
+		<set name="hitTime" val="700" />
+		<set name="mpConsume2" val="#mpConsume2" />	
+		<set name="target" val="TARGET_CLAN" />
+		<set name="skillRadius" val="1000" />
+		<set name="magicLevel" val="85" />
+		<set name="skillType" val="BUFF" />
+		<set name="isMagic" val="true" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="relationSkillsId" val="1048;1045;1044;1501;4698;4347;4394;4348;4395" />
+		<enchant1 levels="10" group="7" name="Cost">
+			<table name="#mpConsume2">173 166 158 151 144 137 129 122 115 108</table>
+		</enchant1>
+		<enchant9 levels="10" name="Recycle">
+			<table name="#reuseDelay">1899 1799 1799 1700 1700 1600 1500 1500 1399 1399</table>
+		</enchant9>
+		<enchant2 levels="10" name="Time">
+			<table name="#abnormal_time">1980 2160 2340 2520 2700 2880 3060 3240 3420 3600</table>
+		</enchant2>
+		<for>
+			<effect name="Buff" time="#time" val="0" stackOrder="11" stackType="hp_up;hpregen;mp_up">
+				<mul order="0x30" stat="maxHp" val="#vuln" />
+				<mul order="0x30" stat="maxMp" val="#vuln" />
+				<mul order="0x30" stat="maxCp" val="#vuln" />
+				<mul order="0x30" stat="regHp" val="1.20" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="11592" levels="4" name="Поэма Гитары">
+		<table name="#vuln">32 34 36 38</table>
+		<table name="#time">1800</table>
+		<table name="#mpConsume2">170</table>
+		<table name="#target">TARGET_CLAN</table>
+		<set name="icon" val="icon.skill11592" />
+		<set name="reuseDelay" val="2000" />
+		<set name="hitTime" val="700" />
+		<set name="mpConsume2" val="#mpConsume2" />
+		<set name="target" val="#target" />
+		<set name="skillType" val="BUFF" />
+		<set name="magicLevel" val="85" />
+		<set name="skillRadius" val="1000" />
+		<set name="isMagic" val="true" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="relationSkillsId" val="1476;1253;1518;1308;1077;1242;4359;4404;4610;4645;1630;4360;4405;4611;4646" />
+        <enchant1 levels="10" name="Cost"/>
+        <enchant2 levels="10" name="Time">
+            <table name="#time">1980 2160 2340 2520 2700 2880 3060 3240 3420 3600</table>
+        </enchant2>
+        <!--enchant9 levels="10" name="Recycle"/-->
+		<for>
+			<effect name="Buff" time="#time" val="0" stackOrder="11" stackType="impulse;rCrit;cAtk">
+				<add order="0x40" stat="rCrit" val="#vuln" />
+				<mul order="0x30" stat="cAtk" val="1.35" />
+				<add order="0x40" stat="mCritRate" val="20" />
+				<mul order="0x30" stat="mpConsum" val="0.9" />
+				<mul order="0x30" stat="mpConsumePhysical" val="0.8" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="11593" levels="4" name="Поэма Арфы">
+		<table name="#time">1800</table>
+		<table name="#vuln">5 6 7 8</table>
+		<table name="#vuln2">34 35 36 37</table>
+		<table name="#mpConsume2">170</table>
+		<table name="#target">TARGET_CLAN</table>
+		<set name="icon" val="icon.skill11593" />
+		<set name="reuseDelay" val="2000" />
+		<set name="hitTime" val="700" />
+		<set name="mpConsume2" val="#mpConsume2" />
+		<set name="target" val="#target" />
+		<set name="skillType" val="BUFF" />
+		<set name="isMagic" val="true" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="skillRadius" val="1000" />
+		<set name="magicLevel" val="85" />
+		<set name="relationSkillsId" val="1240;1535;1309;1461;1252;230;4358;4403" />
+        <enchant1 levels="10" name="Cost"/>
+        <enchant2 levels="10" name="Time">
+            <table name="#time">1980 2160 2340 2520 2700 2880 3060 3240 3420 3600</table>
+        </enchant2>
+        <!--enchant9 levels="10" name="Recycle"/-->
+		<for>
+			<effect name="Buff" time="#time" val="0" stackOrder="11" stackType="accuracyUp;SpeedUp;Poem_Arfa;rEvas;CoP">
+				<add order="0x40" stat="accCombat" val="#vuln" />
+				<add order="0x40" stat="pSkillEvasion" val="#vuln" />
+				<add order="0x40" stat="runSpd" val="#vuln2" />
+				<mul order="0x30" stat="critDamRcpt" val="0.7" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="11594" levels="4" name="Поэма Лютни">
+		<table name="#time">1800</table>
+		<table name="#vuln1">1.34 1.35 1.36 1.37</table>
+		<table name="#vuln2">1.31 1.32 1.33 1.34</table>
+		<table name="#mpConsume2">170</table>
+		<table name="#target">TARGET_CLAN</table>
+		<set name="icon" val="icon.skill11594" />
+		<set name="reuseDelay" val="2000" />
+		<set name="hitTime" val="700" />
+		<set name="mpConsume2" val="#mpConsume2" />
+		<set name="target" val="#target" />
+		<set name="skillRadius" val="1000" />
+		<set name="skillType" val="BUFF" />
+		<set name="magicLevel" val="85" />
+		<set name="isMagic" val="true" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="relationSkillsId" val="1310;1002;1519;1251;1085;1086;971;4355;4400;6915;4074;4213;4402;4357;4575;4644;4175;6914;14917;1681" />
+        <enchant1 levels="10" name="Cost"/>
+        <enchant2 levels="10" name="Time">
+            <table name="#time">1980 2160 2340 2520 2700 2880 3060 3240 3420 3600</table>
+        </enchant2>
+        <!--enchant9 levels="10" name="Recycle"/-->
+		<for>
+			<effect name="Buff" time="#time" val="0" stackOrder="11" stackType="vampRage;pAtkSpeedUp;mAtkSpeedUp">
+				<add order="0x40" stat="absorbDam" val="9" />
+				<mul order="0x30" stat="pAtkSpd" val="#vuln1" />
+				<mul order="0x30" stat="mAtkSpd" val="#vuln2" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="11595" levels="1" name="Гармония Стража">
+		<set name="icon" val="icon.skill11595" />
+		<table name="#time">1800</table>
+		<table name="#mpConsume2">170</table>
+		<set name="reuseDelay" val="2000" />
+		<set name="hitTime" val="700" />
+		<set name="mpConsume2" val="#mpConsume2" />
+		<set name="target" val="TARGET_ONE" />
+		<set name="skillType" val="BUFF" />
+		<set name="magicLevel" val="85" />
+		<set name="isMagic" val="true" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="relationSkillsId" val="1243;1389;1283;1391;264;271;4353;4398" />
+        <enchant1 levels="10" name="Cost">
+		<table name="#mpConsume2">133 128 122 117 111 106 100 95 88 83</table>
+		</enchant1>
+        <enchant2 levels="10" name="Time">
+            <table name="#time">1980 2160 2340 2520 2700 2880 3060 3240 3420 3600</table>
+        </enchant2>
+        <!--enchant9 levels="10" name="Recycle"/-->
+		<for>
+			<effect name="Buff" time="#time" val="0" stackOrder="1" stackType="shieldProbUp;Harmony_isa;Great;HarmonyGuardian_1;HarmonyGuardian_2">
+				<mul order="0x30" stat="pAtk" val="1.12" />
+				<mul order="0x30" stat="pDef" val="1.45" />
+				<add order="0x40" stat="rShld" val="30" />
+				<mul order="0x30" stat="sDef" val="1.50" />
+				<add order="0x40" stat="rCrit" val="100" />
+				<mul order="0x30" stat="cAtk" val="1.35" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="11596" levels="1" name="Гармония Берсерка">
+		<set name="icon" val="icon.skill11596" />
+		<table name="#time">1800</table>
+		<table name="#mpConsume2">170</table>
+		<set name="reuseDelay" val="2000" />
+		<set name="hitTime" val="700" />
+		<set name="mpConsume2" val="#mpConsume2" />
+		<set name="target" val="TARGET_ONE" />
+		<set name="magicLevel" val="85" />
+		<set name="skillType" val="BUFF" />
+		<set name="isMagic" val="true" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="relationSkillsId" val="1388;1261;1062;1562;1390;269;274;4099;4352;4397;4585;4608;23213;1003;1004;1005;1008;1249;1250;1260;1282;1364;1365;1414" />
+        <enchant1 levels="10" name="Cost"/>
+        <enchant2 levels="10" name="Time">
+            <table name="#time">1980 2160 2340 2520 2700 2880 3060 3240 3420 3600</table>
+        </enchant2>
+        <!--enchant9 levels="10" name="Recycle"/-->
+		<for>
+			<effect name="Buff" time="#time" val="0" stackOrder="1" stackType="Great;Harmony;Harmony_isa;HarmonyBerserk_1;HarmonyBerserk_2" >
+				<mul order="0x30" stat="pAtk" val="1.35" />
+				<mul order="0x30" stat="mAtk" val="1.16" />
+				<mul order="0x30" stat="mAtkSpd" val="1.08" />
+				<mul order="0x30" stat="pAtkSpd" val="1.08" />
+				<mul order="0x30" stat="cAtk" val="1.35" />				
+				<add order="0x40" stat="rCrit" val="100" />
+				<add order="0x40" stat="runSpd" val="8" />
+				<mul order="0x30" stat="pDef" val="0.92" />
+				<mul order="0x30" stat="mDef" val="0.84" />
+				<sub order="0x40" stat="rEvas" val="4" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="11597" levels="1" name="Клятва Гармонии Мага">
+		<set name="icon" val="icon.skill11597" />
+		<table name="#time">1800</table>
+		<table name="#mpConsume2">170</table>
+		<set name="reuseDelay" val="2000" />
+		<set name="hitTime" val="700" />
+		<set name="mpConsume2" val="#mpConsume2" />
+		<set name="target" val="TARGET_ONE" />
+		<set name="skillType" val="BUFF" />
+		<set name="magicLevel" val="85" />
+		<set name="isMagic" val="true" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="relationSkillsId" val="1078;349;267;337;336;273;365;4351;8546;8553;8597" />
+        <enchant1 levels="10" name="Cost"/>
+        <enchant2 levels="10" name="Time">
+            <table name="#time">1980 2160 2340 2520 2700 2880 3060 3240 3420 3600</table>
+        </enchant2>
+        <!--enchant9 levels="10" name="Recycle"/-->
+		<for>
+			<effect name="Buff" time="#time" val="0" stackOrder="1" stackType="concentration;Harmony_isa;buff_one;HarmonyMage_1;HarmonyMage_2;HarmonyMage_3">
+				<mul order="0x30" stat="pAtk" val="1.08" />
+				<mul order="0x30" stat="mAtk" val="1.40" />
+				<mul order="0x30" stat="mAtkSpd" val="1.08" />
+				<mul order="0x30" stat="pAtkSpd" val="1.08" />
+				<mul order="0x30" stat="mDef" val="1.14" />
+				<add order="0x40" stat="mCritRate" val="100" />
+				<add order="0x40" stat="mpEff" val="20" />
+				<add order="0x40" stat="runSpd" val="8" />
+				<mul order="0x30" stat="pDef" val="0.92" />				
+				<sub order="0x30" stat="rEvas" val="4" />
+				<mul order="0x30" stat="mpConsum" val="0.85" />
+				<mul order="0x30" stat="mpConsumePhysical" val="0.95" />
+				<mul order="0x30" stat="mReuse" val="0.8" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="11600" levels="1" name="Клятва Сонаты Битвы">
+		<set name="icon" val="icon.skill11600" />
+	<!--
+		На 5 мин. для членов группы: Скор. Атк. +15%, Скор. Маг. +30%, макс. HP +30%, бонус восстановления MP +20%. 
+		Расход MP для магии -10%, уменьшает шанс отмены колдовства. 
+	-->
+		<table name="#time">520</table>
+		<table name="#mpConsume2">170</table>
+		<set name="reuseDelay" val="2000" />
+		<set name="hitTime" val="700" />
+		<set name="mpConsume2" val="#mpConsume2" />
+		<set name="target" val="TARGET_CLAN" />
+		<set name="skillRadius" val="1000" />
+		<set name="magicLevel" val="85" />
+		<set name="skillType" val="BUFF" />
+		<set name="isDance" val="true" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="relationSkillsId" val="1001;304;363;276;275" />
+        <enchant1 levels="10" name="Cost"/>
+        <enchant2 levels="10" name="Time">
+            <table name="#time">550 580 610 640 670 700 730 760 790 820</table>
+        </enchant2>
+        <!--enchant9 levels="10" name="Recycle"/-->
+		<for>
+			<effect name="Buff" time="#time" val="0" stackOrder="1" stackType="BattleSonata">
+				<mul order="0x30" stat="mAtkSpd" val="1.30" />
+				<mul order="0x30" stat="pAtkSpd" val="1.15" />
+				<mul order="0x30" stat="maxHp" val="1.30" />
+				<mul order="0x30" stat="regMp" val="1.20" />
+				<mul order="0x30" stat="mpConsum" val="0.90" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="11601" levels="1" name="Клятва Сонаты Движения">
+		<set name="icon" val="icon.skill11601" />
+	<!--
+		На 5 мин. для членов группы: Физ. Атк. +8%, Маг. Атк. +16%, Скор. Атк. и Скор. Маг. +8%. Физ. Защ. -3%, Маг. Защ. -11%, Уклонение -4. 
+		Дополнительно с определенным шансом накладывает 8% эффекта Гнева Вампира и отражает на врага 10% получаемого урона. 
+	-->
+		<table name="#time">520</table>
+		<table name="#mpConsume2">170</table>
+		<set name="reuseDelay" val="2000" />
+		<set name="hitTime" val="700" />
+		<set name="mpConsume2" val="#mpConsume2" />
+		<set name="target" val="TARGET_CLAN" />
+		<set name="skillRadius" val="1000" />
+		<set name="skillType" val="BUFF" />
+		<set name="magicLevel" val="85" />
+		<set name="isDance" val="true" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="relationSkillsId" val="1284;305;310" />
+        <enchant1 levels="10" name="Cost"/>
+        <enchant2 levels="10" name="Time">
+            <table name="#time">550 580 610 640 670 700 730 760 790 820</table>
+        </enchant2>
+        <!--enchant9 levels="10" name="Recycle"/-->
+		<for>
+			<effect name="Buff" time="#time" val="0" stackOrder="1" stackType="MoveSonata">
+				<mul order="0x30" stat="pAtk" val="1.08" />
+				<mul order="0x30" stat="mAtk" val="1.16" />
+				<mul order="0x30" stat="mAtkSpd" val="1.08" />
+				<mul order="0x30" stat="pAtkSpd" val="1.08" />
+				<mul order="0x30" stat="pDef" val="0.97" />
+				<mul order="0x30" stat="mDef" val="0.89" />				
+				<sub order="0x40" stat="rEvas" val="4" />	
+				<add order="0x40" stat="absorbDam" val="8"/>
+				<add order="0x40" stat="reflectDam" val="10"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="11602" levels="1" name="Клятва Сонаты Расслабления">
+		<set name="icon" val="icon.skill11602" />
+	<!--
+		Для членов группы: Бонус восстановления HP +20%, Точность +4, Уклонение +3, Скорость +20. 
+		Расход MP для умений +20%, скорость перезарядки умений +10%. Время действия: 5 мин. 
+	-->
+		<table name="#time">520</table>
+		<table name="#mpConsume2">170</table>
+		<set name="reuseDelay" val="2000" />
+		<set name="hitTime" val="700" />
+		<set name="mpConsume2" val="#mpConsume2" />
+		<set name="target" val="TARGET_CLAN" />
+		<set name="skillRadius" val="1000" />
+		<set name="skillType" val="BUFF" />
+		<set name="magicLevel" val="85" />
+		<set name="isDance" val="true" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="relationSkillsId" val="268;266;265;364;1073;272" />
+        <enchant1 levels="10" name="Cost"/>
+        <enchant2 levels="10" name="Time">
+            <table name="#time">550 580 610 640 670 700 730 760 790 820</table>
+        </enchant2>
+        <!--enchant9 levels="10" name="Recycle"/-->
+		<for>
+			<effect name="Buff" time="#time" val="0" stackOrder="1" stackType="RelaxSonata">
+				<mul order="0x30" stat="regHp" val="1.20" />
+				<mul order="0x30" stat="mpConsum" val="0.80" />
+				<add order="0x30" stat="accCombat" val="4" />
+				<add order="0x40" stat="runSpd" val="20" />
+				<mul order="0x30" stat="pReuse" val="0.90" />
+				<mul order="0x30" stat="mReuse" val="0.90" />
+				<add order="0x30" stat="rEvas" val="3" />
+			</effect>
+		</for>
+	</skill>
+</list>

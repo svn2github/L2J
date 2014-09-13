@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- © 2010 by mathuza -->
+
+<list maintainEnchantment="true">
+
+  <!-- Moirai Necklace -->
+  <item id="1">
+    <production id="15725" count="1"/>
+	<ingredient id="13419" count="1"/>
+  </item>
+
+  <!-- Moirai Earring -->
+  <item id="2">
+    <production id="15724" count="1"/>
+	<ingredient id="13419" count="1"/>
+  </item>
+
+  <!-- Moirai Ring -->
+  <item id="3">
+    <production id="15723" count="1"/>
+	<ingredient id="13419" count="1"/>
+  </item>
+
+
+</list>

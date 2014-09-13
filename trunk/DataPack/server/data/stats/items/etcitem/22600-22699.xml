@@ -1,0 +1,1301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "../../dtd/item.dtd">
+<!--
+	Done by: Mifesto
+	Team: MMORPG-TEAM.COM
+-->
+<list>
+	<!--
+		Название: Упаковка: Чудесные Заряды Духа C (10 000)
+		Описание : Витаминная упаковка\\nВнутри содержатся следующие предметы: Чудесные Заряды Духа Ранга C (10000). Нельзя обменять или выбросить. Можно уничтожить или положить в личное хранилище.\0
+	-->
+	<etcitem id="22600" name="Упаковка: Чудесные Заряды Духа C (10 000)">
+		<set name="icon" value="br_cashtex.item.br_cash_pack_of_spiritshot_c_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="100"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+	<!--
+		Название: Упаковка: Чудесные Заряды Духа C (5000)
+		Описание : Витаминная упаковка\\nВнутри содержатся следующие предметы: Чудесные Заряды Духа Ранга C (5000). Нельзя обменять или выбросить. Можно уничтожить или положить в личное хранилище.\0
+	-->
+	<etcitem id="22601" name="Упаковка: Чудесные Заряды Духа C (5000)">
+		<set name="icon" value="br_cashtex.item.br_cash_pack_of_spiritshot_c_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="100"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+	<!--
+		Название: Упаковка: Чудесные Заряды Духа B (10 000)
+		Описание : Витаминная упаковка\\nВнутри содержатся следующие предметы: Чудесные Заряды Духа Ранга B (10000). Нельзя обменять или выбросить. Можно уничтожить или положить в личное хранилище.\0
+	-->
+	<etcitem id="22602" name="Упаковка: Чудесные Заряды Духа B (10 000)">
+		<set name="icon" value="br_cashtex.item.br_cash_pack_of_spiritshot_b_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="100"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+	<!--
+		Название: Упаковка: Чудесные Заряды Духа B (5000)
+		Описание : Витаминная упаковка\\nВнутри содержатся следующие предметы: Чудесные Заряды Духа Ранга B (5000). Нельзя обменять или выбросить. Можно уничтожить или положить в личное хранилище.\0
+	-->
+	<etcitem id="22603" name="Упаковка: Чудесные Заряды Духа B (5000)">
+		<set name="icon" value="br_cashtex.item.br_cash_pack_of_spiritshot_b_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="100"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+	<!--
+		Название: Упаковка: Чудесные Заряды Духа A (10 000)
+		Описание : Витаминная упаковка\\nВнутри содержатся следующие предметы: Чудесные Заряды Духа Ранга A (10000). Нельзя обменять или выбросить. Можно уничтожить или положить в личное хранилище.\0
+	-->
+	<etcitem id="22604" name="Упаковка: Чудесные Заряды Духа A (10 000)">
+		<set name="icon" value="br_cashtex.item.br_cash_pack_of_spiritshot_a_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="100"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+	<!--
+		Название: Упаковка: Чудесные Заряды Духа A (5000)
+		Описание : Витаминная упаковка\\nВнутри содержатся следующие предметы: Чудесные Заряды Духа Ранга A (5000). Нельзя обменять или выбросить. Можно уничтожить или положить в личное хранилище.\0
+	-->
+	<etcitem id="22605" name="Упаковка: Чудесные Заряды Духа A (5000)">
+		<set name="icon" value="br_cashtex.item.br_cash_pack_of_spiritshot_a_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="100"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+	<!--
+		Название: Упаковка: Чудесные Заряды Духа S (10 000)
+		Описание : Витаминная упаковка\\nВнутри содержатся следующие предметы: Чудесные Заряды Духа Ранга S (10000). Нельзя обменять или выбросить. Можно уничтожить или положить в личное хранилище.\0
+	-->
+	<etcitem id="22606" name="Упаковка: Чудесные Заряды Духа S (10 000)">
+		<set name="icon" value="br_cashtex.item.br_cash_pack_of_spiritshot_s_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="100"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+	<!--
+		Название: Упаковка: Чудесные Заряды Духа S (5000)
+		Описание : Витаминная упаковка\\nВнутри содержатся следующие предметы: Чудесные Заряды Духа Ранга S (5000). Нельзя обменять или выбросить. Можно уничтожить или положить в личное хранилище.\0
+	-->
+	<etcitem id="22607" name="Упаковка: Чудесные Заряды Духа S (5000)">
+		<set name="icon" value="br_cashtex.item.br_cash_pack_of_spiritshot_s_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="100"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+	<!--
+		Название: Упаковка: Зелье Поддержания Энергии 30 мин. (2 шт.)
+		Описание : Витаминная упаковка\\nВнутри содержатся следующие предметы: Зелье Поддержания Энергии (30 мин.) (2 шт.). Нельзя обменять или выбросить. Можно уничтожить или положить в личное хранилище.\0
+	-->
+	<etcitem id="22608" name="Упаковка: Зелье Поддержания Энергии 30 мин. (2 шт.)">
+		<set name="icon" value="BranchSys.icon.br_four_leaf_clover_box_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="100"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+	<!--
+		Название: Упаковка: Зелье Поддержания Энергии 30 мин. (4 шт.)
+		Описание : Витаминная упаковка\\nВнутри содержатся следующие предметы: Зелье Поддержания Энергии (30 мин.) (4 шт.). Нельзя обменять или выбросить. Можно уничтожить или положить в личное хранилище.\0
+	-->
+	<etcitem id="22609" name="Упаковка: Зелье Поддержания Энергии 30 мин. (4 шт.)">
+		<set name="icon" value="BranchSys.icon.br_four_leaf_clover_box_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="100"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+	<!--
+		Название: Наилучший Коктейль
+		Описание : Витаминный предмет\\nНаилучший коктейль, приготовленный из редких сортов фруктов. Наилучший коктейль, приготовленный из редких сортов фруктов. Выпив его, Вы сможете почувствовать следующие эффекты: Поэма Рога (1 ур.), Поэма Органа (1 ур.), Поэма Гитары (1 ур.), Поэма Арфы (1 ур.), и Поэма Лютни (1 ур.). Время действия: 30 мин. Невозможно обменять или выбросить. Можно положить в личное хранилище.\0
+	-->
+	<etcitem id="22610" name="Наилучший Коктейль">
+		<set name="icon" value="icon.etc_fruit_cocktail_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="5"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+	<!--
+		Название: Памятный Плащ Вечеринки Перерождения
+		Описание : Роскошный плащ. Это памятный предмет, получаемый на празднике перерождения в обновленном Lineage II. Если открыта ячейка для плащей, его можно носить. Нельзя обменять/выбросить. Можно уничтожить. Можно передавать между персонажами на одном аккаунте с помощью Менеджера Витаминов.\0
+	-->
+	<armor id="22611" name="Памятный Плащ Вечеринки Перерождения">
+		<set name="icon" value="BranchSys2.Icon.7anni_cloack_i02"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="220"/>
+		<equip>
+			<slot id="BACK"/>
+		</equip>
+		<for>
+			<add stat="pDef" order="0x10" value="25"/>
+		</for>
+	</armor>
+	<!--
+		Название: Упаковка: Руна Опыта 30% (3 ч.)
+		Описание : Витаминная упаковка.\\nСодержит Руну Опыта 30% (на 3 часа). Можно обменять, продать, уничтожить. Нельзя выбросить. Можно положить в хранилище. После распечатывания обмену не подлежит.\0
+	-->
+	<etcitem id="22612" name="Упаковка: Руна Опыта 30% (3 ч.)">
+		<set name="icon" value="BranchSys.icon.br_four_leaf_clover_box_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="100"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+	<!--
+		Название: Упаковка: Руна Опыта 30% (1 ч.)
+		Описание : Витаминная упаковка.\\nСодержит Руну Опыта 30% (на 1 час). Можно обменять, продать, уничтожить. Нельзя выбросить. Можно положить в хранилище. После распечатывания обмену не подлежит.\0
+	-->
+	<etcitem id="22613" name="Упаковка: Руна Опыта 30% (1 ч.)">
+		<set name="icon" value="BranchSys.icon.br_four_leaf_clover_box_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="100"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+	<!--
+		Название: Упаковка: Руна Опыта 50% (1 ч.)
+		Описание : Витаминная упаковка.\\nСодержит Руну Опыта 50% (на 1 час). Можно обменять, продать, уничтожить. Нельзя выбросить. Можно положить в хранилище. После распечатывания обмену не подлежит.\0
+	-->
+	<etcitem id="22614" name="Упаковка: Руна Опыта 50% (1 ч.)">
+		<set name="icon" value="BranchSys.icon.br_four_leaf_clover_box_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="100"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+	<!--
+		Название: Билет в Окрестности Камалоки
+		Описание : Билет, позволяющий попасть в Окрестности Камалоки повторно. Снимает ограничение на вход в Окрестности Камалоки. Возможно одноразовое использование снаружи Временной Зоны. Данный эффект пропадет после обновления времени Временной Зоны. Можно обменять, продать, уничтожить. Нельзя выбросить. Можно положить в хранилище.\0
+	-->
+	<etcitem id="22615" name="Билет в Окрестности Камалоки">
+		<set name="icon" value="icon.ticket_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="5"/>
+	</etcitem>
+	<!--
+		Название: Комплект Величия - Артефакт Дружбы
+		Описание : Позволяет получить Комплект Величия - Артефакт Дружбы. Нельзя обменять/выбросить. Можно положить в личное хранилище.\0
+	-->
+	<etcitem id="22616" name="Комплект Величия - Артефакт Дружбы">
+		<set name="icon" value="icon.etc_jewel_box_i00"/>
+		<set name="type" value="OTHER"/>
+	</etcitem>
+	<!--
+		Название: Комплект Черного Снаряжения - Артефакт Дружбы
+		Описание : Позволяет получить Комплект Черного Снаряжения - Артефакт Дружбы. Нельзя обменять/выбросить. Можно положить в личное хранилище.\0
+	-->
+	<etcitem id="22617" name="Комплект Черного Снаряжения - Артефакт Дружбы">
+		<set name="icon" value="icon.etc_jewel_box_i00"/>
+		<set name="type" value="OTHER"/>
+	</etcitem>
+	<!--
+		Название: Комплект Печати - Артефакт Дружбы
+		Описание : Позволяет получить Снаряжение Печати - Артефакт Дружбы. Нельзя обменять/выбросить. Можно положить в личное хранилище.\0
+	-->
+	<etcitem id="22618" name="Комплект Печати - Артефакт Дружбы">
+		<set name="icon" value="icon.etc_jewel_box_i00"/>
+		<set name="type" value="OTHER"/>
+	</etcitem>
+	<!--
+		Название: Упаковка: Аксессуары Династии (Ранг S) - Артефакт Дружбы
+		Описание : При использовании выдается Упаковка: Аксессуары Династии (Ранг S) - Артефакт Дружбы. Нельзя обменять или выбросить, но можно положить в личное хранилище.\0
+	-->
+	<etcitem id="22619" name="Упаковка: Аксессуары Династии (Ранг S) - Артефакт Дружбы">
+		<set name="icon" value="icon.etc_jewel_box_i00"/>
+		<set name="type" value="OTHER"/>
+	</etcitem>
+	<!--
+		Название: Чудо Дерева - Восстановление Энергии - Ивент
+		Описание : Предмет, выдаваемый при завершении украшения Новогодней Елки. В случае использования при получении очков опыта восстанавливается энергия. Время повторного использования: 4 часа. Полностью удаляется по окончании новогоднего ивента. Нельзя обменять, выбросить или положить в личное хранилище. Можно уничтожить.\0
+	-->
+	<etcitem id="22620" name="Чудо Дерева - Восстановление Энергии" add_name="Ивент">
+		<set name="icon" value="BranchSys.icon.br_xmas_miracle_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="destroyable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+	<!--
+		Название: Зелье Восстановления Энергии - 1 час
+		Описание : Эксклюзивный предмет для премиум-пользователей\\nВ случае приема Зелья Восстановления Энергии в течение 60 мин. при получении очков опыта восстанавливается энергия. Нельзя обменять, выбросить или положить в личное хранилище. Можно уничтожить.\0
+	-->
+	<etcitem id="22621" name="Зелье Восстановления Энергии" add_name="1 час">
+		<set name="icon" value="BranchSys2.br_essence_rose_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="destroyable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="augmentable" value="false"/>
+		<set name="enchantable" value="false"/>
+		<set name="attributable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="durability" value="60"/>
+		<set name="temporal" value="true"/>
+	</etcitem>
+	<!--
+		Название: Свиток Благ. Телепорта - 1 день
+		Описание : Эксклюзивный предмет для премиум-пользователей\\nМагический свиток, с помощью которого можно переместиться в ближайшее поселение. Вес 0. Нельзя обменять, выбросить или положить в личное хранилище. Можно уничтожить.\0
+	-->
+	<etcitem id="22622" name="Свиток Благ. Телепорта" add_name="1 день">
+		<set name="icon" value="icon.etc_scroll_of_return_i01"/>
+		<set name="type" value="OTHER"/>
+		<set name="destroyable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="augmentable" value="false"/>
+		<set name="enchantable" value="false"/>
+		<set name="attributable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="durability" value="1440"/>
+		<set name="temporal" value="true"/>
+		<cond msgId="1508">
+			<not>
+				<player olympiad="true"/>
+			</not>
+		</cond>
+	</etcitem>
+	<!--
+		Название: Свиток Благ. Воскрешения - 1 день
+		Описание : Эксклюзивный предмет для премиум-пользователей\\nМагический свиток, воскрешающий мертвого персонажа и полностью восстанавливающий потерянный им опыт. Нельзя обменять, выбросить или положить в личное хранилище. Можно уничтожить.\0
+	-->
+	<etcitem id="22623" name="Свиток Благ. Воскрешения" add_name="1 день">
+		<set name="icon" value="icon.etc_scroll_of_resurrection_i01"/>
+		<set name="type" value="SCROLL"/>
+		<set name="weight" value="120"/>
+		<set name="destroyable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="augmentable" value="false"/>
+		<set name="enchantable" value="false"/>
+		<set name="attributable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="durability" value="1440"/>
+		<set name="temporal" value="true"/>
+		<cond msgId="1508">
+			<not>
+				<player olympiad="true"/>
+			</not>
+		</cond>
+	</etcitem>
+	<!--
+		Название: Эликсир Жизни - 1 день
+		Описание : Эксклюзивный предмет для премиум-пользователей\\nВосстанавливает HP. Персонажи выше 85 ур. могут использовать только на себя. Время повторного использования - 2 мин. Нельзя обменять, выбросить или положить в личное хранилище. Можно уничтожить.\0
+	-->
+	<etcitem id="22624" name="Эликсир Жизни" add_name="1 день">
+		<set name="icon" value="icon.etc_super_potion_i02"/>
+		<set name="type" value="POTION"/>
+		<set name="weight" value="5"/>
+		<set name="destroyable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="crystal_type" value="R"/>
+		<skills>
+			<!--Elixir of Life (R-grade)-->
+			<skill id="2287" level="7"/>
+		</skills>
+		<cond msgId="1508">
+			<not>
+				<player olympiad="true"/>
+			</not>
+		</cond>
+	</etcitem>
+	<!--
+		Название: Эликсир Ментальной Силы - 1 день
+		Описание : Эксклюзивный предмет для премиум-пользователей\\nВосстанавливает MP. Персонажи выше 85 ур. могут использовать только на себя. Время повторного использования - 2 мин. Нельзя обменять, выбросить или положить в личное хранилище. Можно уничтожить.\0
+	-->
+	<etcitem id="22625" name="Эликсир Ментальной Силы" add_name="1 день">
+		<set name="icon" value="icon.etc_super_potion_i00"/>
+		<set name="type" value="POTION"/>
+		<set name="weight" value="5"/>
+		<set name="destroyable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="crystal_type" value="R"/>
+		<skills>
+			<!--Elixir of Mental Strength (R-grade)-->
+			<skill id="2288" level="7"/>
+		</skills>
+		<cond msgId="1508">
+			<not>
+				<player olympiad="true"/>
+			</not>
+		</cond>
+	</etcitem>
+	<!--
+		Название: Эликсир CP - 1 день
+		Описание : Эксклюзивный предмет для премиум-пользователей\\nВосстанавливает CP. Персонажи выше 85 ур. могут использовать только на себя. Время повторного использования - 2 мин. Нельзя обменять, выбросить или положить в личное хранилище. Можно уничтожить.\0
+	-->
+	<etcitem id="22626" name="Эликсир CP" add_name="1 день">
+		<set name="icon" value="icon.etc_super_potion_i01"/>
+		<set name="type" value="POTION"/>
+		<set name="weight" value="5"/>
+		<set name="destroyable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="crystal_type" value="R"/>
+		<skills>
+			<!--Elixir of CP (R-grade)-->
+			<skill id="2289" level="7"/>
+		</skills>
+		<cond msgId="1508">
+			<not>
+				<player olympiad="true"/>
+			</not>
+		</cond>
+	</etcitem>
+	<!--
+		Название: Свиток: Модифицировать Оружие (R)
+		Описание : Эксклюзивный предмет для премиум-пользователей\\nФиз. Атк. Одноручных мечей, Одноручной дубины, кинжала, копья и другого одноручного оружия ранга R +6. Физ. Атк. Двуручных мечей/дубин/Парных мечей/Кастетов и другого двуручного оружия +7. Физ. Атк. лука +12. Увеличивает Маг. Атк. всего оружия +5. После +4 Физ./Маг. Атк. значительно увеличивается. Для благословенного оружия значения увеличения выше, чем для обычного оружия. Нельзя обменять или выбросить. Можно уничтожить или положить в личное хранилище.\0
+	-->
+	<etcitem id="22627" name="Свиток: Модифицировать Оружие (R)">
+		<set name="icon" value="icon.scroll_of_enchant_weapon_i06"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="120"/>
+		<set name="destroyable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+	<!--
+		Название: Свиток: Модифицировать Доспех (R)
+		Описание : Эксклюзивный предмет для премиум-пользователей\\nДля модификации доспехов и аксессуаров Ранга R. Дает Физ. Защ. +2. При модификации на +4 и выше дает значительное увеличение Физ. Защ. Безопасная модификация: обычный доспех +3, полный доспех +4. При модификации доспеха на +4 и более также увеличивает НР в соответствии со значением модификации Нельзя обменять или выбросить. Можно уничтожить или положить в личное хранилище.\0
+	-->
+	<etcitem id="22628" name="Свиток: Модифицировать Доспех (R)">
+		<set name="icon" value="icon.scroll_of_enchant_armor_i06"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="120"/>
+		<set name="destroyable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+	<!--
+		Название: Камень Жизни Высокого Качества - Ранг R
+		Описание : Эксклюзивный предмет для премиум-пользователей\\nМинерал высокого качества. Доступен для персонажей уровня 85 и выше. Нельзя обменять или выбросить. Можно уничтожить или положить в личное хранилище.\0
+	-->
+	<etcitem id="22629" name="Камень Жизни Высокого Качества - Ранг R">
+		<set name="icon" value="icon.r_mineral_rare_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="2"/>
+		<set name="destroyable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+	<!--
+		Название: Камень Жизни Высшего Качества - Ранг R
+		Описание : Эксклюзивный предмет для премиум-пользователей\\nМинерал высшего качества. Доступен для персонажей уровня 85 и выше. Нельзя обменять или выбросить. Можно уничтожить или положить в личное хранилище.\0
+	-->
+	<etcitem id="22630" name="Камень Жизни Высшего Качества - Ранг R">
+		<set name="icon" value="icon.r_mineral_unique_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="2"/>
+		<set name="destroyable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+	<!--
+		Название: Камень Жизни Высокого Качества - Ранг R95
+		Описание : Эксклюзивный предмет для премиум-пользователей\\nМинерал высокого качества. Доступен для персонажей уровня 95 и выше. Нельзя обменять или выбросить. Можно уничтожить или положить в личное хранилище.\0
+	-->
+	<etcitem id="22631" name="Камень Жизни Высокого Качества - Ранг R95">
+		<set name="icon" value="icon.r95_mineral_rare_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="2"/>
+		<set name="destroyable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+	<!--
+		Название: Камень Жизни Высшего Качества - Ранг R95
+		Описание : Эксклюзивный предмет для премиум-пользователей\\nМинерал высшего качества. Доступен для персонажей уровня 95 и выше. Нельзя обменять или выбросить. Можно уничтожить или положить в личное хранилище.\0
+	-->
+	<etcitem id="22632" name="Камень Жизни Высшего Качества - Ранг R95">
+		<set name="icon" value="icon.r95_mineral_unique_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="2"/>
+		<set name="destroyable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+	<!--
+		Название: Камень Жизни Высокого Качества - Ранг R99
+		Описание : Эксклюзивный предмет для премиум-пользователей\\nМинерал высокого качества. Доступен для персонажей уровня 99 и выше. Нельзя обменять или выбросить. Можно уничтожить или положить в личное хранилище.\0
+	-->
+	<etcitem id="22633" name="Камень Жизни Высокого Качества - Ранг R99">
+		<set name="icon" value="icon.r99_mineral_rare_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="2"/>
+		<set name="destroyable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+	<!--
+		Название: Камень Жизни Высшего Качества - Ранг R99
+		Описание : Эксклюзивный предмет для премиум-пользователей\\nМинерал высшего качества. Доступен для персонажей уровня 99 и выше. Нельзя обменять или выбросить. Можно уничтожить или положить в личное хранилище.\0
+	-->
+	<etcitem id="22634" name="Камень Жизни Высшего Качества - Ранг R99">
+		<set name="icon" value="icon.r99_mineral_unique_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="2"/>
+		<set name="destroyable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+	<!--
+		Название: Руда Огня
+		Описание : Эксклюзивный предмет для премиум-пользователей\\nИнкрустированная в оружие, она увеличивает его атаку огня на 5. Инкрустированная в броню, она увеличивает ее сопротивление воде на 6. Может быть инкрустирована до 3-го уровня. Также возможно усиление до 3-х способностей при инкрустации в броню. Невозможно получение способностей, противоположных друг другу. Нельзя обменять или выбросить. Можно уничтожить или положить в личное хранилище.\0
+	-->
+	<etcitem id="22635" name="Руда Огня">
+		<set name="icon" value="icon.etc_fire_stone_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="1"/>
+		<set name="destroyable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+	<!--
+		Название: Руда Воды
+		Описание : Эксклюзивный предмет для премиум-пользователей\\nИнкрустированная в оружие, она увеличивает его атаку воды на 5. Инкрустированная в броню, она увеличивает ее сопротивление огню на 6. Может быть инкрустирована до 3-го уровня. Также возможно усиление до 3-х способностей при инкрустации в броню. Невозможно получение способностей, противоположных друг другу. Нельзя обменять или выбросить. Можно уничтожить или положить в личное хранилище.\0
+	-->
+	<etcitem id="22636" name="Руда Воды">
+		<set name="icon" value="icon.etc_water_stone_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="1"/>
+		<set name="destroyable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+	<!--
+		Название: Руда Земли
+		Описание : Эксклюзивный предмет для премиум-пользователей\\nИнкрустированная в оружие, она увеличивает его атаку земли на 5. Инкрустированная в броню, она увеличит ее сопротивление ветру на 6. Может быть инкрустирована до 3-го уровня. Также возможно усиление до 3-х способностей при инкрустации в броню. Невозможно получение способностей, противоположных друг другу. Нельзя обменять или выбросить. Можно уничтожить или положить в личное хранилище.\0
+	-->
+	<etcitem id="22637" name="Руда Земли">
+		<set name="icon" value="icon.etc_earth_stone_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="1"/>
+		<set name="destroyable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+	<!--
+		Название: Руда Ветра
+		Описание : Эксклюзивный предмет для премиум-пользователей\\nИнкрустированная в оружие, она увеличивает его атаку ветра на 5. Инкрустированная в броню, она увеличивает ее сопротивление земле на 6. Может быть инкрустирована до 3-го уровня. Также возможно усиление до 3-х способностей при инкрустации в броню. Невозможно получение способностей, противоположных друг другу. Нельзя обменять или выбросить. Можно уничтожить или положить в личное хранилище.\0
+	-->
+	<etcitem id="22638" name="Руда Ветра">
+		<set name="icon" value="icon.etc_wind_stone_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="1"/>
+		<set name="destroyable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+	<!--
+		Название: Руда Тьмы
+		Описание : Эксклюзивный предмет для премиум-пользователей\\nИнкрустированная в оружие, она увеличивает его атаку тьмы на 5. Инкрустированная в броню, она увеличивает ее сопротивление свету на 6. Может быть инкрустирована до 3-го уровня. Также возможно усиление до 3-х способностей при инкрустации в броню. Невозможно получение способностей, противоположных друг другу. Нельзя обменять или выбросить. Можно уничтожить или положить в личное хранилище.\0
+	-->
+	<etcitem id="22639" name="Руда Тьмы">
+		<set name="icon" value="icon.etc_unholy_stone_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="1"/>
+		<set name="destroyable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+	<!--
+		Название: Руда Святости
+		Описание : Эксклюзивный предмет для премиум-пользователей\\nИнкрустированная в оружие, она увеличивает его атаку света на 5. Инкрустированная в броню, она увеличивает ее сопротивление тьме на 6. Может быть инкрустирована до 3-го уровня. Также возможно усиление до 3-х способностей при инкрустации в броню. Невозможно получение способностей, противоположных друг другу. Нельзя обменять или выбросить. Можно уничтожить или положить в личное хранилище.\0
+	-->
+	<etcitem id="22640" name="Руда Святости">
+		<set name="icon" value="icon.etc_holy_stone_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="1"/>
+		<set name="destroyable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+	<!--
+		Название: Кристалл Огня
+		Описание : Эксклюзивный предмет для премиум-пользователей\\nИнкрустированный в оружие, он увеличивает его атаку огня на определенный процент. Инкрустированный в броню, он увеличивает ее сопротивление воде на определенный процент. Может быть инкрустирован до 6-го уровня; ниже сила кристалла будет потеряна. Также возможно усиление до 3-х способностей при инкрустации в броню. Невозможно получение способностей, противоположных друг другу. Нельзя обменять или выбросить. Можно уничтожить или положить в личное хранилище.\0
+	-->
+	<etcitem id="22641" name="Кристалл Огня">
+		<set name="icon" value="icon.etc_fire_crystal_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="1"/>
+		<set name="destroyable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+	<!--
+		Название: Кристалл Воды
+		Описание : Эксклюзивный предмет для премиум-пользователей\\nИнкрустированный в оружие, он увеличивает его атаку воды на определенный процент. Инкрустированный в броню, он увеличивает ее сопротивление огню на определенный процент. Может быть инкрустирован до 6-го уровня; ниже сила кристалла будет потеряна. Также возможно усиление до 3-х способностей при инкрустации в броню. Невозможно получение способностей, противоположных друг другу. Нельзя обменять или выбросить. Можно уничтожить или положить в личное хранилище.\0
+	-->
+	<etcitem id="22642" name="Кристалл Воды">
+		<set name="icon" value="icon.etc_water_crystal_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="1"/>
+		<set name="destroyable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+	<!--
+		Название: Кристалл Земли
+		Описание : Эксклюзивный предмет для премиум-пользователей\\nИнкрустированный в оружие, он увеличивает его атаку земли на определенный процент. Инкрустированный в броню, он увеличивает ее сопротивление ветру на определенный процент. Может быть инкрустирован до 6-го уровня; ниже сила кристалла будет потеряна. Также возможно усиление до 3-х способностей при инкрустации в броню. Невозможно получение способностей, противоположных друг другу. Нельзя обменять или выбросить. Можно уничтожить или положить в личное хранилище.\0
+	-->
+	<etcitem id="22643" name="Кристалл Земли">
+		<set name="icon" value="icon.etc_earth_crystal_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="1"/>
+		<set name="destroyable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+	<!--
+		Название: Кристалл Ветра
+		Описание : Эксклюзивный предмет для премиум-пользователей\\nИнкрустированный в оружие, он увеличивает его атаку ветра на определенный процент. Инкрустированный в броню, он увеличивает ее сопротивление земле на определенный процент. Может быть инкрустирован до 6-го уровня; ниже сила кристалла будет потеряна. Также возможно усиление до 3-х способностей при инкрустации в броню. Невозможно получение способностей, противоположных друг другу. Нельзя обменять или выбросить. Можно уничтожить или положить в личное хранилище.\0
+	-->
+	<etcitem id="22644" name="Кристалл Ветра">
+		<set name="icon" value="icon.etc_wind_crystal_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="1"/>
+		<set name="destroyable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+	<!--
+		Название: Кристалл Тьмы
+		Описание : Эксклюзивный предмет для премиум-пользователей\\nИнкрустированный в оружие, он увеличивает его атаку тьмы на определенный процент. Инкрустированный в броню, он увеличивает ее сопротивление свету на определенный процент. Может быть инкрустирован до 6-го уровня; ниже сила кристалла будет потеряна. Также возможно усиление до 3-х способностей при инкрустации в броню. Невозможно получение способностей, противоположных друг другу. Нельзя обменять или выбросить. Можно уничтожить или положить в личное хранилище.\0
+	-->
+	<etcitem id="22645" name="Кристалл Тьмы">
+		<set name="icon" value="icon.etc_unholy_crystal_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="1"/>
+		<set name="destroyable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+	<!--
+		Название: Кристалл Святости
+		Описание : Эксклюзивный предмет для премиум-пользователей\\nИнкрустированный в оружие, он увеличивает его атаку света на определенный процент.Инкрустированный в броню, он увеличивает ее сопротивление тьме на определенный процент. Может быть инкрустирован до 6-го уровня; ниже сила кристалла будет потеряна. Также возможно усиление до 3-х способностей при инкрустации в броню. Невозможно получение способностей, противоположных друг другу. Нельзя обменять или выбросить. Можно уничтожить или положить в личное хранилище.\0
+	-->
+	<etcitem id="22646" name="Кристалл Святости">
+		<set name="icon" value="icon.etc_holy_crystal_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="1"/>
+		<set name="destroyable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+	<!--
+		Название: Благословенный Свиток: Модифицировать Оружие (R)
+		Описание : Эксклюзивный предмет для премиум-пользователей\\nДля модификации оружия Ранга R. Одноручный меч, одноручное дробящее, кинжал, древковое: Физ. Атк. +6. Двуручный меч, двуручное дробящее, парные клинки, кастеты, арбалеты: Физ. Атк. +7. Луки: Физ. Атк +12. Все оружие: Маг. Атк. +5. Начиная с модификации +4 и выше значительно увеличивает Физ. Атк. и Маг. Атк.. В отличие от обычного оружия, свойства Благословенного оружия увеличиваются больше. При неудачной модификации предмет не разбивается на кристаллы, но уровень его модификации падает до 0. Нельзя обменять или выбросить. Можно уничтожить или положить в личное хранилище.\0
+	-->
+	<etcitem id="22647" name="Благословенный Свиток: Модифицировать Оружие (R)">
+		<set name="icon" value="icon.blessed_scroll_of_enchant_weapon_i06"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="120"/>
+		<set name="destroyable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+	<!--
+		Название: Благословенный Свиток: Модифицировать Доспех (R)
+		Описание : Эксклюзивный предмет для премиум-пользователей\\nФиз. Защ.+2 для брони и аксессуаров Ранга R. После модификации на +4 и выше Физ. Защ. будет возрастать намного интенсивнее. Безопасная модификация до +3. При модификации брони до +4 и выше НР также увенличивается в соответствии со значением модификации. При неудачной модификации предмет не разбивается на кристаллы, но уровень его модификации падает до 0. Нельзя обменять или выбросить. Можно уничтожить или положить в личное хранилище.\0
+	-->
+	<etcitem id="22648" name="Благословенный Свиток: Модифицировать Доспех (R)">
+		<set name="icon" value="icon.blessed_scroll_of_enchant_armor_i06"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="120"/>
+		<set name="destroyable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+	<!--
+		Название: Благословенное Яйцо Змея Горыныча - 1 день
+		Описание : При использовании Благословенного Яйца Вы станете очень сильны. Нельзя обменять или выбросить. Можно уничтожить или положить в личное хранилище.\0
+	-->
+	<etcitem id="22649" name="Благословенное Яйцо Змея Горыныча" add_name="1 день">
+		<set name="icon" value="BranchSys3.Icon.g_threehead_source"/>
+		<set name="type" value="OTHER"/>
+		<set name="destroyable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="augmentable" value="false"/>
+		<set name="enchantable" value="false"/>
+		<set name="attributable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="durability" value="1440"/>
+		<set name="temporal" value="true"/>
+	</etcitem>
+    
+    <etcitem id="22666" name="Камень Обработки Светового Меча">
+        <set name="icon" value="BranchSys3.Icon.g_shape_shifting_sword"/>
+        <set name="type" value="OTHER"/>
+        <set name="destroyable" value="false"/>
+        <set name="dropable" value="false"/>
+        <set name="augmentable" value="false"/>
+        <set name="enchantable" value="false"/>
+        <set name="attributable" value="false"/>
+        <set name="sellable" value="false"/>
+        <set name="tradeable" value="false"/>
+        <set name="stackable" value="true"/>
+		<cond msgId="1508">
+			<not>
+				<player olympiad="true"/>
+			</not>
+		</cond>
+    </etcitem>
+    <etcitem id="22667" name="Камень Обработки Светового Кинжала">
+        <set name="icon" value="BranchSys3.Icon.g_shape_shifting_dagger"/>
+        <set name="type" value="OTHER"/>
+        <set name="destroyable" value="false"/>
+        <set name="dropable" value="false"/>
+        <set name="augmentable" value="false"/>
+        <set name="enchantable" value="false"/>
+        <set name="attributable" value="false"/>
+        <set name="sellable" value="false"/>
+        <set name="tradeable" value="false"/>
+        <set name="stackable" value="true"/>
+		<cond msgId="1508">
+			<not>
+				<player olympiad="true"/>
+			</not>
+		</cond>
+    </etcitem>
+    <etcitem id="22668" name="Камень Обработки Светового Двуручного Меча">
+        <set name="icon" value="BranchSys3.Icon.g_shape_shifting_twohand_sword"/>
+        <set name="type" value="OTHER"/>
+        <set name="destroyable" value="false"/>
+        <set name="dropable" value="false"/>
+        <set name="augmentable" value="false"/>
+        <set name="enchantable" value="false"/>
+        <set name="attributable" value="false"/>
+        <set name="sellable" value="false"/>
+        <set name="tradeable" value="false"/>
+        <set name="stackable" value="true"/>
+		<cond msgId="1508">
+			<not>
+				<player olympiad="true"/>
+			</not>
+		</cond>
+    </etcitem>
+    <etcitem id="22669" name="Камень Обработки Светового Кастета">
+        <set name="icon" value="BranchSys3.Icon.g_shape_shifting_dualfist"/>
+        <set name="type" value="OTHER"/>
+        <set name="destroyable" value="false"/>
+        <set name="dropable" value="false"/>
+        <set name="augmentable" value="false"/>
+        <set name="enchantable" value="false"/>
+        <set name="attributable" value="false"/>
+        <set name="sellable" value="false"/>
+        <set name="tradeable" value="false"/>
+        <set name="stackable" value="true"/>
+		<cond msgId="1508">
+			<not>
+				<player olympiad="true"/>
+			</not>
+		</cond>
+    </etcitem>
+    <etcitem id="22670" name="Камень Обработки Светового Копья">
+        <set name="icon" value="BranchSys3.Icon.g_shape_shifting_pole"/>
+        <set name="type" value="OTHER"/>
+        <set name="destroyable" value="false"/>
+        <set name="dropable" value="false"/>
+        <set name="augmentable" value="false"/>
+        <set name="enchantable" value="false"/>
+        <set name="attributable" value="false"/>
+        <set name="sellable" value="false"/>
+        <set name="tradeable" value="false"/>
+        <set name="stackable" value="true"/>
+		<cond msgId="1508">
+			<not>
+				<player olympiad="true"/>
+			</not>
+		</cond>
+    </etcitem>
+    <etcitem id="22671" name="Камень Обработки Светового Лука">
+        <set name="icon" value="BranchSys3.Icon.g_shape_shifting_bow"/>
+        <set name="type" value="OTHER"/>
+        <set name="destroyable" value="false"/>
+        <set name="dropable" value="false"/>
+        <set name="augmentable" value="false"/>
+        <set name="enchantable" value="false"/>
+        <set name="attributable" value="false"/>
+        <set name="sellable" value="false"/>
+        <set name="tradeable" value="false"/>
+        <set name="stackable" value="true"/>
+		<cond msgId="1508">
+			<not>
+				<player olympiad="true"/>
+			</not>
+		</cond>
+    </etcitem>
+    <etcitem id="22672" name="Камень Обработки Светового Арбалета">
+        <set name="icon" value="BranchSys3.Icon.g_shape_shifting_twohand_crossbow"/>
+        <set name="type" value="OTHER"/>
+        <set name="destroyable" value="false"/>
+        <set name="dropable" value="false"/>
+        <set name="augmentable" value="false"/>
+        <set name="enchantable" value="false"/>
+        <set name="attributable" value="false"/>
+        <set name="sellable" value="false"/>
+        <set name="tradeable" value="false"/>
+        <set name="stackable" value="true"/>
+		<cond msgId="1508">
+			<not>
+				<player olympiad="true"/>
+			</not>
+		</cond>
+    </etcitem>
+    <etcitem id="22673" name="Камень Обработки Световой Одноручной Дубины">
+        <set name="icon" value="BranchSys3.Icon.g_shape_shifting_blunt"/>
+        <set name="type" value="OTHER"/>
+        <set name="destroyable" value="false"/>
+        <set name="dropable" value="false"/>
+        <set name="augmentable" value="false"/>
+        <set name="enchantable" value="false"/>
+        <set name="attributable" value="false"/>
+        <set name="sellable" value="false"/>
+        <set name="tradeable" value="false"/>
+        <set name="stackable" value="true"/>
+		<cond msgId="1508">
+			<not>
+				<player olympiad="true"/>
+			</not>
+		</cond>
+    </etcitem>
+    <etcitem id="22674" name="Камень Обработки Световой Двуручной Дубины">
+        <set name="icon" value="BranchSys3.Icon.g_shape_shifting_twohand_blunt"/>
+        <set name="type" value="OTHER"/>
+        <set name="destroyable" value="false"/>
+        <set name="dropable" value="false"/>
+        <set name="augmentable" value="false"/>
+        <set name="enchantable" value="false"/>
+        <set name="attributable" value="false"/>
+        <set name="sellable" value="false"/>
+        <set name="tradeable" value="false"/>
+        <set name="stackable" value="true"/>
+		<cond msgId="1508">
+			<not>
+				<player olympiad="true"/>
+			</not>
+		</cond>
+    </etcitem>
+    <etcitem id="22675" name="Камень Обработки Световой Одноручной Магической Дубины">
+        <set name="icon" value="BranchSys3.Icon.g_shape_shifting_magic_blunt"/>
+        <set name="type" value="OTHER"/>
+        <set name="destroyable" value="false"/>
+        <set name="dropable" value="false"/>
+        <set name="augmentable" value="false"/>
+        <set name="enchantable" value="false"/>
+        <set name="attributable" value="false"/>
+        <set name="sellable" value="false"/>
+        <set name="tradeable" value="false"/>
+        <set name="stackable" value="true"/>
+		<cond msgId="1508">
+			<not>
+				<player olympiad="true"/>
+			</not>
+		</cond>
+    </etcitem>
+    <etcitem id="22676" name="Камень Обработки Световой Двуручной Магической Дубины">
+        <set name="icon" value="BranchSys3.Icon.g_shape_shifting_magic_twohand_blunt"/>
+        <set name="type" value="OTHER"/>
+        <set name="destroyable" value="false"/>
+        <set name="dropable" value="false"/>
+        <set name="augmentable" value="false"/>
+        <set name="enchantable" value="false"/>
+        <set name="attributable" value="false"/>
+        <set name="sellable" value="false"/>
+        <set name="tradeable" value="false"/>
+        <set name="stackable" value="true"/>
+		<cond msgId="1508">
+			<not>
+				<player olympiad="true"/>
+			</not>
+		</cond>
+    </etcitem>
+    <etcitem id="22677" name="Камень Обработки Световых Парных Мечей">
+        <set name="icon" value="BranchSys3.Icon.g_shape_shifting_dual"/>
+        <set name="type" value="OTHER"/>
+        <set name="destroyable" value="false"/>
+        <set name="dropable" value="false"/>
+        <set name="augmentable" value="false"/>
+        <set name="enchantable" value="false"/>
+        <set name="attributable" value="false"/>
+        <set name="sellable" value="false"/>
+        <set name="tradeable" value="false"/>
+        <set name="stackable" value="true"/>
+		<cond msgId="1508">
+			<not>
+				<player olympiad="true"/>
+			</not>
+		</cond>
+    </etcitem>
+    <etcitem id="22678" name="Камень Обработки Световых Парных Кинжалов">
+        <set name="icon" value="BranchSys3.Icon.g_shape_shifting_dualdagger"/>
+        <set name="type" value="OTHER"/>
+        <set name="destroyable" value="false"/>
+        <set name="dropable" value="false"/>
+        <set name="augmentable" value="false"/>
+        <set name="enchantable" value="false"/>
+        <set name="attributable" value="false"/>
+        <set name="sellable" value="false"/>
+        <set name="tradeable" value="false"/>
+        <set name="stackable" value="true"/>
+		<cond msgId="1508">
+			<not>
+				<player olympiad="true"/>
+			</not>
+		</cond>
+    </etcitem>
+    <etcitem id="22679" name="Камень Обработки Световых Парных Дубин">
+        <set name="icon" value="BranchSys3.Icon.g_shape_shifting_dualblunt"/>
+        <set name="type" value="OTHER"/>
+        <set name="destroyable" value="false"/>
+        <set name="dropable" value="false"/>
+        <set name="augmentable" value="false"/>
+        <set name="enchantable" value="false"/>
+        <set name="attributable" value="false"/>
+        <set name="sellable" value="false"/>
+        <set name="tradeable" value="false"/>
+        <set name="stackable" value="true"/>
+		<cond msgId="1508">
+			<not>
+				<player olympiad="true"/>
+			</not>
+		</cond>
+    </etcitem>
+    <etcitem id="22680" name="Камень Обработки Светового Щита">
+        <set name="icon" value="BranchSys3.Icon.g_shape_shifting_shield"/>
+        <set name="type" value="OTHER"/>
+        <set name="destroyable" value="false"/>
+        <set name="dropable" value="false"/>
+        <set name="augmentable" value="false"/>
+        <set name="enchantable" value="false"/>
+        <set name="attributable" value="false"/>
+        <set name="sellable" value="false"/>
+        <set name="tradeable" value="false"/>
+        <set name="stackable" value="true"/>
+		<cond msgId="1508">
+			<not>
+				<player olympiad="true"/>
+			</not>
+		</cond>
+    </etcitem>
+    <etcitem id="22681" name="Камень Обработки Светового Символа">
+        <set name="icon" value="BranchSys3.Icon.g_shape_shifting_sigil"/>
+        <set name="type" value="OTHER"/>
+        <set name="destroyable" value="false"/>
+        <set name="dropable" value="false"/>
+        <set name="augmentable" value="false"/>
+        <set name="enchantable" value="false"/>
+        <set name="attributable" value="false"/>
+        <set name="sellable" value="false"/>
+        <set name="tradeable" value="false"/>
+        <set name="stackable" value="true"/>
+		<cond msgId="1508">
+			<not>
+				<player olympiad="true"/>
+			</not>
+		</cond>
+    </etcitem>
+    <etcitem id="22682" name="Камень Обработки Доспехов - Ранг R">
+        <set name="icon" value="BranchSys3.Icon.g_shape_shifting_am_stone_r"/>
+        <set name="type" value="OTHER"/>
+        <set name="destroyable" value="false"/>
+        <set name="dropable" value="false"/>
+        <set name="augmentable" value="false"/>
+        <set name="enchantable" value="false"/>
+        <set name="attributable" value="false"/>
+        <set name="sellable" value="false"/>
+        <set name="tradeable" value="false"/>
+        <set name="stackable" value="true"/>
+		<cond msgId="1508">
+			<not>
+				<player olympiad="true"/>
+			</not>
+		</cond>
+    </etcitem>
+    <etcitem id="22683" name="Камень Обработки Доспехов - Ранг S">
+        <set name="icon" value="BranchSys3.Icon.g_shape_shifting_am_stone_s"/>
+        <set name="type" value="OTHER"/>
+        <set name="destroyable" value="false"/>
+        <set name="dropable" value="false"/>
+        <set name="augmentable" value="false"/>
+        <set name="enchantable" value="false"/>
+        <set name="attributable" value="false"/>
+        <set name="sellable" value="false"/>
+        <set name="tradeable" value="false"/>
+        <set name="stackable" value="true"/>
+		<cond msgId="1508">
+			<not>
+				<player olympiad="true"/>
+			</not>
+		</cond>
+    </etcitem>
+    <etcitem id="22684" name="Камень Обработки Доспехов - Ранг A">
+        <set name="icon" value="BranchSys3.Icon.g_shape_shifting_am_stone_a"/>
+        <set name="type" value="OTHER"/>
+        <set name="destroyable" value="false"/>
+        <set name="dropable" value="false"/>
+        <set name="augmentable" value="false"/>
+        <set name="enchantable" value="false"/>
+        <set name="attributable" value="false"/>
+        <set name="sellable" value="false"/>
+        <set name="tradeable" value="false"/>
+        <set name="stackable" value="true"/>
+		<cond msgId="1508">
+			<not>
+				<player olympiad="true"/>
+			</not>
+		</cond>
+    </etcitem>
+    <etcitem id="22685" name="Камень Обработки Доспехов - Ранг B">
+        <set name="icon" value="BranchSys3.Icon.g_shape_shifting_am_stone_b"/>
+        <set name="type" value="OTHER"/>
+        <set name="destroyable" value="false"/>
+        <set name="dropable" value="false"/>
+        <set name="augmentable" value="false"/>
+        <set name="enchantable" value="false"/>
+        <set name="attributable" value="false"/>
+        <set name="sellable" value="false"/>
+        <set name="tradeable" value="false"/>
+        <set name="stackable" value="true"/>
+		<cond msgId="1508">
+			<not>
+				<player olympiad="true"/>
+			</not>
+		</cond>
+    </etcitem>
+    <etcitem id="22686" name="Камень Обработки Доспехов - Ранг C">
+        <set name="icon" value="BranchSys3.Icon.g_shape_shifting_am_stone_c"/>
+        <set name="type" value="OTHER"/>
+        <set name="destroyable" value="false"/>
+        <set name="dropable" value="false"/>
+        <set name="augmentable" value="false"/>
+        <set name="enchantable" value="false"/>
+        <set name="attributable" value="false"/>
+        <set name="sellable" value="false"/>
+        <set name="tradeable" value="false"/>
+        <set name="stackable" value="true"/>
+		<cond msgId="1508">
+			<not>
+				<player olympiad="true"/>
+			</not>
+		</cond>
+    </etcitem>
+    <etcitem id="22687" name="Камень Обработки Доспехов - Ранг D">
+        <set name="icon" value="BranchSys3.Icon.g_shape_shifting_am_stone_d"/>
+        <set name="type" value="OTHER"/>
+        <set name="destroyable" value="false"/>
+        <set name="dropable" value="false"/>
+        <set name="augmentable" value="false"/>
+        <set name="enchantable" value="false"/>
+        <set name="attributable" value="false"/>
+        <set name="sellable" value="false"/>
+        <set name="tradeable" value="false"/>
+        <set name="stackable" value="true"/>
+		<cond msgId="1508">
+			<not>
+				<player olympiad="true"/>
+			</not>
+		</cond>
+    </etcitem>
+    <etcitem id="22688" name="Благословенный Камень Обработки Доспехов - Ранг R">
+        <set name="icon" value="BranchSys3.Icon.g_bless_shape_shifting__am_stone_r"/>
+        <set name="type" value="OTHER"/>
+        <set name="destroyable" value="false"/>
+        <set name="dropable" value="false"/>
+        <set name="augmentable" value="false"/>
+        <set name="enchantable" value="false"/>
+        <set name="attributable" value="false"/>
+        <set name="sellable" value="false"/>
+        <set name="tradeable" value="false"/>
+        <set name="stackable" value="true"/>
+		<cond msgId="1508">
+			<not>
+				<player olympiad="true"/>
+			</not>
+		</cond>
+    </etcitem>
+    <etcitem id="22689" name="Благословенный Камень Обработки Доспехов - Ранг S">
+        <set name="icon" value="BranchSys3.Icon.g_bless_shape_shifting__am_stone_s"/>
+        <set name="type" value="OTHER"/>
+        <set name="destroyable" value="false"/>
+        <set name="dropable" value="false"/>
+        <set name="augmentable" value="false"/>
+        <set name="enchantable" value="false"/>
+        <set name="attributable" value="false"/>
+        <set name="sellable" value="false"/>
+        <set name="tradeable" value="false"/>
+        <set name="stackable" value="true"/>
+		<cond msgId="1508">
+			<not>
+				<player olympiad="true"/>
+			</not>
+		</cond>
+    </etcitem>
+    <etcitem id="22690" name="Благословенный Камень Обработки Доспехов - Ранг A">
+        <set name="icon" value="BranchSys3.Icon.g_bless_shape_shifting__am_stone_a"/>
+        <set name="type" value="OTHER"/>
+        <set name="destroyable" value="false"/>
+        <set name="dropable" value="false"/>
+        <set name="augmentable" value="false"/>
+        <set name="enchantable" value="false"/>
+        <set name="attributable" value="false"/>
+        <set name="sellable" value="false"/>
+        <set name="tradeable" value="false"/>
+        <set name="stackable" value="true"/>
+		<cond msgId="1508">
+			<not>
+				<player olympiad="true"/>
+			</not>
+		</cond>
+    </etcitem>
+    <etcitem id="22691" name="Благословенный Камень Обработки Доспехов - Ранг B">
+        <set name="icon" value="BranchSys3.Icon.g_bless_shape_shifting__am_stone_b"/>
+        <set name="type" value="OTHER"/>
+        <set name="destroyable" value="false"/>
+        <set name="dropable" value="false"/>
+        <set name="augmentable" value="false"/>
+        <set name="enchantable" value="false"/>
+        <set name="attributable" value="false"/>
+        <set name="sellable" value="false"/>
+        <set name="tradeable" value="false"/>
+        <set name="stackable" value="true"/>
+		<cond msgId="1508">
+			<not>
+				<player olympiad="true"/>
+			</not>
+		</cond>
+    </etcitem>
+    <etcitem id="22692" name="Благословенный Камень Обработки Доспехов - Ранг C">
+        <set name="icon" value="BranchSys3.Icon.g_bless_shape_shifting__am_stone_c"/>
+        <set name="type" value="OTHER"/>
+        <set name="destroyable" value="false"/>
+        <set name="dropable" value="false"/>
+        <set name="augmentable" value="false"/>
+        <set name="enchantable" value="false"/>
+        <set name="attributable" value="false"/>
+        <set name="sellable" value="false"/>
+        <set name="tradeable" value="false"/>
+        <set name="stackable" value="true"/>
+		<cond msgId="1508">
+			<not>
+				<player olympiad="true"/>
+			</not>
+		</cond>
+    </etcitem>
+    <etcitem id="22693" name="Благословенный Камень Обработки Доспехов - Ранг D">
+        <set name="icon" value="BranchSys3.Icon.g_bless_shape_shifting__am_stone_d"/>
+        <set name="type" value="OTHER"/>
+        <set name="destroyable" value="false"/>
+        <set name="dropable" value="false"/>
+        <set name="augmentable" value="false"/>
+        <set name="enchantable" value="false"/>
+        <set name="attributable" value="false"/>
+        <set name="sellable" value="false"/>
+        <set name="tradeable" value="false"/>
+        <set name="stackable" value="true"/>
+		<cond msgId="1508">
+			<not>
+				<player olympiad="true"/>
+			</not>
+		</cond>
+    </etcitem>
+    <etcitem id="22694" name="Камень Восстановления Облика Доспехов - Ранг R">
+        <set name="icon" value="BranchSys3.icon.g_wp_processing_stone_r"/>
+        <set name="type" value="OTHER"/>
+        <set name="destroyable" value="false"/>
+        <set name="dropable" value="false"/>
+        <set name="augmentable" value="false"/>
+        <set name="enchantable" value="false"/>
+        <set name="attributable" value="false"/>
+        <set name="sellable" value="false"/>
+        <set name="tradeable" value="false"/>
+        <set name="stackable" value="true"/>
+		<cond msgId="1508">
+			<not>
+				<player olympiad="true"/>
+			</not>
+		</cond>
+    </etcitem>
+    <etcitem id="22695" name="Камень Восстановления Облика Доспехов - Ранг S">
+        <set name="icon" value="BranchSys3.icon.g_wp_processing_stone_s"/>
+        <set name="type" value="OTHER"/>
+        <set name="destroyable" value="false"/>
+        <set name="dropable" value="false"/>
+        <set name="augmentable" value="false"/>
+        <set name="enchantable" value="false"/>
+        <set name="attributable" value="false"/>
+        <set name="sellable" value="false"/>
+        <set name="tradeable" value="false"/>
+        <set name="stackable" value="true"/>
+		<cond msgId="1508">
+			<not>
+				<player olympiad="true"/>
+			</not>
+		</cond>
+    </etcitem>
+    <etcitem id="22696" name="Камень Восстановления Облика Доспехов - Ранг A">
+        <set name="icon" value="BranchSys3.icon.g_wp_processing_stone_a"/>
+        <set name="type" value="OTHER"/>
+        <set name="destroyable" value="false"/>
+        <set name="dropable" value="false"/>
+        <set name="augmentable" value="false"/>
+        <set name="enchantable" value="false"/>
+        <set name="attributable" value="false"/>
+        <set name="sellable" value="false"/>
+        <set name="tradeable" value="false"/>
+        <set name="stackable" value="true"/>
+		<cond msgId="1508">
+			<not>
+				<player olympiad="true"/>
+			</not>
+		</cond>
+    </etcitem>
+    <etcitem id="22697" name="Камень Восстановления Облика Доспехов - Ранг B">
+        <set name="icon" value="BranchSys3.icon.g_wp_processing_stone_b"/>
+        <set name="type" value="OTHER"/>
+        <set name="destroyable" value="false"/>
+        <set name="dropable" value="false"/>
+        <set name="augmentable" value="false"/>
+        <set name="enchantable" value="false"/>
+        <set name="attributable" value="false"/>
+        <set name="sellable" value="false"/>
+        <set name="tradeable" value="false"/>
+        <set name="stackable" value="true"/>
+		<cond msgId="1508">
+			<not>
+				<player olympiad="true"/>
+			</not>
+		</cond>
+    </etcitem>
+    <etcitem id="22698" name="Камень Восстановления Облика Доспехов - Ранг C">
+        <set name="icon" value="BranchSys3.icon.g_wp_processing_stone_c"/>
+        <set name="type" value="OTHER"/>
+        <set name="destroyable" value="false"/>
+        <set name="dropable" value="false"/>
+        <set name="augmentable" value="false"/>
+        <set name="enchantable" value="false"/>
+        <set name="attributable" value="false"/>
+        <set name="sellable" value="false"/>
+        <set name="tradeable" value="false"/>
+        <set name="stackable" value="true"/>
+		<cond msgId="1508">
+			<not>
+				<player olympiad="true"/>
+			</not>
+		</cond>
+    </etcitem>
+    <etcitem id="22699" name="Камень Восстановления Облика Доспехов - Ранг D">
+        <set name="icon" value="BranchSys3.icon.g_wp_processing_stone_d"/>
+        <set name="type" value="OTHER"/>
+        <set name="destroyable" value="false"/>
+        <set name="dropable" value="false"/>
+        <set name="augmentable" value="false"/>
+        <set name="enchantable" value="false"/>
+        <set name="attributable" value="false"/>
+        <set name="sellable" value="false"/>
+        <set name="tradeable" value="false"/>
+        <set name="stackable" value="true"/>
+		<cond msgId="1508">
+			<not>
+				<player olympiad="true"/>
+			</not>
+		</cond>
+    </etcitem>
+	<etcitem id="22882" name="Камень Восстановления Облика Головного Убора">
+		<set name="icon" value="BranchSys3.Icon.g_shape_shifting_wp_stone_r"/>
+		<set name="type" value="OTHER"/>
+        <set name="destroyable" value="false"/>
+        <set name="dropable" value="false"/>
+        <set name="augmentable" value="false"/>
+        <set name="enchantable" value="false"/>
+        <set name="attributable" value="false"/>
+        <set name="sellable" value="false"/>
+        <set name="tradeable" value="false"/>
+        <set name="stackable" value="true"/>
+		<cond msgId="1508">
+			<not>
+				<player olympiad="true"/>
+			</not>
+		</cond>
+	</etcitem>
+	<etcitem id="22708" name="Камень Обработки Головного Убора">
+		<set name="icon" value="BranchSys3.Icon.g_shape_shifting_wp_stone_r"/>
+		<set name="type" value="OTHER"/>
+        <set name="destroyable" value="false"/>
+        <set name="dropable" value="false"/>
+        <set name="augmentable" value="false"/>
+        <set name="enchantable" value="false"/>
+        <set name="attributable" value="false"/>
+        <set name="sellable" value="false"/>
+        <set name="tradeable" value="false"/>
+        <set name="stackable" value="true"/>
+		<cond msgId="1508">
+			<not>
+				<player olympiad="true"/>
+			</not>
+		</cond>
+	</etcitem>
+	<etcitem id="22709" name="Благословенный Камень Обработки Головного Убора">
+		<set name="icon" value="BranchSys3.Icon.g_shape_shifting_wp_stone_r"/>
+		<set name="type" value="OTHER"/>
+        <set name="destroyable" value="false"/>
+        <set name="dropable" value="false"/>
+        <set name="augmentable" value="false"/>
+        <set name="enchantable" value="false"/>
+        <set name="attributable" value="false"/>
+        <set name="sellable" value="false"/>
+        <set name="tradeable" value="false"/>
+        <set name="stackable" value="true"/>
+		<cond msgId="1508">
+			<not>
+				<player olympiad="true"/>
+			</not>
+		</cond>
+	</etcitem>
+		<etcitem id="22980" name="Nevit's Rune 100% (1 Hour) 1-Unit Pack">
+		<set name="icon" value="BranchSys.icon.br_four_leaf_clover_box_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="destroyable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="augmentable" value="false"/>
+		<set name="enchantable" value="false"/>
+		<set name="attributable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+	<etcitem id="22966" name="Vitality Maintaining Potion (1 Hour)">
+		<set name="icon" value="BranchSys2.br_essence_rose_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="destroyable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="augmentable" value="false"/>
+		<set name="enchantable" value="false"/>
+		<set name="attributable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="stackable" value="true"/>
+	</etcitem>
+</list>

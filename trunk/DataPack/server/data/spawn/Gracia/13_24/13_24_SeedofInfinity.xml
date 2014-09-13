@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "spawn.dtd">
+<list>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-212831" y="209536" z="4272" h="16384" />
+		<npc id="32534" /><!--Jaedin-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-213770" y="210760" z="4400" h="57343" />
+		<npc id="32604" /><!--Airship Controller-->
+	</spawn>
+</list>

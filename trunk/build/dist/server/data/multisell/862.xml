@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<config showall="true" notax="true" keepenchanted="false"/>
+	<item>
+		<!-- Талисман Вожделения -->
+		<ingredient id="34989" count="1" />
+		<!-- null -->
+		<ingredient id="35562" count="72" />
+		<!-- Самоцвет: Ранг R -->
+		<ingredient id="19440" count="1000" />
+		<!-- null -->
+		<production id="35649" count="1" />
+	</item>
+</list>

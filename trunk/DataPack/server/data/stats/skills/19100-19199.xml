@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<skill id="19116" levels="1" name="Оседлать Линдрако">
+		<set name="magicType" val="MAGIC" />		
+		<set name="reuseDelay" val="14400000" />
+		<set name="hitTime" val="2500" />
+		<set name="mpConsume2" val="31" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="TRANSFORMATION" />
+		<set name="isReuseDelayPermanent" val="true" />
+		<set name="addSkills" val="619;1" />
+		<set name="npcId" val="13390" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isCommon" val="true" />
+		<cond msgId="1509">
+			<not>
+				<player olympiad="true" />
+			</not>
+		</cond>
+		<for>
+			<effect count="1" name="Transformation" time="1800" val="147">
+				<set order="0x40" stat="STR" val="36" />
+				<set order="0x40" stat="DEX" val="35" />
+				<set order="0x40" stat="CON" val="36" />
+				<set order="0x40" stat="INT" val="23" />
+				<set order="0x40" stat="WIT" val="14" />
+				<set order="0x40" stat="MEN" val="26" />
+			</effect>
+		</for>
+	</skill>
+</list>

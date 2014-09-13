@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- S-84 weapon -->
+<!-- © 2010 by mathuza -->
+
+<list maintainEnchantment="true">
+
+  <!-- Triumph Ancientsword -->
+  <item id="1">
+    <production id="15688" count="1"/>
+	<ingredient id="13419" count="1"/>
+  </item>
+
+  <!-- Triumph Blade -->
+  <item id="2">
+    <production id="15676" count="1"/>
+	<ingredient id="13419" count="1"/>
+  </item>
+
+  <!-- Triumph Bow -->
+  <item id="3">
+    <production id="15686" count="1"/>
+	<ingredient id="13419" count="1"/>
+  </item>
+
+  <!-- Triumph Crossbow -->
+  <item id="4">
+    <production id="15689" count="1"/>
+	<ingredient id="13419" count="1"/>
+  </item>
+
+  <!-- Triumph Crusher -->
+  <item id="5">
+    <production id="15679" count="1"/>
+	<ingredient id="13419" count="1"/>
+  </item>
+
+  <!-- Triumph Dagger -->
+  <item id="6">
+    <production id="15677" count="1"/>
+	<ingredient id="13419" count="1"/>
+  </item>
+
+  <!-- Triumph Hammer -->
+  <item id="7">
+    <production id="15678" count="1"/>
+	<ingredient id="13419" count="1"/>
+  </item>
+
+  <!-- Triumph Jamadhr -->
+  <item id="8">
+    <production id="15681" count="1"/>
+	<ingredient id="13419" count="1"/>
+  </item>
+
+  <!-- Triumph Magic Sword -->
+  <item id="9">
+    <production id="15685" count="1"/>
+	<ingredient id="13419" count="1"/>
+  </item>
+
+  <!-- Triumph Rapier -->
+  <item id="10">
+    <production id="15687" count="1"/>
+	<ingredient id="13419" count="1"/>
+  </item>
+
+  <!-- Triumph Spear -->
+  <item id="11">
+    <production id="15682" count="1"/>
+	<ingredient id="13419" count="1"/>
+  </item>
+
+  <!-- Triumph Staff -->
+  <item id="12">
+    <production id="15683" count="1"/>
+	<ingredient id="13419" count="1"/>
+  </item>
+
+  <!-- Triumph Two Hand Staff -->
+  <item id="13">
+    <production id="15684" count="1"/>
+	<ingredient id="13419" count="1"/>
+  </item>
+
+  <!-- Triumph Two Hand Sword -->
+  <item id="14">
+    <production id="15680" count="1"/>
+	<ingredient id="13419" count="1"/>
+  </item>
+
+
+</list>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!ELEMENT list (summonId)*>
+<!ELEMENT summonId (#PCDATA)>
+<!ATTLIST summonId
+	id CDATA #REQUIRED
+	points CDATA #REQUIRED>

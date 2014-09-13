@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "item.dtd">
+
+<list>
+	<weapon id="19527" name="Immortal Shield" add_name="Attack Type / Heavy">
+		<!--Done By Darvin (c)Java - Team 2012-->
+		<set name="icon" value="icon.weapon_sacon_i00"/>
+		<set name="weight" value="1130"/>
+		<equip>
+			<slot id="LEFT_HAND"/>
+		</equip>
+		<set name="type" value="NONE"/>
+		<set name="crystal_type" value="R"/>
+		<set name="crystal_count" value="3562"/>
+		<for>
+			<add stat="sDef" order="0x10" value="415"/>
+			<add stat="rShld" order="0x10" value="20"/>
+			<add stat="rEvas" order="0x10" value="-8"/>
+			<enchant stat="sDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</weapon>
+	<weapon id="19543" name="Twilight Shield" add_name="Attack Type / Heavy">
+		<!--Done By Darvin (c)Java - Team 2012-->
+		<set name="icon" value="icon.kratere_i00"/>
+		<set name="weight" value="1130"/>
+		<equip>
+			<slot id="LEFT_HAND"/>
+		</equip>
+		<set name="type" value="NONE"/>
+		<set name="crystal_type" value="R"/>
+		<set name="crystal_count" value="3562"/>
+		<for>
+			<add stat="sDef" order="0x10" value="458"/>
+			<add stat="rShld" order="0x10" value="20"/>
+			<add stat="rEvas" order="0x10" value="-8"/>
+			<enchant stat="sDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+		<crystallization_bonus>
+			<!--Scroll: Enchant Armor (R-grade)-->
+			<item id="17527" count="1" chance="47.0"/>
+			<!--Teal Soul Crystal Fragment (R-grade)-->
+			<item id="19509" count="1" chance="6.0"/>
+			<!--Giant's Arcsmith's Anvil-->
+			<item id="19307" count="1" chance="85.0"/>
+		</crystallization_bonus>
+	</weapon>
+	<weapon id="19559" name="Seraph Shield" add_name="Attack Type / Heavy">
+		<!--Done By Darvin (c)Java - Team 2012-->
+		<set name="icon" value="icon.beranka_i00"/>
+		<set name="weight" value="1130"/>
+		<equip>
+			<slot id="LEFT_HAND"/>
+		</equip>
+		<set name="type" value="NONE"/>
+		<set name="crystal_type" value="R95"/>
+		<set name="crystal_count" value="3562"/>
+		<for>
+			<add stat="sDef" order="0x10" value="505"/>
+			<add stat="rShld" order="0x10" value="20"/>
+			<add stat="rEvas" order="0x10" value="-8"/>
+			<enchant stat="sDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+		<crystallization_bonus>
+			<!--Scroll: Enchant Armor (R-grade)-->
+			<item id="17527" count="1" chance="46.0"/>
+			<!--Teal Soul Crystal Fragment (R95-grade)-->
+			<item id="19512" count="1" chance="4.0"/>
+			<!--Ancient Arcsmith's Anvil-->
+			<item id="19516" count="1" chance="89.0"/>
+		</crystallization_bonus>
+	</weapon>
+	<weapon id="19575" name="Eternal Shield" add_name="Attack Type / Heavy">
+		<!--Done By Darvin (c)Java - Team 2012-->
+		<set name="icon" value="icon.weapon_akra_i00"/>
+		<set name="weight" value="1130"/>
+		<equip>
+			<slot id="LEFT_HAND"/>
+		</equip>
+		<set name="type" value="NONE"/>
+		<set name="crystal_type" value="R99"/>
+		<set name="crystal_count" value="3562"/>
+		<for>
+			<add stat="sDef" order="0x10" value="526"/>
+			<add stat="rShld" order="0x10" value="20"/>
+			<add stat="rEvas" order="0x10" value="-8"/>
+			<enchant stat="sDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+		<crystallization_bonus>
+			<!--Scroll: Enchant Armor (R-grade)-->
+			<item id="17527" count="1" chance="48.0"/>
+			<!--Teal Soul Crystal Fragment (R99-grade)-->
+			<item id="19468" count="1" chance="6.0"/>
+			<!--Legendary Arcsmith's Anvil-->
+			<item id="19520" count="1" chance="85.0"/>
+		</crystallization_bonus>
+	</weapon>
+	<weapon id="19591" name="Bound Immortal Shield" add_name="Attack Type / Heavy">
+		<set name="bound" value="true"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="icon" value="icon.weapon_sacon_i00"/>
+		<set name="weight" value="1130"/>
+		<equip>
+			<slot id="LEFT_HAND"/>
+		</equip>
+		<set name="type" value="NONE"/>
+		<set name="crystal_type" value="R"/>
+		<set name="crystal_count" value="3562"/>
+		<for>
+			<add stat="sDef" order="0x10" value="415"/>
+			<add stat="rShld" order="0x10" value="20"/>
+			<add stat="rEvas" order="0x10" value="-8"/>
+			<enchant stat="sDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+		<crystallization_bonus>
+			<!--Scroll: Enchant Armor (R-grade)-->
+			<item id="17527" count="1" chance="3.0"/>
+			<!--Teal Soul Crystal Fragment (R-grade)-->
+			<item id="19509" count="1" chance="1.0"/>
+			<!--Giant's Arcsmith's Anvil-->
+			<item id="19307" count="1" chance="5.0"/>
+		</crystallization_bonus>
+	</weapon>
+</list>
+

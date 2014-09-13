@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "spawn.dtd">
+<!--Задумка спавна (c)Mangol,(c)KilRoy-->
+<list>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-53768" y="158042" z="-2048" h="62264" />
+		<npc id="36457" /><!--Wyvern Manager-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-51269" y="157584" z="-2048" h="39999" />
+		<npc id="35664" /><!--Logistics Officer-->
+	</spawn>
+</list>	

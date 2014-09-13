@@ -1,0 +1,26 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Tateossian Jewels -->
+<!-- © 2010 by mathuza -->
+
+<list maintainEnchantment="true">
+
+  <!-- Tateossian Necklace -->
+  <item id="1">
+    <ingredient id="13419" count="1"/>
+    <production id="920" count="1"/>
+  </item>
+
+  <!-- Tateossian Earrling -->
+  <item id="2">
+    <ingredient id="13419" count="1"/>
+    <production id="858" count="1"/>
+  </item>
+  
+  <!-- Tateossian Ring -->
+  <item id="3">
+    <ingredient id="13419" count="1"/>
+    <production id="889" count="1"/>
+  </item>
+  
+</list>

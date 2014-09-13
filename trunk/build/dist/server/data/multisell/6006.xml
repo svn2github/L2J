@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Оружие Драконов -->
+<list>
+  <config showall="true" notax="false" keepenchanted="false" />
+
+  <!-- Острие Линдвиора	Среднего Качества -->
+  <item>
+    <ingredient id="36434" count="1"/>
+	<ingredient id="36414" count="50"/>
+	<ingredient id="36550" count="1560"/>
+	<ingredient id="36565" count="1560"/>
+	<ingredient id="36545" count="1560"/>
+	<ingredient id="36515" count="100"/>
+	<ingredient id="35563" count="300"/>
+	<ingredient id="19440" count="7000"/>
+    <production id="36458" count="1"/>
+  </item>
+
+  <!-- Бросок Линдвиора	Среднего Качества -->
+  <item>
+    <ingredient id="36435" count="1"/>
+	<ingredient id="36414" count="50"/>
+	<ingredient id="36550" count="1560"/>
+	<ingredient id="36565" count="1560"/>
+	<ingredient id="36545" count="1560"/>
+	<ingredient id="36515" count="100"/>
+	<ingredient id="35563" count="300"/>
+	<ingredient id="19440" count="7000"/>
+    <production id="36459" count="1"/>
+  </item>
+
+  <!-- Эспадон Линдвиора	Среднего Качества -->
+  <item>
+    <ingredient id="36436" count="1"/>
+	<ingredient id="36414" count="50"/>
+	<ingredient id="36550" count="1560"/>
+	<ingredient id="36565" count="1560"/>
+	<ingredient id="36545" count="1560"/>
+	<ingredient id="36515" count="100"/>
+	<ingredient id="35563" count="300"/>
+	<ingredient id="19440" count="7000"/>
+    <production id="36460" count="1"/>
+  </item>
+
+  <!-- Заклинатель Линдвиора	Среднего Качества -->
+  <item>
+    <ingredient id="36437" count="1"/>
+	<ingredient id="36414" count="50"/>
+	<ingredient id="36550" count="1560"/>
+	<ingredient id="36565" count="1560"/>
+	<ingredient id="36545" count="1560"/>
+	<ingredient id="36515" count="100"/>
+	<ingredient id="35563" count="300"/>
+	<ingredient id="19440" count="7000"/>
+    <production id="36461" count="1"/>
+  </item>
+
+  <!-- Резак Линдвиора	Среднего Качества -->
+  <item>
+    <ingredient id="36438" count="1"/>
+	<ingredient id="36414" count="50"/>
+	<ingredient id="36550" count="1560"/>
+	<ingredient id="36565" count="1560"/>
+	<ingredient id="36545" count="1560"/>
+	<ingredient id="36515" count="100"/>
+	<ingredient id="35563" count="300"/>
+	<ingredient id="19440" count="7000"/>
+    <production id="36462" count="1"/>
+  </item>
+
+  <!-- Страж Линдвиора	Среднего Качества -->
+  <item>
+    <ingredient id="36439" count="1"/>
+	<ingredient id="36414" count="50"/>
+	<ingredient id="36550" count="1560"/>
+	<ingredient id="36565" count="1560"/>
+	<ingredient id="36545" count="1560"/>
+	<ingredient id="36515" count="100"/>
+	<ingredient id="35563" count="300"/>
+	<ingredient id="19440" count="7000"/>
+    <production id="36463" count="1"/>
+  </item>
+
+  <!-- Парные Кинжалы Линдвиора	Среднего Качества -->
+  <item>
+    <ingredient id="36440" count="1"/>
+	<ingredient id="36414" count="50"/>
+	<ingredient id="36550" count="1560"/>
+	<ingredient id="36565" count="1560"/>
+	<ingredient id="36545" count="1560"/>
+	<ingredient id="36515" count="100"/>
+	<ingredient id="35563" count="300"/>
+	<ingredient id="19440" count="7000"/>
+    <production id="36464" count="1"/>
+  </item>
+</list>

@@ -1,0 +1,1205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "item.dtd">
+
+<list>
+	<etcitem id="31700" name="Неопознанный Кешанберк">
+		<!-- Неопознанный Кешанберк. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Одноручный Меч) -->
+		<set name="icon" value="icon.weapon_kshanberk_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="B"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="0"/>
+
+		<skills>
+			<skill id="12309" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31701" name="Неопознанный Багровый Меч*Меч Революции">
+		<!-- Неопознанный Багровый Меч*Меч Революции. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Парные Клинки) -->
+		<set name="icon" value="icon.weapon_dual_sword_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="C"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="0"/>
+
+		<skills>
+			<skill id="12310" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31702" name="Неопознанный Багровый Меч*Багровый Меч">
+		<!-- Неопознанный Багровый Меч*Багровый Меч. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Парные Клинки) -->
+		<set name="icon" value="icon.weapon_dual_sword_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="C"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="0"/>
+
+		<skills>
+			<skill id="12311" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31703" name="Неопознанный Багровый Меч*Меч Эльфов">
+		<!-- Неопознанный Багровый Меч*Меч Эльфов. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Парные Клинки) -->
+		<set name="icon" value="icon.weapon_dual_sword_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="C"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="0"/>
+
+		<skills>
+			<skill id="12312" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31704" name="Неопознанный Багровый Меч*Длинный Меч Эльфов">
+		<!-- Неопознанный Багровый Меч*Длинный Меч Эльфов. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Парные Клинки) -->
+		<set name="icon" value="icon.weapon_dual_sword_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="C"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="0"/>
+
+		<skills>
+			<skill id="12313" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31705" name="Неопознанный Багровый Меч">
+		<!-- Неопознанный Багровый Меч. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Одноручный Меч) -->
+		<set name="icon" value="icon.weapon_crimson_sword_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="D"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="0"/>
+
+		<skills>
+			<skill id="12314" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31706" name="Неопознанный Кристальный Посох">
+		<!-- Неопознанный Кристальный Посох. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Двуручное Дробящее Оружие) -->
+		<set name="icon" value="icon.weapon_crystal_staff_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="C"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="255620"/>
+
+		<skills>
+			<skill id="12315" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31707" name="Неопознанный Кристальный Кинжал">
+		<!-- Неопознанный Кристальный Кинжал. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Кинжал) -->
+		<set name="icon" value="icon.weapon_crystal_dagger_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="C"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="683456"/>
+
+		<skills>
+			<skill id="12316" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31708" name="Неопознанный Крис">
+		<!-- Неопознанный Крис. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Кинжал) -->
+		<set name="icon" value="icon.weapon_kris_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="B"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="0"/>
+
+		<skills>
+			<skill id="12317" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31709" name="Неопознанный Арбалет">
+		<!-- Эксклюзивное оружие Камаэль: Неопознанный Арбалет, конверсия Гастрафета. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Арбалет) -->
+		<set name="icon" value="icon.weapon_hunting_gun_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="D"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="0"/>
+
+		<skills>
+			<skill id="12318" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31710" name="Неопознанный Легкий Арбалет">
+		<!-- Эксклюзивное оружие Камаэль: Неопознанный Легкий Арбалет, конверсия Легкого Лука. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Арбалет) -->
+		<set name="icon" value="icon.weapon_hunting_gun_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="D"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="0"/>
+
+		<skills>
+			<skill id="12319" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31711" name="Неопознанный Кукри">
+		<!-- Неопознанный Кукри. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Кинжал) -->
+		<set name="icon" value="icon.weapon_kukuri_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="D"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="0"/>
+
+		<skills>
+			<skill id="12320" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31712" name="Неопознанный Композитный Доспех">
+		<!-- Неопознанный Композитный Доспех. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Полный Тяжелый Доспех) -->
+		<set name="icon" value="icon.armor_t61_ul_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="C"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="177914"/>
+
+		<skills>
+			<skill id="12321" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31713" name="Неопознанный Композитный Шлем">
+		<!-- Неопознанный Композитный Шлем. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Шлем) -->
+		<set name="icon" value="icon.armor_leather_helmet_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="C"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="41064"/>
+
+		<skills>
+			<skill id="12322" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31714" name="Неопознанный Композитный Щит">
+		<!-- Неопознанный Композитный Щит. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Щит) -->
+		<set name="icon" value="icon.shield_composite_shield_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="C"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="28752"/>
+
+		<skills>
+			<skill id="12323" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31715" name="Неопознанные Композитные Сапоги">
+		<!-- Неопознанные Композитные Сапоги. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Сапоги) -->
+		<set name="icon" value="icon.armor_t61_b_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="C"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="27376"/>
+
+		<skills>
+			<skill id="12324" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31716" name="Неопознанный Посох Заклинателя">
+		<!-- Неопознанный Посох Заклинателя. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Двуручное Дробящее Оружие) -->
+		<set name="icon" value="icon.weapon_conjure_staff_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="D"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="0"/>
+
+		<skills>
+			<skill id="12325" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31717" name="Неопознанный Нож Заклинателя">
+		<!-- Неопознанный Нож Заклинателя. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Кинжал) -->
+		<set name="icon" value="icon.weapon_conjure_knife_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="D"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="107806"/>
+
+		<skills>
+			<skill id="12326" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31718" name="Неопознанная Катана*Катана">
+		<!-- Неопознанная Катана*Катана. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Парные Клинки) -->
+		<set name="icon" value="icon.weapon_dual_sword_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="C"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="0"/>
+
+		<skills>
+			<skill id="12327" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31719" name="Неопознанная Катана*Меч Духов">
+		<!-- Неопознанная Катана*Меч Духов. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Парные Клинки) -->
+		<set name="icon" value="icon.weapon_dual_sword_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="C"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="0"/>
+
+		<skills>
+			<skill id="12328" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31720" name="Неопознанная Катана*Меч Налетчика">
+		<!-- Неопознанная Катана*Меч Налетчика. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Парные Клинки) -->
+		<set name="icon" value="icon.weapon_dual_sword_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="C"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="0"/>
+
+		<skills>
+			<skill id="12329" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31721" name="Неопознанная Катана">
+		<!-- Неопознанная Катана. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Одноручный Меч) -->
+		<set name="icon" value="icon.weapon_katana_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="C"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="320406"/>
+
+		<skills>
+			<skill id="12330" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31722" name="Неопознанный Кацбальгер">
+		<!-- Эксклюзивное оружие Камаэль: Неопознанный Кацбальгер, конверсия Меча Гигантов. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Древний Меч) -->
+		<set name="icon" value="icon.weapon_tulwar_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="D"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="0"/>
+
+		<skills>
+			<skill id="12331" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31723" name="Неопознанные Кости Каим Ванула">
+		<!-- Неопознанные Кости Каим Ванула. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Одноручное Дробящее Оружие) -->
+		<set name="icon" value="icon.weapon_bone_of_kaim_vanul_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="B"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="1463252"/>
+
+		<skills>
+			<skill id="12332" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31724" name="Неопознанный Треугольный Щит">
+		<!-- Неопознанный Треугольный Щит. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Щит) -->
+		<set name="icon" value="icon.shield_kite_shield_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="D"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="8742"/>
+
+		<skills>
+			<skill id="12333" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31725" name="Неопознанный Рог Карика">
+		<!-- Неопознанный Рог Карика. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Двуручное Дробящее Оружие) -->
+		<set name="icon" value="icon.weapon_horn_of_karik_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="C"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="479122"/>
+
+		<skills>
+			<skill id="12334" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31726" name="Неопознанный Экскалибур">
+		<!-- Неопознанный Экскалибур. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Одноручный Меч) -->
+		<set name="icon" value="icon.weapon_caliburs_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="C"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="479122"/>
+
+		<skills>
+			<skill id="12335" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31727" name="Неопознанные Штаны Кармиана">
+		<!-- Неопознанные Штаны Кармиана. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Магические Набедренники) -->
+		<set name="icon" value="icon.armor_t53_l_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="C"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="26404"/>
+
+		<skills>
+			<skill id="12336" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31728" name="Неопознанная Туника Кармиана">
+		<!-- Неопознанная Туника Кармиана. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Магическая Броня) -->
+		<set name="icon" value="icon.armor_t53_u_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="C"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="42194"/>
+
+		<skills>
+			<skill id="12337" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31729" name="Неопознанные Сапоги Кармиана">
+		<!-- Неопознанные Сапоги Кармиана. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Сапоги) -->
+		<set name="icon" value="icon.armor_t53_b_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="C"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="14078"/>
+
+		<skills>
+			<skill id="12338" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31730" name="Неопознанные Перчатки Кармиана">
+		<!-- Неопознанные Перчатки Кармиана. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Перчатки) -->
+		<set name="icon" value="icon.armor_t53_g_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="C"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="14078"/>
+
+		<skills>
+			<skill id="12339" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31731" name="Неопознанный Кровавый Лук">
+		<!-- Неопознанный Кровавый Лук. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Лук) -->
+		<set name="icon" value="icon.weapon_carnium_bow_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="A"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="0"/>
+
+		<skills>
+			<skill id="12340" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31732" name="Неопознанный Цуруги">
+		<!-- Неопознанный Цуруги. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Одноручный Меч) -->
+		<set name="icon" value="icon.weapon_tsurugi_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="C"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="479122"/>
+
+		<skills>
+			<skill id="12341" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31733" name="Неопознанный Кольчужный Щит">
+		<!-- Неопознанный Кольчужный Щит. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Щит) -->
+		<set name="icon" value="icon.shield_chain_shield_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="C"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="14790"/>
+
+		<skills>
+			<skill id="12342" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31734" name="Неопознанная Кольчужная Рубаха">
+		<!-- Неопознанная Кольчужная Рубаха. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Тяжелая Броня) -->
+		<set name="icon" value="icon.armor_t48_u_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="C"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="56346"/>
+
+		<skills>
+			<skill id="12343" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31735" name="Неопознанные Кольчужные Набедренники">
+		<!-- Неопознанные Кольчужные Набедренники. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Тяжелые Набедренники) -->
+		<set name="icon" value="icon.armor_t48_l_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="C"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="35220"/>
+
+		<skills>
+			<skill id="12344" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31736" name="Неопознанные Кольчужные Сапоги">
+		<!-- Неопознанные Кольчужные Сапоги. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Сапоги) -->
+		<set name="icon" value="icon.armor_t48_b_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="C"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="14078"/>
+
+		<skills>
+			<skill id="12345" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31737" name="Неопознанные Кольчужные Перчатки">
+		<!-- Неопознанные Кольчужные Перчатки. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Перчатки) -->
+		<set name="icon" value="icon.armor_t48_g_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="C"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="14078"/>
+
+		<skills>
+			<skill id="12346" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31738" name="Неопознанный Бронзовый Шлем">
+		<!-- Неопознанный Бронзовый Шлем. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Шлем) -->
+		<set name="icon" value="icon.armor_helmet_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="D"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="5568"/>
+
+		<skills>
+			<skill id="12347" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31739" name="Неопознанный Бронзовый Щит">
+		<!-- Неопознанный Бронзовый Щит. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Щит) -->
+		<set name="icon" value="icon.shield_bronze_shield_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="D"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="2450"/>
+
+		<skills>
+			<skill id="12348" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31740" name="Неопознанные Железные Латные Набедренники">
+		<!-- Неопознанные Железные Латные Набедренники. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Тяжелые Набедренники) -->
+		<set name="icon" value="icon.armor_t12_l_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="D"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="5814"/>
+
+		<skills>
+			<skill id="12349" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31741" name="Неопознанная Чакра">
+		<!-- Неопознанная Чакра. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Кастеты) -->
+		<set name="icon" value="icon.weapon_chakram_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="C"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="255620"/>
+
+		<skills>
+			<skill id="12350" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31742" name="Неопознанные Багровые Сапоги">
+		<!-- Неопознанные Багровые Сапоги. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Сапоги) -->
+		<set name="icon" value="icon.armor_t57_b_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="C"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="17964"/>
+
+		<skills>
+			<skill id="12351" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31743" name="Неопознанные Рваные Рукавицы ">
+		<!-- Неопознанные Рваные Рукавицы . Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Перчатки) -->
+		<set name="icon" value="icon.armor_t40_g_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="D"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="8322"/>
+
+		<skills>
+			<skill id="12352" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31744" name="Неопознанный Свиток Мудрости">
+		<!-- Неопознанный Свиток Мудрости. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Одноручное Оружие) -->
+		<set name="icon" value="icon.weapon_scroll_of_wisdom_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="D"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="45674"/>
+
+		<skills>
+			<skill id="12353" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31745" name="Неопознанные Штаны Знаний">
+		<!-- Неопознанные Штаны Знаний. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Магические Набедренники) -->
+		<set name="icon" value="icon.armor_t41_l_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="D"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="10614"/>
+
+		<skills>
+			<skill id="12354" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31746" name="Неопознанная Туника Знаний">
+		<!-- Неопознанная Туника Знаний. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Магическая Броня) -->
+		<set name="icon" value="icon.armor_t41_u_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="D"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="16964"/>
+
+		<skills>
+			<skill id="12355" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31747" name="Неопознанные Перчатки Знаний">
+		<!-- Неопознанные Перчатки Знаний. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Перчатки) -->
+		<set name="icon" value="icon.armor_t41_g_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="D"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="5668"/>
+
+		<skills>
+			<skill id="12356" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31748" name="Неопознанные Сапоги Знаний">
+		<!-- Неопознанные Сапоги Знаний. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Сапоги) -->
+		<set name="icon" value="icon.armor_t41_b_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="D"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="5668"/>
+
+		<skills>
+			<skill id="12357" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31749" name="Неопознанная Полосатая Шелковая Рубаха">
+		<!-- Неопознанная Полосатая Шелковая Рубаха. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Хитон) -->
+		<set name="icon" value="icon.etc_stripe_shirts_c_i02"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="C"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="0"/>
+
+		<skills>
+			<skill id="12358" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31750" name="Неопознанная Полосатая Льняная Рубаха">
+		<!-- Неопознанная Полосатая Льняная Рубаха. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Хитон) -->
+		<set name="icon" value="icon.etc_stripe_shirts_d_i01"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="D"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="0"/>
+
+		<skills>
+			<skill id="12359" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31751" name="Неопознанный Кацбальгер Генерала">
+		<!-- Эксклюзивное оружие Камаэль: Неопознанный Кацбальгер Генерала, конверсия Клеймора. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Древний Меч) -->
+		<set name="icon" value="icon.weapon_tulwar_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="D"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="0"/>
+
+		<skills>
+			<skill id="12360" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31752" name="Неопознанный Посох Духа">
+		<!-- Неопознанный Посох Духа. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Двуручное Дробящее Оружие) -->
+		<set name="icon" value="icon.weapon_sprites_staff_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="B"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="0"/>
+
+		<skills>
+			<skill id="12361" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31753" name="Неопознанная Проклятая Дага">
+		<!-- Неопознанная Проклятая Дага. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Кинжал) -->
+		<set name="icon" value="icon.weapon_maingauche_i01"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="D"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="0"/>
+
+		<skills>
+			<skill id="12362" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31754" name="Неопознанный Проклятый Кинжал">
+		<!-- Неопознанный Проклятый Кинжал. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Кинжал) -->
+		<set name="icon" value="icon.weapon_cursed_dagger_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="C"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="255620"/>
+
+		<skills>
+			<skill id="12363" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31755" name="Неопознанные Проклятые Штаны">
+		<!-- Неопознанные Проклятые Штаны. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Магические Набедренники) -->
+		<set name="icon" value="icon.armor_t14_l_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="D"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="4364"/>
+
+		<skills>
+			<skill id="12364" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31756" name="Неопознанная Проклятая Туника">
+		<!-- Неопознанная Проклятая Туника. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Магическая Броня) -->
+		<set name="icon" value="icon.armor_t14_u_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="D"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="6988"/>
+
+		<skills>
+			<skill id="12365" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31757" name="Неопознанный Проклятый Посох">
+		<!-- Неопознанный Проклятый Посох. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Двуручное Дробящее Оружие) -->
+		<set name="icon" value="icon.weapon_cursed_staff_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="C"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="320406"/>
+
+		<skills>
+			<skill id="12366" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31758" name="Неопознанный Меч Ремесленника*Меч Революции">
+		<!-- Неопознанный Меч Ремесленника*Меч Революции. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Парные Клинки) -->
+		<set name="icon" value="icon.weapon_dual_sword_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="C"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="0"/>
+
+		<skills>
+			<skill id="12367" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31759" name="Неопознанный Меч Ремесленника*Багровый Меч">
+		<!-- Неопознанный Меч Ремесленника*Багровый Меч. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Парные Клинки) -->
+		<set name="icon" value="icon.weapon_dual_sword_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="D"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="0"/>
+
+		<skills>
+			<skill id="12368" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31760" name="Неопознанный Меч Ремесленника*Меч Ремесленника">
+		<!-- Неопознанный Меч Ремесленника*Меч Ремесленника. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Парные Клинки) -->
+		<set name="icon" value="icon.weapon_dual_sword_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="D"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="0"/>
+
+		<skills>
+			<skill id="12369" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31761" name="Неопознанный Меч Ремесленника*Меч Эльфов">
+		<!-- Неопознанный Меч Ремесленника*Меч Эльфов. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Парные Клинки) -->
+		<set name="icon" value="icon.weapon_dual_sword_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="D"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="0"/>
+
+		<skills>
+			<skill id="12370" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31762" name="Неопознанный Меч Ремесленника*Длинный Меч Эльфов">
+		<!-- Неопознанный Меч Ремесленника*Длинный Меч Эльфов. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Парные Клинки) -->
+		<set name="icon" value="icon.weapon_dual_sword_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="C"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="0"/>
+
+		<skills>
+			<skill id="12371" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31763" name="Неопознанный Меч Ремесленника*Меч Рыцаря">
+		<!-- Неопознанный Меч Ремесленника*Меч Рыцаря. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Парные Клинки) -->
+		<set name="icon" value="icon.weapon_dual_sword_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="D"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="0"/>
+
+		<skills>
+			<skill id="12372" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31764" name="Неопознанный Меч Ремесленника">
+		<!-- Неопознанный Меч Ремесленника. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Одноручный Меч) -->
+		<set name="icon" value="icon.weapon_artisans_sword_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="D"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="0"/>
+
+		<skills>
+			<skill id="12373" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31765" name="Неопознанный Кузнечный Молот">
+		<!-- Неопознанный Кузнечный Молот. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Одноручное Дробящее Оружие) -->
+		<set name="icon" value="icon.weapon_work_hammer_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="D"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="45674"/>
+
+		<skills>
+			<skill id="12374" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31766" name="Неопознанная Кираса Имперского Крестоносца">
+		<!-- Неопознанная Кираса Имперского Крестоносца. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Тяжелая Броня) -->
+		<set name="icon" value="icon.armor_t88_u_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="S"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="1853244"/>
+
+		<skills>
+			<skill id="12375" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31767" name="Неопознанный Шлем Имперского Крестоносца">
+		<!-- Неопознанный Шлем Имперского Крестоносца. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Шлем) -->
+		<set name="icon" value="icon.armor_helmet_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="S"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="694984"/>
+
+		<skills>
+			<skill id="12376" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31768" name="Неопознанный Щит Имперского Крестоносца">
+		<!-- Неопознанный Щит Имперского Крестоносца. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Щит) -->
+		<set name="icon" value="icon.shield_imperial_crusader_shield_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="S"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="486474"/>
+
+		<skills>
+			<skill id="12377" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31769" name="Неопознанные Сапоги Имперского Крестоносца">
+		<!-- Неопознанные Сапоги Имперского Крестоносца. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Сапоги) -->
+		<set name="icon" value="icon.armor_t88_b_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="S"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="463274"/>
+
+		<skills>
+			<skill id="12378" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31770" name="Неопознанные Рукавицы Имперского Крестоносца">
+		<!-- Неопознанные Рукавицы Имперского Крестоносца. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Перчатки) -->
+		<set name="icon" value="icon.armor_t88_g_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="S"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="463274"/>
+
+		<skills>
+			<skill id="12379" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31771" name="Неопознанные Набедренники Имперского Крестоносца">
+		<!-- Неопознанные Набедренники Имперского Крестоносца. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Тяжелые Набедренники) -->
+		<set name="icon" value="icon.armor_t88_l_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="S"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="1158260"/>
+
+		<skills>
+			<skill id="12380" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31772" name="Неопознанный Имперский Посох">
+		<!-- Неопознанный Имперский Посох. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Двуручное Дробящее Оружие) -->
+		<set name="icon" value="icon.weapon_imperial_staff_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="S"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="6200112"/>
+
+		<skills>
+			<skill id="12381" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31773" name="Неопознанный Посох Инферно">
+		<!-- Неопознанный Посох Инферно. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Двуручное Дробящее Оружие) -->
+		<set name="icon" value="icon.weapon_inferno_staff_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="C"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="479122"/>
+
+		<skills>
+			<skill id="12382" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31774" name="Неопознанный Мастер Инферно">
+		<!-- Неопознанный Мастер Инферно. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Двуручный Меч) -->
+		<set name="icon" value="icon.weapon_inferno_master_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="A"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="0"/>
+
+		<skills>
+			<skill id="12383" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31775" name="Неопознанные Слезы Русалки">
+		<!-- Неопознанные Слезы Русалки. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Ожерелье) -->
+		<set name="icon" value="icon.accessary_necklace_of_mermaid_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="C"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="43804"/>
+
+		<skills>
+			<skill id="12384" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31776" name="Неопознанные Слезы Русалки">
+		<!-- Неопознанные Слезы Русалки. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Ожерелье) -->
+		<set name="icon" value="icon.accessary_necklace_of_mermaid_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="C"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="0"/>
+
+		<skills>
+			<skill id="12385" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31777" name="Неопознанный Вечный Клинок">
+		<!-- Эксклюзивное оружие Камаэль: Неопознанный Вечный Клинок, конверсия Меча Паагрио. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Древний Меч) -->
+		<set name="icon" value="icon.weapon_invincible_blade_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="C"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="0"/>
+
+		<skills>
+			<skill id="12386" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31778" name="Неопознанный Топор Затмения">
+		<!-- Неопознанный Топор Затмения. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Одноручное Дробящее Оружие) -->
+		<set name="icon" value="icon.weapon_eclipse_axe_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="C"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="683456"/>
+
+		<skills>
+			<skill id="12387" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31779" name="Неопознанная Книга Безбожника">
+		<!-- Неопознанная Книга Безбожника. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Прочее Одноручное Оружие) -->
+		<set name="icon" value="icon.weapon_heathens_book_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="C"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="479122"/>
+
+		<skills>
+			<skill id="12388" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31780" name="Неопознанное Крылатое Копье">
+		<!-- Неопознанное Крылатое Копье. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Древковое Оружие) -->
+		<set name="icon" value="icon.weapon_winged_spear_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="D"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="0"/>
+
+		<skills>
+			<skill id="12389" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31781" name="Неопознанный Селекционер">
+		<!-- Неопознанный Селекционер. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Древковое Оружие) -->
+		<set name="icon" value="icon.weapon_widow_maker_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="C"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="533266"/>
+
+		<skills>
+			<skill id="12390" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31782" name="Неопознанный Серебряный Топор">
+		<!-- Неопознанный Серебряный Топор. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Одноручное Дробящее Оружие) -->
+		<set name="icon" value="icon.weapon_war_pick_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="C"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="255620"/>
+
+		<skills>
+			<skill id="12391" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31783" name="Неопознанный Топор Войны">
+		<!-- Неопознанный Топор Войны. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Одноручное Дробящее Оружие) -->
+		<set name="icon" value="icon.weapon_war_axe_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="C"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="479122"/>
+
+		<skills>
+			<skill id="12392" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31784" name="Неопознанный Молот Войны">
+		<!-- Неопознанный Молот Войны. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Древковое Оружие) -->
+		<set name="icon" value="icon.weapon_war_hammer_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="D"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="0"/>
+
+		<skills>
+			<skill id="12393" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31785" name="Неопознанный Джамадхар">
+		<!-- Непроверенный Джамадхар. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Кастеты) -->
+		<set name="icon" value="icon.weapon_single-edged_jamadhr_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="D"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="71846"/>
+
+		<skills>
+			<skill id="12394" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31786" name="Неопознанная Секира Орков">
+		<!-- Неопознанная Секира Орков. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Древковое Оружие) -->
+		<set name="icon" value="icon.weapon_orcish_poleaxe_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="C"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="683456"/>
+
+		<skills>
+			<skill id="12395" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31787" name="Неопознанная Глефа Орков">
+		<!-- Неопознанная Глефа Орков. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Древковое Оружие) -->
+		<set name="icon" value="icon.weapon_orcish_glaive_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="C"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="255620"/>
+
+		<skills>
+			<skill id="12396" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31788" name="Неопознанная Серьга Зверя Знамения">
+		<!-- Неопознанная Серьга Зверя Знамения. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Серьга) -->
+		<set name="icon" value="icon.accessary_onyxbeastseye_earing_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="D"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="13528"/>
+
+		<skills>
+			<skill id="12397" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31789" name="Неопознанные Рукавицы Огра">
+		<!-- Неопознанные Рукавицы Огра. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Перчатки) -->
+		<set name="icon" value="icon.armor_t45_g_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="D"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="10904"/>
+
+		<skills>
+			<skill id="12398" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31790" name="Неопознанные Рукавицы Огра">
+		<!-- Неопознанные Рукавицы Огра. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Перчатки) -->
+		<set name="icon" value="icon.armor_t45_g_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="D"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="0"/>
+
+		<skills>
+			<skill id="12399" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31791" name="Неопознанное Ожерелье Подлеска">
+		<!-- Неопознанное Ожерелье Подлеска. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Ожерелье) -->
+		<set name="icon" value="icon.accessary_near_forest_necklace_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="D"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="9554"/>
+
+		<skills>
+			<skill id="12400" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31792" name="Неопознанное Ожерелье Подлеска">
+		<!-- Неопознанное Ожерелье Подлеска. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Ожерелье) -->
+		<set name="icon" value="icon.accessary_near_forest_necklace_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="D"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="0"/>
+
+		<skills>
+			<skill id="12401" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31793" name="Неопознанный Пронзатель Душ">
+		<!-- Неопознанный Пронзатель Душ. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Лук) -->
+		<set name="icon" value="icon.weapon_soul_bow_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="A"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="3007444"/>
+
+		<skills>
+			<skill id="12402" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31794" name="Неопознанный Глаз Духа">
+		<!-- Неопознанный Глаз Духа. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Одноручное Дробящее Оружие) -->
+		<set name="icon" value="icon.weapon_eye_of_soul_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="A"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="0"/>
+
+		<skills>
+			<skill id="12403" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31795" name="Неопознанное Кольцо Эпох">
+		<!-- Неопознанное Кольцо Эпох. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Кольцо) -->
+		<set name="icon" value="icon.accessary_ring_of_ages_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="C"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="21908"/>
+
+		<skills>
+			<skill id="12404" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31796" name="Неопознанное Кольцо Эпох">
+		<!-- Неопознанное Кольцо Эпох. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Кольцо) -->
+		<set name="icon" value="icon.accessary_ring_of_ages_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="C"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="0"/>
+
+		<skills>
+			<skill id="12405" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31797" name="Неопознанный Рог Славы">
+		<!-- Неопознанный Рог Славы. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Прочее Одноручное Оружие) -->
+		<set name="icon" value="icon.weapon_horn_of_glory_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="C"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="320406"/>
+
+		<skills>
+			<skill id="12406" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31798" name="Неопознанная Булава Мага">
+		<!-- Неопознанная Булава Мага. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Одноручное Дробящее Оружие) -->
+		<set name="icon" value="icon.weapon_mace_of_miracle_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="D"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="0"/>
+
+		<skills>
+			<skill id="12407" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="31799" name="Неопознанные Штаны Эльфов">
+		<!-- Неопознанные Штаны Эльфов. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: Магические Набедренники) -->
+		<set name="icon" value="icon.armor_t11_l_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="D"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="0"/>
+
+		<skills>
+			<skill id="12408" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+</list>

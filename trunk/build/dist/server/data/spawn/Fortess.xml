@@ -1,0 +1,4277 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "spawn.dtd">
+<list>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="45672" y="153136" z="-1936" h="24575"/>
+		<npc id="23243"/><!-- Krutati -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="45761" y="153560" z="-1936" h="21766"/>
+		<npc id="23242"/><!-- Pafuron -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="45122" y="153411" z="-1928" h="41824"/>
+		<npc id="23209"/><!-- Kelbara the Dualsword Slaughterer -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="46800" y="151456" z="-2760" h="39389"/>
+		<npc id="23207"/><!-- Gazem Fortress Scout -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="47069" y="153450" z="-1952" h="12015"/>
+		<npc id="23200"/><!-- Turan the Severed Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="46386" y="152277" z="-1808" h="18749"/>
+		<npc id="23245"/><!-- Isaad Watchman of the Eye of Infinity -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="45266" y="153779" z="-1928" h="24000"/>
+		<npc id="23200"/><!-- Turan the Severed Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="47234" y="154349" z="-1936" h="39056"/>
+		<npc id="23243"/><!-- Krutati -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="46571" y="153726" z="-1920" h="25797"/>
+		<npc id="23209"/><!-- Kelbara the Dualsword Slaughterer -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="45436" y="153871" z="-1936" h="28942"/>
+		<npc id="23205"/><!-- Haskal the Floating Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="45754" y="154144" z="-1944" h="50798"/>
+		<npc id="23205"/><!-- Haskal the Floating Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="46774" y="153388" z="-1936" h="62995"/>
+		<npc id="23200"/><!-- Turan the Severed Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="46619" y="154041" z="-1928" h="9638"/>
+		<npc id="23209"/><!-- Kelbara the Dualsword Slaughterer -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="45409" y="154168" z="-1928" h="15453"/>
+		<npc id="23200"/><!-- Turan the Severed Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="46925" y="154018" z="-1936" h="63703"/>
+		<npc id="23205"/><!-- Haskal the Floating Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="47162" y="153820" z="-1944" h="36738"/>
+		<npc id="23205"/><!-- Haskal the Floating Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="47081" y="154635" z="-1928" h="39028"/>
+		<npc id="33717"/><!-- Tombstone of the Guillotine of Death -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="47363" y="153571" z="-1952" h="36191"/>
+		<npc id="23209"/><!-- Kelbara the Dualsword Slaughterer -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="48323" y="153719" z="-2720" h="38068"/>
+		<npc id="23242"/><!-- Pafuron -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="48588" y="153645" z="-2720" h="45735"/>
+		<npc id="23199"/><!-- Sadiac the Killer -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="49073" y="153479" z="-2792" h="47430"/>
+		<npc id="23205"/><!-- Haskal the Floating Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="48997" y="153039" z="-2784" h="46246"/>
+		<npc id="23207"/><!-- Gazem Fortress Scout -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="48587" y="153306" z="-2752" h="16386"/>
+		<npc id="23199"/><!-- Sadiac the Killer -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="47738" y="151777" z="-2784" h="29939"/>
+		<npc id="23200"/><!-- Turan the Severed Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="46991" y="151804" z="-2736" h="13276"/>
+		<npc id="23200"/><!-- Turan the Severed Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="48513" y="152962" z="-2752" h="52496"/>
+		<npc id="23200"/><!-- Turan the Severed Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="48303" y="153234" z="-2720" h="22621"/>
+		<npc id="23205"/><!-- Haskal the Floating Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="48501" y="151721" z="-2736" h="42291"/>
+		<npc id="23199"/><!-- Sadiac the Killer -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="49335" y="153587" z="-2776" h="43020"/>
+		<npc id="23209"/><!-- Kelbara the Dualsword Slaughterer -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="48172" y="151700" z="-2752" h="1109"/>
+		<npc id="23205"/><!-- Haskal the Floating Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="48733" y="153608" z="-2736" h="57345"/>
+		<npc id="23200"/><!-- Turan the Severed Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="48500" y="152814" z="-2744" h="914"/>
+		<npc id="23205"/><!-- Haskal the Floating Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="48868" y="153991" z="-2760" h="61311"/>
+		<npc id="23200"/><!-- Turan the Severed Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="47359" y="153827" z="-1952" h="21360"/>
+		<npc id="23205"/><!-- Haskal the Floating Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="47795" y="155574" z="-1944" h="52605"/>
+		<npc id="23244"/><!-- Alluring Irene -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="47612" y="154256" z="-1936" h="22677"/>
+		<npc id="23242"/><!-- Pafuron -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="47487" y="153716" z="-1952" h="16830"/>
+		<npc id="23200"/><!-- Turan the Severed Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="48621" y="154682" z="-2696" h="43941"/>
+		<npc id="23205"/><!-- Haskal the Floating Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="47159" y="153846" z="-1944" h="24158"/>
+		<npc id="23200"/><!-- Turan the Severed Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="49206" y="154107" z="-2800" h="26673"/>
+		<npc id="23200"/><!-- Turan the Severed Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="46949" y="154238" z="-1936" h="4032"/>
+		<npc id="23209"/><!-- Kelbara the Dualsword Slaughterer -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="49007" y="154241" z="-2744" h="50250"/>
+		<npc id="23199"/><!-- Sadiac the Killer -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="47770" y="155654" z="-1912" h="33723"/>
+		<npc id="23205"/><!-- Haskal the Floating Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="47651" y="153717" z="-1840" h="10083"/>
+		<npc id="23245"/><!-- Isaad Watchman of the Eye of Infinity -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="51206" y="153054" z="-3504" h="41297"/>
+		<npc id="23244"/><!-- Alluring Irene -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="51189" y="152892" z="-3448" h="22923"/>
+		<npc id="23242"/><!-- Pafuron -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="50316" y="151799" z="-3512" h="60119"/>
+		<npc id="23244"/><!-- Alluring Irene -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="50061" y="151709" z="-3536" h="62813"/>
+		<npc id="23242"/><!-- Pafuron -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="49825" y="153607" z="-2760" h="25802"/>
+		<npc id="23244"/><!-- Alluring Irene -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="49132" y="152894" z="-2744" h="37958"/>
+		<npc id="23243"/><!-- Krutati -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="49022" y="152992" z="-2784" h="12158"/>
+		<npc id="23209"/><!-- Kelbara the Dualsword Slaughterer -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="50205" y="151786" z="-3528" h="12326"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="50180" y="151670" z="-3536" h="26183"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="49569" y="153535" z="-2760" h="46640"/>
+		<npc id="23200"/><!-- Turan the Severed Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="50882" y="152854" z="-3544" h="31905"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="50462" y="154142" z="-2760" h="31951"/>
+		<npc id="23243"/><!-- Krutati -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="49508" y="154275" z="-2784" h="46071"/>
+		<npc id="23244"/><!-- Alluring Irene -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="50436" y="154511" z="-2760" h="12805"/>
+		<npc id="23242"/><!-- Pafuron -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="51061" y="153623" z="-3544" h="12264"/>
+		<npc id="23243"/><!-- Krutati -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="51347" y="154220" z="-3544" h="40948"/>
+		<npc id="23243"/><!-- Krutati -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="49165" y="154496" z="-2784" h="16415"/>
+		<npc id="23205"/><!-- Haskal the Floating Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="49839" y="153889" z="-2760" h="29074"/>
+		<npc id="23205"/><!-- Haskal the Floating Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="50041" y="153874" z="-2760" h="29116"/>
+		<npc id="23199"/><!-- Sadiac the Killer -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="50790" y="154887" z="-2760" h="48300"/>
+		<npc id="23200"/><!-- Turan the Severed Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="50498" y="154091" z="-2760" h="12979"/>
+		<npc id="23209"/><!-- Kelbara the Dualsword Slaughterer -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="50427" y="154320" z="-2760" h="34666"/>
+		<npc id="23209"/><!-- Kelbara the Dualsword Slaughterer -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="50839" y="155436" z="-2752" h="40560"/>
+		<npc id="23207"/><!-- Gazem Fortress Scout -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="50898" y="154584" z="-2624" h="30945"/>
+		<npc id="23245"/><!-- Isaad Watchman of the Eye of Infinity -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="50796" y="153709" z="-2656" h="29291"/>
+		<npc id="23245"/><!-- Isaad Watchman of the Eye of Infinity -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="51524" y="153531" z="-3480" h="39124"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="51431" y="153967" z="-3536" h="45929"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="50169" y="152160" z="-3520" h="42531"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="50892" y="153029" z="-3544" h="34915"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="51133" y="153339" z="-3544" h="46583"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="44856" y="151475" z="-2760" h="12923"/>
+		<npc id="23205"/><!-- Haskal the Floating Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="44836" y="153731" z="-1920" h="18041"/>
+		<npc id="23209"/><!-- Kelbara the Dualsword Slaughterer -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="43040" y="152189" z="-2760" h="16737"/>
+		<npc id="23244"/><!-- Alluring Irene -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="44697" y="151801" z="-2744" h="43944"/>
+		<npc id="23242"/><!-- Pafuron -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="44715" y="153343" z="-1944" h="17292"/>
+		<npc id="23244"/><!-- Alluring Irene -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="44812" y="153536" z="-1928" h="17523"/>
+		<npc id="23205"/><!-- Haskal the Floating Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="44510" y="152975" z="-1952" h="6370"/>
+		<npc id="23200"/><!-- Turan the Severed Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="44504" y="153171" z="-1944" h="56453"/>
+		<npc id="23205"/><!-- Haskal the Floating Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="44925" y="153342" z="-1944" h="31753"/>
+		<npc id="23200"/><!-- Turan the Severed Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="44020" y="153607" z="-1936" h="31521"/>
+		<npc id="23200"/><!-- Turan the Severed Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="44347" y="151794" z="-2760" h="6543"/>
+		<npc id="23205"/><!-- Haskal the Floating Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43690" y="152038" z="-2760" h="29864"/>
+		<npc id="23209"/><!-- Kelbara the Dualsword Slaughterer -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="44806" y="151666" z="-2752" h="18938"/>
+		<npc id="23199"/><!-- Sadiac the Killer -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="44996" y="151459" z="-2760" h="20299"/>
+		<npc id="23199"/><!-- Sadiac the Killer -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43211" y="152140" z="-2760" h="27687"/>
+		<npc id="23207"/><!-- Gazem Fortress Scout -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43314" y="152166" z="-2760" h="62714"/>
+		<npc id="23200"/><!-- Turan the Severed Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="44855" y="151513" z="-2760" h="63476"/>
+		<npc id="23200"/><!-- Turan the Severed Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43771" y="153357" z="-1952" h="36451"/>
+		<npc id="25893"/><!-- Strain -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43533" y="153290" z="-1952" h="42894"/>
+		<npc id="25893"/><!-- Strain -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43957" y="153685" z="-1936" h="34249"/>
+		<npc id="25893"/><!-- Strain -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43589" y="151563" z="-2624" h="11547"/>
+		<npc id="23245"/><!-- Isaad Watchman of the Eye of Infinity -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="43870" y="153616" z="-1944" h="56004"/>
+		<npc id="23244"/><!-- Alluring Irene -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="43485" y="154441" z="-1952" h="53681"/>
+		<npc id="23243"/><!-- Krutati -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="43167" y="154312" z="-1952" h="44547"/>
+		<npc id="23242"/><!-- Pafuron -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43736" y="153772" z="-1928" h="19542"/>
+		<npc id="23209"/><!-- Kelbara the Dualsword Slaughterer -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="44160" y="154006" z="-1920" h="45237"/>
+		<npc id="23205"/><!-- Haskal the Floating Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43670" y="153943" z="-1928" h="6132"/>
+		<npc id="23205"/><!-- Haskal the Floating Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="44585" y="153836" z="-1928" h="50719"/>
+		<npc id="23209"/><!-- Kelbara the Dualsword Slaughterer -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43980" y="153912" z="-1928" h="55117"/>
+		<npc id="23209"/><!-- Kelbara the Dualsword Slaughterer -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="44029" y="153693" z="-1936" h="57467"/>
+		<npc id="23209"/><!-- Kelbara the Dualsword Slaughterer -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="44062" y="154103" z="-1928" h="6021"/>
+		<npc id="23200"/><!-- Turan the Severed Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43799" y="154215" z="-1936" h="54789"/>
+		<npc id="25893"/><!-- Strain -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43691" y="154307" z="-1904" h="45424"/>
+		<npc id="23200"/><!-- Turan the Severed Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43588" y="154307" z="-1904" h="64000"/>
+		<npc id="23205"/><!-- Haskal the Floating Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43691" y="154307" z="-1904" h="16658"/>
+		<npc id="23205"/><!-- Haskal the Floating Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43691" y="154307" z="-1904" h="30334"/>
+		<npc id="23200"/><!-- Turan the Severed Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="49341" y="150624" z="-3560" h="25381"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="49774" y="151017" z="-3568" h="39881"/>
+		<npc id="23243"/><!-- Krutati -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="49638" y="151153" z="-3552" h="55472"/>
+		<npc id="23243"/><!-- Krutati -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="42662" y="152355" z="-2760" h="48069"/>
+		<npc id="23243"/><!-- Krutati -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="42651" y="152992" z="-1840" h="11716"/>
+		<npc id="23245"/><!-- Isaad Watchman of the Eye of Infinity -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="45587" y="150543" z="-3744" h="65274"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="42608" y="151272" z="-3696" h="56566"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="42828" y="151076" z="-3720" h="44115"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="42634" y="151410" z="-3640" h="63558"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="42939" y="151318" z="-3656" h="25238"/>
+		<npc id="23243"/><!-- Krutati -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="42624" y="150627" z="-3608" h="35043"/>
+		<npc id="23242"/><!-- Pafuron -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="42869" y="150926" z="-3712" h="18199"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="42688" y="151362" z="-3664" h="39812"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="42660" y="151451" z="-3632" h="295"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="42911" y="151558" z="-3616" h="20115"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="42052" y="149696" z="-3712" h="11574"/>
+		<npc id="23207"/><!-- Gazem Fortress Scout -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="42616" y="151277" z="-3696" h="55398"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="42708" y="151213" z="-3696" h="36790"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="43707" y="150489" z="-3720" h="39089"/>
+		<npc id="23242"/><!-- Pafuron -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="43725" y="149981" z="-3736" h="40923"/>
+		<npc id="23243"/><!-- Krutati -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="43505" y="151136" z="-3656" h="25188"/>
+		<npc id="23244"/><!-- Alluring Irene -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="44698" y="151562" z="-2760" h="863"/>
+		<npc id="23205"/><!-- Haskal the Floating Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="44632" y="150221" z="-3624" h="2597"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="44919" y="150537" z="-3688" h="39690"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="45417" y="150747" z="-3720" h="7599"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="45292" y="150032" z="-3584" h="46583"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="45713" y="150061" z="-3744" h="40699"/>
+		<npc id="23244"/><!-- Alluring Irene -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="46754" y="150969" z="-2760" h="49106"/>
+		<npc id="23242"/><!-- Pafuron -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="46708" y="149705" z="-3712" h="386"/>
+		<npc id="23243"/><!-- Krutati -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="45199" y="150133" z="-3584" h="38595"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="46716" y="151653" z="-2744" h="54346"/>
+		<npc id="23209"/><!-- Kelbara the Dualsword Slaughterer -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="45569" y="150478" z="-3756" h="26601"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="45374" y="149515" z="-3624" h="65047"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="45656" y="151542" z="-2760" h="805"/>
+		<npc id="23200"/><!-- Turan the Severed Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="47055" y="150962" z="-2752" h="4835"/>
+		<npc id="23199"/><!-- Sadiac the Killer -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="45451" y="151296" z="-2760" h="28165"/>
+		<npc id="23209"/><!-- Kelbara the Dualsword Slaughterer -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="45519" y="149983" z="-3672" h="41741"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="46551" y="151011" z="-2760" h="52664"/>
+		<npc id="23200"/><!-- Turan the Severed Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="45372" y="151146" z="-2632" h="27684"/>
+		<npc id="23245"/><!-- Isaad Watchman of the Eye of Infinity -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="46841" y="150733" z="-2760" h="43020"/>
+		<npc id="33698"/><!-- Watchman's Assistant Guillotine Fortress -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="45554" y="149764" z="-3688" h="6307"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="43814" y="149267" z="-3624" h="2631"/>
+		<npc id="23242"/><!-- Pafuron -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43874" y="149324" z="-3624" h="43541"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43871" y="149231" z="-3640" h="21817"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43911" y="149294" z="-3616" h="35648"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43874" y="149348" z="-3624" h="27275"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43838" y="149313" z="-3624" h="51145"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43825" y="149228" z="-3640" h="12068"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43878" y="149343" z="-3624" h="45769"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="47486" y="150722" z="-2744" h="42634"/>
+		<npc id="23205"/><!-- Haskal the Floating Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="49053" y="149938" z="-3600" h="34066"/>
+		<npc id="23242"/><!-- Pafuron -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="47370" y="150668" z="-2744" h="56711"/>
+		<npc id="23244"/><!-- Alluring Irene -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="47614" y="150971" z="-2736" h="20560"/>
+		<npc id="23243"/><!-- Krutati -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="46957" y="149618" z="-3664" h="60604"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="47132" y="150693" z="-2760" h="63415"/>
+		<npc id="23205"/><!-- Haskal the Floating Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="48288" y="149645" z="-3632" h="32216"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="47965" y="149652" z="-3592" h="18127"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="49115" y="150851" z="-2656" h="25729"/>
+		<npc id="23245"/><!-- Isaad Watchman of the Eye of Infinity -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="48471" y="150225" z="-2616" h="22272"/>
+		<npc id="23245"/><!-- Isaad Watchman of the Eye of Infinity -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="47787" y="151516" z="-2760" h="30333"/>
+		<npc id="23209"/><!-- Kelbara the Dualsword Slaughterer -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43871" y="149320" z="-3624" h="43686"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43890" y="149249" z="-3624" h="27275"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="43869" y="149316" z="-3624" h="43686"/>
+		<npc id="23244"/><!-- Alluring Irene -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="49828" y="151256" z="-3568" h="15463"/>
+		<npc id="23243"/><!-- Krutati -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="49433" y="151008" z="-3552" h="7620"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="49439" y="150374" z="-3568" h="20861"/>
+		<npc id="23244"/><!-- Alluring Irene -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="49204" y="150506" z="-3568" h="11907"/>
+		<npc id="23243"/><!-- Krutati -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="49445" y="150558" z="-3568" h="9453"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="49709" y="151264" z="-3560" h="64277"/>
+		<npc id="33683"/><!-- Spirit of the Tortured Dwarf -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="50143" y="151917" z="-3528" h="50706"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="51283" y="153141" z="-3504" h="41242"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="49893" y="151648" z="-3544" h="5830"/>
+		<npc id="23243"/><!-- Krutati -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="51144" y="153880" z="-3544" h="51930"/>
+		<npc id="23244"/><!-- Alluring Irene -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="49249" y="150496" z="-3568" h="20701"/>
+		<npc id="23243"/><!-- Krutati -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="51016" y="152770" z="-3512" h="60907"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="51371" y="154233" z="-3544" h="55743"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="47713" y="148799" z="-3728" h="37243"/>
+		<npc id="23244"/><!-- Alluring Irene -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="52510" y="151051" z="-2448" h="48372"/>
+		<npc id="23206"/><!-- Samita the Ex-Torture Expert -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="53024" y="150559" z="-2448" h="35753"/>
+		<npc id="23243"/><!-- Krutati -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="52692" y="150057" z="-2392" h="32506"/>
+		<npc id="23244"/><!-- Alluring Irene -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="53004" y="149931" z="-2432" h="16449"/>
+		<npc id="23242"/><!-- Pafuron -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="51494" y="150552" z="-2432" h="6910"/>
+		<npc id="23244"/><!-- Alluring Irene -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="52178" y="150716" z="-2432" h="42031"/>
+		<npc id="23243"/><!-- Krutati -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="52064" y="150713" z="-2440" h="34191"/>
+		<npc id="23242"/><!-- Pafuron -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="51612" y="149676" z="-2416" h="52234"/>
+		<npc id="23203"/><!--Centa the Standing Beast -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="51460" y="151620" z="-2424" h="49934"/>
+		<npc id="23204"/><!-- Adidaiu of the Killer Fangs -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="52347" y="150403" z="-2408" h="24122"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="52067" y="149736" z="-2400" h="9847"/>
+		<npc id="23206"/><!-- Samita the Ex-Torture Expert -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="51659" y="149586" z="-2416" h="64069"/>
+		<npc id="23204"/><!-- Adidaiu of the Killer Fangs -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="52361" y="150598" z="-2432" h="58969"/>
+		<npc id="23204"/><!-- Adidaiu of the Killer Fangs -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="52769" y="151327" z="-2456" h="55176"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="51311" y="150505" z="-2416" h="29344"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="52335" y="150466" z="-2408" h="65102"/>
+		<npc id="23206"/><!-- Samita the Ex-Torture Expert -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="52788" y="150146" z="-2416" h="46071"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="52123" y="151294" z="-2432" h="24036"/>
+		<npc id="23204"/><!-- Adidaiu of the Killer Fangs -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="51881" y="150764" z="-2440" h="63013"/>
+		<npc id="23204"/><!-- Adidaiu of the Killer Fangs -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="52815" y="152722" z="-2384" h="38431"/>
+		<npc id="23243"/><!-- Krutati -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="51336" y="153517" z="-3496" h="24780"/>
+		<npc id="23243"/><!-- Krutati -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="52830" y="152687" z="-2376" h="23623"/>
+		<npc id="23244"/><!-- Alluring Irene -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="52969" y="152687" z="-2376" h="63180"/>
+		<npc id="23204"/><!-- Adidaiu of the Killer Fangs -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="53163" y="152407" z="-2376" h="50192"/>
+		<npc id="23206"/><!-- Samita the Ex-Torture Expert -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="51934" y="152365" z="-2424" h="47893"/>
+		<npc id="23206"/><!-- Samita the Ex-Torture Expert -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="51747" y="152181" z="-2432" h="15812"/>
+		<npc id="23203"/><!--Centa the Standing Beast -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="53137" y="152872" z="-2376" h="60845"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="51459" y="152072" z="-2432" h="14788"/>
+		<npc id="33698"/><!-- Watchman's Assistant Guillotine Fortress -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="51103" y="153847" z="-3544" h="10013"/>
+		<npc id="23242"/><!-- Pafuron -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="52127" y="155682" z="-1952" h="292"/>
+		<npc id="23206"/><!-- Samita the Ex-Torture Expert -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="52471" y="155232" z="-1952" h="34216"/>
+		<npc id="23206"/><!-- Samita the Ex-Torture Expert -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="51968" y="153832" z="-3440" h="56158"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="46598" y="149528" z="-3752" h="41274"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="49249" y="149984" z="-3600" h="52734"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="49341" y="150112" z="-3560" h="2779"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="51265" y="153036" z="-3464" h="27746"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="49985" y="151904" z="-3536" h="6319"/>
+		<npc id="23242"/><!-- Pafuron -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="51099" y="152637" z="-3488" h="40290"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="54638" y="149877" z="-2456" h="21857"/>
+		<npc id="23244"/><!-- Alluring Irene -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="53764" y="151048" z="-2472" h="51848"/>
+		<npc id="23244"/><!-- Alluring Irene -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="54509" y="149579" z="-2488" h="4448"/>
+		<npc id="23203"/><!--Centa the Standing Beast -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="54739" y="149938" z="-2440" h="34683"/>
+		<npc id="23243"/><!-- Krutati -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="53735" y="149638" z="-2496" h="34185"/>
+		<npc id="23242"/><!-- Pafuron -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="53647" y="151491" z="-2464" h="42169"/>
+		<npc id="23204"/><!-- Adidaiu of the Killer Fangs -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="53994" y="149709" z="-2512" h="35642"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="54539" y="151095" z="-2424" h="22589"/>
+		<npc id="23204"/><!-- Adidaiu of the Killer Fangs -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="54347" y="151004" z="-2432" h="29864"/>
+		<npc id="23206"/><!-- Samita the Ex-Torture Expert -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="53348" y="149753" z="-2456" h="4635"/>
+		<npc id="23204"/><!-- Adidaiu of the Killer Fangs -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="54242" y="149973" z="-2488" h="14098"/>
+		<npc id="23206"/><!-- Samita the Ex-Torture Expert -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="53572" y="150115" z="-2480" h="45797"/>
+		<npc id="23206"/><!-- Samita the Ex-Torture Expert -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="53558" y="151360" z="-2472" h="56177"/>
+		<npc id="23204"/><!-- Adidaiu of the Killer Fangs -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="53516" y="149876" z="-2480" h="23572"/>
+		<npc id="23204"/><!-- Adidaiu of the Killer Fangs -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="54476" y="150194" z="-2456" h="9764"/>
+		<npc id="23204"/><!-- Adidaiu of the Killer Fangs -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="53131" y="151366" z="-2472" h="22737"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="53798" y="151987" z="-2424" h="4887"/>
+		<npc id="23206"/><!-- Samita the Ex-Torture Expert -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="53517" y="152538" z="-2384" h="13834"/>
+		<npc id="23204"/><!-- Adidaiu of the Killer Fangs -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="54473" y="152143" z="-2400" h="47514"/>
+		<npc id="23243"/><!-- Krutati -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="53728" y="151800" z="-2440" h="30738"/>
+		<npc id="23242"/><!-- Pafuron -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="54216" y="152415" z="-2400" h="50135"/>
+		<npc id="23242"/><!-- Pafuron -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="53451" y="152365" z="-2384" h="6449"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="54763" y="151914" z="-2440" h="1578"/>
+		<npc id="23206"/><!-- Samita the Ex-Torture Expert -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="53551" y="152728" z="-2376" h="54192"/>
+		<npc id="23206"/><!-- Samita the Ex-Torture Expert -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="54370" y="152416" z="-2400" h="58134"/>
+		<npc id="23203"/><!--Centa the Standing Beast -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="54709" y="151599" z="-2432" h="29685"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="54282" y="152326" z="-2400" h="48604"/>
+		<npc id="23203"/><!--Centa the Standing Beast -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="54347" y="152107" z="-2400" h="27615"/>
+		<npc id="23204"/><!-- Adidaiu of the Killer Fangs -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="53180" y="152194" z="-2384" h="63412"/>
+		<npc id="23206"/><!-- Samita the Ex-Torture Expert -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="53165" y="152215" z="-2384" h="55969"/>
+		<npc id="23204"/><!-- Adidaiu of the Killer Fangs -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="50445" y="152032" z="-3496" h="6375"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="49801" y="151136" z="-3568" h="14810"/>
+		<npc id="23243"/><!-- Krutati -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="51796" y="149347" z="-2416" h="59738"/>
+		<npc id="23206"/><!-- Samita the Ex-Torture Expert -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="52166" y="147930" z="-2424" h="33636"/>
+		<npc id="23244"/><!-- Alluring Irene -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="51370" y="148652" z="-2432" h="20125"/>
+		<npc id="23243"/><!-- Krutati -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="52754" y="148414" z="-2432" h="53315"/>
+		<npc id="23242"/><!-- Pafuron -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="51541" y="148943" z="-2408" h="46345"/>
+		<npc id="23206"/><!-- Samita the Ex-Torture Expert -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="52530" y="149218" z="-2416" h="62045"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="52286" y="148214" z="-2408" h="41491"/>
+		<npc id="23206"/><!-- Samita the Ex-Torture Expert -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="51900" y="148711" z="-2408" h="39078"/>
+		<npc id="23206"/><!-- Samita the Ex-Torture Expert -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="52913" y="147995" z="-2432" h="48567"/>
+		<npc id="23204"/><!-- Adidaiu of the Killer Fangs -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="52420" y="149210" z="-2416" h="44950"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="51305" y="149356" z="-2320" h="23230"/>
+		<npc id="23204"/><!-- Adidaiu of the Killer Fangs -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="52602" y="148224" z="-2416" h="21457"/>
+		<npc id="23204"/><!-- Adidaiu of the Killer Fangs -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="51937" y="147968" z="-2432" h="437"/>
+		<npc id="23204"/><!-- Adidaiu of the Killer Fangs -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="51826" y="148306" z="-2424" h="20433"/>
+		<npc id="23203"/><!--Centa the Standing Beast -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="52314" y="149342" z="-2416" h="11435"/>
+		<npc id="23206"/><!-- Samita the Ex-Torture Expert -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="55490" y="147511" z="-2912" h="39255"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="54281" y="147857" z="-2600" h="32776"/>
+		<npc id="23204"/><!-- Adidaiu of the Killer Fangs -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="54185" y="147676" z="-2720" h="38881"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="55111" y="149197" z="-2360" h="18563"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="53433" y="149595" z="-2472" h="24207"/>
+		<npc id="23206"/><!-- Samita the Ex-Torture Expert -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="54445" y="147702" z="-2752" h="63316"/>
+		<npc id="23203"/><!--Centa the Standing Beast -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="56478" y="147991" z="-2464" h="52629"/>
+		<npc id="23245"/><!-- Isaad Watchman of the Eye of Infinity -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="56771" y="148312" z="-2464" h="62181"/>
+		<npc id="23245"/><!-- Isaad Watchman of the Eye of Infinity -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="56056" y="148078" z="-2464" h="43738"/>
+		<npc id="23245"/><!-- Isaad Watchman of the Eye of Infinity -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="55925" y="148483" z="-2464" h="29654"/>
+		<npc id="23245"/><!-- Isaad Watchman of the Eye of Infinity -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="55707" y="147675" z="-2328" h="43399"/>
+		<npc id="23245"/><!-- Isaad Watchman of the Eye of Infinity -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="56644" y="147500" z="-2352" h="52509"/>
+		<npc id="23245"/><!-- Isaad Watchman of the Eye of Infinity -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="51514" y="154100" z="-3536" h="57988"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="51252" y="153880" z="-3544" h="13590"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="50261" y="151648" z="-3528" h="39199"/>
+		<npc id="23244"/><!-- Alluring Irene -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="52334" y="145547" z="-2792" h="21730"/>
+		<npc id="23206"/><!-- Samita the Ex-Torture Expert -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="52400" y="145691" z="-2808" h="35755"/>
+		<npc id="23206"/><!-- Samita the Ex-Torture Expert -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="51599" y="146329" z="-2672" h="63869"/>
+		<npc id="23245"/><!-- Isaad Watchman of the Eye of Infinity -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="55064" y="145599" z="-3040" h="63713"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="54996" y="145716" z="-3040" h="4868"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="55012" y="146743" z="-2936" h="28717"/>
+		<npc id="23203"/><!--Centa the Standing Beast -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="53892" y="145514" z="-3080" h="19404"/>
+		<npc id="23243"/><!-- Krutati -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="53089" y="145529" z="-3000" h="13640"/>
+		<npc id="23207"/><!-- Gazem Fortress Scout -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="54656" y="145812" z="-3080" h="17341"/>
+		<npc id="23243"/><!-- Krutati -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="54776" y="146083" z="-2992" h="50460"/>
+		<npc id="23242"/><!-- Pafuron -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="53825" y="145998" z="-3016" h="45390"/>
+		<npc id="23244"/><!-- Alluring Irene -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="54119" y="147219" z="-2816" h="11334"/>
+		<npc id="23244"/><!-- Alluring Irene -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="54891" y="146842" z="-2928" h="39114"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="53751" y="145678" z="-3088" h="9642"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="54075" y="147132" z="-2888" h="30049"/>
+		<npc id="23207"/><!-- Gazem Fortress Scout -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="54602" y="145354" z="-3048" h="16909"/>
+		<npc id="23204"/><!-- Adidaiu of the Killer Fangs -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="54928" y="146672" z="-2952" h="21835"/>
+		<npc id="23204"/><!-- Adidaiu of the Killer Fangs -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="53991" y="147309" z="-2792" h="35728"/>
+		<npc id="23206"/><!-- Samita the Ex-Torture Expert -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="55439" y="146010" z="-3000" h="9080"/>
+		<npc id="23244"/><!-- Alluring Irene -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="55453" y="145377" z="-3048" h="38924"/>
+		<npc id="23203"/><!--Centa the Standing Beast -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="56132" y="146760" z="-2912" h="15229"/>
+		<npc id="23243"/><!-- Krutati -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="55551" y="146908" z="-2936" h="8203"/>
+		<npc id="23242"/><!-- Pafuron -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="55617" y="145962" z="-3000" h="30097"/>
+		<npc id="23204"/><!-- Adidaiu of the Killer Fangs -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="55377" y="146024" z="-3000" h="13308"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="55397" y="147332" z="-2928" h="34066"/>
+		<npc id="23206"/><!-- Samita the Ex-Torture Expert -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="55562" y="146758" z="-2944" h="15639"/>
+		<npc id="23204"/><!-- Adidaiu of the Killer Fangs -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="55593" y="147166" z="-2936" h="40465"/>
+		<npc id="23204"/><!-- Adidaiu of the Killer Fangs -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="56058" y="146731" z="-2928" h="3902"/>
+		<npc id="23204"/><!-- Adidaiu of the Killer Fangs -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="50438" y="146617" z="-3756" h="4617"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="52935" y="144870" z="-3000" h="3355"/>
+		<npc id="23204"/><!-- Adidaiu of the Killer Fangs -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="51130" y="144372" z="-2792" h="43406"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="51263" y="143596" z="-2776" h="23339"/>
+		<npc id="23206"/><!-- Samita the Ex-Torture Expert -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="52593" y="145272" z="-2936" h="6030"/>
+		<npc id="23203"/><!--Centa the Standing Beast -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="52568" y="144988" z="-2960" h="21223"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="51245" y="144255" z="-2776" h="47651"/>
+		<npc id="23204"/><!-- Adidaiu of the Killer Fangs -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="53454" y="145217" z="-3056" h="57734"/>
+		<npc id="23203"/><!--Centa the Standing Beast -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="53274" y="145293" z="-3048" h="60273"/>
+		<npc id="23204"/><!-- Adidaiu of the Killer Fangs -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="54795" y="145397" z="-3088" h="30302"/>
+		<npc id="23207"/><!-- Gazem Fortress Scout -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="55023" y="143566" z="-3048" h="28456"/>
+		<npc id="23207"/><!-- Gazem Fortress Scout -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="54211" y="145057" z="-3048" h="37564"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="54716" y="143751" z="-3072" h="19744"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="53714" y="145110" z="-3064" h="60079"/>
+		<npc id="23242"/><!-- Pafuron -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="53815" y="143201" z="-2920" h="20433"/>
+		<npc id="23244"/><!-- Alluring Irene -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="55234" y="145060" z="-3024" h="2377"/>
+		<npc id="23203"/><!--Centa the Standing Beast -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="55007" y="144805" z="-2928" h="6349"/>
+		<npc id="23206"/><!-- Samita the Ex-Torture Expert -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="55766" y="145317" z="-3048" h="64896"/>
+		<npc id="23206"/><!-- Samita the Ex-Torture Expert -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="57333" y="143838" z="-2568" h="6711"/>
+		<npc id="23245"/><!-- Isaad Watchman of the Eye of Infinity -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="56807" y="144479" z="-2456" h="16383"/>
+		<npc id="23245"/><!-- Isaad Watchman of the Eye of Infinity -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="56928" y="143965" z="-2568" h="22516"/>
+		<npc id="23245"/><!-- Isaad Watchman of the Eye of Infinity -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="56617" y="143671" z="-2568" h="30212"/>
+		<npc id="23245"/><!-- Isaad Watchman of the Eye of Infinity -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="56105" y="143824" z="-2440" h="26356"/>
+		<npc id="23245"/><!-- Isaad Watchman of the Eye of Infinity -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="51532" y="143283" z="-2800" h="64896"/>
+		<npc id="23207"/><!-- Gazem Fortress Scout -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="51507" y="143067" z="-2776" h="48066"/>
+		<npc id="23244"/><!-- Alluring Irene -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="51457" y="143267" z="-2800" h="51930"/>
+		<npc id="23243"/><!-- Krutati -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="51290" y="142711" z="-2776" h="63769"/>
+		<npc id="23203"/><!--Centa the Standing Beast -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="51259" y="142734" z="-2776" h="42978"/>
+		<npc id="23242"/><!-- Pafuron -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="51849" y="143401" z="-2824" h="41457"/>
+		<npc id="23204"/><!-- Adidaiu of the Killer Fangs -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="51434" y="142915" z="-2768" h="56796"/>
+		<npc id="23204"/><!-- Adidaiu of the Killer Fangs -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="51216" y="143239" z="-2776" h="48124"/>
+		<npc id="23203"/><!--Centa the Standing Beast -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="52444" y="141839" z="-2776" h="48113"/>
+		<npc id="23211"/><!-- Mandragora of Prayer -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="52477" y="141703" z="-2776" h="9346"/>
+		<npc id="23211"/><!-- Mandragora of Prayer -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="52341" y="141877" z="-2776" h="56048"/>
+		<npc id="23210"/><!-- Mandragora of Joy and Sorrow -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="52742" y="141783" z="-2776" h="30301"/>
+		<npc id="23211"/><!-- Mandragora of Prayer -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="52537" y="141733" z="-2776" h="5061"/>
+		<npc id="23210"/><!-- Mandragora of Joy and Sorrow -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="52528" y="142247" z="-2776" h="14930"/>
+		<npc id="23241"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="52228" y="141905" z="-2688" h="1044"/>
+		<npc id="23240"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="52378" y="141601" z="-2800" h="35828"/>
+		<npc id="23241"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="52278" y="141753" z="-2776" h="35745"/>
+		<npc id="23240"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="52478" y="142209" z="-2776" h="16902"/>
+		<npc id="23240"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="52486" y="141950" z="-2776" h="42485"/>
+		<npc id="23211"/><!-- Mandragora of Prayer -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="52278" y="142095" z="-2776" h="45343"/>
+		<npc id="23241"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="52426" y="141896" z="-2776" h="51755"/>
+		<npc id="23210"/><!-- Mandragora of Joy and Sorrow -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="52572" y="141775" z="-2776" h="23940"/>
+		<npc id="23210"/><!-- Mandragora of Joy and Sorrow -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="54512" y="143000" z="-2944" h="27604"/>
+		<npc id="23203"/><!--Centa the Standing Beast -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="54964" y="143070" z="-2952" h="32506"/>
+		<npc id="23206"/><!-- Samita the Ex-Torture Expert -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="55072" y="142972" z="-2936" h="31191"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="53529" y="141957" z="-2776" h="41147"/>
+		<npc id="23210"/><!-- Mandragora of Joy and Sorrow -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="53580" y="142149" z="-2776" h="63772"/>
+		<npc id="23211"/><!-- Mandragora of Prayer -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="53571" y="142135" z="-2776" h="14463"/>
+		<npc id="23211"/><!-- Mandragora of Prayer -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="54268" y="142947" z="-2888" h="63231"/>
+		<npc id="23242"/><!-- Pafuron -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="55109" y="143235" z="-3016" h="28818"/>
+		<npc id="23243"/><!-- Krutati -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="53794" y="142044" z="-2776" h="44078"/>
+		<npc id="23210"/><!-- Mandragora of Joy and Sorrow -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="54577" y="142811" z="-2912" h="34667"/>
+		<npc id="23204"/><!-- Adidaiu of the Killer Fangs -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="55144" y="142561" z="-2856" h="33249"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="54521" y="142959" z="-2920" h="54789"/>
+		<npc id="23203"/><!--Centa the Standing Beast -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="54421" y="142942" z="-2920" h="49899"/>
+		<npc id="23204"/><!-- Adidaiu of the Killer Fangs -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="53452" y="141999" z="-2776" h="46519"/>
+		<npc id="23210"/><!-- Mandragora of Joy and Sorrow -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="54387" y="142439" z="-2832" h="16429"/>
+		<npc id="23204"/><!-- Adidaiu of the Killer Fangs -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="53792" y="142305" z="-2776" h="27946"/>
+		<npc id="23210"/><!-- Mandragora of Joy and Sorrow -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="53451" y="141945" z="-2752" h="4512"/>
+		<npc id="23210"/><!-- Mandragora of Joy and Sorrow -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="54705" y="142491" z="-2872" h="61641"/>
+		<npc id="23204"/><!-- Adidaiu of the Killer Fangs -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="53472" y="141631" z="-2704" h="42569"/>
+		<npc id="23211"/><!-- Mandragora of Prayer -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="53616" y="141824" z="-2744" h="30054"/>
+		<npc id="23210"/><!-- Mandragora of Joy and Sorrow -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="53697" y="142303" z="-2776" h="11058"/>
+		<npc id="23241"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="53697" y="142096" z="-2776" h="36500"/>
+		<npc id="23241"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="53697" y="142234" z="-2776" h="63693"/>
+		<npc id="23241"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="53453" y="141475" z="-2704" h="63496"/>
+		<npc id="23241"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="53819" y="142303" z="-2776" h="15159"/>
+		<npc id="23240"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="53331" y="141475" z="-2704" h="25969"/>
+		<npc id="23240"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="53697" y="142372" z="-2776" h="12317"/>
+		<npc id="23240"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="53575" y="141406" z="-2704" h="37706"/>
+		<npc id="23241"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="55363" y="142953" z="-2920" h="60804"/>
+		<npc id="23206"/><!-- Samita the Ex-Torture Expert -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="55640" y="141797" z="-2776" h="7275"/>
+		<npc id="23211"/><!-- Mandragora of Prayer -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="56009" y="141959" z="-2776" h="50233"/>
+		<npc id="23211"/><!-- Mandragora of Prayer -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="56059" y="141406" z="-2776" h="57345"/>
+		<npc id="23241"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="55658" y="141889" z="-2776" h="51683"/>
+		<npc id="23240"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="56113" y="141865" z="-2776" h="38509"/>
+		<npc id="23241"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="55588" y="141670" z="-2776" h="44288"/>
+		<npc id="23240"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="55483" y="141670" z="-2776" h="51571"/>
+		<npc id="23240"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="55833" y="141962" z="-2768" h="16319"/>
+		<npc id="23241"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="55518" y="141670" z="-2776" h="32694"/>
+		<npc id="23241"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="56194" y="141814" z="-2776" h="45404"/>
+		<npc id="23241"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="55978" y="141610" z="-2776" h="2531"/>
+		<npc id="23240"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="56005" y="141355" z="-2776" h="12083"/>
+		<npc id="23240"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="55728" y="141962" z="-2776" h="27766"/>
+		<npc id="23241"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="56005" y="141457" z="-2776" h="65414"/>
+		<npc id="23240"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="56333" y="142887" z="-2456" h="40160"/>
+		<npc id="23245"/><!-- Isaad Watchman of the Eye of Infinity -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="56708" y="143247" z="-2568" h="2592"/>
+		<npc id="23245"/><!-- Isaad Watchman of the Eye of Infinity -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="57131" y="143123" z="-2568" h="23779"/>
+		<npc id="23245"/><!-- Isaad Watchman of the Eye of Infinity -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="53575" y="141268" z="-2704" h="28289"/>
+		<npc id="23240"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="53575" y="141199" z="-2704" h="46850"/>
+		<npc id="23240"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="57466" y="143408" z="-2568" h="58610"/>
+		<npc id="23245"/><!-- Isaad Watchman of the Eye of Infinity -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="51490" y="140789" z="-3168" h="29931"/>
+		<npc id="23244"/><!-- Alluring Irene -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="51358" y="140789" z="-3200" h="55690"/>
+		<npc id="23243"/><!-- Krutati -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="52782" y="141268" z="-2720" h="37136"/>
+		<npc id="23241"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="52843" y="141268" z="-2704" h="16493"/>
+		<npc id="23240"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="51424" y="140723" z="-3112" h="17248"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="51490" y="140789" z="-3168" h="133"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="51358" y="140789" z="-3200" h="26612"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="52106" y="139819" z="-2576" h="0"/>
+		<npc id="23245"/><!-- Isaad Watchman of the Eye of Infinity -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="51906" y="140208" z="-2576" h="13606"/>
+		<npc id="23245"/><!-- Isaad Watchman of the Eye of Infinity -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="52161" y="140651" z="-2456" h="11382"/>
+		<npc id="23245"/><!-- Isaad Watchman of the Eye of Infinity -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="51453" y="140210" z="-2576" h="24158"/>
+		<npc id="23245"/><!-- Isaad Watchman of the Eye of Infinity -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="51234" y="139808" z="-2576" h="32073"/>
+		<npc id="23245"/><!-- Isaad Watchman of the Eye of Infinity -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="51556" y="140723" z="-3128" h="37847"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="50887" y="140930" z="-3648" h="43427"/>
+		<npc id="23242"/><!-- Pafuron -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="50847" y="141306" z="-3736" h="39002"/>
+		<npc id="23244"/><!-- Alluring Irene -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="51156" y="141124" z="-3616" h="26634"/>
+		<npc id="23243"/><!-- Krutati -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="50915" y="141098" z="-3688" h="14528"/>
+		<npc id="23243"/><!-- Krutati -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="50573" y="141015" z="-3704" h="5495"/>
+		<npc id="23242"/><!-- Pafuron -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="49493" y="140706" z="-3072" h="3930"/>
+		<npc id="23243"/><!-- Krutati -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="50740" y="140898" z="-3648" h="63492"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="50890" y="141212" z="-3712" h="45818"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="51199" y="140642" z="-2440" h="22853"/>
+		<npc id="23245"/><!-- Isaad Watchman of the Eye of Infinity -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="50710" y="139797" z="-2456" h="40961"/>
+		<npc id="23245"/><!-- Isaad Watchman of the Eye of Infinity -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="50095" y="142527" z="-3640" h="5925"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="49928" y="142248" z="-3768" h="21254"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="49744" y="142982" z="-3640" h="36817"/>
+		<npc id="23244"/><!-- Alluring Irene -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="49678" y="142569" z="-3756" h="54244"/>
+		<npc id="23244"/><!-- Alluring Irene -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="51066" y="143184" z="-2784" h="22130"/>
+		<npc id="23206"/><!-- Samita the Ex-Torture Expert -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="50120" y="142174" z="-3744" h="31678"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="49915" y="142148" z="-3756" h="30768"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="49522" y="142943" z="-3728" h="46319"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="49691" y="142426" z="-3756" h="52186"/>
+		<npc id="23243"/><!-- Krutati -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="50030" y="142807" z="-3584" h="57841"/>
+		<npc id="23242"/><!-- Pafuron -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="49633" y="142347" z="-3664" h="63028"/>
+		<npc id="23243"/><!-- Krutati -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="50250" y="142563" z="-3576" h="51766"/>
+		<npc id="23243"/><!-- Krutati -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="50191" y="142130" z="-3728" h="19101"/>
+		<npc id="23242"/><!-- Pafuron -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="50383" y="142950" z="-2640" h="1039"/>
+		<npc id="23245"/><!-- Isaad Watchman of the Eye of Infinity -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="49765" y="142167" z="-3736" h="12048"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="49422" y="140752" z="-3080" h="6084"/>
+		<npc id="23207"/><!-- Gazem Fortress Scout -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="49196" y="145578" z="-3600" h="52892"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="49416" y="144074" z="-3752" h="6746"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="50883" y="143525" z="-2784" h="26602"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="51400" y="143793" z="-2776" h="36150"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="47312" y="141263" z="-3112" h="23523"/>
+		<npc id="23200"/><!-- Turan the Severed Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="47110" y="141105" z="-3120" h="21099"/>
+		<npc id="23200"/><!-- Turan the Severed Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="47320" y="141277" z="-3112" h="41823"/>
+		<npc id="23200"/><!-- Turan the Severed Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="48149" y="141053" z="-3112" h="6134"/>
+		<npc id="23199"/><!-- Sadiac the Killer -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="48066" y="141194" z="-3112" h="9055"/>
+		<npc id="23200"/><!-- Turan the Severed Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="47303" y="140923" z="-3112" h="61203"/>
+		<npc id="23205"/><!-- Haskal the Floating Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="47131" y="140813" z="-3112" h="29028"/>
+		<npc id="23242"/><!-- Pafuron -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="47214" y="140826" z="-3112" h="14738"/>
+		<npc id="23199"/><!-- Sadiac the Killer -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="47285" y="141047" z="-3120" h="13209"/>
+		<npc id="23243"/><!-- Krutati -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="49124" y="143444" z="-3736" h="37315"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="48425" y="141733" z="-3112" h="44742"/>
+		<npc id="23209"/><!-- Kelbara the Dualsword Slaughterer -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="46869" y="142078" z="-3112" h="20622"/>
+		<npc id="23244"/><!-- Alluring Irene -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="47089" y="142476" z="-3120" h="44600"/>
+		<npc id="23199"/><!-- Sadiac the Killer -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="49085" y="141672" z="-3120" h="41379"/>
+		<npc id="23200"/><!-- Turan the Severed Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="48834" y="142212" z="-3120" h="31385"/>
+		<npc id="23205"/><!-- Haskal the Floating Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="48512" y="143530" z="-3712" h="57700"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="47472" y="141761" z="-3112" h="6055"/>
+		<npc id="23200"/><!-- Turan the Severed Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="47353" y="142092" z="-3104" h="54497"/>
+		<npc id="23199"/><!-- Sadiac the Killer -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="48957" y="141634" z="-3112" h="12814"/>
+		<npc id="23205"/><!-- Haskal the Floating Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="48303" y="141717" z="-3112" h="46966"/>
+		<npc id="23244"/><!-- Alluring Irene -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="48411" y="142149" z="-3120" h="60689"/>
+		<npc id="23242"/><!-- Pafuron -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="48000" y="142046" z="-3112" h="51800"/>
+		<npc id="23242"/><!-- Pafuron -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="47494" y="141929" z="-3112" h="21416"/>
+		<npc id="23205"/><!-- Haskal the Floating Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="48923" y="142078" z="-3120" h="15162"/>
+		<npc id="23209"/><!-- Kelbara the Dualsword Slaughterer -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="48966" y="141934" z="-3120" h="53425"/>
+		<npc id="23200"/><!-- Turan the Severed Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="48070" y="141976" z="-3112" h="22328"/>
+		<npc id="23207"/><!-- Gazem Fortress Scout -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="48783" y="142205" z="-3120" h="44117"/>
+		<npc id="23205"/><!-- Haskal the Floating Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="47841" y="141955" z="-3112" h="34252"/>
+		<npc id="23200"/><!-- Turan the Severed Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="48196" y="141385" z="-3112" h="29228"/>
+		<npc id="23199"/><!-- Sadiac the Killer -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="47785" y="142157" z="-3112" h="4114"/>
+		<npc id="23199"/><!-- Sadiac the Killer -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="47251" y="141479" z="-3112" h="39573"/>
+		<npc id="23200"/><!-- Turan the Severed Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="48875" y="144010" z="-3672" h="250"/>
+		<npc id="23244"/><!-- Alluring Irene -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="49264" y="145094" z="-3608" h="27839"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="48527" y="144263" z="-3584" h="61557"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="48679" y="143247" z="-3712" h="12063"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="48293" y="144437" z="-3584" h="54686"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="48462" y="144407" z="-3584" h="23873"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="46915" y="145350" z="-3680" h="60645"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="48376" y="144477" z="-3584" h="19905"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="48493" y="144438" z="-3584" h="38256"/>
+		<npc id="23243"/><!-- Krutati -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="49241" y="144104" z="-3728" h="16735"/>
+		<npc id="23242"/><!-- Pafuron -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="48525" y="144523" z="-3576" h="46486"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="48763" y="143966" z="-3656" h="8178"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="48518" y="144375" z="-3584" h="24641"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="48885" y="145359" z="-3584" h="43866"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="47373" y="142117" z="-3104" h="3687"/>
+		<npc id="23209"/><!-- Kelbara the Dualsword Slaughterer -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="47400" y="141083" z="-3112" h="505"/>
+		<npc id="23243"/><!-- Krutati -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="49633" y="142887" z="-3696" h="46497"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="49501" y="142647" z="-3768" h="63785"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="47312" y="140858" z="-3112" h="52049"/>
+		<npc id="23205"/><!-- Haskal the Floating Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="47375" y="140951" z="-3120" h="8935"/>
+		<npc id="23209"/><!-- Kelbara the Dualsword Slaughterer -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="46389" y="141279" z="-3104" h="65527"/>
+		<npc id="23209"/><!-- Kelbara the Dualsword Slaughterer -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="45904" y="141308" z="-3064" h="52450"/>
+		<npc id="23200"/><!-- Turan the Severed Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="46063" y="141427" z="-3080" h="60292"/>
+		<npc id="23205"/><!-- Haskal the Floating Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="46447" y="141406" z="-3104" h="19739"/>
+		<npc id="23242"/><!-- Pafuron -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="47008" y="141348" z="-3112" h="48089"/>
+		<npc id="23199"/><!-- Sadiac the Killer -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="46315" y="141123" z="-3080" h="24752"/>
+		<npc id="23244"/><!-- Alluring Irene -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="45263" y="143450" z="-3112" h="53844"/>
+		<npc id="23205"/><!-- Haskal the Floating Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="46035" y="141701" z="-3112" h="7178"/>
+		<npc id="23209"/><!-- Kelbara the Dualsword Slaughterer -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="47138" y="142344" z="-3120" h="17526"/>
+		<npc id="23205"/><!-- Haskal the Floating Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="45356" y="143045" z="-3112" h="44452"/>
+		<npc id="23243"/><!-- Krutati -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="45940" y="142358" z="-3112" h="56251"/>
+		<npc id="23243"/><!-- Krutati -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="45538" y="143473" z="-3120" h="33923"/>
+		<npc id="23207"/><!-- Gazem Fortress Scout -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="46592" y="143140" z="-3120" h="34161"/>
+		<npc id="23245"/><!-- Isaad Watchman of the Eye of Infinity -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="46266" y="144893" z="-3704" h="44317"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="45363" y="143390" z="-3112" h="48921"/>
+		<npc id="23200"/><!-- Turan the Severed Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="46484" y="145458" z="-3680" h="41866"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="46192" y="145304" z="-3688" h="51369"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="46627" y="145114" z="-3688" h="17753"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="45253" y="143345" z="-3112" h="42683"/>
+		<npc id="23209"/><!-- Kelbara the Dualsword Slaughterer -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="47023" y="143720" z="-3736" h="5760"/>
+		<npc id="23243"/><!-- Krutati -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="46878" y="144059" z="-3696" h="0"/>
+		<npc id="23242"/><!-- Pafuron -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="46626" y="144423" z="-3688" h="1791"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="46341" y="144143" z="-3688" h="7443"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="45797" y="145406" z="-3728" h="24408"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="46714" y="144744" z="-3688" h="20821"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="46614" y="144014" z="-3712" h="16385"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="45260" y="144354" z="-3024" h="0"/>
+		<npc id="23245"/><!-- Isaad Watchman of the Eye of Infinity -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="49567" y="142347" z="-3640" h="56609"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="50161" y="142047" z="-3752" h="60197"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43416" y="140109" z="-1464" h="42129"/>
+		<npc id="23205"/><!-- Haskal the Floating Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43379" y="140397" z="-1464" h="37221"/>
+		<npc id="23205"/><!-- Haskal the Floating Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="44947" y="140973" z="-2560" h="2838"/>
+		<npc id="23200"/><!-- Turan the Severed Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="44782" y="140867" z="-2304" h="65080"/>
+		<npc id="23205"/><!-- Haskal the Floating Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="44575" y="141052" z="-2552" h="53853"/>
+		<npc id="23209"/><!-- Kelbara the Dualsword Slaughterer -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="44782" y="140867" z="-2304" h="4165"/>
+		<npc id="23200"/><!-- Turan the Severed Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="43229" y="141235" z="-1464" h="53989"/>
+		<npc id="23243"/><!-- Krutati -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="44452" y="140975" z="-2552" h="29685"/>
+		<npc id="23244"/><!-- Alluring Irene -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="44292" y="141358" z="-2552" h="31641"/>
+		<npc id="23205"/><!-- Haskal the Floating Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="44256" y="141181" z="-2552" h="18807"/>
+		<npc id="23200"/><!-- Turan the Severed Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="44544" y="140739" z="-2552" h="65419"/>
+		<npc id="23200"/><!-- Turan the Severed Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="44083" y="140891" z="-2552" h="21038"/>
+		<npc id="23205"/><!-- Haskal the Floating Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="44808" y="140982" z="-2552" h="60006"/>
+		<npc id="23209"/><!-- Kelbara the Dualsword Slaughterer -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="44767" y="140617" z="-2552" h="21539"/>
+		<npc id="23209"/><!-- Kelbara the Dualsword Slaughterer -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="44630" y="140773" z="-2552" h="2661"/>
+		<npc id="23242"/><!-- Pafuron -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43409" y="140334" z="-1464" h="20732"/>
+		<npc id="23205"/><!-- Haskal the Floating Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="44267" y="140692" z="-2552" h="57299"/>
+		<npc id="23205"/><!-- Haskal the Floating Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="43241" y="140278" z="-1464" h="38053"/>
+		<npc id="23244"/><!-- Alluring Irene -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="44336" y="141026" z="-2552" h="23774"/>
+		<npc id="23243"/><!-- Krutati -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43104" y="142880" z="-2560" h="56314"/>
+		<npc id="23200"/><!-- Turan the Severed Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="43689" y="142363" z="-2552" h="24808"/>
+		<npc id="23244"/><!-- Alluring Irene -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="43679" y="142428" z="-2552" h="4313"/>
+		<npc id="23243"/><!-- Krutati -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="44859" y="141711" z="-2552" h="38069"/>
+		<npc id="23242"/><!-- Pafuron -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43953" y="142577" z="-2552" h="11808"/>
+		<npc id="23200"/><!-- Turan the Severed Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43332" y="142273" z="-2552" h="39186"/>
+		<npc id="23200"/><!-- Turan the Severed Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="44823" y="142443" z="-2560" h="35207"/>
+		<npc id="23205"/><!-- Haskal the Floating Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43434" y="142246" z="-2552" h="16629"/>
+		<npc id="23205"/><!-- Haskal the Floating Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="44637" y="142311" z="-2552" h="44317"/>
+		<npc id="23209"/><!-- Kelbara the Dualsword Slaughterer -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43311" y="142401" z="-2528" h="13822"/>
+		<npc id="23209"/><!-- Kelbara the Dualsword Slaughterer -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="44423" y="144110" z="-3112" h="1110"/>
+		<npc id="23205"/><!-- Haskal the Floating Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="43393" y="144638" z="-3112" h="29218"/>
+		<npc id="23244"/><!-- Alluring Irene -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="44442" y="144066" z="-3112" h="32471"/>
+		<npc id="23244"/><!-- Alluring Irene -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="44605" y="143867" z="-3112" h="61562"/>
+		<npc id="23242"/><!-- Pafuron -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="44060" y="143816" z="-3112" h="61646"/>
+		<npc id="23199"/><!-- Sadiac the Killer -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43763" y="143969" z="-3112" h="48502"/>
+		<npc id="23209"/><!-- Kelbara the Dualsword Slaughterer -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43631" y="143787" z="-3112" h="36125"/>
+		<npc id="23200"/><!-- Turan the Severed Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="44237" y="144357" z="-3120" h="47525"/>
+		<npc id="23200"/><!-- Turan the Severed Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="45079" y="144094" z="-3120" h="59661"/>
+		<npc id="23199"/><!-- Sadiac the Killer -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="44080" y="143360" z="-2384" h="45380"/>
+		<npc id="23245"/><!-- Isaad Watchman of the Eye of Infinity -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43044" y="144730" z="-3120" h="59999"/>
+		<npc id="33719"/><!-- Tombstone of Crook the Mad -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="44066" y="144541" z="-3120" h="42830"/>
+		<npc id="33698"/><!-- Watchman's Assistant Guillotine Fortress -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="42993" y="146196" z="-3696" h="24318"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43278" y="144876" z="-3120" h="653"/>
+		<npc id="23209"/><!-- Kelbara the Dualsword Slaughterer -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="42722" y="142918" z="-2552" h="47673"/>
+		<npc id="23205"/><!-- Haskal the Floating Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="42920" y="142271" z="-2552" h="44100"/>
+		<npc id="23205"/><!-- Haskal the Floating Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="41959" y="142974" z="-2560" h="1972"/>
+		<npc id="23209"/><!-- Kelbara the Dualsword Slaughterer -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="42067" y="143158" z="-2560" h="43020"/>
+		<npc id="23200"/><!-- Turan the Severed Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="42592" y="144322" z="-3112" h="61813"/>
+		<npc id="23199"/><!-- Sadiac the Killer -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="42102" y="144484" z="-3112" h="40961"/>
+		<npc id="23243"/><!-- Krutati -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="42358" y="144881" z="-3112" h="25375"/>
+		<npc id="23242"/><!-- Pafuron -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="42142" y="144200" z="-3112" h="36140"/>
+		<npc id="23207"/><!-- Gazem Fortress Scout -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="42872" y="144391" z="-3112" h="4445"/>
+		<npc id="23209"/><!-- Kelbara the Dualsword Slaughterer -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="41875" y="144861" z="-3120" h="35672"/>
+		<npc id="23205"/><!-- Haskal the Floating Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="42137" y="145093" z="-3120" h="47931"/>
+		<npc id="23205"/><!-- Haskal the Floating Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="42919" y="144997" z="-3120" h="14661"/>
+		<npc id="23200"/><!-- Turan the Severed Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="42839" y="144155" z="-3112" h="5717"/>
+		<npc id="23200"/><!-- Turan the Severed Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="42300" y="143564" z="-2376" h="0"/>
+		<npc id="23245"/><!-- Isaad Watchman of the Eye of Infinity -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="41907" y="144264" z="-3112" h="26334"/>
+		<npc id="23199"/><!-- Sadiac the Killer -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="42578" y="144827" z="-3112" h="28750"/>
+		<npc id="23200"/><!-- Turan the Severed Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="42066" y="144003" z="-3112" h="62416"/>
+		<npc id="23245"/><!-- Isaad Watchman of the Eye of Infinity -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="42547" y="145895" z="-3712" h="31287"/>
+		<npc id="23244"/><!-- Alluring Irene -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="42970" y="146394" z="-3680" h="2470"/>
+		<npc id="23242"/><!-- Pafuron -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="42654" y="145991" z="-3728" h="65211"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43092" y="146417" z="-3672" h="51876"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="41707" y="146618" z="-3688" h="56596"/>
+		<npc id="23245"/><!-- Isaad Watchman of the Eye of Infinity -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43405" y="147297" z="-3600" h="44305"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43232" y="146590" z="-3632" h="8553"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="44004" y="146877" z="-3584" h="2970"/>
+		<npc id="23242"/><!-- Pafuron -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43283" y="147296" z="-3616" h="5441"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43328" y="147152" z="-3616" h="8944"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43853" y="146525" z="-3624" h="12286"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43320" y="147153" z="-3616" h="13874"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43437" y="147163" z="-3600" h="26996"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43362" y="147238" z="-3616" h="54603"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="44518" y="146631" z="-3664" h="9254"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43331" y="147151" z="-3616" h="6582"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43435" y="147219" z="-3600" h="38227"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="42883" y="146037" z="-3736" h="434"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43481" y="145732" z="-3712" h="32977"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="43056" y="146271" z="-3704" h="30708"/>
+		<npc id="23243"/><!-- Krutati -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="44721" y="146557" z="-3680" h="9808"/>
+		<npc id="30632"/><!-- Endrigo Guillotine Fortress Watchman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="45875" y="146783" z="-3688" h="58078"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="46240" y="146850" z="-3688" h="14886"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="45624" y="146729" z="-3680" h="55242"/>
+		<npc id="23242"/><!-- Pafuron -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="46288" y="145254" z="-3688" h="10090"/>
+		<npc id="23244"/><!-- Alluring Irene -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="46140" y="147051" z="-3688" h="64123"/>
+		<npc id="23244"/><!-- Alluring Irene -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="46205" y="146620" z="-3728" h="22573"/>
+		<npc id="23243"/><!-- Krutati -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="46901" y="146943" z="-3756" h="26561"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="46443" y="146403" z="-3736" h="46808"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="46609" y="146342" z="-3656" h="2826"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="45703" y="146488" z="-3696" h="54699"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="47052" y="146133" z="-3584" h="61179"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="47052" y="146133" z="-3584" h="4739"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="46745" y="146052" z="-3616" h="31644"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="46482" y="146409" z="-3728" h="54267"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="46165" y="146906" z="-3688" h="29784"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="47052" y="146978" z="-3744" h="59754"/>
+		<npc id="33682"/><!--Executed Maiden's Vengeful Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="45982" y="147043" z="-3688" h="63918"/>
+		<npc id="33684"/><!-- Spirit of One Burned Alive -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="42749" y="146544" z="-3680" h="378"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43342" y="147191" z="-3616" h="53648"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="46344" y="141038" z="-3096" h="9579"/>
+		<npc id="23205"/><!-- Haskal the Floating Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="44406" y="146405" z="-3672" h="24719"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="42538" y="141138" z="-1464" h="9407"/>
+		<npc id="23209"/><!-- Kelbara the Dualsword Slaughterer -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="44097" y="146405" z="-3664" h="12508"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="42815" y="147162" z="-3688" h="46734"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="38917" y="143727" z="-3624" h="0"/>
+		<npc id="33384"/><!-- Madman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="39066" y="143583" z="-3632" h="48286"/>
+		<npc id="33036"/><!-- Dusk Searcher -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="39161" y="144342" z="-3648" h="16017"/>
+		<npc id="33381"/><!-- Investigator -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="39163" y="144399" z="-3648" h="48787"/>
+		<npc id="33382"/><!-- Priest -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="39810" y="144256" z="-3648" h="49152"/>
+		<npc id="33379"/><!-- Investigator -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="39421" y="143528" z="-3648" h="49004"/>
+		<npc id="33383"/><!-- Guard -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="39306" y="143744" z="-3648" h="0"/>
+		<npc id="33379"/><!-- Investigator -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="39804" y="143527" z="-3648" h="48940"/>
+		<npc id="33383"/><!-- Guard -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="40029" y="143744" z="-3648" h="0"/>
+		<npc id="33383"/><!-- Guard -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="39799" y="144345" z="-3648" h="16732"/>
+		<npc id="33383"/><!-- Guard -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="39436" y="144346" z="-3648" h="16572"/>
+		<npc id="33383"/><!-- Guard -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="40031" y="144123" z="-3648" h="0"/>
+		<npc id="33383"/><!-- Guard -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="39205" y="144123" z="-3648" h="32864"/>
+		<npc id="33383"/><!-- Guard -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="39202" y="143746" z="-3648" h="32312"/>
+		<npc id="33383"/><!-- Guard -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="39854" y="146213" z="-3888" h="53615"/>
+		<npc id="23240"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="40136" y="145833" z="-3864" h="24607"/>
+		<npc id="23241"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="39384" y="146137" z="-3864" h="20912"/>
+		<npc id="23240"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="39572" y="146365" z="-3888" h="22045"/>
+		<npc id="23240"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="39384" y="145833" z="-3840" h="3424"/>
+		<npc id="23240"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="39478" y="146137" z="-3888" h="50397"/>
+		<npc id="23241"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="40512" y="147201" z="-3816" h="64250"/>
+		<npc id="23241"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="39102" y="146517" z="-3888" h="58104"/>
+		<npc id="23241"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="39102" y="146289" z="-3896" h="19611"/>
+		<npc id="23240"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="39760" y="147049" z="-3832" h="45933"/>
+		<npc id="23241"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="40492" y="145579" z="-3808" h="49511"/>
+		<npc id="23240"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="40717" y="145985" z="-3808" h="62726"/>
+		<npc id="23241"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="40717" y="145985" z="-3808" h="10427"/>
+		<npc id="23241"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="40807" y="146101" z="-3816" h="30118"/>
+		<npc id="23240"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="40627" y="145695" z="-3808" h="11411"/>
+		<npc id="23241"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="39666" y="146745" z="-3888" h="58830"/>
+		<npc id="23240"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="40700" y="147201" z="-3808" h="62730"/>
+		<npc id="23241"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="40627" y="145579" z="-3808" h="9303"/>
+		<npc id="23240"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="44303" y="146825" z="-3624" h="41055"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43414" y="147458" z="-3624" h="13213"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="45554" y="146848" z="-3680" h="44148"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43273" y="146657" z="-3624" h="19122"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43115" y="146660" z="-3640" h="11606"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="42964" y="147749" z="-3704" h="51566"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="42758" y="147749" z="-3696" h="53262"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="44303" y="146825" z="-3624" h="25969"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="42932" y="146428" z="-3680" h="38702"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="45768" y="146393" z="-3728" h="53257"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="42505" y="146312" z="-3720" h="12274"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="42566" y="145848" z="-3696" h="50671"/>
+		<npc id="23242"/><!-- Pafuron -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="44612" y="146741" z="-3664" h="42681"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="43273" y="146573" z="-3624" h="36114"/>
+		<npc id="23242"/><!-- Pafuron -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="42932" y="147820" z="-3704" h="39330"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43895" y="147133" z="-3568" h="289"/>
+		<npc id="25893"/><!-- Strain -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43895" y="147133" z="-3568" h="289"/>
+		<npc id="25893"/><!-- Strain -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43895" y="147133" z="-3568" h="289"/>
+		<npc id="25893"/><!-- Strain -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43895" y="147133" z="-3568" h="289"/>
+		<npc id="25893"/><!-- Strain -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43895" y="147133" z="-3568" h="289"/>
+		<npc id="25893"/><!-- Strain -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="45768" y="146913" z="-3688" h="55140"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="42993" y="147356" z="-3680" h="33335"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43788" y="146405" z="-3640" h="37714"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="42185" y="140456" z="-1456" h="42484"/>
+		<npc id="23209"/><!-- Kelbara the Dualsword Slaughterer -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="41933" y="139923" z="-1480" h="39866"/>
+		<npc id="23209"/><!-- Kelbara the Dualsword Slaughterer -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="41774" y="140796" z="-1464" h="59549"/>
+		<npc id="23200"/><!-- Turan the Severed Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="42035" y="139792" z="-1472" h="29411"/>
+		<npc id="23200"/><!-- Turan the Severed Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="41715" y="139799" z="-1464" h="53882"/>
+		<npc id="23209"/><!-- Kelbara the Dualsword Slaughterer -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="42765" y="139788" z="-1480" h="53662"/>
+		<npc id="23200"/><!-- Turan the Severed Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="41966" y="139910" z="-1480" h="56867"/>
+		<npc id="23242"/><!-- Pafuron -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43218" y="139752" z="-1464" h="48010"/>
+		<npc id="23200"/><!-- Turan the Severed Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43277" y="139900" z="-1464" h="36856"/>
+		<npc id="23205"/><!-- Haskal the Floating Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43295" y="140155" z="-1464" h="40961"/>
+		<npc id="23200"/><!-- Turan the Severed Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43218" y="139950" z="-1464" h="30534"/>
+		<npc id="23209"/><!-- Kelbara the Dualsword Slaughterer -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43490" y="140544" z="-1464" h="63425"/>
+		<npc id="23209"/><!-- Kelbara the Dualsword Slaughterer -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="45992" y="141173" z="-3056" h="59004"/>
+		<npc id="23200"/><!-- Turan the Severed Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="46119" y="141137" z="-3072" h="14499"/>
+		<npc id="23243"/><!-- Krutati -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="46184" y="141343" z="-3088" h="24919"/>
+		<npc id="23244"/><!-- Alluring Irene -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="46160" y="141523" z="-3104" h="62023"/>
+		<npc id="23209"/><!-- Kelbara the Dualsword Slaughterer -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="46331" y="141338" z="-3096" h="41788"/>
+		<npc id="23199"/><!-- Sadiac the Killer -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="46073" y="141387" z="-3080" h="51708"/>
+		<npc id="23200"/><!-- Turan the Severed Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="42266" y="139554" z="-1464" h="64826"/>
+		<npc id="23242"/><!-- Pafuron -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="41994" y="140841" z="-1480" h="39472"/>
+		<npc id="23209"/><!-- Kelbara the Dualsword Slaughterer -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="41722" y="140742" z="-1464" h="13124"/>
+		<npc id="23200"/><!-- Turan the Severed Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="41722" y="139752" z="-1464" h="40089"/>
+		<npc id="23242"/><!-- Pafuron -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="41858" y="139653" z="-1464" h="55850"/>
+		<npc id="23200"/><!-- Turan the Severed Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="42266" y="141138" z="-1464" h="8139"/>
+		<npc id="23200"/><!-- Turan the Severed Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="42614" y="146163" z="-3728" h="43619"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="42741" y="147218" z="-3688" h="31044"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="42899" y="146914" z="-3664" h="13133"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="42614" y="147231" z="-3688" h="58039"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="43362" y="146934" z="-3616" h="23481"/>
+		<npc id="23243"/><!-- Krutati -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43479" y="147329" z="-3608" h="11604"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="43879" y="146441" z="-3624" h="64752"/>
+		<npc id="23244"/><!-- Alluring Irene -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43376" y="146573" z="-3624" h="93"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="44132" y="146542" z="-3648" h="32116"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="44242" y="146736" z="-3616" h="29029"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43260" y="146918" z="-3632" h="14830"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="42749" y="147008" z="-3688" h="12903"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="37613" y="146829" z="-3672" h="29027"/>
+		<npc id="23244"/><!-- Alluring Irene -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="36961" y="147609" z="-3648" h="60434"/>
+		<npc id="23243"/><!-- Krutati -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="37388" y="147090" z="-3672" h="32767"/>
+		<npc id="23242"/><!-- Pafuron -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="37669" y="146493" z="-3672" h="36673"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="37497" y="146640" z="-3680" h="5814"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="37399" y="147358" z="-3672" h="26015"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="36921" y="147496" z="-3656" h="17567"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="36999" y="147480" z="-3664" h="63073"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="37472" y="147233" z="-3672" h="13320"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="37721" y="146711" z="-3672" h="20606"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="38364" y="145899" z="-3752" h="55252"/>
+		<npc id="23241"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="38184" y="146031" z="-3720" h="40195"/>
+		<npc id="23240"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="38094" y="146075" z="-3704" h="10295"/>
+		<npc id="23240"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="38094" y="146031" z="-3696" h="4928"/>
+		<npc id="23241"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="38499" y="145811" z="-3752" h="16647"/>
+		<npc id="23240"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="38049" y="146207" z="-3720" h="60924"/>
+		<npc id="23241"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="37660" y="147191" z="-3672" h="25020"/>
+		<npc id="33682"/><!--Executed Maiden's Vengeful Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="42861" y="147581" z="-3688" h="53368"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="38680" y="149462" z="-3896" h="4411"/>
+		<npc id="23240"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="37377" y="149469" z="-3752" h="64029"/>
+		<npc id="23240"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="37424" y="149283" z="-3768" h="50188"/>
+		<npc id="23240"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="37518" y="149097" z="-3776" h="47744"/>
+		<npc id="23241"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="40426" y="149008" z="-3856" h="6226"/>
+		<npc id="23210"/><!-- Mandragora of Joy and Sorrow -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="40778" y="148997" z="-3840" h="4972"/>
+		<npc id="23211"/><!-- Mandragora of Prayer -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="40477" y="148896" z="-3824" h="10629"/>
+		<npc id="23210"/><!-- Mandragora of Joy and Sorrow -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="39210" y="149416" z="-3896" h="44061"/>
+		<npc id="23241"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="40681" y="149046" z="-3840" h="18119"/>
+		<npc id="23240"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="40614" y="149301" z="-3896" h="49063"/>
+		<npc id="23241"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="39662" y="148762" z="-3832" h="26673"/>
+		<npc id="23240"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="39464" y="148937" z="-3832" h="20130"/>
+		<npc id="23240"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="39662" y="148587" z="-3776" h="18368"/>
+		<npc id="23241"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="38953" y="148439" z="-3752" h="64444"/>
+		<npc id="23210"/><!-- Mandragora of Joy and Sorrow -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="39545" y="148577" z="-3776" h="16753"/>
+		<npc id="23211"/><!-- Mandragora of Prayer -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="39642" y="148862" z="-3832" h="30739"/>
+		<npc id="23210"/><!-- Mandragora of Joy and Sorrow -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="39266" y="148937" z="-3832" h="3602"/>
+		<npc id="23241"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="39167" y="148937" z="-3832" h="56097"/>
+		<npc id="23240"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="40815" y="149199" z="-3848" h="19838"/>
+		<npc id="23240"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="38969" y="148412" z="-3736" h="34284"/>
+		<npc id="23241"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43035" y="149364" z="-3672" h="21219"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="42861" y="147749" z="-3696" h="57748"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="42725" y="149440" z="-3696" h="54398"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="41101" y="148551" z="-3776" h="4273"/>
+		<npc id="23211"/><!-- Mandragora of Prayer -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="42976" y="147443" z="-3680" h="6083"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="42824" y="149161" z="-3688" h="59404"/>
+		<npc id="23244"/><!-- Alluring Irene -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="42554" y="148605" z="-3672" h="37873"/>
+		<npc id="23245"/><!-- Isaad Watchman of the Eye of Infinity -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="40965" y="149101" z="-3840" h="40289"/>
+		<npc id="23210"/><!-- Mandragora of Joy and Sorrow -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="41355" y="147763" z="-3672" h="13424"/>
+		<npc id="23207"/><!-- Gazem Fortress Scout -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="41016" y="148689" z="-3768" h="32695"/>
+		<npc id="23241"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="41016" y="148638" z="-3768" h="47295"/>
+		<npc id="23240"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="41016" y="148689" z="-3768" h="632"/>
+		<npc id="23241"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="37249" y="150304" z="-3624" h="22661"/>
+		<npc id="23244"/><!-- Alluring Irene -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="37780" y="150751" z="-3632" h="37092"/>
+		<npc id="23243"/><!-- Krutati -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="37229" y="150542" z="-3560" h="56521"/>
+		<npc id="23242"/><!-- Pafuron -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="38668" y="151148" z="-3680" h="7370"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="38892" y="149600" z="-3888" h="15515"/>
+		<npc id="23241"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="38892" y="149876" z="-3888" h="27746"/>
+		<npc id="23240"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="38786" y="149554" z="-3888" h="63844"/>
+		<npc id="23241"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="37659" y="149593" z="-3800" h="21784"/>
+		<npc id="23240"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="37612" y="149779" z="-3784" h="32236"/>
+		<npc id="23241"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="37377" y="149593" z="-3728" h="19646"/>
+		<npc id="23241"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="37757" y="150710" z="-3632" h="36861"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="37332" y="150324" z="-3640" h="29170"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="37153" y="150345" z="-3584" h="50792"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="37063" y="150543" z="-3512" h="49125"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="37172" y="150299" z="-3600" h="2168"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="37670" y="150647" z="-3640" h="40254"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="37328" y="150332" z="-3640" h="52936"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="39578" y="151163" z="-3688" h="34268"/>
+		<npc id="23243"/><!-- Krutati -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="39567" y="151218" z="-3680" h="36799"/>
+		<npc id="23244"/><!-- Alluring Irene -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="38758" y="151145" z="-3680" h="30685"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="39949" y="151175" z="-3680" h="24698"/>
+		<npc id="23242"/><!-- Pafuron -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="39118" y="151119" z="-3696" h="6396"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="38857" y="151189" z="-3680" h="36787"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="38993" y="151147" z="-3696" h="30805"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="39799" y="151203" z="-3680" h="27309"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="40397" y="151087" z="-3720" h="28502"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="40270" y="149876" z="-3896" h="4698"/>
+		<npc id="23241"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="39952" y="149646" z="-3896" h="2429"/>
+		<npc id="23240"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="40164" y="149922" z="-3896" h="60841"/>
+		<npc id="23241"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="40270" y="149784" z="-3896" h="58011"/>
+		<npc id="23240"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="39104" y="149554" z="-3896" h="41607"/>
+		<npc id="23241"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="39474" y="150382" z="-3832" h="29053"/>
+		<npc id="23241"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="39145" y="150160" z="-3880" h="30514"/>
+		<npc id="23241"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="39286" y="150530" z="-3824" h="54891"/>
+		<npc id="23240"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="39145" y="150789" z="-3776" h="53728"/>
+		<npc id="23240"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="39192" y="150530" z="-3824" h="16779"/>
+		<npc id="23240"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="39145" y="150308" z="-3864" h="32018"/>
+		<npc id="23241"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="38998" y="149876" z="-3888" h="18428"/>
+		<npc id="23240"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="40270" y="150106" z="-3896" h="22985"/>
+		<npc id="23240"/><!-- Mandragora -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="39533" y="151129" z="-3688" h="31386"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="39462" y="151083" z="-3688" h="17925"/>
+		<npc id="33683"/><!-- Spirit of the Tortured Dwarf -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="42828" y="149613" z="-3696" h="25729"/>
+		<npc id="23242"/><!-- Pafuron -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="42936" y="149350" z="-3688" h="27352"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="42549" y="150415" z="-3616" h="11153"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="42805" y="150787" z="-3664" h="29484"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="42998" y="148857" z="-3672" h="18931"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="42257" y="146649" z="-3688" h="25749"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="42883" y="149649" z="-3712" h="11522"/>
+		<npc id="23243"/><!-- Krutati -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43672" y="148646" z="-3672" h="57704"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="44509" y="146657" z="-3664" h="26310"/>
+		<npc id="23243"/><!-- Krutati -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43097" y="148863" z="-3680" h="28141"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="42960" y="149390" z="-3688" h="28227"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43283" y="149184" z="-3672" h="44368"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43046" y="149476" z="-3680" h="4835"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43036" y="149065" z="-3688" h="13040"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43482" y="148795" z="-3664" h="34739"/>
+		<npc id="33682"/><!--Executed Maiden's Vengeful Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43077" y="149636" z="-3720" h="41187"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="44850" y="150741" z="-3752" h="61404"/>
+		<npc id="23243"/><!-- Krutati -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43170" y="147413" z="-3648" h="33156"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="46076" y="147064" z="-3688" h="54603"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="43482" y="148857" z="-3664" h="52826"/>
+		<npc id="23244"/><!-- Alluring Irene -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43376" y="146573" z="-3624" h="63441"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="45555" y="150524" z="-3756" h="1875"/>
+		<npc id="23244"/><!-- Alluring Irene -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="46838" y="146458" z="-3632" h="39989"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="45233" y="146848" z="-3680" h="38913"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="46651" y="148689" z="-3664" h="13758"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="46314" y="148835" z="-3648" h="15292"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="45571" y="147824" z="-3672" h="44023"/>
+		<npc id="23244"/><!-- Alluring Irene -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="46683" y="147928" z="-3688" h="8608"/>
+		<npc id="23243"/><!-- Krutati -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="47170" y="147895" z="-3696" h="61305"/>
+		<npc id="23242"/><!-- Pafuron -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="45661" y="148183" z="-3632" h="7188"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="46903" y="147737" z="-3688" h="6132"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="46912" y="148390" z="-3680" h="19514"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="46892" y="147497" z="-3696" h="36738"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="46796" y="148232" z="-3688" h="18418"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="45926" y="147860" z="-3680" h="25354"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="46175" y="148743" z="-3656" h="59446"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="45745" y="148721" z="-3488" h="53980"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="45570" y="148460" z="-3616" h="40015"/>
+		<npc id="33697"/><!-- Dadphyna -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="45276" y="148654" z="-3608" h="9137"/>
+		<npc id="30631"/><!-- Roderik Guillotine Fortress Watchman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="44406" y="146405" z="-3672" h="20435"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="42861" y="147665" z="-3696" h="9001"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43054" y="147704" z="-3680" h="21854"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="46945" y="146913" z="-3752" h="16145"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43479" y="146489" z="-3624" h="52201"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="42910" y="149477" z="-3688" h="867"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="48979" y="146460" z="-3456" h="61904"/>
+		<npc id="23243"/><!-- Krutati -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="48551" y="146585" z="-3464" h="9662"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="48749" y="146083" z="-3544" h="60547"/>
+		<npc id="23242"/><!-- Pafuron -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="48678" y="146441" z="-3456" h="49789"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="48911" y="146728" z="-3400" h="26117"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="48245" y="147401" z="-3408" h="36738"/>
+		<npc id="23245"/><!-- Isaad Watchman of the Eye of Infinity -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="48316" y="147415" z="-3400" h="35928"/>
+		<npc id="33718"/><!-- Tombstone of Houpon the Warden Overseer -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="47593" y="148981" z="-3688" h="21960"/>
+		<npc id="23242"/><!-- Pafuron -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="48409" y="148709" z="-3592" h="40610"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="48263" y="149266" z="-3712" h="55118"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="47968" y="148346" z="-3560" h="3494"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="47711" y="148856" z="-3728" h="52789"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="48626" y="148047" z="-3408" h="41349"/>
+		<npc id="23245"/><!-- Isaad Watchman of the Eye of Infinity -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="48973" y="150112" z="-3568" h="33924"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="49131" y="150015" z="-3600" h="12308"/>
+		<npc id="23243"/><!-- Krutati -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="47369" y="149429" z="-3720" h="3797"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="49024" y="149907" z="-3600" h="1718"/>
+		<npc id="23244"/><!-- Alluring Irene -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="42932" y="146196" z="-3656" h="7214"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="43170" y="146825" z="-3632" h="21567"/>
+		<npc id="23242"/><!-- Pafuron -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43170" y="147581" z="-3680" h="56515"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="42749" y="146660" z="-3672" h="61405"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="42964" y="147497" z="-3680" h="25095"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="44406" y="146489" z="-3656" h="62922"/>
+		<npc id="23244"/><!-- Alluring Irene -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="42749" y="146776" z="-3680" h="59191"/>
+		<npc id="23243"/><!-- Krutati -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="47159" y="147043" z="-3712" h="53182"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43170" y="147749" z="-3696" h="25"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="45875" y="146588" z="-3688" h="47415"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43582" y="147413" z="-3600" h="1678"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43273" y="147749" z="-3680" h="22642"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="44406" y="146657" z="-3664" h="4872"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43176" y="146544" z="-3632" h="18794"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43376" y="146573" z="-3624" h="32278"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="42993" y="146080" z="-3736" h="28826"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="46517" y="146978" z="-3688" h="24298"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43376" y="146489" z="-3632" h="43953"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="42749" y="146892" z="-3688" h="16367"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="42505" y="146196" z="-3720" h="43954"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="45768" y="146458" z="-3696" h="56099"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="42810" y="146776" z="-3672" h="29421"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="42749" y="146544" z="-3680" h="44487"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="45340" y="146783" z="-3680" h="23126"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="44509" y="146825" z="-3640" h="1726"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="48884" y="146651" z="-3416" h="26371"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="46303" y="146913" z="-3688" h="46247"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="46089" y="146198" z="-3720" h="36024"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="49725" y="151030" z="-3568" h="3910"/>
+		<npc id="23242"/><!-- Pafuron -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="49617" y="151136" z="-3552" h="35024"/>
+		<npc id="23243"/><!-- Krutati -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="43115" y="145964" z="-3744" h="37656"/>
+		<npc id="23243"/><!-- Krutati -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="43582" y="146489" z="-3624" h="40179"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="45768" y="147238" z="-3688" h="29025"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="49585" y="145665" z="-3664" h="7575"/>
+		<npc id="23244"/><!-- Alluring Irene -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="49951" y="145687" z="-3728" h="28604"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="49264" y="146198" z="-3552" h="35285"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="50263" y="147065" z="-3576" h="50670"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="49683" y="146506" z="-3528" h="35250"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="50062" y="147448" z="-3544" h="30986"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="49797" y="146926" z="-3512" h="17034"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="50256" y="146757" z="-3640" h="46288"/>
+		<npc id="23244"/><!-- Alluring Irene -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="50507" y="145761" z="-3632" h="25521"/>
+		<npc id="23242"/><!-- Pafuron -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="49675" y="147068" z="-3464" h="40970"/>
+		<npc id="23243"/><!-- Krutati -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="50793" y="145738" z="-3584" h="35470"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="50569" y="146259" z="-3720" h="32234"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="50136" y="145937" z="-3712" h="11274"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="49825" y="147208" z="-3504" h="9991"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="49165" y="147132" z="-3400" h="60283"/>
+		<npc id="23245"/><!-- Isaad Watchman of the Eye of Infinity -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="49904" y="147760" z="-3496" h="22750"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="49931" y="148085" z="-3552" h="52435"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="49426" y="147289" z="-3400" h="44679"/>
+		<npc id="23245"/><!-- Isaad Watchman of the Eye of Infinity -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="49753" y="151342" z="-3544" h="38746"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="49487" y="150986" z="-3552" h="62478"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="49513" y="150901" z="-3552" h="21209"/>
+		<npc id="23242"/><!-- Pafuron -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="49250" y="150128" z="-3576" h="37236"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="49669" y="151085" z="-3560" h="24071"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="49383" y="150509" z="-3568" h="22259"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="49985" y="151776" z="-3536" h="57359"/>
+		<npc id="23244"/><!-- Alluring Irene -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="44303" y="146741" z="-3632" h="31354"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="49525" y="150880" z="-3552" h="47934"/>
+		<npc id="23242"/><!-- Pafuron -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="49882" y="151276" z="-3568" h="0"/>
+		<npc id="25893"/><!-- Strain -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="49882" y="151276" z="-3568" h="0"/>
+		<npc id="25893"/><!-- Strain -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="49882" y="151276" z="-3568" h="0"/>
+		<npc id="25893"/><!-- Strain -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="49882" y="151276" z="-3568" h="0"/>
+		<npc id="25893"/><!-- Strain -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="49882" y="151276" z="-3568" h="0"/>
+		<npc id="25893"/><!-- Strain -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="46103" y="146860" z="-3688" h="53648"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="49990" y="142786" z="-3600" h="41938"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="47311" y="141445" z="-3112" h="47094"/>
+		<npc id="23242"/><!-- Pafuron -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="48324" y="142045" z="-3120" h="31792"/>
+		<npc id="23244"/><!-- Alluring Irene -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="49699" y="142827" z="-3688" h="25622"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="49813" y="142970" z="-3624" h="14628"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="50352" y="142231" z="-3624" h="54437"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="49699" y="142947" z="-3664" h="31557"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="49467" y="142813" z="-3752" h="59013"/>
+		<npc id="23244"/><!-- Alluring Irene -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="49652" y="142790" z="-3720" h="55829"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="49765" y="143067" z="-3624" h="61577"/>
+		<npc id="23244"/><!-- Alluring Irene -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="46624" y="146458" z="-3696" h="41117"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="47351" y="141021" z="-3120" h="17227"/>
+		<npc id="23199"/><!-- Sadiac the Killer -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="47006" y="141314" z="-3112" h="54586"/>
+		<npc id="23244"/><!-- Alluring Irene -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="46924" y="141219" z="-3112" h="57154"/>
+		<npc id="23243"/><!-- Krutati -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="49963" y="142227" z="-3776" h="29777"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="46080" y="140948" z="-3064" h="49521"/>
+		<npc id="23200"/><!-- Turan the Severed Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="50425" y="142347" z="-3576" h="17044"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="49501" y="142467" z="-3728" h="48795"/>
+		<npc id="23244"/><!-- Alluring Irene -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="50095" y="142047" z="-3752" h="2852"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="49501" y="142947" z="-3728" h="51078"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="50095" y="142707" z="-3584" h="17077"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="50227" y="142527" z="-3592" h="17335"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="49897" y="143007" z="-3584" h="62850"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="47224" y="141083" z="-3120" h="19946"/>
+		<npc id="23200"/><!-- Turan the Severed Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="49897" y="142947" z="-3592" h="31777"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="47312" y="141218" z="-3112" h="8511"/>
+		<npc id="23209"/><!-- Kelbara the Dualsword Slaughterer -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="50029" y="142587" z="-3640" h="36952"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="49831" y="142047" z="-3712" h="25043"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="49699" y="142887" z="-3680" h="62"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="47224" y="141173" z="-3120" h="35046"/>
+		<npc id="23244"/><!-- Alluring Irene -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="48395" y="142759" z="-3616" h="288"/>
+		<npc id="25893"/><!-- Strain -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="48395" y="142759" z="-3616" h="288"/>
+		<npc id="25893"/><!-- Strain -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="48395" y="142759" z="-3616" h="288"/>
+		<npc id="25893"/><!-- Strain -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="48395" y="142759" z="-3616" h="288"/>
+		<npc id="25893"/><!-- Strain -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="48395" y="142759" z="-3616" h="288"/>
+		<npc id="25893"/><!-- Strain -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="48395" y="142759" z="-3616" h="288"/>
+		<npc id="25893"/><!-- Strain -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="48395" y="142759" z="-3616" h="288"/>
+		<npc id="25893"/><!-- Strain -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="49435" y="142947" z="-3752" h="52301"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="50227" y="142167" z="-3704" h="34583"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="49244" y="144245" z="-3688" h="31366"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="49144" y="144144" z="-3688" h="48283"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="50161" y="142227" z="-3704" h="61813"/>
+		<npc id="23244"/><!-- Alluring Irene -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="47488" y="140813" z="-3112" h="61574"/>
+		<npc id="23242"/><!-- Pafuron -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="47288" y="141007" z="-3120" h="50875"/>
+		<npc id="23199"/><!-- Sadiac the Killer -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="47476" y="140925" z="-3120" h="49269"/>
+		<npc id="23199"/><!-- Sadiac the Killer -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="47147" y="141185" z="-3112" h="40704"/>
+		<npc id="23200"/><!-- Turan the Severed Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="47054" y="141143" z="-3120" h="30254"/>
+		<npc id="23205"/><!-- Haskal the Floating Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="47279" y="141150" z="-3120" h="49146"/>
+		<npc id="23209"/><!-- Kelbara the Dualsword Slaughterer -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="48944" y="142831" z="-3672" h="24391"/>
+		<npc id="23243"/><!-- Krutati -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="49227" y="143537" z="-3736" h="42139"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="49144" y="143486" z="-3736" h="40368"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="48406" y="143371" z="-3744" h="559"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="49215" y="143489" z="-3736" h="38766"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="49184" y="143528" z="-3736" h="46312"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="49044" y="144245" z="-3640" h="47690"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="49160" y="143431" z="-3736" h="29078"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="49165" y="143526" z="-3736" h="40515"/>
+		<npc id="23242"/><!-- Pafuron -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="48144" y="144548" z="-3584" h="2639"/>
+		<npc id="23244"/><!-- Alluring Irene -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="48610" y="144525" z="-3576" h="14713"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="48928" y="144373" z="-3600" h="30480"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="49596" y="142810" z="-3736" h="32442"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="50012" y="142699" z="-3616" h="30136"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="50293" y="142107" z="-3704" h="55401"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="50231" y="142255" z="-3672" h="32810"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="50020" y="142505" z="-3664" h="1901"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="48444" y="143437" z="-3744" h="31098"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="48244" y="143235" z="-3728" h="44411"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<point x="50293" y="142467" z="-3584" h="22233"/>
+		<npc id="23244"/><!-- Alluring Irene -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="49963" y="142167" z="-3768" h="24136"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="47190" y="141033" z="-3120" h="13248"/>
+		<npc id="23200"/><!-- Turan the Severed Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="46960" y="141353" z="-3112" h="25193"/>
+		<npc id="23205"/><!-- Haskal the Floating Ghost -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="46624" y="146978" z="-3704" h="28366"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="46658" y="147095" z="-3696" h="37505"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="50227" y="142407" z="-3624" h="36594"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="48644" y="143235" z="-3712" h="42458"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="48744" y="143538" z="-3744" h="22311"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="48844" y="143740" z="-3736" h="13405"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="49144" y="143437" z="-3736" h="30930"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="50169" y="151520" z="-3528" h="37135"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="49774" y="151070" z="-3560" h="20568"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="49836" y="151194" z="-3568" h="41407"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="50003" y="151434" z="-3544" h="5752"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="48644" y="144548" z="-3576" h="16079"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="46234" y="146972" z="-3688" h="12465"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="50353" y="151776" z="-3512" h="17858"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="50027" y="151595" z="-3544" h="45330"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="50445" y="151776" z="-3520" h="43146"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="50811" y="153045" z="-3568" h="31738"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="50077" y="151776" z="-3536" h="23770"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="51016" y="152770" z="-3512" h="57879"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="49893" y="151392" z="-3544" h="10124"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="49617" y="151136" z="-3552" h="10908"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="52500" y="155500" z="-1952" h="46822"/>
+		<npc id="23206"/><!-- Samita the Ex-Torture Expert -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="52190" y="155323" z="-1952" h="27207"/>
+		<npc id="23206"/><!-- Samita the Ex-Torture Expert -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="51803" y="153705" z="-3448" h="14008"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="52263" y="155347" z="-1952" h="35484"/>
+		<npc id="23206"/><!-- Samita the Ex-Torture Expert -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="52210" y="155294" z="-1952" h="23409"/>
+		<npc id="23206"/><!-- Samita the Ex-Torture Expert -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="52222" y="155261" z="-1952" h="21817"/>
+		<npc id="23206"/><!-- Samita the Ex-Torture Expert -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="51099" y="153568" z="-3544" h="18128"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="49709" y="151264" z="-3560" h="19964"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="52468" y="155894" z="-1952" h="48160"/>
+		<npc id="23206"/><!-- Samita the Ex-Torture Expert -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="52566" y="155509" z="-1952" h="37350"/>
+		<npc id="23206"/><!-- Samita the Ex-Torture Expert -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="51680" y="153701" z="-3480" h="45380"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="49249" y="150496" z="-3568" h="12129"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="49157" y="150112" z="-3576" h="17798"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="50933" y="152637" z="-3528" h="17880"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="50077" y="151520" z="-3544" h="24121"/>
+		<npc id="23202"/><!-- Hakal the Butchered -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="52602" y="155436" z="-1952" h="46490"/>
+		<npc id="23206"/><!-- Samita the Ex-Torture Expert -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="49741" y="151251" z="-3560" h="309"/>
+		<npc id="25893"/><!-- Strain -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="49741" y="151251" z="-3560" h="309"/>
+		<npc id="25893"/><!-- Strain -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="49741" y="151251" z="-3560" h="309"/>
+		<npc id="25893"/><!-- Strain -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="50629" y="151904" z="-3480" h="35536"/>
+		<npc id="23208"/><!-- Rosenia's Divine Spirit -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="51680" y="153967" z="-3504" h="45638"/>
+		<npc id="23201"/><!-- Nagdu the Deformed Merman -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="52041" y="155564" z="-1952" h="4761"/>
+		<npc id="23206"/><!-- Samita the Ex-Torture Expert -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="52704" y="155372" z="-1952" h="18369"/>
+		<npc id="23206"/><!-- Samita the Ex-Torture Expert -->
+	</spawn>
+<!-- Проверить -->
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="58480" y="139648" z="-1464" h="0"/>
+		<npc id="36113"/><!-- Archer Captain Tanor Fortress -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="58828" y="138054" z="-1752" h="46872"/>
+		<npc id="36120"/><!-- Gatekeeper -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="59137" y="138189" z="-1752" h="14120"/>
+		<npc id="36120"/><!-- Gatekeeper -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="33848" y="146213" z="-3456" h="25269"/>
+		<npc id="33569"/><!--  Hermuncus' Minion Dimension Keeper  -->
+	</spawn>
+	<spawn count="1" respawn="1440" respawn_random="320" period_of_day="none">
+		<point x="47620" y="147948" z="-3528" h="57043"/>
+		<npc id="25886"/><!-- Houpon the Warden Overseer Raid Boss -->
+	</spawn>
+	<spawn count="1" respawn="84600" respawn_random="320" period_of_day="night">
+		<point x="44952" y="155944" z="-1073" h="32767"/>
+		<npc id="25888"/>
+	</spawn>
+</list>

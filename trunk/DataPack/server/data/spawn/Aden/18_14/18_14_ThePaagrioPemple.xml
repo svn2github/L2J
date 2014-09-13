@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "spawn.dtd">
+<!--Задумка спавна (c)Mangol,(c)KilRoy-->
+<list>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-56736" y="-113536" z="-672" h="0" />
+		<npc id="30573" /><!--Vulkus-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-56736" y="-113680" z="-672" h="0" />
+		<npc id="30575" /><!--Newbie Helper-->
+	</spawn>
+</list>

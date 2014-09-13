@@ -1,0 +1,143 @@
+<html>
+<body>
+<center>
+<title>Community Board - Баффер</title><br><br>
+<table>
+<tr>
+<td><button value="Новости" action="bypass _bbspage:main" width=85 height=25 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+<td><button value="Магазин" action="bypass _bbspage:shop" width=85 height=25 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+<td><button value="Баффер" action="bypass _bbsbuff;" width=85 height=25 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+<td><button value="Телепорт" action="bypass _bbsteleport;" width=85 height=25 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+<td><button value="Евенты" action="bypass _bbspage:event" width=85 height=25 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+<td><button value="Карьера" action="bypass _bbscareer;" width=85 height=25 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+<td><button value="Сервисы" action="bypass _bbspage:services" width=85 height=25 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+</tr>
+</table><br><br>
+<img src="L2UI.SquareWhite" width=600 height=1>
+<br>
+<center><table width=600>
+<tr><td height=20><br></td></tr>
+<tr>
+<td>
+<table>
+	<tr>
+		<td width=700 align=center>
+			<center><font color=00FF00>Стоимость одного баффа %pice% Аден </font> / <font color=00FF00> Стоимость набора баффов %group_pice% Аден</font><br></center>
+		</td>
+	</tr>
+</table>
+<center>
+	<table width=600 height=370>
+			<tr>
+				<td>
+					<center>
+						<table>
+							<tr>
+								<td><center><font name="hs12">Меню</font><br></center></td>
+							</tr>
+							<tr>
+								<td>
+									<center><button value="Набор для мага" action="bypass _bbsblist:mage:index" width=130 height=20 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></center>
+									<center><button value="Набор для война" action="bypass _bbsblist:fighter:index" width=130 height=20 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></center>
+								</td>
+							</tr>
+							<tr>
+								<td>
+									<center>
+									<table>
+										<tr>
+											<td><button value="Сброс" action="bypass _bbsbcansel:index" width=55 height=20 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+											<td><button value="HP\CP\MP" action="bypass _bbsbregen:index" width=70 height=20 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+										</tr>
+									</table>
+									</center>
+								</td>
+							</tr>
+						</table>
+					</center> 
+					<center>
+						<table>
+							<tr>
+								<td><center><font color="00CCFF">Цель:</font></center></td>
+							</tr>
+							<tr>
+								<td>
+									<center><button value="%aim%" action="bypass _bbsbaim:index;" width=130 height=20 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></center>
+								</td>
+							</tr>
+						</table>
+					</center>  
+					<br><br>
+					<center>
+					<table width=70>
+					<tr>
+					<td><center><font name="hs12">Cхемы</font><br></center></td>
+					</tr>
+					</table>
+						<table background="L2UI_CT1.Windows_DF_Drawer_Bg_Darker" border=0 cellspacing=4 cellpadding=4>
+							<tr>
+								<td>
+									<center><edit var="name" width=125 height=10 length=10></center><br>
+									<center><button value="Создать" action="bypass _bbsbsave:index: $name" width=130 height=20 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></center>
+								</td>
+							</tr>
+							<tr>
+								<td>
+									<center>%list_sheme%<br1></center>
+								</td>
+							</tr>
+						</table>
+					</center> 
+				</td>    
+				<td width=450 align=center>
+					<center>
+<table width=200>
+<tr>
+<td><font name="hs12">Баффы</font></td>
+<td><button action="bypass _bbsbuff:3" width=16 height=16 back="L2UI_CH3.shortcut_prev_down" fore="L2UI_CH3.shortcut_prev"></td>
+<td>Стр. 4</td>
+<td><button action="bypass _bbsbuff:index" width=16 height=16 back="L2UI_CH3.shortcut_next_down" fore="L2UI_CH3.shortcut_next"></td>
+</tr>
+</table>
+<br>
+					<table width=400 background="L2UI_CT1.Windows_DF_TooltipBG" border=0 cellspacing=10 cellpadding=0>
+						<tr>
+							<td align=center>
+								<img src=icon.skill0266 width=32 height=32><button value="Water" action="bypass _bbsbsingle:266:1:4;" width=90 height=20 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"> 
+								<img src=icon.skill0270 width=32 height=32><button value="Invocation" action="bypass _bbsbsingle:270:1:4;" width=90 height=20 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"> 
+								<img src=icon.skill0277 width=32 height=32><button value="Light" action="bypass _bbsbsingle:277:1:4;" width=90 height=20 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"> 
+							</td>
+							<td align=center>
+								<img src=icon.skill0306 width=32 height=32><button value="Flame Guard" action="bypass _bbsbsingle:306:1:4;" width=90 height=20 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"> 
+								<img src=icon.skill0308 width=32 height=32><button value="Storm Guard" action="bypass _bbsbsingle:308:1:4;" width=90 height=20 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"> 
+								<img src= width=32 height=50><br> 
+							</td>
+							<td align=center>
+                                <img src=icon.skill0272 width=32 height=32><button value="Inspiration" action="bypass _bbsbsingle:272:1:4;" width=90 height=20 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"> 
+								<img src=icon.skill0311 width=32 height=32><button value="Protection" action="bypass _bbsbsingle:311:1:4;" width=90 height=20 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"> 
+								<img src= width=32 height=50><br> 
+							</td>
+							<td align=center>
+								<img src=icon.skill0311 width=32 height=32><button value="Earth Guard" action="bypass _bbsbsingle:311:1:4;" width=90 height=20 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"> 
+								<img src=icon.skill0307 width=32 height=32><button value="Aqua Guard" action="bypass _bbsbsingle:307:1:4;" width=90 height=20 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"> 
+								<img src= width=32 height=50><br> 
+							</td>
+							<td align=center>
+								<img src=icon.skill0366 width=32 height=32><button value="Elemental" action="bypass _bbsbsingle:366:1:4;" width=90 height=20 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"> 
+								<img src=icon.skill0530 width=32 height=32><button value="Alignment" action="bypass _bbsbsingle:530:1:4;" width=90 height=20 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df">
+								<img src= width=32 height=50><br> 
+							</td>
+						</tr>
+					</table>
+					</center>
+				</td>
+			</tr>
+	</table>
+</center>
+</td>
+</tr>
+</table></center>
+<center><img src="L2UI.SquareGray" width=600 height=1></center>
+<br>
+</body>
+</html>

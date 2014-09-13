@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "spawn.dtd">
+<list>
+	<spawns name="SealOfShillen">
+		<spawn npcId="25859" x="189160" y="13592" z="-2691" heading="27931"/>
+		<spawn npcId="25862" x="191288" y="22168" z="-3705" heading="43515"/>
+	</spawns>
+</list>

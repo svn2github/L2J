@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../DropListData.xsd">
+<!-- Антарас (Дракон Земли) -->
+<npc id="29068">
+	<droplist>
+		<category id="1" chance="100">
+			<item id="57" min="8980281" max="11874378" chance="70"/> <!-- Адена -->
+		</category>
+		<category id="2" chance="100">
+			<item id="6656" min="1" max="1" chance="100"/> <!-- Серьга Антараса -->
+		</category>
+		<category id="3" chance="100">
+			<item id="18074" min="1" max="1" chance="10.068"/> <!-- Благословенный Буревестник Хелиоса -->
+			<item id="18075" min="1" max="1" chance="10.065"/> <!-- Благословенный Бросок Хелиоса -->
+			<item id="18077" min="1" max="1" chance="10.058"/> <!-- Благословенный Расчленитель Хелиоса -->
+			<item id="18079" min="1" max="1" chance="10.050"/> <!-- Благословенное Возмездие Хелиоса -->
+			<item id="18069" min="1" max="1" chance="10.044"/> <!-- Благословенное Острие Хелиоса -->
+			<item id="18071" min="1" max="1" chance="10.040"/> <!-- Благословенный Эспадон Хелиоса -->
+			<item id="18072" min="1" max="1" chance="10.031"/> <!-- Благословенный Мститель Хелиоса -->
+			<item id="18073" min="1" max="1" chance="9.994"/> <!-- Благословенный Воитель Хелиоса -->
+			<item id="18070" min="1" max="1" chance="9.981"/> <!-- Благословенный Резак Хелиоса -->
+			<item id="18078" min="1" max="1" chance="9.955"/> <!-- Благословенный Заклинатель Хелиоса -->
+			<item id="18076" min="1" max="1" chance="9.931"/> <!-- Благословенный Страж Хелиоса -->
+		</category>
+		<category id="4" chance="100">
+			<item id="19465" min="3" max="3" chance="100"/> <!-- Бутыль с Душой Антараса -->
+		</category>
+		<category id="5" chance="100">
+			<item id="30326" min="1" max="3" chance="100"/> <!-- Краска Антараса -->
+		</category>
+		<category id="6" chance="100">
+			<item id="18560" min="1" max="1" chance="37.85"/> <!-- Желтый Кристалл Души - Ранг R99 -->
+			<item id="18562" min="1" max="1" chance="36.74"/> <!-- Фиолетовый Кристалл Души - Ранг R99 -->
+			<item id="18561" min="1" max="1" chance="36.11"/> <!-- Аквамариновый Кристалл Души - Ранг R99 -->
+		</category>
+	</droplist>
+</npc>
+</list>

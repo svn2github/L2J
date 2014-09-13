@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<skill id="9200" levels="1" name="Эликсир: Поэма Лютни">
+		<set name="target" val="TARGET_NONE"/>
+		<set name="skillType" val="NOTDONE"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+	</skill>
+	
+	<skill id="9201" levels="1" name="Эликсир: Поэма Органа">
+		<set name="target" val="TARGET_NONE"/>
+		<set name="skillType" val="NOTDONE"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+	</skill>
+	
+	<skill id="9202" levels="1" name="Эликсир: Поэма Гитары">
+		<set name="target" val="TARGET_NONE"/>
+		<set name="skillType" val="NOTDONE"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+	</skill>
+	
+	<skill id="9203" levels="1" name="Эликсир: Поэма Арфы">
+		<set name="target" val="TARGET_NONE"/>
+		<set name="skillType" val="NOTDONE"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+	</skill>
+	
+	<skill id="9204" levels="1" name="Кукуру">
+		<set name="target" val="TARGET_NONE"/>
+		<set name="skillType" val="NOTDONE"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+	</skill>
+	
+	<skill id="9205" levels="1" name="Стойкость Кукуру">
+		<set name="target" val="TARGET_NONE"/>
+		<set name="skillType" val="NOTDONE"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+	</skill>	
+
+	<skill id="9206" levels="1" name="Быстрый Бег">
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<for>
+			<effect count="1" name="Buff" stackType="Hourglass" time="30" val="0">
+				<mul order="0x30" stat="runSpd" val="1.5" />
+			</effect>
+		</for>	
+	</skill>
+	
+	<skill id="9207" levels="1" name="Счастливый Клевер: Ранг R">
+		<set name="target" val="TARGET_NONE"/>
+		<set name="skillType" val="NOTDONE"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+	</skill>	
+	
+	<skill id="9208" levels="1" name="Счастливый Клевер: Ранг R">
+		<set name="target" val="TARGET_NONE"/>
+		<set name="skillType" val="NOTDONE"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+	</skill>
+	
+	<skill id="9209" levels="1" name="Кукуру">
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="TRANSFORMATION" />
+		<set name="isReuseDelayPermanent" val="true" />
+		<set name="addSkills" val="619;1" />
+		<set name="npcId" val="33200" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<for>
+			<effect count="1" name="Transformation" time="60" val="137" >		
+				<add order="0x40" stat="runSpd" val="50" />
+			</effect>
+		</for>
+	</skill>
+	
+	<skill id="9210" levels="1" name="Слезть с животного">
+		<set name="target" val="TARGET_NONE"/>
+		<set name="skillType" val="NOTDONE"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+	</skill>
+	
+	<skill id="9211" levels="1" name="Слезть с животного">
+		<set name="target" val="TARGET_NONE"/>
+		<set name="skillType" val="NOTDONE"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+	</skill>
+	
+	<skill id="9212" levels="1" name="Слезть с Кукуру">
+		<set name="target" val="TARGET_NONE"/>
+		<set name="skillType" val="NOTDONE"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+	</skill>	
+	
+	<skill id="9213" levels="1" name="Кукурин">
+		<set name="target" val="TARGET_NONE"/>
+		<set name="skillType" val="NOTDONE"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+	</skill>	
+	
+	<skill id="9214" levels="1" name="Божественное Вдохновение">
+		<set name="target" val="TARGET_NONE"/>
+		<set name="skillType" val="NOTDONE"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+	</skill>	
+	
+	<skill id="9215" levels="1" name="Божественное Вдохновение">
+		<set name="target" val="TARGET_NONE"/>
+		<set name="skillType" val="NOTDONE"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+	</skill>	
+	
+	<skill id="9216" levels="1" name="Божественное Вдохновение">
+		<set name="target" val="TARGET_NONE"/>
+		<set name="skillType" val="NOTDONE"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+	</skill>	
+	
+	<skill id="9217" levels="1" name="Божественное Вдохновение">
+		<set name="target" val="TARGET_NONE"/>
+		<set name="skillType" val="NOTDONE"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+	</skill>	
+	
+	<skill id="9218" levels="1" name="Благославенный Эликсир: Поэма Рога">
+		<set name="magicType" val="MAGIC" />
+		<set name="magicLevel" val="85" />
+		<set name="hitCancelTime" val="500" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="isMagic" val="true" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="useSS" val="false" />
+		<for>
+			<effect name="Buff" time="1800" val="0" stackType="MagicDefUp;pAtk;pDef;mAtk">
+				<mul order="0x30" stat="pDef" val="1.15" />
+				<mul order="0x30" stat="pAtk" val="1.17" />
+				<mul order="0x30" stat="mAtk" val="1.79" />
+				<mul order="0x30" stat="mDef" val="1.30" />
+			</effect>
+		</for>
+	</skill>	
+	
+	<skill id="9219" levels="1" name="Благословенный Эликсир: Поэма Барабана">
+		<set name="magicType" val="MAGIC" />
+		<set name="magicLevel" val="85" />
+		<set name="hitCancelTime" val="500" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="isMagic" val="true" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="useSS" val="false" />
+		<for>
+			<effect name="Buff" time="1800" val="0" stackOrder="3" stackType="ancient">
+				<mul order="0x30" stat="maxMp" val="1.2" />
+				<mul order="0x30" stat="regHp" val="1.2" />
+				<add order="0x40" stat="mCritRate" val="20" />
+				<mul order="0x30" stat="cAtk" val="1.2" />				
+				<mul order="0x30" stat="pAtk" val="1.1" />
+				<mul order="0x30" stat="pDef" val="1.2" />
+				<mul order="0x30" stat="pAtkSpd" val="1.2" />
+				<mul order="0x30" stat="mAtkSpd" val="1.2" />
+				<mul order="0x30" stat="mAtk" val="1.2" />
+				<mul order="0x30" stat="mDef" val="1.2" />				
+				<mul order="0x30" stat="runSpd" val="0.85" />
+				<add order="0x40" stat="debuffResist" val="10" />				
+			</effect>
+		</for>
+	</skill>	
+	
+	<skill id="9220" levels="1" name="Благословенный Эликсир: Поэма Лютни">
+		<set name="magicType" val="MAGIC" />
+		<set name="magicLevel" val="85" />
+		<set name="hitCancelTime" val="500" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="isMagic" val="true" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="useSS" val="false" />
+		<for>
+			<effect name="Buff" time="1800" val="0" stackOrder="11" stackType="vampRage;pAtkSpeedUp;mAtkSpeedUp">
+				<add order="0x40" stat="absorbDam" val="9" />
+				<mul order="0x30" stat="pAtkSpd" val="1.34" />
+				<mul order="0x30" stat="mAtkSpd" val="1.31" />
+			</effect>
+		</for>
+	</skill>	
+	
+	<skill id="9221" levels="1" name="Благословенный Эликсир: Поэма Органа">
+		<set name="magicType" val="MAGIC" />
+		<set name="magicLevel" val="85" />
+		<set name="hitCancelTime" val="500" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="isMagic" val="true" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="useSS" val="false" />
+		<for>
+			<effect name="Buff" time="1800" val="0" stackOrder="11" stackType="hp_up;hpregen;mp_up">
+				<mul order="0x30" stat="maxHp" val="1.37" />
+				<mul order="0x30" stat="maxMp" val="1.37" />
+				<mul order="0x30" stat="maxCp" val="1.37" />
+				<mul order="0x30" stat="regHp" val="1.20" />
+			</effect>
+		</for>
+	</skill>	
+	
+	<skill id="9222" levels="1" name="Благословенный Эликсир: Поэма Гитары">
+		<set name="magicType" val="MAGIC" />
+		<set name="magicLevel" val="85" />
+		<set name="hitCancelTime" val="500" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="isMagic" val="true" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="useSS" val="false" />
+		<for>
+			<effect name="Buff" time="1800" val="0" stackOrder="11" stackType="impulse;rCrit;cAtk">
+				<add order="0x40" stat="rCrit" val="32" />
+				<mul order="0x30" stat="cAtk" val="1.35" />
+				<add order="0x40" stat="mCritRate" val="20" />
+				<mul order="0x30" stat="mpConsum" val="0.9" />
+				<mul order="0x30" stat="mpConsumePhysical" val="0.8" />
+			</effect>
+		</for>
+	</skill>	
+	
+	<skill id="9223" levels="1" name="Благословенный Эликсир: Поэма Арфы">
+		<set name="magicType" val="MAGIC" />
+		<set name="magicLevel" val="85" />
+		<set name="hitCancelTime" val="500" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="isMagic" val="true" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="useSS" val="false" />
+		<for>
+			<effect name="Buff" time="1800" val="0" stackOrder="11" stackType="accuracyUp;SpeedUp;Poem_Arfa;rEvas;CoP">
+				<add order="0x40" stat="accCombat" val="5" />
+				<add order="0x40" stat="pSkillEvasion" val="5" />
+				<add order="0x40" stat="runSpd" val="34" />
+				<mul order="0x30" stat="critDamRcpt" val="0.7" />
+			</effect>
+		</for>
+	</skill>	
+	
+	<!--  Done by ALF -->
+	<skill id="9224" levels="1" name="Телепорт: Говорящий Остров" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="townId" val="1" />
+		<set name="itemConsumeId" val="32226" />
+		<set name="itemConsumeCount" val="1" />
+		<set name="isHandler" val="true" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="RECALL" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<cond msgId="1509">
+			<not>
+				<player olympiad="true" />
+			</not>
+		</cond>
+	</skill>
+	
+	<skill id="9225" levels="1" name="Иллюзия Света">
+		<set name="target" val="TARGET_NONE"/>
+		<set name="skillType" val="NOTDONE"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+	</skill>
+	
+	<skill id="9226" levels="1" name="Осколок Света">
+		<set name="target" val="TARGET_NONE"/>
+		<set name="skillType" val="NOTDONE"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+	</skill>
+
+	<skill id="9227" levels="1" name="Поэма Рога Наставника">
+	<!--
+		При помомощи Наставника: Физ. Атк. +17%, Физ. Защ. +15%, Маг. Атк. +79%, Маг. Защ. +30%. 
+		Время действия: 30 мин. Чары действуют только тогда, когда Наставник подключен к игре.
+	-->
+		<set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="CONT"/>
+        <set name="operateType" val="OP_TOGGLE"/>
+        <set name="isSelfDispellable" val="false"/>
+        <set name="isPreservedOnDeath" val="true" />
+        <for>
+			<effect name="Buff" time="86400" val="0" stackOrder="3" stackType="MagicDefUp;pAtk;pDef;mAtk">
+				<mul order="0x30" stat="pDef" val="1.15" />
+				<mul order="0x30" stat="pAtk" val="1.17" />
+				<mul order="0x30" stat="mAtk" val="1.79" />
+				<mul order="0x30" stat="mDef" val="1.30" />
+			</effect>
+		</for>
+	</skill>
+	
+	<skill id="9228" levels="1" name="Поэма Барабана Наставника">
+	<!--
+		При помомощи Наставника: Макс. MP +20%, бонус восстановления HP +20%, шанс Крит. Атк. магией +2. 
+		При обычной атаке: сила Крит. Атк. +20%, Физ. Атк. +10%, Физ. Защ. +20%, Скор. Атк. +20%, Маг. Атк. +20%, Маг. Защ. +20%, Скор. Маг. +20%, 
+		Сопротивление отрицательным эффектам +10%. 
+		При получении Крит. Урона: Физ. Защ., Скор. перемещения -15%. 
+		Повышает силу Крит. Атк. обычных атак членов группы, экипировавших оружие ближнего боя и получивших определенное количество урона. 
+		Время действия: 30 мин. 
+		Чары действуют только тогда, когда Наставник подключен к игре.
+	-->
+		<set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="CONT"/>
+        <set name="operateType" val="OP_TOGGLE"/>
+        <set name="isSelfDispellable" val="false"/>
+        <set name="isPreservedOnDeath" val="true" />
+		<for>
+			<effect name="Buff" time="86400" val="0" stackOrder="4" stackType="ancient">
+				<mul order="0x30" stat="maxMp" val="1.2" />
+				<mul order="0x30" stat="regHp" val="1.2" />
+				<add order="0x40" stat="mCritRate" val="20" />
+				<mul order="0x30" stat="cAtk" val="1.2" />				
+				<mul order="0x30" stat="pAtk" val="1.1" />
+				<mul order="0x30" stat="pDef" val="1.2" />
+				<mul order="0x30" stat="pAtkSpd" val="1.2" />
+				<mul order="0x30" stat="mAtkSpd" val="1.2" />
+				<mul order="0x30" stat="mAtk" val="1.2" />
+				<mul order="0x30" stat="mDef" val="1.2" />				
+				<sub order="0x40" stat="runSpd" val="15" />
+				<add order="0x40" stat="debuffResist" val="10" />
+			</effect>
+		</for>
+	</skill>	
+	
+	<skill id="9229" levels="1" name="Поэма Лютни Наставника">
+	<!--
+		При помомощи Наставника: Скор. Атк. +34%, Скор. Маг. +31%. 
+		С вероятностью 9% накладывает Эффект Вампира. 
+		Время действия: 30 мин. Чары действуют только тогда, когда Наставник подключен к игре.
+	-->
+		<set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="CONT"/>
+        <set name="operateType" val="OP_TOGGLE"/>
+        <set name="isSelfDispellable" val="false"/>
+        <set name="isPreservedOnDeath" val="true" />
+        <for>
+			<effect name="Buff" time="86400" val="0" stackOrder="12" stackType="vampRage;pAtkSpeedUp;mAtkSpeedUp">
+				<add order="0x40" stat="absorbDam" val="9" />
+				<mul order="0x30" stat="pAtkSpd" val="1.34" />
+				<mul order="0x30" stat="mAtkSpd" val="1.31" />
+			</effect>
+		</for>
+	</skill>	
+	
+	<skill id="9230" levels="1" name="Поэма Органа Наставника">
+	<!--
+		При помомощи Наставника: Макс. HP +37%, Макс. MP +37%, Макс. CP +37%, бонус восстановления HP +20%. 
+		Время действия: 30 мин. 
+		Чары действуют только тогда, когда Наставник подключен к игре.
+	-->
+		<set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="CONT"/>
+        <set name="operateType" val="OP_TOGGLE"/>
+        <set name="isSelfDispellable" val="false"/>
+        <set name="isPreservedOnDeath" val="true" />
+		<for>
+			<effect name="Buff" time="86400" val="0" stackOrder="12" stackType="hp_up;hpregen;mp_up">
+				<mul order="0x30" stat="maxHp" val="1.37" />
+				<mul order="0x30" stat="maxMp" val="1.37" />
+				<mul order="0x30" stat="maxCp" val="1.37" />
+				<mul order="0x30" stat="regHp" val="1.20" />
+			</effect>
+		</for>
+	</skill>	
+	
+	<skill id="9231" levels="1" name="Поэма Гитары Наставника">
+	<!--
+		При помомощи Наставника: Шанс Физ. Крит. Атк. +32%, сила Физ. Крит. Атк. +35%, шанс Маг. Крит. Атк. +2. 
+		Расход MP для физических умений -20%, магических -10% . 
+		Время действия: 30 мин. 
+		Чары действуют только тогда, когда Наставник подключен к игре.
+	-->
+		<set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="CONT"/>
+        <set name="operateType" val="OP_TOGGLE"/>
+        <set name="isSelfDispellable" val="false"/>
+        <set name="isPreservedOnDeath" val="true" />
+		<for>
+			<effect name="Buff" time="86400" val="0" stackOrder="12" stackType="impulse;rCrit;cAtk">
+				<add order="0x40" stat="rCrit" val="32" />
+				<mul order="0x30" stat="cAtk" val="1.35" />
+				<add order="0x40" stat="mCritRate" val="2" />
+				<mul order="0x30" stat="mpConsum" val="0.9" />
+				<mul order="0x30" stat="mpConsumePhysical" val="0.8" />
+			</effect>
+		</for>
+	</skill>	
+	
+	<skill id="9232" levels="1" name="Поэма Арфы Наставника">
+	<!--
+		При помомощи Наставника: Физ. Точность +5, Физ. и Маг. Уклонение +5, Скор. перемещения +34. 
+		Получаемый Крит. урон -30%. 
+		Время действия: 30 мин. Чары действуют только тогда, когда Наставник подключен к игре.
+	-->
+		<set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="CONT"/>
+        <set name="operateType" val="OP_TOGGLE"/>
+        <set name="isSelfDispellable" val="false"/>
+        <set name="isPreservedOnDeath" val="true" />
+		<for>
+			<effect name="Buff" time="86400" val="0" stackOrder="12" stackType="accuracyUp;SpeedUp;Poem_Arfa;rEvas;CoP">
+				<add order="0x40" stat="accCombat" val="5" />
+				<add order="0x40" stat="rEvas" val="5" />
+				<add order="0x40" stat="mrEvas" val="5" />
+				<add order="0x40" stat="runSpd" val="34" />
+				<mul order="0x30" stat="critDamRcpt" val="0.7" />
+			</effect>
+		</for>
+	</skill>	
+	
+	<skill id="9233" levels="1" name="Руна Наставника">
+		<set name="target" val="TARGET_SELF"/>
+        <set name="icon" val="br_cashtex.skill.br_cash_rune_of_exp_buff_1" />
+        <set name="skillType" val="CONT"/>
+        <set name="operateType" val="OP_TOGGLE"/>
+        <set name="isSelfDispellable" val="false"/>
+        <set name="isPreservedOnDeath" val="true" />
+        <for>
+            <effect name="Buff" time="86400" val="0">
+                <mul order="0x30" stat="ExpMultiplier" val="2" />
+                <mul order="0x30" stat="SpMultiplier" val="2" />
+            </effect>
+        </for>
+	</skill>	
+	
+	<skill id="9234" levels="1" name="Свиток: Модифицировать Головной Убор">
+		<set name="target" val="TARGET_NONE"/>
+		<set name="skillType" val="NOTDONE"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+	</skill>
+
+	<skill id="9235" levels="1" name="Подарок Луча Терсия 1">
+		<set name="target" val="TARGET_NONE"/>
+		<set name="skillType" val="NOTDONE"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+	</skill>
+
+	<skill id="9236" levels="1" name="Подарок Луча Терсия 2">
+		<set name="target" val="TARGET_NONE"/>
+		<set name="skillType" val="NOTDONE"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+	</skill>
+	
+	<skill id="9237" levels="1" name="Подарок Луча Терсия 3">
+		<set name="target" val="TARGET_NONE"/>
+		<set name="skillType" val="NOTDONE"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+	</skill>
+	
+	<skill id="9238" levels="1" name="Подарок Луча Терсия 4">
+		<set name="target" val="TARGET_NONE"/>
+		<set name="skillType" val="NOTDONE"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+	</skill>
+	
+	<skill id="9239" levels="1" name="Подарок Луча Терсия 5">
+		<set name="target" val="TARGET_NONE"/>
+		<set name="skillType" val="NOTDONE"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+	</skill>
+	
+	<skill id="9240" levels="2" name="Руна Невитта">
+		<set name="target" val="TARGET_NONE"/>
+		<set name="skillType" val="NOTDONE"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+	</skill>	
+	
+	<skill id="9241" levels="1" name="Ящик Гиганта">
+		<set name="target" val="TARGET_NONE"/>
+		<set name="skillType" val="NOTDONE"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+	</skill>
+
+	<skill id="9242" levels="1" name="Ящик Оков">
+		<set name="target" val="TARGET_NONE"/>
+		<set name="skillType" val="NOTDONE"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+	</skill>
+
+	<skill id="9243" levels="1" name="Ящик Разрушения">
+		<set name="target" val="TARGET_NONE"/>
+		<set name="skillType" val="NOTDONE"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+	</skill>
+
+	<skill id="9244" levels="1" name="Свиток Гигантов: Модифицировать Оружие (D)">
+		<set name="target" val="TARGET_NONE"/>
+		<set name="skillType" val="NOTDONE"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+	</skill>
+	
+	<skill id="9245" levels="1" name="Свиток Гигантов: Модифицировать Доспех (D)">
+		<set name="target" val="TARGET_NONE"/>
+		<set name="skillType" val="NOTDONE"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+	</skill>	
+	
+	<skill id="9246" levels="1" name="Свиток Гигантов: Модифицировать Оружие (C)">
+		<set name="target" val="TARGET_NONE"/>
+		<set name="skillType" val="NOTDONE"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+	</skill>	
+	
+	<skill id="9247" levels="1" name="Свиток Гигантов: Модифицировать Доспех (C)">
+		<set name="target" val="TARGET_NONE"/>
+		<set name="skillType" val="NOTDONE"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+	</skill>	
+	
+	<skill id="9248" levels="1" name="Свиток Гигантов: Модифицировать Оружие (B)">
+		<set name="target" val="TARGET_NONE"/>
+		<set name="skillType" val="NOTDONE"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+	</skill>	
+	
+	<skill id="9249" levels="1" name="Свиток Гигантов: Модифицировать Доспех (B)">
+		<set name="target" val="TARGET_NONE"/>
+		<set name="skillType" val="NOTDONE"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+	</skill>	
+	
+	<skill id="9250" levels="1" name="Свиток Гигантов: Модифицировать Оружие (A)">
+		<set name="target" val="TARGET_NONE"/>
+		<set name="skillType" val="NOTDONE"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+	</skill>	
+	
+	<skill id="9251" levels="1" name="Свиток Гигантов: Модифицировать Доспех (A)">
+		<set name="target" val="TARGET_NONE"/>
+		<set name="skillType" val="NOTDONE"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+	</skill>	
+	
+	<skill id="9252" levels="1" name="Свиток Гигантов: Модифицировать Оружие (S)">
+		<set name="target" val="TARGET_NONE"/>
+		<set name="skillType" val="NOTDONE"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+	</skill>	
+	
+	<skill id="9253" levels="1" name="Свиток Гигантов: Модифицировать Доспех (S)">
+		<set name="target" val="TARGET_NONE"/>
+		<set name="skillType" val="NOTDONE"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+	</skill>	
+	
+	<skill id="9254" levels="1" name="Свиток Гигантов: Модифицировать Оружие (R)">
+		<set name="target" val="TARGET_NONE"/>
+		<set name="skillType" val="NOTDONE"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+	</skill>	
+	
+	<skill id="9255" levels="1" name="Свиток Гигантов: Модифицировать Доспех (R)">
+		<set name="target" val="TARGET_NONE"/>
+		<set name="skillType" val="NOTDONE"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+	</skill>	
+	
+	<skill id="9256" levels="1" name="Поддержка Наставника">
+	<!--
+		При помощи Поддержаки Наставника получаемые очки опыта и SP увеличиваются на 10%. 
+		Чары действуют только тогда, когда Наставник подключен к игре.
+	-->
+		<set name="target" val="TARGET_SELF"/>
+        <set name="icon" val="br_cashtex.skill.br_cash_rune_of_exp_buff_1" />
+        <set name="skillType" val="CONT"/>
+        <set name="operateType" val="OP_TOGGLE"/>
+        <set name="isSelfDispellable" val="false"/>
+        <set name="isPreservedOnDeath" val="true" />
+		<for>
+            <effect name="Buff" time="86400" val="0">
+                <mul order="0x30" stat="ExpMultiplier" val="1.1" />
+			    <mul order="0x30" stat="SpMultiplier" val="1.1" />
+            </effect>
+        </for>
+	</skill>
+	
+	
+</list>

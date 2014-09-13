@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "walker_agro.dtd">
+<!--
+	<route npcId="NPC-ID" type="TYPE WALK" delay="DELAY" isRunning="false/true" walkRange="RANGE">
+		<point x="XXXXX" y="YYYYYYYY" z="ZZZZZZ" h="HHHHHH(0)" delay="DELAY"/> - Спавн по первой точке в роуте
+		<point x="XXXXX" y="YYYYYYYY" z="ZZZZZZ" h="HHHHHH(0)" delay="DELAY" endPoint="true/false"/> - на посл. если требуется, устанавливается ластПойнт указатель(Для ТП)
+	</route>
+	В довесок, выносим нужного НПСа со спавна + лепим ему АИ (WalkerAI).
+	Типы движений:
+	CYCLE - Круговое, цикличное (Вперед, и с послденей точки ищет путь до 1й)
+	LINEAR - Линейное движение (Вперед, назад, по точкам)
+	TELEPORT - Телепорт на первую точку, при достижении последней точки.
+-->
+<list>
+	<!--Кролики в саду бытия-->
+	<route npcId="22950" type="LINEAR" delay="1" isRunning="true" walkRange="0">
+		<point x="211368" y="109672" z="-2106" h="0" delay="0"/>
+		<point x="211512" y="111608" z="-2079" h="0" delay="0"/>
+		<point x="210329" y="111656" z="-2116" h="0" delay="0"/>
+		<point x="209672" y="111272" z="-2116" h="0" delay="0"/>
+		<point x="209336" y="110872" z="-2071" h="0" delay="0"/>
+	</route>
+	
+	<route npcId="33886" type="LINEAR" delay="1" isRunning="true" walkRange="0">
+	    <point x="42984" y="-48232" z="-822" h="32767" delay="0"/>
+        <point x="44632" y="-48232" z="-822" h="0" delay="0"/>
+    </route>		
+</list>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <!-- Maestro Ishuma -->
+  <!-- Внимание: keepenchanted НЕ должно быть установлено в мультиселлах, где в одном блоке возможны два одинаковых нестекуемых предмета (напрмиер dual) -->
+  <!-- ignoreprice не работает с keepencahnted -->
+	<config showall="true" notax="false" keepenchanted="false" />
+	<item>
+		<production id="34998" count="1"/>
+		<ingredient id="35667" count="10"/>
+		<ingredient id="17371" count="17952"/>
+		<ingredient id="19440" count="1496"/>
+	</item>
+
+	<item>
+		<production id="34999" count="1"/>
+		<ingredient id="35667" count="10"/>
+		<ingredient id="17371" count="17952"/>
+		<ingredient id="19440" count="1496"/>
+	</item>
+
+	<item>
+		<production id="35001" count="1"/>
+		<ingredient id="35667" count="10"/>
+		<ingredient id="17371" count="17952"/>
+		<ingredient id="19440" count="1496"/>
+	</item>
+</list>

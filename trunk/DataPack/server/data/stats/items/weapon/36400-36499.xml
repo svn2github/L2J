@@ -1,0 +1,2109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "item.dtd">
+<list>	
+	<weapon id="36417" name="Острие Антараса" add_name="Низкого Качества">
+		<set name="weight" value="1520"/>
+		<set name="type" value="DAGGER"/>
+		<set name="ex_type" value="DAGGER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+		<for>
+			<add stat="pAtk" order="0x10" value="1039"/>
+			<add stat="mAtk" order="0x10" value="517"/>
+			<add stat="rCrit" order="0x08" value="120"/> <!-- Крит.Атк +12 -->
+			<add stat="pAtkSpd" order="0x08" value="433"/>
+			<add stat="accCombat" order="0x10" value="-3.75"/> <!-- Точность -3.75 -->
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon>
+	<weapon id="36418" name="Эспадон Антараса" add_name="Низкого Качества">
+		<set name="weight" value="1740"/>
+		<set name="type" value="BIGSWORD"/>
+		<set name="ex_type" value="BIG_SWORD"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="LEFT_RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+		<for>
+			<add stat="pAtk" order="0x10" value="1445"/>
+			<add stat="mAtk" order="0x10" value="517"/>
+			<add stat="pAtkSpd" order="0x08" value="325"/>
+			<add stat="rCrit" order="0x08" value="80"/> <!-- Крит.Атк +8 -->
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon>
+	<weapon id="36419" name="Бросок Антараса" add_name="Низкого Качества">
+		<set name="weight" value="1520"/>
+		<set name="type" value="BOW"/>
+		<set name="ex_type" value="BOW"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="LEFT_RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+		<for>
+			<add stat="pAtk" order="0x10" value="2339"/>
+			<add stat="mAtk" order="0x10" value="517"/>
+			<add stat="rCrit" order="0x08" value="120"/> <!-- Крит.Атк +12 -->
+			<add stat="pAtkSpd" order="0x08" value="293"/>
+			<add stat="accCombat" order="0x10" value="-3.75"/> <!-- Точность -3.75 -->
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon>
+	<weapon id="36420" name="Расчленитель Антараса" add_name="Низкого Качества">
+		<set name="weight" value="1520"/>
+		<set name="type" value="SWORD"/>
+		<set name="ex_type" value="SWORD"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+		<for>
+			<add stat="pAtk" order="0x10" value="950"/>
+			<add stat="mAtk" order="0x10" value="690"/>
+            <add stat="rCrit" order="0x08" value="80"/>
+            <add stat="pAtkSpd" order="0x08" value="379"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon>
+	<weapon id="36421" name="Резак Антараса" add_name="Низкого Качества">
+		<set name="weight" value="1520"/>
+		<set name="type" value="SWORD"/>
+		<set name="ex_type" value="SWORD"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+		<for>
+			<add stat="pAtk" order="0x10" value="1188"/>
+			<add stat="mAtk" order="0x10" value="517"/>
+            <add stat="rCrit" order="0x08" value="80"/>
+            <add stat="pAtkSpd" order="0x08" value="379"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon>
+	<weapon id="36422" name="Буревестник Антараса" add_name="Низкого Качества">
+		<set name="weight" value="2010"/>
+		<set name="type" value="POLE"/>
+		<set name="ex_type" value="POLE"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="LEFT_RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+		<for>
+			<add stat="pAtk" order="0x10" value="1188"/>
+			<add stat="mAtk" order="0x10" value="517"/>
+            <add stat="rCrit" order="0x08" value="80"/>
+            <add stat="pAtkSpd" order="0x08" value="325"/>
+            <add stat="accCombat" order="0x10" value="-3.75"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon>
+	<weapon id="36423" name="Воитель Антараса" add_name="Низкого Качества">
+		<set name="weight" value="1550"/>
+		<set name="type" value="DUALFIST"/>
+		<set name="ex_type" value="HAND_TO_HAND"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="LEFT_RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+		<for>
+			<add stat="pAtk" order="0x10" value="1445"/>
+			<add stat="mAtk" order="0x10" value="517"/>
+            <add stat="rCrit" order="0x08" value="60"/>
+            <add stat="pAtkSpd" order="0x08" value="325"/>
+            <add stat="accCombat" order="0x10" value="8.00"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon>
+	<weapon id="36424" name="Мститель Антараса" add_name="Низкого Качества">
+		<set name="weight" value="1740"/>
+		<set name="type" value="BLUNT"/>
+		<set name="ex_type" value="BLUNT_WEAPON"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+		<for>
+			<add stat="pAtk" order="0x10" value="1188"/>
+			<add stat="mAtk" order="0x10" value="517"/>
+            <add stat="rCrit" order="0x08" value="60"/>
+            <add stat="pAtkSpd" order="0x08" value="379"/>
+            <add stat="accCombat" order="0x10" value="8.00"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon>
+	<weapon id="36425" name="Парные Дубины Антараса" add_name="Низкого Качества">
+		<set name="weight" value="1740"/>
+		<set name="type" value="DUALBLUNT"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="LEFT_RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+		<for>
+			<add stat="pAtk" order="0x10" value="1445"/>
+			<add stat="mAtk" order="0x10" value="517"/>
+            <add stat="rCrit" order="0x08" value="60"/>
+            <add stat="pAtkSpd" order="0x08" value="325"/>
+            <add stat="accCombat" order="0x10" value="8.00"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon>
+	<weapon id="36426" name="Парные Мечи Антараса" add_name="Низкого Качества">
+		<set name="weight" value="1520"/>
+		<set name="type" value="DUAL"/>
+		<set name="ex_type" value="DUAL_SWORD"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="LEFT_RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+		<for>
+			<add stat="pAtk" order="0x10" value="1445"/>
+			<add stat="mAtk" order="0x10" value="517"/>
+            <add stat="rCrit" order="0x08" value="80"/>
+            <add stat="pAtkSpd" order="0x08" value="325"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon>
+	<weapon id="36427" name="Острие Валакаса" add_name="Низкого Качества">
+		<set name="weight" value="1520"/>
+		<set name="type" value="DAGGER"/>
+		<set name="ex_type" value="DAGGER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+		<for>
+			<add stat="pAtk" order="0x10" value="1039"/>
+			<add stat="mAtk" order="0x10" value="517"/>
+			<add stat="rCrit" order="0x08" value="120"/> <!-- Крит.Атк +12 -->
+			<add stat="pAtkSpd" order="0x08" value="433"/>
+			<add stat="accCombat" order="0x10" value="-3.75"/> <!-- Точность -3.75 -->
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon>
+	<weapon id="36428" name="Резак Валакаса" add_name="Низкого Качества">
+		<set name="weight" value="1520"/>
+		<set name="type" value="SWORD"/>
+		<set name="ex_type" value="SWORD"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+		<for>
+			<add stat="pAtk" order="0x10" value="1188"/>
+			<add stat="mAtk" order="0x10" value="517"/>
+            <add stat="rCrit" order="0x08" value="80"/>
+            <add stat="pAtkSpd" order="0x08" value="379"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon>
+	<weapon id="36429" name="Эспадон Валакаса" add_name="Низкого Качества">
+		<set name="weight" value="1740"/>
+		<set name="type" value="BIGSWORD"/>
+		<set name="ex_type" value="BIG_SWORD"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+		<for>
+			<add stat="pAtk" order="0x10" value="1445"/>
+			<add stat="mAtk" order="0x10" value="517"/>
+			<add stat="pAtkSpd" order="0x08" value="325"/>
+			<add stat="rCrit" order="0x08" value="80"/> <!-- Крит.Атк +8 -->
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon>
+	<weapon id="36430" name="Бросок Валакаса" add_name="Низкого Качества">
+		<set name="weight" value="1520"/>
+		<set name="type" value="BOW"/>
+		<set name="ex_type" value="BOW"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+		<for>
+			<add stat="pAtk" order="0x10" value="2339"/>
+			<add stat="mAtk" order="0x10" value="517"/>
+			<add stat="rCrit" order="0x08" value="120"/> <!-- Крит.Атк +12 -->
+			<add stat="pAtkSpd" order="0x08" value="293"/>
+			<add stat="accCombat" order="0x10" value="-3.75"/> <!-- Точность -3.75 -->
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon>
+	<weapon id="36431" name="Расчленитель Валакаса" add_name="Низкого Качества">
+		<set name="weight" value="1520"/>
+		<set name="type" value="SWORD"/>
+		<set name="ex_type" value="SWORD"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+		<for>
+			<add stat="pAtk" order="0x10" value="950"/>
+			<add stat="mAtk" order="0x10" value="690"/>
+            <add stat="rCrit" order="0x08" value="80"/>
+            <add stat="pAtkSpd" order="0x08" value="379"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon>
+	<weapon id="36432" name="Заклинатель Валакаса" add_name="Низкого Качества">
+		<set name="weight" value="1080"/>
+		<set name="type" value="BLUNT"/>
+		<set name="ex_type" value="BLUNT_WEAPON"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+		<for>
+			<add stat="pAtk" order="0x10" value="950"/>
+			<add stat="mAtk" order="0x10" value="690"/>
+            <add stat="accCombat" order="0x08" value="80"/>
+            <add stat="pAtkSpd" order="0x08" value="379"/>
+            <add stat="rCrit" order="0x08" value="6"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon>
+	<weapon id="36433" name="Возмездие Валакаса" add_name="Низкого Качества">
+		<set name="weight" value="1080"/>
+		<set name="type" value="BIGBLUNT"/>
+		<set name="ex_type" value="BIG_BLUNT_WEAPON"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+		<for>
+			<add stat="pAtk" order="0x10" value="1157"/>
+			<add stat="mAtk" order="0x10" value="759"/>
+            <add stat="accCombat" order="0x08" value="80"/>
+			<add stat="pAtkSpd" order="0x08" value="325"/>
+			<add stat="rCrit" order="0x08" value="6"/> <!-- Крит.Атк +6 -->
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon>
+	<weapon id="36434" name="Острие Линдвиора" add_name="Низкого Качества">
+		<set name="weight" value="1520"/>
+		<set name="type" value="DAGGER"/>
+		<set name="ex_type" value="DAGGER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+		<for>
+			<add stat="pAtk" order="0x10" value="1039"/>
+			<add stat="mAtk" order="0x10" value="517"/>
+			<add stat="rCrit" order="0x08" value="120"/> <!-- Крит.Атк +12 -->
+			<add stat="pAtkSpd" order="0x08" value="433"/>
+			<add stat="accCombat" order="0x10" value="-3.75"/> <!-- Точность -3.75 -->
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon>
+	<weapon id="36435" name="Бросок Линдвиора" add_name="Низкого Качества">
+		<set name="weight" value="1520"/>
+		<set name="type" value="BOW"/>
+		<set name="ex_type" value="BOW"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+		<for>
+			<add stat="pAtk" order="0x10" value="2339"/>
+			<add stat="mAtk" order="0x10" value="517"/>
+			<add stat="rCrit" order="0x08" value="120"/> <!-- Крит.Атк +12 -->
+			<add stat="pAtkSpd" order="0x08" value="293"/>
+			<add stat="accCombat" order="0x10" value="-3.75"/> <!-- Точность -3.75 -->
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon>
+	<weapon id="36436" name="Эспадон Линдвиора" add_name="Низкого Качества">
+		<set name="weight" value="1740"/>
+		<set name="type" value="BIGSWORD"/>
+		<set name="ex_type" value="BIG_SWORD"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+		<for>
+			<add stat="pAtk" order="0x10" value="1445"/>
+			<add stat="mAtk" order="0x10" value="517"/>
+			<add stat="pAtkSpd" order="0x08" value="325"/>
+			<add stat="rCrit" order="0x08" value="80"/> <!-- Крит.Атк +8 -->
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon>
+	<weapon id="36437" name="Заклинатель Линдвиора" add_name="Низкого Качества">
+		<set name="weight" value="1520"/>
+		<set name="type" value="BLUNT"/>
+		<set name="ex_type" value="BLUNT_WEAPON"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+		<for>
+			<add stat="pAtk" order="0x10" value="950"/>
+			<add stat="mAtk" order="0x10" value="690"/>
+			<add stat="rCrit" order="0x08" value="80"/> <!-- Крит.Атк +8 -->
+            <add stat="pAtkSpd" order="0x08" value="379"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon>
+	<weapon id="36438" name="Резак Линдвиора" add_name="Низкого Качества">
+		<set name="weight" value="1520"/>
+		<set name="type" value="SWORD"/>
+		<set name="ex_type" value="SWORD"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+		<for>
+			<add stat="pAtk" order="0x10" value="1188"/>
+			<add stat="mAtk" order="0x10" value="517"/>
+            <add stat="rCrit" order="0x08" value="80"/>
+            <add stat="pAtkSpd" order="0x08" value="379"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon>
+	<weapon id="36439" name="Страж Линдвиора" add_name="Низкого Качества">
+		<set name="weight" value="1580"/>
+		<set name="type" value="CROSSBOW"/>
+		<set name="ex_type" value="CROSSBOW"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+		<for>
+			<add stat="pAtk" order="0x10" value="2339"/>
+			<add stat="mAtk" order="0x10" value="517"/>
+			<add stat="rCrit" order="0x08" value="120"/> <!-- Крит.Атк +12 -->
+			<add stat="accCombat" order="0x10" value="-3.75"/> <!-- Точность -3.75 -->
+			<add stat="pAtkSpd" order="0x08" value="325"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon>
+	<weapon id="36440" name="Парные Кинжалы Линдвиора" add_name="Низкого Качества">
+		<set name="weight" value="2050"/>
+		<set name="type" value="DUALDAGGER"/>
+		<set name="ex_type" value="DUAL_DAGGER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="LEFT_RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+		<for>
+			<add stat="pAtk" order="0x10" value="1039"/>
+			<add stat="mAtk" order="0x10" value="517"/>
+			<add stat="rCrit" order="0x08" value="120"/> <!-- Крит.Атк +12 -->
+			<add stat="pAtkSpd" order="0x08" value="433"/>
+			<add stat="accCombat" order="0x10" value="-3.75"/> <!-- Точность -3.75 -->
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon>
+	<weapon id="36441" name="Острие Антараса" add_name="Среднего Качества" >
+		<set name="weight" value="1520"/>
+		<set name="type" value="DAGGER"/>
+		<set name="ex_type" value="DAGGER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+        <skills>
+            <skill id="8900" level="1"/> <!-- Скилл Воина 1 лвл -->
+        </skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="1877"/>
+			<add stat="mAtk" order="0x10" value="935"/>
+			<add stat="rCrit" order="0x08" value="120"/> <!-- Крит.Атк +12 -->
+			<add stat="pAtkSpd" order="0x08" value="433"/>
+			<add stat="accCombat" order="0x10" value="-3.75"/> <!-- Точность -3.75 -->
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon><!--\\n<Предметное умение>\\nНаносимый урон в PvP +15%. HP/MP/CP +30%, Скор. Атк. +300, Шанс Физ. Крит. Атк. +100, урон драконам +100%. \0" -->
+	<weapon id="36442" name="Эспадон Антараса" add_name="Среднего Качества" >
+		<set name="weight" value="1740"/>
+		<set name="type" value="BIGSWORD"/>
+		<set name="ex_type" value="BIG_SWORD"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+        <skills>
+            <skill id="8900" level="1"/> <!-- Скилл Воина 1 лвл -->
+        </skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="2611"/>
+			<add stat="mAtk" order="0x10" value="935"/>
+ 			<add stat="pAtkSpd" order="0x08" value="325"/>
+			<add stat="rCrit" order="0x08" value="80"/> <!-- Крит.Атк +8 -->
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon><!--\\n<Предметное умение>\\nНаносимый урон в PvP +15%. HP/MP/CP +30%, Скор. Атк. +300, Шанс Физ. Крит. Атк. +100, урон драконам +100%. \0" -->
+	<weapon id="36443" name="Бросок Антараса" add_name="Среднего Качества" >
+		<set name="weight" value="1520"/>
+		<set name="type" value="BOW"/>
+		<set name="ex_type" value="BOW"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+        <skills>
+            <skill id="8900" level="1"/> <!-- Скилл Воина 1 лвл -->
+        </skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="5336"/>
+			<add stat="mAtk" order="0x10" value="935"/>
+ 			<add stat="pAtkSpd" order="0x08" value="293"/>
+			<add stat="accCombat" order="0x10" value="-3.75"/> <!-- Точность -3.75 -->
+			<add stat="rCrit" order="0x08" value="80"/> <!-- Крит.Атк +8 -->
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon><!--\\n<Предметное умение>\\nНаносимый урон в PvP +15%. HP/MP/CP +30%, Скор. Атк. +300, Шанс Физ. Крит. Атк. +100, урон драконам +100%. \0" -->
+	<weapon id="36444" name="Расчленитель Антараса" add_name="Среднего Качества" >
+		<set name="weight" value="1520"/>
+		<set name="type" value="SWORD"/>
+		<set name="ex_type" value="SWORD"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+        <skills>
+            <skill id="8902" level="1"/> <!-- Скилл Мага 1 лвл -->
+        </skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="1716"/>
+			<add stat="mAtk" order="0x10" value="1247"/>
+ 			<add stat="pAtkSpd" order="0x08" value="379"/>
+			<add stat="rCrit" order="0x08" value="80"/> <!-- Крит.Атк +8 -->
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon><!--\\n<Предметное умение>\\nНаносимый урон в PvP +15%. HP/MP/CP +30%, Скор. Маг. +300, Шанс Маг. Крит. Атк. +100, урон драконам +100%. \0" -->
+	<weapon id="36445" name="Резак Антараса" add_name="Среднего Качества" >
+		<set name="weight" value="1520"/>
+		<set name="type" value="SWORD"/>
+		<set name="ex_type" value="SWORD"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+        <skills>
+            <skill id="8900" level="1"/> <!-- Скилл Воина 1 лвл -->
+        </skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="2146"/>
+			<add stat="mAtk" order="0x10" value="935"/>
+ 			<add stat="pAtkSpd" order="0x08" value="379"/>
+			<add stat="rCrit" order="0x08" value="80"/> <!-- Крит.Атк +8 -->
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon><!--\\n<Предметное умение>\\nНаносимый урон в PvP +15%. HP/MP/CP +30%, Скор. Атк. +300, Шанс Физ. Крит. Атк. +100, урон драконам +100%. \0" -->
+	<weapon id="36446" name="Буревестник Антараса" add_name="Среднего Качества" >
+		<set name="weight" value="2010"/>
+		<set name="type" value="POLE"/>
+		<set name="ex_type" value="POLE"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="LEFT_RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+        <skills>
+            <skill id="8900" level="1"/> <!-- Скилл Воина 1 лвл -->
+        </skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="2146"/>
+			<add stat="mAtk" order="0x10" value="935"/>
+ 			<add stat="pAtkSpd" order="0x08" value="325"/>
+			<add stat="accCombat" order="0x10" value="-3.75"/> <!-- Точность -3.75 -->
+			<add stat="rCrit" order="0x08" value="80"/> <!-- Крит.Атк +8 -->
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon><!--\\n<Предметное умение>\\nНаносимый урон в PvP +15%. HP/MP/CP +30%, Скор. Атк. +300, Шанс Физ. Крит. Атк. +100, урон драконам +100%. \0" -->
+	<weapon id="36447" name="Воитель Антараса" add_name="Среднего Качества" >
+		<set name="weight" value="1550"/>
+		<set name="type" value="DUALFIST"/>
+		<set name="ex_type" value="HAND_TO_HAND"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="LEFT_RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+        <skills>
+            <skill id="8900" level="1"/> <!-- Скилл Воина 1 лвл -->
+        </skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="2611"/>
+			<add stat="mAtk" order="0x10" value="935"/>
+ 			<add stat="pAtkSpd" order="0x08" value="325"/>
+			<add stat="accCombat" order="0x10" value="8"/> <!-- Точность +8.00 -->
+			<add stat="rCrit" order="0x08" value="60"/> <!-- Крит.Атк +6 -->
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon><!--\\n<Предметное умение>\\nНаносимый урон в PvP +15%. HP/MP/CP +30%, Скор. Атк. +300, Шанс Физ. Крит. Атк. +100, урон драконам +100%. \0" -->
+	<weapon id="36448" name="Мститель Антараса" add_name="Среднего Качества" >
+		<set name="weight" value="1740"/>
+		<set name="type" value="BLUNT"/>
+		<set name="ex_type" value="BLUNT_WEAPON"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+        <skills>
+            <skill id="8900" level="1"/> <!-- Скилл Воина 1 лвл -->
+        </skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="2146"/>
+			<add stat="mAtk" order="0x10" value="935"/>
+ 			<add stat="pAtkSpd" order="0x08" value="379"/>
+			<add stat="accCombat" order="0x10" value="8"/> <!-- Точность +8.00 -->
+			<add stat="rCrit" order="0x08" value="60"/> <!-- Крит.Атк +6 -->
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon><!--\\n<Предметное умение>\\nНаносимый урон в PvP +15%. HP/MP/CP +30%, Скор. Атк. +300, Шанс Физ. Крит. Атк. +100, урон драконам +100%. \0" -->
+	<weapon id="36449" name="Парные Дубины Антараса" add_name="Среднего Качества" >
+		<set name="weight" value="1740"/>
+		<set name="type" value="DUALBLUNT"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="LEFT_RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+        <skills>
+            <skill id="8900" level="1"/> <!-- Скилл Воина 1 лвл -->
+        </skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="2611"/>
+			<add stat="mAtk" order="0x10" value="935"/>
+ 			<add stat="pAtkSpd" order="0x08" value="325"/>
+			<add stat="accCombat" order="0x10" value="8"/> <!-- Точность +8.00 -->
+			<add stat="rCrit" order="0x08" value="60"/> <!-- Крит.Атк +6 -->
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon><!--\\n<Предметное умение>\\nНаносимый урон в PvP +15%. HP/MP/CP +30%, Скор. Атк. +300, Шанс Физ. Крит. Атк. +100, урон драконам +100%. \0" -->
+	<weapon id="36450" name="Парные Мечи Антараса" add_name="Среднего Качества" >
+		<set name="weight" value="1520"/>
+		<set name="type" value="DUAL"/>
+		<set name="ex_type" value="DUAL_SWORD"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="LEFT_RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+        <skills>
+            <skill id="8900" level="1"/> <!-- Скилл Воина 1 лвл -->
+        </skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="2611"/>
+			<add stat="mAtk" order="0x10" value="935"/>
+ 			<add stat="pAtkSpd" order="0x08" value="325"/>
+			<add stat="rCrit" order="0x08" value="80"/> <!-- Крит.Атк +8 -->
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon><!--\\n<Предметное умение>\\nНаносимый урон в PvP +15%. HP/MP/CP +30%, Скор. Атк. +300, Шанс Физ. Крит. Атк. +100, урон драконам +100%. \0" -->
+	<weapon id="36451" name="Острие Валакаса" add_name="Среднего Качества" >
+		<set name="weight" value="1520"/>
+		<set name="type" value="DAGGER"/>
+		<set name="ex_type" value="DAGGER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+        <skills>
+            <skill id="8900" level="1"/> <!-- Скилл Воина 1 лвл -->
+        </skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="1877"/>
+			<add stat="mAtk" order="0x10" value="935"/>
+ 			<add stat="pAtkSpd" order="0x08" value="433"/>
+			<add stat="accCombat" order="0x10" value="-3.75"/> <!-- Точность -3.75 -->
+			<add stat="rCrit" order="0x08" value="120"/> <!-- Крит.Атк +12 -->
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon><!--\\n<Предметное умение>\\nНаносимый урон в PvP +15%. HP/MP/CP +30%, Скор. Атк. +300, Шанс Физ. Крит. Атк. +100, урон драконам +100%. \0" -->
+	<weapon id="36452" name="Резак Валакаса" add_name="Среднего Качества" >
+		<set name="weight" value="1520"/>
+		<set name="type" value="SWORD"/>
+		<set name="ex_type" value="SWORD"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+        <skills>
+            <skill id="8900" level="1"/> <!-- Скилл Воина 1 лвл -->
+        </skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="2146"/>
+			<add stat="mAtk" order="0x10" value="935"/>
+ 			<add stat="pAtkSpd" order="0x08" value="379"/>
+			<add stat="rCrit" order="0x08" value="80"/> <!-- Крит.Атк +8 -->
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon><!--\\n<Предметное умение>\\nНаносимый урон в PvP +15%. HP/MP/CP +30%, Скор. Атк. +300, Шанс Физ. Крит. Атк. +100, урон драконам +100%. \0" -->
+	<weapon id="36453" name="Эспадон Валакаса" add_name="Среднего Качества" >
+		<set name="weight" value="1740"/>
+		<set name="type" value="BIGSWORD"/>
+		<set name="ex_type" value="BIG_SWORD"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+        <skills>
+            <skill id="8900" level="1"/> <!-- Скилл Воина 1 лвл -->
+        </skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="2611"/>
+			<add stat="mAtk" order="0x10" value="935"/>
+ 			<add stat="pAtkSpd" order="0x08" value="325"/>
+			<add stat="rCrit" order="0x08" value="80"/> <!-- Крит.Атк +8 -->
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon><!--\\n<Предметное умение>\\nНаносимый урон в PvP +15%. HP/MP/CP +30%, Скор. Атк. +300, Шанс Физ. Крит. Атк. +100, урон драконам +100%. \0" -->
+	<weapon id="36454" name="Бросок Валакаса" add_name="Среднего Качества" >
+		<set name="weight" value="1520"/>
+		<set name="type" value="BOW"/>
+		<set name="ex_type" value="BOW"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+        <skills>
+            <skill id="8900" level="1"/> <!-- Скилл Воина 1 лвл -->
+        </skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="4225"/>
+			<add stat="mAtk" order="0x10" value="935"/>
+ 			<add stat="pAtkSpd" order="0x08" value="293"/>
+			<add stat="accCombat" order="0x10" value="-3.75"/> <!-- Точность -3.75 -->
+			<add stat="rCrit" order="0x08" value="120"/> <!-- Крит.Атк +12 -->
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon><!--\\n<Предметное умение>\\nНаносимый урон в PvP +15%. HP/MP/CP +30%, Скор. Атк. +300, Шанс Физ. Крит. Атк. +100, урон драконам +100%. \0" -->
+	<weapon id="36455" name="Расчленитель Валакаса" add_name="Среднего Качества" >
+		<set name="weight" value="1520"/>
+		<set name="type" value="SWORD"/>
+		<set name="ex_type" value="SWORD"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+        <skills>
+            <skill id="8902" level="1"/> <!-- Скилл Мага 1 лвл -->
+        </skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="1716"/>
+			<add stat="mAtk" order="0x10" value="1247"/>
+ 			<add stat="pAtkSpd" order="0x08" value="379"/>
+			<add stat="rCrit" order="0x08" value="80"/> <!-- Крит.Атк +8 -->
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon><!--\\n<Предметное умение>\\nНаносимый урон в PvP +15%. HP/MP/CP +30%, Скор. Маг. +300, Шанс Маг. Крит. Атк. +100, урон драконам +100%. \0" -->
+	<weapon id="36456" name="Заклинатель Валакаса" add_name="Среднего Качества" >
+		<set name="weight" value="1080"/>
+		<set name="type" value="BLUNT"/>
+		<set name="ex_type" value="BLUNT_WEAPON"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+        <skills>
+            <skill id="8902" level="1"/> <!-- Скилл Мага 1 лвл -->
+        </skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="1716"/>
+			<add stat="mAtk" order="0x10" value="1247"/>
+ 			<add stat="pAtkSpd" order="0x08" value="379"/>
+			<add stat="accCombat" order="0x10" value="8"/> <!-- Точность +8.00 -->
+			<add stat="rCrit" order="0x08" value="60"/> <!-- Крит.Атк +6 -->
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon><!--\\n<Предметное умение>\\nНаносимый урон в PvP +15%. HP/MP/CP +30%, Скор. Маг. +300, Шанс Маг. Крит. Атк. +100, урон драконам +100%. \0" -->
+	<weapon id="36457" name="Возмездие Валакаса" add_name="Среднего Качества" >
+		<set name="weight" value="1080"/>
+		<set name="type" value="BIGBLUNT"/>
+		<set name="ex_type" value="BIG_BLUNT_WEAPON"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+        <skills>
+            <skill id="8902" level="1"/> <!-- Скилл Мага 1 лвл -->
+        </skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="2090"/>
+			<add stat="mAtk" order="0x10" value="1371"/>
+ 			<add stat="pAtkSpd" order="0x08" value="325"/>
+			<add stat="accCombat" order="0x10" value="8"/> <!-- Точность +8.00 -->
+			<add stat="rCrit" order="0x08" value="60"/> <!-- Крит.Атк +6 -->
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon><!--\\n<Предметное умение>\\nНаносимый урон в PvP +15%. HP/MP/CP +30%, Скор. Маг. +300, Шанс Маг. Крит. Атк. +100, урон драконам +100%. \0" -->
+	<weapon id="36458" name="Острие Линдвиора" add_name="Среднего Качества" >
+		<set name="weight" value="1520"/>
+		<set name="type" value="DAGGER"/>
+		<set name="ex_type" value="DAGGER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+        <skills>
+            <skill id="8900" level="1"/> <!-- Скилл Воина 1 лвл -->
+        </skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="1877"/>
+			<add stat="mAtk" order="0x10" value="935"/>
+ 			<add stat="pAtkSpd" order="0x08" value="433"/>
+			<add stat="accCombat" order="0x10" value="-3.75"/> <!-- Точность -3.75 -->
+			<add stat="rCrit" order="0x08" value="120"/> <!-- Крит.Атк +12 -->
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon><!--\\n<Предметное умение>\\nНаносимый урон в PvP +15%. HP/MP/CP +30%, Скор. Атк. +300, Шанс Физ. Крит. Атк. +100, урон драконам +100%. \0" -->
+	<weapon id="36459" name="Бросок Линдвиора" add_name="Среднего Качества" >
+		<set name="weight" value="1520"/>
+		<set name="type" value="BOW"/>
+		<set name="ex_type" value="BOW"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+        <skills>
+            <skill id="8900" level="1"/> <!-- Скилл Воина 1 лвл -->
+        </skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="4225"/>
+			<add stat="mAtk" order="0x10" value="935"/>
+ 			<add stat="pAtkSpd" order="0x08" value="293"/>
+			<add stat="accCombat" order="0x10" value="-3.75"/> <!-- Точность -3.75 -->
+			<add stat="rCrit" order="0x08" value="120"/> <!-- Крит.Атк +12 -->
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon><!--\\n<Предметное умение>\\nНаносимый урон в PvP +15%. HP/MP/CP +30%, Скор. Атк. +300, Шанс Физ. Крит. Атк. +100, урон драконам +100%. \0" -->
+	<weapon id="36460" name="Эспадон Линдвиора" add_name="Среднего Качества" >
+		<set name="weight" value="1740"/>
+		<set name="type" value="BIGSWORD"/>
+		<set name="ex_type" value="BIG_SWORD"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+        <skills>
+            <skill id="8900" level="1"/> <!-- Скилл Воина 1 лвл -->
+        </skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="2611"/>
+			<add stat="mAtk" order="0x10" value="935"/>
+ 			<add stat="pAtkSpd" order="0x08" value="325"/>
+			<add stat="rCrit" order="0x08" value="80"/> <!-- Крит.Атк +8 -->
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon><!--\\n<Предметное умение>\\nНаносимый урон в PvP +15%. HP/MP/CP +30%, Скор. Атк. +300, Шанс Физ. Крит. Атк. +100, урон драконам +100%. \0" -->
+	<weapon id="36461" name="Заклинатель Линдвиора" add_name="Среднего Качества" >
+		<set name="weight" value="1520"/>
+		<set name="type" value="BLUNT"/>
+		<set name="ex_type" value="BLUNT_WEAPON"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+        <skills>
+            <skill id="8902" level="1"/> <!-- Скилл Мага 1 лвл -->
+        </skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="1716"/>
+			<add stat="mAtk" order="0x10" value="1247"/>
+ 			<add stat="pAtkSpd" order="0x08" value="379"/>
+			<add stat="rCrit" order="0x08" value="80"/> <!-- Крит.Атк +8 -->
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon><!--\\n<Предметное умение>\\nНаносимый урон в PvP +15%. HP/MP/CP +30%, Скор. Маг. +300, Шанс Маг. Крит. Атк. +100, урон драконам +100%. \0" -->
+	<weapon id="36462" name="Резак Линдвиора" add_name="Среднего Качества" >
+		<set name="weight" value="1520"/>
+		<set name="type" value="SWORD"/>
+		<set name="ex_type" value="SWORD"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+        <skills>
+            <skill id="8900" level="1"/> <!-- Скилл Воина 1 лвл -->
+        </skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="2146"/>
+			<add stat="mAtk" order="0x10" value="935"/>
+ 			<add stat="pAtkSpd" order="0x08" value="379"/>
+			<add stat="rCrit" order="0x08" value="80"/> <!-- Крит.Атк +8 -->
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon><!--\\n<Предметное умение>\\nНаносимый урон в PvP +15%. HP/MP/CP +30%, Скор. Атк. +300, Шанс Физ. Крит. Атк. +100, урон драконам +100%. \0" -->
+	<weapon id="36463" name="Страж Линдвиора" add_name="Среднего Качества" >
+		<set name="weight" value="1520"/>
+		<set name="type" value="CROSSBOW"/>
+		<set name="ex_type" value="CROSSBOW"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+        <skills>
+            <skill id="8900" level="1"/> <!-- Скилл Воина 1 лвл -->
+        </skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="4225"/>
+			<add stat="mAtk" order="0x10" value="935"/>
+ 			<add stat="pAtkSpd" order="0x08" value="325"/>
+			<add stat="accCombat" order="0x10" value="-3.75"/> <!-- Точность -3.75 -->
+			<add stat="rCrit" order="0x08" value="120"/> <!-- Крит.Атк +12 -->
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon><!--\\n<Предметное умение>\\nНаносимый урон в PvP +15%. HP/MP/CP +30%, Скор. Атк. +300, Шанс Физ. Крит. Атк. +100, урон драконам +100%. \0" -->
+	<weapon id="36464" name="Парные Кинжалы Линдвиора" add_name="Среднего Качества" >
+		<set name="weight" value="2050"/>
+		<set name="type" value="DUALDAGGER"/>
+		<set name="ex_type" value="DUAL_DAGGER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="LEFT_RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+        <skills>
+            <skill id="8900" level="1"/> <!-- Скилл Воина 1 лвл -->
+        </skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="1877"/>
+			<add stat="mAtk" order="0x10" value="935"/>
+ 			<add stat="pAtkSpd" order="0x08" value="433"/>
+			<add stat="accCombat" order="0x10" value="-3.75"/> <!-- Точность -3.75 -->
+			<add stat="rCrit" order="0x08" value="120"/> <!-- Крит.Атк +12 -->
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon><!--\\n<Предметное умение>\\nНаносимый урон в PvP +15%. HP/MP/CP +30%, Скор. Атк. +300, Шанс Физ. Крит. Атк. +100, урон драконам +100%. \0" -->
+	<weapon id="36465" name="Острие Антараса" add_name="Высокого Качества" >
+		<set name="weight" value="1520"/>
+		<set name="type" value="DAGGER"/>
+		<set name="ex_type" value="DAGGER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+        <skills>
+            <skill id="8900" level="1"/> <!-- Скилл Воина 1 лвл -->
+			<skill id="8890" level="1"/> <!-- Скилл *Защита* -->
+        </skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="2177"/>
+			<add stat="mAtk" order="0x10" value="1084"/>
+ 			<add stat="pAtkSpd" order="0x08" value="433"/>
+			<add stat="accCombat" order="0x10" value="-3.75"/> <!-- Точность -3.75 -->
+			<add stat="rCrit" order="0x08" value="120"/> <!-- Крит.Атк +12 -->
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon><!--\\n<Предметное умение>\\nНаносимый урон в PvP +15%. HP/MP/CP +30%, Скор. Атк. +300, Шанс Физ. Крит. Атк. +100, урон драконам +100%. \\n<Активные умения>\\n1. Защита: Скорость +100, неуязвимость для всех отрицательных эффектов. Время действия: 2 мин. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 10 мин.\\n\0" -->
+	<weapon id="36466" name="Эспадон Антараса" add_name="Высокого Качества" >
+		<set name="weight" value="1740"/>
+		<set name="type" value="BIGSWORD"/>
+		<set name="ex_type" value="BIG_SWORD"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+        <skills>
+            <skill id="8900" level="1"/> <!-- Скилл Воина 1 лвл -->
+			<skill id="8890" level="1"/> <!-- Скилл *Защита* -->
+        </skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="3027"/>
+			<add stat="mAtk" order="0x10" value="1084"/>
+ 			<add stat="pAtkSpd" order="0x08" value="325"/>
+			<add stat="rCrit" order="0x08" value="80"/> <!-- Крит.Атк +8 -->
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon><!--\\n<Предметное умение>\\nНаносимый урон в PvP +15%. HP/MP/CP +30%, Скор. Атк. +300, Шанс Физ. Крит. Атк. +100, урон драконам +100%. \\n<Активные умения>\\n1. Защита: Скорость +100, неуязвимость для всех отрицательных эффектов. Время действия: 2 мин. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 10 мин.\\n\0" -->
+	<weapon id="36467" name="Бросок Антараса" add_name="Высокого Качества" >
+		<set name="weight" value="1520"/>
+		<set name="type" value="BOW"/>
+		<set name="ex_type" value="BOW"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+        <skills>
+            <skill id="8900" level="1"/> <!-- Скилл Воина 1 лвл -->
+			<skill id="8890" level="1"/> <!-- Скилл *Защита* -->
+        </skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="4898"/>
+			<add stat="mAtk" order="0x10" value="1084"/>
+ 			<add stat="pAtkSpd" order="0x08" value="293"/>
+			<add stat="accCombat" order="0x10" value="-3.75"/> <!-- Точность -3.75 -->
+			<add stat="rCrit" order="0x08" value="120"/> <!-- Крит.Атк +12 -->
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon><!--\\n<Предметное умение>\\nНаносимый урон в PvP +15%. HP/MP/CP +30%, Скор. Атк. +300, Шанс Физ. Крит. Атк. +100, урон драконам +100%. \\n<Активные умения>\\n1. Защита: Скорость +100, неуязвимость для всех отрицательных эффектов. Время действия: 2 мин. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 10 мин.\\n\0" -->
+	<weapon id="36468" name="Расчленитель Антараса" add_name="Высокого Качества" >
+		<set name="weight" value="1520"/>
+		<set name="type" value="SWORD"/>
+		<set name="ex_type" value="SWORD"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+        <skills>
+            <skill id="8902" level="1"/> <!-- Скилл Мага 1 лвл -->
+			<skill id="8890" level="1"/> <!-- Скилл *Защита* -->
+        </skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="1990"/>
+			<add stat="mAtk" order="0x10" value="1446"/>
+ 			<add stat="pAtkSpd" order="0x08" value="379"/>
+			<add stat="rCrit" order="0x08" value="80"/> <!-- Крит.Атк +8 -->
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon><!--\\n<Предметное умение>\\nНаносимый урон в PvP +15%. HP/MP/CP +30%, Скор. Маг. +300, Шанс Маг. Крит. Атк. +100, урон драконам +100%. \\n<Активные умения>\\n1. Защита: Скорость +100, неуязвимость для всех отрицательных эффектов. Время действия: 2 мин. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 10 мин.\\n\0" -->
+	<weapon id="36469" name="Резак Антараса" add_name="Высокого Качества" >
+		<set name="weight" value="1520"/>
+		<set name="type" value="SWORD"/>
+		<set name="ex_type" value="SWORD"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+        <skills>
+            <skill id="8900" level="1"/> <!-- Скилл Воина 1 лвл -->
+			<skill id="8890" level="1"/> <!-- Скилл *Защита* -->
+        </skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="2488"/>
+			<add stat="mAtk" order="0x10" value="1084"/>
+ 			<add stat="pAtkSpd" order="0x08" value="379"/>
+			<add stat="rCrit" order="0x08" value="80"/> <!-- Крит.Атк +8 -->
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon><!--\\n<Предметное умение>\\nНаносимый урон в PvP +15%. HP/MP/CP +30%, Скор. Атк. +300, Шанс Физ. Крит. Атк. +100, урон драконам +100%. \\n<Активные умения>\\n1. Защита: Скорость +100, неуязвимость для всех отрицательных эффектов. Время действия: 2 мин. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 10 мин.\\n\0" -->
+	<weapon id="36470" name="Буревестник Антараса" add_name="Высокого Качества" >
+		<set name="weight" value="2010"/>
+		<set name="type" value="POLE"/>
+		<set name="ex_type" value="POLE"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="LEFT_RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+        <skills>
+            <skill id="8900" level="1"/> <!-- Скилл Воина 1 лвл -->
+			<skill id="8890" level="1"/> <!-- Скилл *Защита* -->
+        </skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="2488"/>
+			<add stat="mAtk" order="0x10" value="1084"/>
+ 			<add stat="pAtkSpd" order="0x08" value="325"/>
+			<add stat="accCombat" order="0x10" value="-3.75"/> <!-- Точность -3.75 -->
+			<add stat="rCrit" order="0x08" value="80"/> <!-- Крит.Атк +8 -->
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon><!--\\n<Предметное умение>\\nНаносимый урон в PvP +15%. HP/MP/CP +30%, Скор. Атк. +300, Шанс Физ. Крит. Атк. +100, урон драконам +100%. \\n<Активные уменияя>\\n1. Защита: Скорость +100, неуязвимость для всех отрицательных эффектов. Время действия: 2 мин. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 10 мин.\\n\0" -->
+	<weapon id="36471" name="Воитель Антараса" add_name="Высокого Качества" >
+		<set name="weight" value="1550"/>
+		<set name="type" value="DUALFIST"/>
+		<set name="ex_type" value="HAND_TO_HAND"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="LEFT_RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+        <skills>
+            <skill id="8900" level="1"/> <!-- Скилл Воина 1 лвл -->
+			<skill id="8890" level="1"/> <!-- Скилл *Защита* -->
+        </skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="3027"/>
+			<add stat="mAtk" order="0x10" value="1084"/>
+ 			<add stat="pAtkSpd" order="0x08" value="325"/>
+			<add stat="accCombat" order="0x10" value="8"/> <!-- Точность +8.0 -->
+			<add stat="rCrit" order="0x08" value="60"/> <!-- Крит.Атк +6 -->
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon><!--\\n<Предметное умение>\\nНаносимый урон в PvP +15%. HP/MP/CP +30%, Скор. Атк. +300, Шанс Физ. Крит. Атк. +100, урон драконам +100%. \\n<Активные умения>\\n1. Защита: Скорость +100, неуязвимость для всех отрицательных эффектов. Время действия: 2 мин. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 10 мин.\\n\0" -->
+	<weapon id="36472" name="Мститель Антараса" add_name="Высокого Качества" >
+		<set name="weight" value="1740"/>
+		<set name="type" value="BLUNT"/>
+		<set name="ex_type" value="BLUNT_WEAPON"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+        <skills>
+            <skill id="8900" level="1"/> <!-- Скилл Воина 1 лвл -->
+			<skill id="8890" level="1"/> <!-- Скилл *Защита* -->
+        </skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="2488"/>
+			<add stat="mAtk" order="0x10" value="1084"/>
+ 			<add stat="pAtkSpd" order="0x08" value="379"/>
+			<add stat="accCombat" order="0x10" value="8"/> <!-- Точность +8.0 -->
+			<add stat="rCrit" order="0x08" value="60"/> <!-- Крит.Атк +6 -->
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon><!--\\n<Предметное умение>\\nНаносимый урон в PvP +15%. HP/MP/CP +30%, Скор. Атк. +300, Шанс Физ. Крит. Атк. +100, урон драконам +100%. \\n<Активные умения>\\n1. Защита: Скорость +100, неуязвимость для всех отрицательных эффектов. Время действия: 2 мин. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 10 мин.\\n\0" -->
+	<weapon id="36473" name="Парные Дубины Антараса" add_name="Высокого Качества" >
+		<set name="weight" value="1740"/>
+		<set name="type" value="DUALBLUNT"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="LEFT_RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+        <skills>
+            <skill id="8900" level="1"/> <!-- Скилл Воина 1 лвл -->
+			<skill id="8890" level="1"/> <!-- Скилл *Защита* -->
+        </skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="3027"/>
+			<add stat="mAtk" order="0x10" value="1084"/>
+ 			<add stat="pAtkSpd" order="0x08" value="325"/>
+			<add stat="accCombat" order="0x10" value="8"/> <!-- Точность +8.0 -->
+			<add stat="rCrit" order="0x08" value="60"/> <!-- Крит.Атк +6 -->
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon><!--\\n<Предметное умение>\\nНаносимый урон в PvP +15%. HP/MP/CP +30%, Скор. Атк. +300, Шанс Физ. Крит. Атк. +100, урон драконам +100%. \\n<Активные умения>\\n1. Защита: Скорость +100, неуязвимость для всех отрицательных эффектов. Время действия: 2 мин. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 10 мин.\\n\0" -->
+	<weapon id="36474" name="Парные Мечи Антараса" add_name="Высокого Качества" >
+		<set name="weight" value="1520"/>
+		<set name="type" value="DUAL"/>
+		<set name="ex_type" value="DUAL_SWORD"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="LEFT_RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+        <skills>
+            <skill id="8900" level="1"/> <!-- Скилл Воина 1 лвл -->
+			<skill id="8890" level="1"/> <!-- Скилл *Защита* -->
+        </skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="3027"/>
+			<add stat="mAtk" order="0x10" value="1084"/>
+ 			<add stat="pAtkSpd" order="0x08" value="325"/>
+			<add stat="rCrit" order="0x08" value="80"/> <!-- Крит.Атк +8 -->
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon><!--\\n<Предметное умение>\\nНаносимый урон в PvP +15%. HP/MP/CP +30%, Скор. Атк. +300, Шанс Физ. Крит. Атк. +100, урон драконам +100%. \\n<Активные умения>\\n1. Защита: Скорость +100, неуязвимость для всех отрицательных эффектов. Время действия: 2 мин. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 10 мин.\\n\0" -->
+	<weapon id="36475" name="Острие Валакаса" add_name="Высокого Качества" >
+		<set name="weight" value="1520"/>
+		<set name="type" value="DAGGER"/>
+		<set name="ex_type" value="DAGGER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+        <skills>
+            <skill id="8900" level="1"/> <!-- Скилл Воина 1 лвл -->
+			<skill id="8890" level="1"/> <!-- Скилл *Защита* -->
+        </skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="2177"/>
+			<add stat="mAtk" order="0x10" value="1084"/>
+ 			<add stat="pAtkSpd" order="0x08" value="433"/>
+			<add stat="accCombat" order="0x10" value="-3.75"/> <!-- Точность -3.75 -->
+			<add stat="rCrit" order="0x08" value="120"/> <!-- Крит.Атк +12 -->
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon><!--\\n<Предметное умение>\\nНаносимый урон в PvP +15%. HP/MP/CP +30%, Скор. Атк. +300, Шанс Физ. Крит. Атк. +100, урон драконам +100%. \\n<Активные умения>\\n1. Защита: Скорость +100, неуязвимость для всех отрицательных эффектов. Время действия: 2 мин. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 10 мин.\\n\0" -->
+	<weapon id="36476" name="Резак Валакаса" add_name="Высокого Качества" >
+		<set name="weight" value="1520"/>
+		<set name="type" value="SWORD"/>
+		<set name="ex_type" value="SWORD"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+        <skills>
+            <skill id="8900" level="1"/> <!-- Скилл Воина 1 лвл -->
+			<skill id="8890" level="1"/> <!-- Скилл *Защита* -->
+        </skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="2488"/>
+			<add stat="mAtk" order="0x10" value="1084"/>
+ 			<add stat="pAtkSpd" order="0x08" value="379"/>
+			<add stat="rCrit" order="0x08" value="80"/> <!-- Крит.Атк +8 -->
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon><!--\\n<Предметное умение>\\nНаносимый урон в PvP +15%. HP/MP/CP +30%, Скор. Атк. +300, Шанс Физ. Крит. Атк. +100, урон драконам +100%. \\n<Активные умения>\\n1. Защита: Скорость +100, неуязвимость для всех отрицательных эффектов. Время действия: 2 мин. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 10 мин.\\n\0" -->
+	<weapon id="36477" name="Эспадон Валакаса" add_name="Высокого Качества" >
+		<set name="weight" value="1740"/>
+		<set name="type" value="BIGSWORD"/>
+		<set name="ex_type" value="BIG_SWORD"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+        <skills>
+            <skill id="8900" level="1"/> <!-- Скилл Воина 1 лвл -->
+			<skill id="8890" level="1"/> <!-- Скилл *Защита* -->
+        </skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="3027"/>
+			<add stat="mAtk" order="0x10" value="1084"/>
+ 			<add stat="pAtkSpd" order="0x08" value="325"/>
+			<add stat="rCrit" order="0x08" value="80"/> <!-- Крит.Атк +8 -->
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon><!--\\n<Предметное умение>\\nНаносимый урон в PvP +15%. HP/MP/CP +30%, Скор. Атк. +300, Шанс Физ. Крит. Атк. +100, урон драконам +100%. \\n<Активные умения>\\n1. Защита: Скорость +100, неуязвимость для всех отрицательных эффектов. Время действия: 2 мин. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 10 мин.\\n\0" -->
+	<weapon id="36478" name="Бросок Валакаса" add_name="Высокого Качества" >
+		<set name="weight" value="1520"/>
+		<set name="type" value="BOW"/>
+		<set name="ex_type" value="BOW"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+        <skills>
+            <skill id="8900" level="1"/> <!-- Скилл Воина 1 лвл -->
+			<skill id="8890" level="1"/> <!-- Скилл *Защита* -->
+        </skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="4898"/>
+			<add stat="mAtk" order="0x10" value="1084"/>
+ 			<add stat="pAtkSpd" order="0x08" value="293"/>
+			<add stat="accCombat" order="0x10" value="-3.75"/> <!-- Точность -3.75 -->
+			<add stat="rCrit" order="0x08" value="120"/> <!-- Крит.Атк +12 -->
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon><!--\\n<Предметное умение>\\nНаносимый урон в PvP +15%. HP/MP/CP +30%, Скор. Атк. +300, Шанс Физ. Крит. Атк. +100, урон драконам +100%. \\n<Активные умения>\\n1. Защита: Скорость +100, неуязвимость для всех отрицательных эффектов. Время действия: 2 мин. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 10 мин.\\n\0" -->
+	<weapon id="36479" name="Расчленитель Валакаса" add_name="Высокого Качества" >
+		<set name="weight" value="1520"/>
+		<set name="type" value="SWORD"/>
+		<set name="ex_type" value="SWORD"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+        <skills>
+            <skill id="8902" level="1"/> <!-- Скилл Мага 1 лвл -->
+			<skill id="8890" level="1"/> <!-- Скилл *Защита* -->
+        </skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="1990"/>
+			<add stat="mAtk" order="0x10" value="1446"/>
+ 			<add stat="pAtkSpd" order="0x08" value="379"/>
+			<add stat="rCrit" order="0x08" value="80"/> <!-- Крит.Атк +8 -->
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon><!--\\n<Предметное умение>\\nНаносимый урон в PvP +15%. HP/MP/CP +30%, Скор. Маг. +300, Шанс Маг. Крит. Атк. +100, урон драконам +100%. \\n<Активные умения>\\n1. Защита: Скорость +100, неуязвимость для всех отрицательных эффектов. Время действия: 2 мин. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 10 мин.\\n\0" -->
+	<weapon id="36480" name="Заклинатель Валакаса" add_name="Высокого Качества" >
+		<set name="weight" value="1080"/>
+		<set name="type" value="BLUNT"/>
+		<set name="ex_type" value="BLUNT_WEAPON"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+        <skills>
+            <skill id="8902" level="1"/> <!-- Скилл Мага 1 лвл -->
+			<skill id="8890" level="1"/> <!-- Скилл *Защита* -->
+        </skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="1990"/>
+			<add stat="mAtk" order="0x10" value="1446"/>
+ 			<add stat="pAtkSpd" order="0x08" value="379"/>
+			<add stat="accCombat" order="0x10" value="8"/> <!-- Точность +8.00 -->
+			<add stat="rCrit" order="0x08" value="60"/> <!-- Крит.Атк +6 -->
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon><!--\\n<Предметное умение>\\nНаносимый урон в PvP +15%. HP/MP/CP +30%, Скор. Маг. +300, Шанс Маг. Крит. Атк. +100, урон драконам +100%. \\n<Активные умения>\\n1. Защита: Скорость +100, неуязвимость для всех отрицательных эффектов. Время действия: 2 мин. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 10 мин.\\n\0" -->
+	<weapon id="36481" name="Возмездие Валакаса" add_name="Высокого Качества" >
+		<set name="weight" value="1080"/>
+		<set name="type" value="BIGBLUNT"/>
+		<set name="ex_type" value="BIG_BLUNT_WEAPON"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+        <skills>
+            <skill id="8902" level="1"/> <!-- Скилл Мага 1 лвл -->
+			<skill id="8890" level="1"/> <!-- Скилл *Защита* -->
+        </skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="2423"/>
+			<add stat="mAtk" order="0x10" value="1590"/>
+ 			<add stat="pAtkSpd" order="0x08" value="325"/>
+			<add stat="accCombat" order="0x10" value="8"/> <!-- Точность +8.00 -->
+			<add stat="rCrit" order="0x08" value="60"/> <!-- Крит.Атк +6 -->
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon><!--\\n<Предметное умение>\\nНаносимый урон в PvP +15%. HP/MP/CP +30%, Скор. Маг. +300, Шанс Маг. Крит. Атк. +100, урон драконам +100%. \\n<Активные умения>\\n1. Защита: Скорость +100, неуязвимость для всех отрицательных эффектов. Время действия: 2 мин. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 10 мин.\\n\0" -->
+	<weapon id="36482" name="Острие Линдвиора" add_name="Высокого Качества" >
+		<set name="weight" value="1520"/>
+		<set name="type" value="DAGGER"/>
+		<set name="ex_type" value="DAGGER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+        <skills>
+            <skill id="8900" level="1"/> <!-- Скилл Воина 1 лвл -->
+			<skill id="8890" level="1"/> <!-- Скилл *Защита* -->
+        </skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="2177"/>
+			<add stat="mAtk" order="0x10" value="1084"/>
+ 			<add stat="pAtkSpd" order="0x08" value="433"/>
+			<add stat="accCombat" order="0x10" value="-3.75"/> <!-- Точность -3.75 -->
+			<add stat="rCrit" order="0x08" value="120"/> <!-- Крит.Атк +12 -->
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon><!--\\n<Предметное умение>\\nНаносимый урон в PvP +15%. HP/MP/CP +30%, Скор. Атк. +300, Шанс Физ. Крит. Атк. +100, урон драконам +100%. \\n<Активные умения>\\n1. Защита: Скорость +100, неуязвимость для всех отрицательных эффектов. Время действия: 2 мин. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 10 мин.\\n\0" -->
+	<weapon id="36483" name="Бросок Линдвиора" add_name="Высокого Качества" >
+		<set name="weight" value="1520"/>
+		<set name="type" value="BOW"/>
+		<set name="ex_type" value="BOW"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+        <skills>
+            <skill id="8900" level="1"/> <!-- Скилл Воина 1 лвл -->
+			<skill id="8890" level="1"/> <!-- Скилл *Защита* -->
+        </skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="4898"/>
+			<add stat="mAtk" order="0x10" value="1084"/>
+ 			<add stat="pAtkSpd" order="0x08" value="293"/>
+			<add stat="accCombat" order="0x10" value="-3.75"/> <!-- Точность -3.75 -->
+			<add stat="rCrit" order="0x08" value="120"/> <!-- Крит.Атк +12 -->
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon><!--\\n<Предметное умение>\\nНаносимый урон в PvP +15%. HP/MP/CP +30%, Скор. Атк. +300, Шанс Физ. Крит. Атк. +100, урон драконам +100%. \\n<Активные умения>\\n1. Защита: Скорость +100, неуязвимость для всех отрицательных эффектов. Время действия: 2 мин. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 10 мин.\\n\0" -->
+	<weapon id="36484" name="Эспадон Линдвиора" add_name="Высокого Качества" >
+		<set name="weight" value="1740"/>
+		<set name="type" value="BIGSWORD"/>
+		<set name="ex_type" value="BIG_SWORD"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+        <skills>
+            <skill id="8900" level="1"/> <!-- Скилл Воина 1 лвл -->
+			<skill id="8890" level="1"/> <!-- Скилл *Защита* -->
+        </skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="3027"/>
+			<add stat="mAtk" order="0x10" value="1084"/>
+ 			<add stat="pAtkSpd" order="0x08" value="325"/>
+			<add stat="rCrit" order="0x08" value="80"/> <!-- Крит.Атк +8 -->
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon><!--\\n<Предметное умение>\\nНаносимый урон в PvP +15%. HP/MP/CP +30%, Скор. Атк. +300, Шанс Физ. Крит. Атк. +100, урон драконам +100%. \\n<Активные умения>\\n1. Защита: Скорость +100, неуязвимость для всех отрицательных эффектов. Время действия: 2 мин. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 10 мин.\\n\0" -->
+	<weapon id="36485" name="Заклинатель Линдвиора" add_name="Высокого Качества" >
+		<set name="weight" value="1520"/>
+		<set name="type" value="BLUNT"/>
+		<set name="ex_type" value="BLUNT_WEAPON"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+        <skills>
+            <skill id="8902" level="1"/> <!-- Скилл Мага 1 лвл -->
+			<skill id="8890" level="1"/> <!-- Скилл *Защита* -->
+        </skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="1990"/>
+			<add stat="mAtk" order="0x10" value="1446"/>
+ 			<add stat="pAtkSpd" order="0x08" value="379"/>
+			<add stat="rCrit" order="0x08" value="80"/> <!-- Крит.Атк +8 -->
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon><!--\\n<Предметное умение>\\nНаносимый урон в PvP +15%. HP/MP/CP +30%, Скор. Маг. +300, Шанс Маг. Крит. Атк. +100, урон драконам +100%.  \\n<Активные умения>\\n1. Защита: Скорость +100, неуязвимость для всех отрицательных эффектов. Время действия: 2 мин.\\n2. Дыхание Линдвиора: снижает на 90% Скор. Атк./ Скор. Маг./Скорость врагов, находящихся рядом, постепенно сковывает их.\0" -->
+	<weapon id="36486" name="Резак Линдвиора" add_name="Высокого Качества" >
+		<set name="weight" value="1520"/>
+		<set name="type" value="SWORD"/>
+		<set name="ex_type" value="SWORD"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+        <skills>
+            <skill id="8902" level="1"/> <!-- Скилл Мага 1 лвл -->
+			<skill id="8890" level="1"/> <!-- Скилл *Защита* -->
+        </skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="2488"/>
+			<add stat="mAtk" order="0x10" value="1084"/>
+ 			<add stat="pAtkSpd" order="0x08" value="379"/>
+			<add stat="rCrit" order="0x08" value="80"/> <!-- Крит.Атк +8 -->
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon><!--\\n<Предметное умение>\\nНаносимый урон в PvP +15%. HP/MP/CP +30%, Скор. Маг. +300, Шанс Маг. Крит. Атк. +100, урон драконам +100%. \\n<Активные умения>\\n1. Защита: Скорость +100, неуязвимость для всех отрицательных эффектов. Время действия: 2 мин. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 10 мин.\\n\0" -->
+	<weapon id="36487" name="Страж Линдвиора" add_name="Высокого Качества" >
+		<set name="weight" value="1580"/>
+		<set name="type" value="CROSSBOW"/>
+		<set name="ex_type" value="CROSSBOW"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+        <skills>
+            <skill id="8902" level="1"/> <!-- Скилл Мага 1 лвл -->
+			<skill id="8890" level="1"/> <!-- Скилл *Защита* -->
+        </skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="4898"/>
+			<add stat="mAtk" order="0x10" value="1084"/>
+ 			<add stat="pAtkSpd" order="0x08" value="325"/>
+			<add stat="accCombat" order="0x10" value="-3.75"/> <!-- Точность -3.75 -->
+			<add stat="rCrit" order="0x08" value="120"/> <!-- Крит.Атк +12 -->
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon><!--\\n<Предметное умение>\\nНаносимый урон в PvP +15%. HP/MP/CP +30%, Скор. Маг. +300, Шанс Маг. Крит. Атк. +100, урон драконам +100%. \\n<Активные умения>\\n1. Защита: Скорость +100, неуязвимость для всех отрицательных эффектов. Время действия: 2 мин. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 10 мин.\\n\0" -->
+	<weapon id="36488" name="Парные Кинжалы Линдвиора" add_name="Высокого Качества" >
+		<set name="weight" value="2050"/>
+		<set name="type" value="DUALDAGGER"/>
+		<set name="ex_type" value="DUAL_DAGGER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="LEFT_RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+        <skills>
+            <skill id="8902" level="1"/> <!-- Скилл Мага 1 лвл -->
+			<skill id="8890" level="1"/> <!-- Скилл *Защита* -->
+        </skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="2177"/>
+			<add stat="mAtk" order="0x10" value="1084"/>
+ 			<add stat="pAtkSpd" order="0x08" value="433"/>
+			<add stat="accCombat" order="0x10" value="-3.75"/> <!-- Точность -3.75 -->
+			<add stat="rCrit" order="0x08" value="120"/> <!-- Крит.Атк +12 -->
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon><!--\\n<Предметное умение>\\nНаносимый урон в PvP +15%. HP/MP/CP +30%, Скор. Маг. +300, Шанс Маг. Крит. Атк. +100, урон драконам +100%. \\n<Активные умения>\\n1. Защита: Скорость +100, неуязвимость для всех отрицательных эффектов. Время действия: 2 мин. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 10 мин.\\n\0" -->
+	<weapon id="36489" name="Острие Антараса" add_name="Высшего Качества">
+		<set name="weight" value="1520"/>
+		<set name="type" value="DAGGER"/>
+		<set name="ex_type" value="DAGGER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+        <skills>
+            <skill id="8901" level="1"/> <!-- Скилл Воина 2 лвл -->
+			<skill id="8890" level="1"/> <!-- Скилл *Защита* -->
+			<skill id="8893" level="1"/> <!-- Дыхание Антараса -->
+			<skill id="8895" level="1"/> <!-- Хвост Антараса -->
+        </skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="2523"/>
+			<add stat="mAtk" order="0x10" value="1257"/>
+ 			<add stat="pAtkSpd" order="0x08" value="433"/>
+			<add stat="accCombat" order="0x10" value="-3.75"/> <!-- Точность -3.75 -->
+			<add stat="rCrit" order="0x08" value="120"/> <!-- Крит.Атк +12 -->
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon><!-- \\n<Предметное умение>\\nНаносимый урон в PvP +30%. HP/MP +100%, CP +200%, Скор. Атк. +1500. Шанс Физ. Крит. Атк. +500. Урон драконам +300%.\\n<Активные умения>\\n1. Защита: Скорость +100, неуязвимость для всех отрицательных эффектов. Время действия: 2 мин. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 10 мин.\\n2. Дыхание Антараса: снижает на 90% Скор. Атк./ Скор. Маг./Скорость врагов, находящихся рядом, постепенно сковывает их и вызывает паралич. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 5 мин.\\n3. Хвост Антараса: уменьшает количество СР у всех врагов, находящихся рядом. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 5 мин.\\n\0" -->
+	<weapon id="36490" name="Эспадон Антараса" add_name="Высшего Качества">
+		<set name="weight" value="1740"/>
+		<set name="type" value="BIGSWORD"/>
+		<set name="ex_type" value="BIG_SWORD"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+        <skills>
+            <skill id="8901" level="1"/> <!-- Скилл Воина 2 лвл -->
+			<skill id="8890" level="1"/> <!-- Скилл *Защита* -->
+			<skill id="8893" level="1"/> <!-- Дыхание Антараса -->
+			<skill id="8895" level="1"/> <!-- Хвост Антараса -->
+        </skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="3509"/>
+			<add stat="mAtk" order="0x10" value="1257"/>
+ 			<add stat="pAtkSpd" order="0x08" value="325"/>
+			<add stat="rCrit" order="0x08" value="80"/> <!-- Крит.Атк +8 -->
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon><!-- \\n<Предметное умение>\\nНаносимый урон в PvP +30%. HP/MP +100%, CP +200%, Скор. Атк. +1500. Шанс Физ. Крит. Атк. +500. Урон драконам +300%.\\n<Активные умения>\\n1. Защита: Скорость +100, неуязвимость для всех отрицательных эффектов. Время действия: 2 мин. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 10 мин.\\n2. Дыхание Антараса: снижает на 90% Скор. Атк./ Скор. Маг./Скорость врагов, находящихся рядом, постепенно сковывает их и вызывает паралич. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 5 мин.\\n3. Хвост Антараса: уменьшает количество СР у всех врагов, находящихся рядом. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 5 мин.\\n\0" -->
+	<weapon id="36491" name="Бросок Антараса" add_name="Высшего Качества">
+		<set name="weight" value="1520"/>
+		<set name="type" value="BOW"/>
+		<set name="ex_type" value="BOW"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+        <skills>
+            <skill id="8901" level="1"/> <!-- Скилл Воина 2 лвл -->
+			<skill id="8890" level="1"/> <!-- Скилл *Защита* -->
+			<skill id="8893" level="1"/> <!-- Дыхание Антараса -->
+			<skill id="8895" level="1"/> <!-- Хвост Антараса -->
+        </skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="5678"/>
+			<add stat="mAtk" order="0x10" value="1257"/>
+			<add stat="pAtkSpd" order="0x08" value="293"/>
+			<add stat="accCombat" order="0x10" value="-3.75"/> <!-- Точность -3.75 -->
+			<add stat="rCrit" order="0x08" value="120"/> <!-- Крит.Атк +12 -->
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon><!-- \\n<Предметное умение>\\nНаносимый урон в PvP +30%. HP/MP +100%, CP +200%, Скор. Атк. +1500. Шанс Физ. Крит. Атк. +500. Урон драконам +300%.\\n<Активные умения>\\n1. Защита: Скорость +100, неуязвимость для всех отрицательных эффектов. Время действия: 2 мин. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 10 мин.\\n2. Дыхание Антараса: снижает на 90% Скор. Атк./ Скор. Маг./Скорость врагов, находящихся рядом, постепенно сковывает их и вызывает паралич. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 5 мин.\\n3. Хвост Антараса: уменьшает количество СР у всех врагов, находящихся рядом. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 5 мин.\\n\0" -->
+	<weapon id="36492" name="Расчленитель Антараса" add_name="Высшего Качества">
+		<set name="weight" value="1520"/>
+		<set name="type" value="SWORD"/>
+		<set name="ex_type" value="SWORD"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+        <skills>
+            <skill id="8903" level="1"/> <!-- Скилл Мага 2 лвл -->
+			<skill id="8890" level="1"/> <!-- Скилл *Защита* -->
+			<skill id="8893" level="1"/> <!-- Дыхание Антараса -->
+			<skill id="8895" level="1"/> <!-- Хвост Антараса -->
+        </skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="2307"/>
+			<add stat="mAtk" order="0x10" value="1676"/>
+ 			<add stat="pAtkSpd" order="0x08" value="379"/>
+			<add stat="rCrit" order="0x08" value="80"/> <!-- Крит.Атк +8 -->
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon><!-- \\n<Предметное умение>\\nНаносимый урон в PvP +30%. HP/MP +100%, CP +200%, Скор. Маг. 1999. Шанс Маг. Крит. Атк. +500. Урон драконам +300%.\\n<Активные умения>\\n1. Защита: Скорость +100, неуязвимость для всех отрицательных эффектов. Время действия: 2 мин. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 10 мин.\\n2. Дыхание Антараса: снижает на 90% Скор. Атк./ Скор. Маг./Скорость врагов, находящихся рядом, постепенно сковывает их и вызывает паралич. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 5 мин.\\n3. Хвост Антараса: уменьшает количество СР у всех врагов, находящихся рядом. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 5 мин.\\n\0" -->
+	<weapon id="36493" name="Резак Антараса" add_name="Высшего Качества">
+		<set name="weight" value="1520"/>
+		<set name="type" value="SWORD"/>
+		<set name="ex_type" value="SWORD"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+        <skills>
+            <skill id="8901" level="1"/> <!-- Скилл Воина 2 лвл -->
+			<skill id="8890" level="1"/> <!-- Скилл *Защита* -->
+			<skill id="8893" level="1"/> <!-- Дыхание Антараса -->
+			<skill id="8895" level="1"/> <!-- Хвост Антараса -->
+        </skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="2884"/>
+			<add stat="mAtk" order="0x10" value="1257"/>
+ 			<add stat="pAtkSpd" order="0x08" value="379"/>
+			<add stat="rCrit" order="0x08" value="80"/> <!-- Крит.Атк +8 -->
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon><!-- \\n<Предметное умение>\\nНаносимый урон в PvP +30%. HP/MP +100%, CP +200%, Скор. Атк. +1500. Шанс Физ. Крит. Атк. +500. Урон драконам +300%.\\n<Активные умения>\\n1. Защита: Скорость +100, неуязвимость для всех отрицательных эффектов. Время действия: 2 мин. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 10 мин.\\n2. Дыхание Антараса: снижает на 90% Скор. Атк./ Скор. Маг./Скорость врагов, находящихся рядом, постепенно сковывает их и вызывает паралич. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 5 мин.\\n3. Хвост Антараса: уменьшает количество СР у всех врагов, находящихся рядом. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 5 мин.\\n\0" -->
+	<weapon id="36494" name="Буревестник Антараса" add_name="Высшего Качества">
+		<set name="weight" value="2010"/>
+		<set name="type" value="POLE"/>
+		<set name="ex_type" value="POLE"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="LEFT_RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+        <skills>
+            <skill id="8901" level="1"/> <!-- Скилл Воина 2 лвл -->
+			<skill id="8890" level="1"/> <!-- Скилл *Защита* -->
+			<skill id="8893" level="1"/> <!-- Дыхание Антараса -->
+			<skill id="8895" level="1"/> <!-- Хвост Антараса -->
+        </skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="2884"/>
+			<add stat="mAtk" order="0x10" value="1257"/>
+ 			<add stat="pAtkSpd" order="0x08" value="325"/>
+			<add stat="accCombat" order="0x10" value="-3.75"/> <!-- Точность -3.75 -->
+			<add stat="rCrit" order="0x08" value="80"/> <!-- Крит.Атк +8 -->
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon><!-- \\n<Предметное умение>\\nНаносимый урон в PvP +30%. HP/MP +100%, CP +200%, Скор. Атк. +1500. Шанс Физ. Крит. Атк. +500. Урон драконам +300%.\\n<Активные умения>\\n1. Защита: Скорость +100, неуязвимость для всех отрицательных эффектов. Время действия: 2 мин. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 10 мин.\\n2. Дыхание Антараса: снижает на 90% Скор. Атк./ Скор. Маг./Скорость врагов, находящихся рядом, постепенно сковывает их и вызывает паралич. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 5 мин.\\n3. Хвост Антараса: уменьшает количество СР у всех врагов, находящихся рядом. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 5 мин.\\n\0" -->
+	<weapon id="36495" name="Воитель Антараса" add_name="Высшего Качества">
+		<set name="weight" value="1550"/>
+		<set name="type" value="DUALFIST"/>
+		<set name="ex_type" value="HAND_TO_HAND"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="LEFT_RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+        <skills>
+            <skill id="8901" level="1"/> <!-- Скилл Воина 2 лвл -->
+			<skill id="8890" level="1"/> <!-- Скилл *Защита* -->
+			<skill id="8893" level="1"/> <!-- Дыхание Антараса -->
+			<skill id="8895" level="1"/> <!-- Хвост Антараса -->
+        </skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="3509"/>
+			<add stat="mAtk" order="0x10" value="1257"/>
+ 			<add stat="pAtkSpd" order="0x08" value="325"/>
+			<add stat="accCombat" order="0x10" value="8"/> <!-- Точность +8.00 -->
+			<add stat="rCrit" order="0x08" value="60"/> <!-- Крит.Атк +6 -->
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon><!-- \\n<Предметное умение>\\nНаносимый урон в PvP +30%. HP/MP +100%, CP +200%, Скор. Атк. +1500. Шанс Физ. Крит. Атк. +500. Урон драконам +300%.\\n<Активные умения>\\n1. Защита: Скорость +100, неуязвимость для всех отрицательных эффектов. Время действия: 2 мин. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 10 мин.\\n2. Дыхание Антараса: снижает на 90% Скор. Атк./ Скор. Маг./Скорость врагов, находящихся рядом, постепенно сковывает их и вызывает паралич. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 5 мин.\\n3. Хвост Антараса: уменьшает количество СР у всех врагов, находящихся рядом. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 5 мин.\\n\0" -->
+	<weapon id="36496" name="Мститель Антараса" add_name="Высшего Качества">
+		<set name="weight" value="1740"/>
+		<set name="type" value="BLUNT"/>
+		<set name="ex_type" value="BLUNT_WEAPON"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+        <skills>
+            <skill id="8901" level="1"/> <!-- Скилл Воина 2 лвл -->
+			<skill id="8890" level="1"/> <!-- Скилл *Защита* -->
+			<skill id="8893" level="1"/> <!-- Дыхание Антараса -->
+			<skill id="8895" level="1"/> <!-- Хвост Антараса -->
+        </skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="2884"/>
+			<add stat="mAtk" order="0x10" value="1257"/>
+ 			<add stat="pAtkSpd" order="0x08" value="379"/>
+			<add stat="accCombat" order="0x10" value="8"/> <!-- Точность +8.00 -->
+			<add stat="rCrit" order="0x08" value="60"/> <!-- Крит.Атк +6 -->
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon><!-- \\n<Предметное умение>\\nНаносимый урон в PvP +30%. HP/MP +100%, CP +200%, Скор. Атк. +1500. Шанс Физ. Крит. Атк. +500. Урон драконам +300%.\\n<Активные умения>\\n1. Защита: Скорость +100, неуязвимость для всех отрицательных эффектов. Время действия: 2 мин. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 10 мин.\\n2. Дыхание Антараса: снижает на 90% Скор. Атк./ Скор. Маг./Скорость врагов, находящихся рядом, постепенно сковывает их и вызывает паралич. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 5 мин.\\n3. Хвост Антараса: уменьшает количество СР у всех врагов, находящихся рядом. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 5 мин.\\n\0" -->
+	<weapon id="36497" name="Парные Дубины Антараса" add_name="Высшего Качества">
+		<set name="weight" value="1740"/>
+		<set name="type" value="DUALBLUNT"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="LEFT_RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+        <skills>
+            <skill id="8901" level="1"/> <!-- Скилл Воина 2 лвл -->
+			<skill id="8890" level="1"/> <!-- Скилл *Защита* -->
+			<skill id="8893" level="1"/> <!-- Дыхание Антараса -->
+			<skill id="8895" level="1"/> <!-- Хвост Антараса -->
+        </skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="3509"/>
+			<add stat="mAtk" order="0x10" value="1257"/>
+ 			<add stat="pAtkSpd" order="0x08" value="325"/>
+			<add stat="accCombat" order="0x10" value="8"/> <!-- Точность +8.00 -->
+			<add stat="rCrit" order="0x08" value="60"/> <!-- Крит.Атк +6 -->
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon><!-- \\n<Предметное умение>\\nНаносимый урон в PvP +30%. HP/MP +100%, CP +200%, Скор. Атк. +1500. Шанс Физ. Крит. Атк. +500. Урон драконам +300%.\\n<Активные умения>\\n1. Защита: Скорость +100, неуязвимость для всех отрицательных эффектов. Время действия: 2 мин. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 10 мин.\\n2. Дыхание Антараса: снижает на 90% Скор. Атк./ Скор. Маг./Скорость врагов, находящихся рядом, постепенно сковывает их и вызывает паралич. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 5 мин.\\n3. Хвост Антараса: уменьшает количество СР у всех врагов, находящихся рядом. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 5 мин.\\n\0" -->
+	<weapon id="36498" name="Парные Мечи Антараса" add_name="Высшего Качества">
+		<set name="weight" value="1520"/>
+		<set name="type" value="DUAL"/>
+		<set name="ex_type" value="DUAL_SWORD"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="LEFT_RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+        <skills>
+            <skill id="8901" level="1"/> <!-- Скилл Воина 2 лвл -->
+			<skill id="8890" level="1"/> <!-- Скилл *Защита* -->
+			<skill id="8893" level="1"/> <!-- Дыхание Антараса -->
+			<skill id="8895" level="1"/> <!-- Хвост Антараса -->
+        </skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="3509"/>
+			<add stat="mAtk" order="0x10" value="1257"/>
+ 			<add stat="pAtkSpd" order="0x08" value="325"/>
+			<add stat="rCrit" order="0x08" value="80"/> <!-- Крит.Атк +8 -->
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon><!-- \\n<Предметное умение>\\nНаносимый урон в PvP +30%. HP/MP +100%, CP +200%, Скор. Атк. +1500. Шанс Физ. Крит. Атк. +500. Урон драконам +300%.\\n<Активные умения>\\n1. Защита: Скорость +100, неуязвимость для всех отрицательных эффектов. Время действия: 2 мин. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 10 мин.\\n2. Дыхание Антараса: снижает на 90% Скор. Атк./ Скор. Маг./Скорость врагов, находящихся рядом, постепенно сковывает их и вызывает паралич. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 5 мин.\\n3. Хвост Антараса: уменьшает количество СР у всех врагов, находящихся рядом. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 5 мин.\\n\0" -->
+	<weapon id="36499" name="Острие Валакаса" add_name="Высшего Качества">
+		<set name="weight" value="1520"/>
+		<set name="type" value="DAGGER"/>
+		<set name="ex_type" value="DAGGER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<set name="price" value="0"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>	<!--RIGHT_HAND,LEFT_HAND-->
+		</equip>
+        <skills>
+            <skill id="8901" level="1"/> <!-- Скилл Воина 2 лвл -->
+			<skill id="8890" level="1"/> <!-- Скилл *Защита* -->
+			<skill id="8896" level="1"/> <!-- Дыхание Валакаса -->
+			<skill id="8897" level="1"/> <!-- Метеор Валакаса -->
+        </skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="2523"/>
+			<add stat="mAtk" order="0x10" value="1257"/>
+ 			<add stat="pAtkSpd" order="0x08" value="433"/>
+			<add stat="accCombat" order="0x10" value="-3.75"/> <!-- Точность -3.75 -->
+			<add stat="rCrit" order="0x08" value="120"/> <!-- Крит.Атк +12 -->
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon><!-- \\n<Предметное умение>\\nНаносимый урон в PvP +30%. HP/MP +100%, CP +200%, Скор. Атк. +1500. Шанс Физ. Крит. Атк. +500. Урон драконам +300%.\\n<Активные умения>\\n1. Защита: Скорость +100, неуязвимость для всех отрицательных эффектов. Время действия: 2 мин. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 10 мин.\\n2. Дыхание Валакаса: снижает на 90% Скор. Атк./ Скор. Маг./Скорость врагов, находящихся рядом, постепенно сковывает их и вызывает паралич. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 5 мин.\\n3. Метеор Валакаса: уменьшает количество СР у всех врагов, находящихся рядом. Для использования умения требуется 1 Кровь Дракона. Время перезарядки: 5 мин.\\n\0" -->
+</list>	

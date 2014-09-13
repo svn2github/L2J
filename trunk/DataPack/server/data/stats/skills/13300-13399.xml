@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<skill id="13300" levels="3" name="Особое Свойство - Одноручная Магическая Дубина">
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="mCritStatic" val="381" />
+		</for>
+	</skill>
+	<skill id="13301" levels="3" name="Особое Свойство - Двуручная Магическая Дубина">
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="mCritStatic" val="381" />
+			<add order="0x40" stat="mAtk" val="44" />
+			<mul order="0x40" stat="mAtkSpd" val="1.01" />
+		</for>
+	</skill>
+	<skill id="13302" levels="3" name="Особое Свойство - Двуручная Магическая Дубина">
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="mCritStatic" val="381" />
+			<add order="0x40" stat="mAtk" val="44" />
+			<mul order="0x40" stat="mAtkSpd" val="1.01" />
+		</for>
+	</skill>
+	<skill id="13303" levels="3" name="Особое Свойство - Двуручная Магическая Дубина">
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="mCritStatic" val="381" />
+			<add order="0x40" stat="mAtk" val="44" />
+			<mul order="0x40" stat="mAtkSpd" val="1.01" />
+		</for>
+	</skill>
+	<skill id="13304" levels="3" name="Особое Свойство - Двуручная Магическая Дубина">
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="mCritStatic" val="381" />
+			<add order="0x40" stat="mAtk" val="44" />
+			<mul order="0x40" stat="mAtkSpd" val="1.01" />
+		</for>
+	</skill>
+	<skill id="13305" levels="3" name="Особое Свойство - Двуручная Магическая Дубина">
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="mCritStatic" val="381" />
+			<add order="0x40" stat="mAtk" val="44" />
+			<mul order="0x40" stat="mAtkSpd" val="1.01" />
+		</for>
+	</skill>
+	<skill id="13310" levels="1" name="Особое Свойство - Тяжелая Броня">
+		<!--
+			Физ. Защ. +34, урон от Крит. Атк. -4,3%	
+		-->
+		<set name="target" val="TARGET_SELF" />
+		<set name="magicLevel" val="1" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="pDef" val="34" />
+			<sud order="0x30" stat="cAtkStatic" val="4.3" />		
+		</for>
+	</skill>
+	<skill id="13311" levels="1" name="Особое Свойство - Легкая Броня">
+		<!--
+			Физ. Уклонение +3, физ. устойчивость. +5, шанс получения Крит. Атак. -3,4%
+		-->
+		<set name="target" val="TARGET_SELF" />
+		<set name="magicLevel" val="1" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="rEvas" val="3" />
+			<sud order="0x30" stat="cAtkStatic" val="3.4" />		
+		</for>
+	</skill>
+	<skill id="13312" levels="1" name="Особое Свойство - Магическая Броня">
+		<!--
+			Маг. Уклонение +3, псих. устойчивость +9 маг реген +3% рандом
+		-->
+		<set name="target" val="TARGET_SELF" />
+		<set name="magicLevel" val="1" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<for>				
+				<add order="0x40" stat="mrEvas" val="3" />		
+				<mul order="0x30" stat="regMp" val="1.03" />
+		</for>
+	</skill>
+	<skill id="13313" levels="1" name="Благословенная Серьга Антараса">
+		<!--
+			Увеличивает Защиту/Маг. Защиту; защиту от земли/света; сопротивление кровопусканию/шоковым/ментальным атакам; 
+			добавляет бонус кровопусканию/шоковым/ментальным атакам; усиливает эффективность магии, восстанавливающей HP;
+			уменьшает расход MP на умения; 
+			с определенной вероятностью восстанавливает HP за счет урона, нанесенного врагу. ВЫН +3, ДУХ +3.	
+		-->
+		<set name="icon" val="icon.accessory_necklace_of_valakas_i00" />
+		<set name="magicLevel" val="90" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="bleedResist" val="50" />
+			<add order="0x40" stat="bleedPower" val="50" />
+			<mul order="0x30" stat="hpEff" val="1.40" />
+			<add order="0x40" stat="mentalResist" val="40" />
+			<add order="0x40" stat="mentalPower" val="40" />
+			<add order="0x40" stat="stunResist" val="40" />
+			<add order="0x40" stat="stunPower" val="40" />			
+			<add order="0x40" stat="absorbDam" val="4" />
+			<mul order="0x30" stat="mpConsum" val="0.90" />			
+			<add order="0x40" stat="defenceEarth" val="30" />
+			<add order="0x40" stat="defenceHoly" val="15" />			
+			<add order="0x10" stat="CON" val="3"/>			
+			<add order="0x10" stat="MEN" val="3"/>			
+		</for>
+	</skill>
+	
+	<skill id="13315" levels="1" name="Благословенное Ожерелье Валакаса">
+		<!--
+			Увеличивает сопротивление атакам Огня/Тьмы, усыпляющим атакам; 
+			добавляет бонус усыпляющим атакам; 
+			увеличивает Макс. HP/Физ. Атк./Маг. Атк/ шанс Маг. Крит. Атк.; 
+			сокращает время перезарядки умения; отражает часть полученного урона обратно врагу. 
+			СИЛ+3, ИНТ +3.		
+		-->
+		<set name="icon" val="icon.accessory_necklace_of_valakas_i00" />
+		<set name="magicLevel" val="90" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<for>
+			<add order="0x60" stat="maxHp" val="625" />
+			<add order="0x40" stat="sleepResist" val="50" />
+			<add order="0x40" stat="sleepPower" val="50" />
+			<mul order="0x30" stat="mReuse" val="0.90" />
+			<mul order="0x30" stat="pReuse" val="0.90" />			
+			<mul order="0x30" stat="pAtk" val="1.10" />
+			<mul order="0x30" stat="mAtk" val="1.20" />
+			<add order="0x40" stat="mCritRate" val="1" />
+			<add order="0x40" stat="reflectDam" val="5" />
+			<add order="0x40" stat="defenceFire" val="30" />
+			<add order="0x40" stat="defenceUnholy" val="15" />	
+			<add order="0x10" stat="STR" val="3"/>			
+			<add order="0x10" stat="INT" val="3"/>			
+		</for>
+	</skill>
+	<skill id="13317" levels="1" name="Кольцо Земляного Червя">
+		<!--gorodetskiy
+			MP +38, увеличивает сопротивление Физ. Атк./Мент. Атк., регенерацию MP, силу Крит. Атк., Точность. 
+			Сопротивление отравлению +50%, шанс отравить +50%, шанс опрокидывания, отталкивания, сопротивление притягиванию +20. 
+			Увеличивает Скор. Атк./Маг., сопротивление ветру/воде. Увеличивает Скор. Атк./Маг. членов группы и дарует им Ярость Вампира. 
+			При надевании двух таких колец эффект не суммируется.	
+		-->
+		<set name="icon" val="icon.accessory_necklace_of_valakas_i00" />
+		<set name="magicLevel" val="90" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<for>
+			<add order="0x60" stat="maxMp" val="38" />
+			<mul order="0x30" stat="pDef" val="1.05" /><!-- с потолка -->
+			<mul order="0x30" stat="mentalResist" val="1.05" /><!-- с потолка -->
+			<mul order="0x30" stat="regMp" val="1.03" /><!-- с потолка -->
+			<mul order="0x30" stat="rCrit" val="1.03" /><!-- с потолка -->
+			<mul order="0x30" stat="accCombat" val="1.05" /><!-- с потолка -->
+			<add order="0x40" stat="poisonResist" val="50" />
+			<add order="0x40" stat="poisonPower" val="50" />
+			<mul order="0x30" stat="mReuse" val="0.90" />
+			<mul order="0x30" stat="pReuse" val="0.90" />			
+			<mul order="0x30" stat="pAtk" val="1.10" />
+			<mul order="0x30" stat="mAtk" val="1.20" />
+			<add order="0x40" stat="mCritRate" val="1" />
+			<add order="0x40" stat="reflectDam" val="5" />
+			<add order="0x40" stat="defenceFire" val="30" />
+			<add order="0x40" stat="defenceUnholy" val="15" />	
+		</for>
+	</skill>
+	<skill id="13318" levels="1" name="Кольцо Земляного Червя">
+		<!-- Скор. Атк. и Скор. Маг +5% для всей группы. 
+			С определенной вероятностью Гнев Вампира + 2%. Время действия: 5 мин. -->
+		<set name="aggroPoints" val="1" />
+		<set name="hitTime" val="200" /> <!--Guess-->
+		<set name="isMagic" val="true" />
+		<set name="magicLvl" val="85" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="reuseDelay" val="7200000" /> <!--Guess-->
+		<set name="skillRadius" val="300" /> <!--Guess-->
+		<set name="skillType" val="BUFF" />
+		<set name="staticReuse" val="true" />
+		<set name="target" val="TARGET_PARTY" />
+		<set name="isStealable" val="false" />
+		<for>
+			<effect name="Buff" abnormalTime="300" val="0" abnormalLvl="1" abnormalType="ring_of_traskan">
+				<mul order="0x30" stat="mAtkSpd" val="1.05" />
+				<mul order="0x30" stat="pAtkSpd" val="1.05" />
+				<add order="0x40" stat="absorbDam" val="2" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="13319" levels="1" name="Кольцо Земляного Червя">
+		<set name="aggroPoints" val="1" />
+		<set name="isMagic" val="true" />
+		<set name="magicLvl" val="85" />
+		<set name="hitTime" val="200" /> <!--Guess-->
+		<set name="reuseDelay" val="7200000" /> <!--Guess-->
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="skillType" val="NEGATE_EFFECTS" />
+		<set name="target" val="TARGET_SELF" />
+		<for>
+			<effect count="1" name="NegateEffects" stackType="Poison" time="0" val="0" />
+			<effect count="1" name="NegateEffects" stackType="Bleed" time="0" val="0" />
+		</for>
+	</skill>
+    <skill id="13320" levels="1" name="Кольцо Истхины">
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="operateType" val="OP_PASSIVE"/>
+        <for>            
+			<add order="0x40" stat="rCrit" val="54" /> 
+			<add order="0x40" stat="accCombat" val="3"/>
+			<add order="0x40" stat="defenceWater" val="20" />
+        </for>
+    </skill>
+    <skill id="13321" levels="1" name="Серьга Истхины">
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="operateType" val="OP_PASSIVE"/>
+        <for>
+			<add order="0x40" stat="stunResist" val="30" />
+			<add order="0x40" stat="defenceWind" val="30" />
+			<add order="0x40" stat="stunPower" val="30" />
+			<add order="0x40" stat="absorbDam" val="5" />
+        </for>
+    </skill>
+    <skill id="13322" levels="1" name="Ожерелье Истхины">
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="operateType" val="OP_PASSIVE"/>
+        <for>
+			<add order="0x40" stat="defenceHoly" val="35" />
+			<mul order="0x30" stat="mReuse" val="5"/>
+			<add order="0x40" stat="reflectDam" val="3" />
+        </for>
+    </skill>
+    <skill id="13323" levels="1" name="Пояс Истхины">
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="operateType" val="OP_PASSIVE"/>
+        <for>
+			<add order="0x40" stat="regHp" val="3.48" />
+			<add order="0x40" stat="inventoryLimit" val="6" />
+        </for>
+    </skill>
+    <skill id="13324" levels="1" name="Рубашка Истхины">
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="operateType" val="OP_PASSIVE"/>
+        <for>
+            <add order="0x40" stat="maxHp" val="465"/>
+        </for>
+    </skill>
+    <skill id="13324" levels="1" name="Рубашка Истхины">
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="operateType" val="OP_PASSIVE"/>
+        <for>
+            <add order="0x40" stat="maxHp" val="465"/>
+        </for>
+    </skill>
+	<skill id="13325" levels="1" name="Кольцо Октависа"> 
+ 	    <set name="target" val="TARGET_SELF"/> 
+		<set name="skillType" val="BUFF"/> 
+ 		<set name="operateType" val="OP_PASSIVE"/> 
+ 		<for> 
+ 		    <add order="0x40" stat="defenceFire" val="20" />        
+ 		    <add order="0x40" stat="rCrit" val="15" />  
+ 		</for> 
+ 	</skill> 
+	<skill id="13326" levels="1" name="Серьга Октависа"> 
+ 		<set name="target" val="TARGET_SELF"/> 
+ 		<set name="skillType" val="BUFF"/> 
+ 		<set name="operateType" val="OP_PASSIVE"/> 
+ 		    <for> 
+				<add order="0x40" stat="stunResist" val="30" /> 
+ 		        <add order="0x40" stat="sleepResist" val="30" /> 
+ 		        <add order="0x40" stat="defenceEarth" val="20"/> 
+ 		    </for> 
+	</skill> 
+ 	<skill id="13327" levels="1" name="Ожерелье Октависа"> 
+		<set name="target" val="TARGET_SELF"/> 
+ 		<set name="skillType" val="BUFF"/> 
+ 		<set name="operateType" val="OP_PASSIVE"/> 
+ 		<for> 
+ 		    <add order="0x40" stat="defenceUnholy" val="35" /> 
+ 		    <mul order="0x40" stat="skillPower" val="1.05"/> 
+ 		</for> 
+ 	</skill> 
+ 	<skill id="13328" levels="1" name="Пояс Октависа"> 
+ 		<set name="target" val="TARGET_SELF"/> 
+ 		<set name="skillType" val="BUFF"/> 
+ 		<set name="operateType" val="OP_PASSIVE"/> 
+ 		<for> 
+ 		    <add order="0x40" stat="regMp" val="2.3" /> 
+            <add order="0x40" stat="maxNoPenaltyLoad" val="13000" /> 
+ 	  </for> 
+	</skill> 
+    <skill id="13316" levels="1" name="Summon Soulshots">
+        <!-- TODO: С определенной вероятностью отбрасывает врага -->
+        <set name="magicType" val="MAGIC"/>
+        <set name="icon" val="icon.skill0323"/>
+        <set name="reuseDelay" val="60000"/>
+        <set name="magicLevel" val="85"/>
+        <set name="hitTime" val="3000"/>
+        <set name="hitCancelTime" val="500"/>
+        <set name="mpConsume1" val="398"/>
+        <set name="itemConsumeId" val="17371"/>
+        <set name="itemConsumeCount" val="1"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="SUMMON_ITEM"/>
+        <set name="operateType" val="OP_ACTIVE"/>
+        <!-- TODO: 80% шанс вызвать 1900 соулов и 20% шанс вызвать 380 спиритов -->
+        <set name="SummonItemId" val="6646"/>
+        <!-- <set name="SummonItemId" val="6647" /> -->
+        <set name="SummonMinCount" val="1900"/>
+        <set name="SummonMaxCount" val="1900"/>
+    </skill>
+	<skill id="13339" levels="1" name="Модификация Тяжелой Брони (R)">
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="pDef" val="76" />
+			<add order="0x40" stat="regMp" val="3" />
+		</for>
+	</skill>
+	<skill id="13340" levels="1" name="Модификация Легкой Брони (R)">
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="mDef" val="52" />
+			<add order="0x40" stat="rEvas" val="3" />
+		</for>
+	</skill>
+	<skill id="13341" levels="1" name="Модификация Магической Брони (R)">
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="pDef" val="56" />
+			<mul order="0x30" stat="maxLoad" val="1.50" />
+		</for>
+	</skill>
+    <skill id="13344" levels="1" name="Bracelet of Insolence">
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="operateType" val="OP_PASSIVE"/>
+        <for>
+            <add order="0x40" stat="talismansLimit" val="4"/>
+        </for>
+    </skill>
+	<skill id="13377" levels="1" name="Свитко Опыта" >
+		<set name="itemConsumeId" val="34742" />
+		<set name="itemConsumeCount" val="1" />
+		<set name="isHandler" val="true" />
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="reuseDelay" val="3000" />
+		<set name="power" val="500000000" />
+		<set name="magicLevel" val="1" />
+		<set name="hitTime" val="200" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="EXPHEAL" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="altUse" val="true" />
+	</skill>
+	<skill id="13378" levels="1" name="Улучшенный Браслет Истхины">
+		<!-- Можно иметь 5 Таллисманов. ВЫН +1, ДУХ +1 -->
+		<table name="#vals">5</table>
+		<set name="operateType" val="OP_PASSIVE" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<for>
+			<add order="0x10" stat="CON" val="1"/>
+			<add order="0x10" stat="MEN" val="1"/>
+			<add order="0x40" stat="maxMp" val="216"/>
+			<add order="0x40" stat="talismansLimit" val="#vals" />
+		</for>
+	</skill>
+	<skill id="13379" levels="1" name="Улучшенный Браслет Октависа">
+		<!-- Позволяет использовать до 5 талисманов. ЛВК +1, МДР +1 -->
+		<table name="#vals">5</table>
+		<set name="operateType" val="OP_PASSIVE" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<for>
+			<add order="0x10" stat="DEX" val="1"/>
+			<add order="0x10" stat="WIT" val="1"/>
+			<add order="0x40" stat="maxMp" val="216"/>
+			<add order="0x40" stat="talismansLimit" val="#vals" />
+		</for>
+	</skill>
+	<skill id="13384" levels="1" name="Экипировать Талисман Бессмертия">
+		<!--
+			Уровень: 1; Описание: Разгорается сила Талисмана.
+		-->
+		<set name="magicType" val="MUSIC"/>
+		<set name="operateType" val="OP_TOGGLE"/>
+		<set name="skillType" val="CONT"/>
+		<set name="referenceItemId" val="34984" />
+		<set name="referenceItemMpConsume" val="0" />
+		<set name="target" val="TARGET_SELF"/>
+		<for>
+			<effect count="0x7fffffff" name="Buff" abnormal="talismanpower1" time="36000" val="0" stackOrder="1" stackType="Talisman">
+				<add order="0x40" stat="maxCp" val="100"/>
+				<add order="0x40" stat="maxHp" val="100"/>
+				<add order="0x40" stat="maxMp" val="100"/>
+				<add order="0x40" stat="maccCombat" val="1"/>
+                <add order="0x40" stat="rEvas" val="1"/>
+				<add order="0x40" stat="absorbDam" val="2"/>
+				<add order="0x40" stat="mAtkSpd" val="10"/>
+                <add order="0x40" stat="pAtkSpd" val="10"/>
+				<mul order="0x30" stat="skillPower" val="1"/>
+				<mul order="0x30" stat="mpConsum" val="1"/>
+                <mul order="0x30" stat="mpConsumePhysical" val="1"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="13385" levels="1" name="Экипировать Талисман Разрушения">
+		<!--
+			Уровень: 1; Описание: Разгорается сила Талисмана.
+		-->
+		<set name="magicType" val="MUSIC"/>
+		<set name="operateType" val="OP_TOGGLE"/>
+		<set name="referenceItemId" val="34985" />
+		<set name="referenceItemMpConsume" val="0" />
+		<set name="skillType" val="CONT"/>
+		<set name="target" val="TARGET_SELF"/>
+		<for>
+			<effect count="0x7fffffff" name="Buff" abnormal="talismanpower2" time="36000" val="0" stackOrder="2" stackType="Talisman">
+				<add order="0x40" stat="maxCp" val="100"/>
+				<add order="0x40" stat="maxHp" val="100"/>
+				<add order="0x40" stat="maxMp" val="100"/>
+				<add order="0x40" stat="maccCombat" val="1"/>
+                <add order="0x40" stat="rEvas" val="1"/>
+				<add order="0x40" stat="absorbDam" val="2"/>
+				<add order="0x40" stat="mAtkSpd" val="10"/>
+                <add order="0x40" stat="pAtkSpd" val="10"/>
+				<add order="0x40" stat="rCrit" val="30"/>
+				<add order="0x40" stat="mCritRate" val="10"/>
+				<mul order="0x30" stat="skillPower" val="1"/>
+				<mul order="0x30" stat="mpConsum" val="1"/>
+                <mul order="0x30" stat="mpConsumePhysical" val="1"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="13386" levels="1" name="Экипировать Талисман Уничтожения">
+		<!--
+			Уровень: 1; Описание: Разгорается сила Талисмана.
+		-->
+		<set name="magicType" val="MUSIC"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="referenceItemId" val="34986" />
+		<set name="referenceItemMpConsume" val="0" />
+		<set name="skillType" val="BUFF"/>
+		<set name="target" val="TARGET_SELF"/>
+		<for>
+			<effect count="0x7fffffff" name="Buff" abnormal="talismanpower2" time="36000" val="0" stackOrder="3" stackType="Talisman">
+				<add order="0x40" stat="maxCp" val="300"/>
+				<add order="0x40" stat="maxHp" val="300"/>
+				<add order="0x40" stat="maxMp" val="300"/>
+				<add order="0x40" stat="maccCombat" val="2"/>
+                <add order="0x40" stat="rEvas" val="2"/>
+				<add order="0x40" stat="absorbDam" val="3"/>
+				<add order="0x40" stat="mAtkSpd" val="20"/>
+                <add order="0x40" stat="pAtkSpd" val="20"/>
+				<add order="0x40" stat="rCrit" val="30"/>
+				<add order="0x40" stat="mCritRate" val="10"/>
+				<add order="0x40" stat="pAtk" val="103"/>
+                <add order="0x40" stat="mAtk" val="156"/>
+				<mul order="0x30" stat="skillPower" val="1"/>
+				<mul order="0x30" stat="mpConsum" val="1"/>
+                <mul order="0x30" stat="mpConsumePhysical" val="1"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="13387" levels="1" name="Экипировать Талисман Огня">
+		<!--
+			Уровень: 1; Описание: Разгорается сила Талисмана Огня.
+		-->
+		<set name="magicType" val="MUSIC"/>
+		<set name="operateType" val="OP_TOGGLE"/>
+		<set name="skillType" val="CONT"/>
+		<set name="isForceAura" val="true"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="referenceItemId" val="34987" />
+		<set name="referenceItemMpConsume" val="0" />
+		<set name="isTrigger" val="true"/>
+		<for>
+			<effect count="0x7fffffff" name="Buff" abnormal="talismanpower3" time="36000" val="0" stackOrder="4" stackType="Talisman">
+				<add order="0x40" stat="maxCp" val="400"/>
+				<add order="0x40" stat="maxHp" val="400"/>
+				<add order="0x40" stat="maxMp" val="400"/>
+				<add order="0x40" stat="maccCombat" val="2"/>
+                <add order="0x40" stat="rEvas" val="2"/>
+				<add order="0x40" stat="absorbDam" val="3"/>
+				<add order="0x40" stat="mAtkSpd" val="30"/>
+                <add order="0x40" stat="pAtkSpd" val="30"/>
+				<add order="0x40" stat="rCrit" val="30"/>
+				<add order="0x40" stat="mCritRate" val="10"/>
+				<add order="0x40" stat="pAtk" val="103"/>
+                <add order="0x40" stat="mAtk" val="156"/>
+				<mul order="0x30" stat="skillPower" val="1.01"/>
+				<add order="0x40" stat="pDef" val="20"/>
+                <add order="0x40" stat="mDef" val="20"/>
+				<mul order="0x30" stat="mpConsum" val="1"/>
+                <mul order="0x30" stat="mpConsumePhysical" val="1"/>
+				
+			</effect>
+		</for>
+	</skill>
+	<skill id="13388" levels="1" name="Экипировать Талисман Желания">
+		<!--
+			Уровень: 1; Описание: Разгорается сила Талисмана.
+		-->
+		<set name="magicType" val="MUSIC"/>
+		<set name="operateType" val="OP_TOGGLE"/>
+		<set name="skillType" val="CONT"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="referenceItemId" val="34988" />
+		<set name="referenceItemMpConsume" val="0" />
+		<set name="isTrigger" val="true"/>
+		<for>
+			<effect count="0x7fffffff" name="Buff" abnormal="talismanpower4" time="36000" val="0" stackOrder="5" stackType="Talisman">
+				<add order="0x40" stat="maxCp" val="500"/>
+				<add order="0x40" stat="maxHp" val="500"/>
+				<add order="0x40" stat="maxMp" val="500"/>
+				<add order="0x40" stat="maccCombat" val="2"/>
+                <add order="0x40" stat="rEvas" val="2"/>
+				<add order="0x40" stat="absorbDam" val="3"/>
+				<add order="0x40" stat="mAtkSpd" val="40"/>
+                <add order="0x40" stat="pAtkSpd" val="40"/>
+				<add order="0x40" stat="rCrit" val="30"/>
+				<add order="0x40" stat="mCritRate" val="10"/>
+				<add order="0x40" stat="pAtk" val="203"/>
+                <add order="0x40" stat="mAtk" val="256"/>
+				<mul order="0x30" stat="skillPower" val="1.02"/>
+				<add order="0x40" stat="pDef" val="40"/>
+                <add order="0x40" stat="mDef" val="40"/>
+				<mul order="0x30" stat="mpConsum" val="0.99"/>
+                <mul order="0x30" stat="mpConsumePhysical" val="0.99"/>
+				<add order="0x10" stat="STR" val="2"/>
+                <add order="0x10" stat="INT" val="2"/>
+                <add order="0x10" stat="CON" val="2"/>
+                <add order="0x10" stat="MEN" val="2"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="13389" levels="1" name="Экипировать Талисман Вожделения">
+		<!--
+			Уровень: 1; Описание: Разгорается сила Талисмана.
+		-->
+		<set name="magicType" val="SPECIAL"/>
+		<set name="operateType" val="OP_TOGGLE"/>
+		<set name="referenceItemId" val="34989" />
+		<set name="referenceItemMpConsume" val="0" />
+		<set name="isForceAura" val="true"/>
+		<set name="skillType" val="CONT"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="isReuseDelayPermanent" val="true" />
+		<for>
+			<effect count="0x7fffffff" name="Buff" abnormal="talismanpower5" time="360000" val="1" stackOrder="6" stackType="Talisman">
+				<add order="0x40" stat="maxCp" val="600"/>
+				<add order="0x40" stat="maxHp" val="600"/>
+				<add order="0x40" stat="maxMp" val="600"/>
+				<add order="0x40" stat="maccCombat" val="2"/>
+                <add order="0x40" stat="rEvas" val="2"/>
+				<add order="0x40" stat="absorbDam" val="3"/>
+				<add order="0x40" stat="mAtkSpd" val="50"/>
+                <add order="0x40" stat="pAtkSpd" val="50"/>
+				<add order="0x40" stat="rCrit" val="30"/>
+				<add order="0x40" stat="mCritRate" val="10"/>
+				<add order="0x40" stat="pAtk" val="303"/>
+                <add order="0x40" stat="mAtk" val="356"/>
+				<mul order="0x30" stat="skillPower" val="1.04"/>
+				<add order="0x40" stat="pDef" val="60"/>
+                <add order="0x40" stat="mDef" val="60"/>
+				<mul order="0x30" stat="mpConsum" val="0.98"/>
+                <mul order="0x30" stat="mpConsumePhysical" val="0.98"/>
+				<add order="0x10" stat="STR" val="2"/>
+                <add order="0x10" stat="INT" val="2"/>
+                <add order="0x10" stat="CON" val="2"/>
+                <add order="0x10" stat="MEN" val="2"/>
+				<add order="0x10" stat="DEX" val="2"/>
+                <add order="0x10" stat="WIT" val="2"/>
+			</effect>
+		</for>
+	</skill>	
+</list>

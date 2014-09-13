@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "spawn.dtd">
+<!--Задумка спавна (c)Mangol,(c)KilRoy-->
+<list>		
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-86224" y="36848" z="-2048" h="42344" />
+		<npc id="32187" /><!--Nadir-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-85928" y="36860" z="-2079" h="0" />
+		<npc id="32188" /><!--Morelin-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-85952" y="37120" z="-2048" h="8447" />
+		<npc id="32186" /><!--Yung-->
+	</spawn>
+</list>			

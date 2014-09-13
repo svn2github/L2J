@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "spawn.dtd">
+<!--Задумка спавна (c)Mangol,(c)KilRoy-->
+<list>		
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-40280" y="46416" zmin="-3595" zmax="-2395" />
+			<add x="-46807" y="38369" zmin="-3595" zmax="-2395" />
+			<add x="-40934" y="35412" zmin="-3595" zmax="-2395" />
+			<add x="-33168" y="34037" zmin="-3595" zmax="-2395" />
+			<add x="-33236" y="42103" zmin="-3595" zmax="-2395" />
+		</territory>
+		<npc id="31034" /><!--Sentry-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-39942" y="46559" zmin="-3595" zmax="-2395" />
+			<add x="-43097" y="45715" zmin="-3595" zmax="-2395" />
+			<add x="-42995" y="57667" zmin="-3595" zmax="-2395" />
+			<add x="-33066" y="57359" zmin="-3595" zmax="-2395" />
+			<add x="-33111" y="52215" zmin="-3595" zmax="-2395" />
+		</territory>
+		<npc id="31034" /><!--Sentry-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-40552" y="35020" zmin="-3340" zmax="-2690" />
+			<add x="-46472" y="38704" zmin="-3340" zmax="-2690" />
+			<add x="-45592" y="40036" zmin="-3340" zmax="-2690" />
+			<add x="-42984" y="40240" zmin="-3340" zmax="-2690" />
+			<add x="-38524" y="38596" zmin="-3340" zmax="-2690" />
+			<add x="-39712" y="35000" zmin="-3340" zmax="-2690" />
+		</territory>
+		<npc id="31845" /><!--Bloody Pixy-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-39116" y="43656" zmin="-3416" zmax="-3016" />
+			<add x="-39448" y="39592" zmin="-3416" zmax="-3016" />
+			<add x="-38300" y="38744" zmin="-3416" zmax="-3016" />
+			<add x="-33084" y="38684" zmin="-3416" zmax="-3016" />
+			<add x="-33092" y="42820" zmin="-3416" zmax="-3016" />
+			<add x="-34692" y="43844" zmin="-3416" zmax="-3016" />
+		</territory>
+		<npc id="31845" /><!--Bloody Pixy-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-38524" y="46708" zmin="-3396" zmax="-2946" />
+			<add x="-39104" y="48960" zmin="-3396" zmax="-2946" />
+			<add x="-40072" y="49736" zmin="-3396" zmax="-2946" />
+			<add x="-42892" y="49684" zmin="-3396" zmax="-2946" />
+			<add x="-42740" y="42924" zmin="-3396" zmax="-2946" />
+			<add x="-41064" y="42064" zmin="-3396" zmax="-2946" />
+			<add x="-39836" y="42340" zmin="-3396" zmax="-2946" />
+		</territory>
+		<npc id="31845" /><!--Bloody Pixy-->
+	</spawn>
+	<spawn count="2" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-45280" y="65292" zmin="-3672" zmax="-3122" />
+			<add x="-39716" y="57220" zmin="-3672" zmax="-3122" />
+			<add x="-33032" y="56340" zmin="-3672" zmax="-3122" />
+			<add x="-33084" y="65188" zmin="-3672" zmax="-3122" />
+		</territory>
+		<npc id="31845" /><!--Bloody Pixy-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-37440" y="50772" zmin="-3500" zmax="-3000" />
+			<add x="-40752" y="55912" zmin="-3500" zmax="-3000" />
+			<add x="-39740" y="57200" zmin="-3500" zmax="-3000" />
+			<add x="-33072" y="56232" zmin="-3500" zmax="-3000" />
+			<add x="-33072" y="52340" zmin="-3500" zmax="-3000" />
+		</territory>
+		<npc id="31845" /><!--Bloody Pixy-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-59492" y="65192" zmin="-3480" zmax="-3280" />
+			<add x="-59388" y="62596" zmin="-3480" zmax="-3280" />
+			<add x="-52996" y="59008" zmin="-3480" zmax="-3280" />
+			<add x="-52616" y="65264" zmin="-3480" zmax="-3280" />
+		</territory>
+		<npc id="31845" /><!--Bloody Pixy-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-40552" y="35020" zmin="-3340" zmax="-2690" />
+			<add x="-46472" y="38704" zmin="-3340" zmax="-2690" />
+			<add x="-45592" y="40036" zmin="-3340" zmax="-2690" />
+			<add x="-42984" y="40240" zmin="-3340" zmax="-2690" />
+			<add x="-38524" y="38596" zmin="-3340" zmax="-2690" />
+			<add x="-39712" y="35000" zmin="-3340" zmax="-2690" />
+		</territory>
+		<npc id="31850" /><!--Blight Treant-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-39116" y="43656" zmin="-3416" zmax="-3016" />
+			<add x="-39448" y="39592" zmin="-3416" zmax="-3016" />
+			<add x="-38300" y="38744" zmin="-3416" zmax="-3016" />
+			<add x="-33084" y="38684" zmin="-3416" zmax="-3016" />
+			<add x="-33092" y="42820" zmin="-3416" zmax="-3016" />
+			<add x="-34692" y="43844" zmin="-3416" zmax="-3016" />
+		</territory>
+		<npc id="31850" /><!--Blight Treant-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-38524" y="46708" zmin="-3396" zmax="-2946" />
+			<add x="-39104" y="48960" zmin="-3396" zmax="-2946" />
+			<add x="-40072" y="49736" zmin="-3396" zmax="-2946" />
+			<add x="-42892" y="49684" zmin="-3396" zmax="-2946" />
+			<add x="-42740" y="42924" zmin="-3396" zmax="-2946" />
+			<add x="-41064" y="42064" zmin="-3396" zmax="-2946" />
+			<add x="-39836" y="42340" zmin="-3396" zmax="-2946" />
+		</territory>
+		<npc id="31850" /><!--Blight Treant-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-45280" y="65292" zmin="-3672" zmax="-3122" />
+			<add x="-39716" y="57220" zmin="-3672" zmax="-3122" />
+			<add x="-33032" y="56340" zmin="-3672" zmax="-3122" />
+			<add x="-33084" y="65188" zmin="-3672" zmax="-3122" />
+		</territory>
+		<npc id="31850" /><!--Blight Treant-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-37440" y="50772" zmin="-3500" zmax="-3000" />
+			<add x="-40752" y="55912" zmin="-3500" zmax="-3000" />
+			<add x="-39740" y="57200" zmin="-3500" zmax="-3000" />
+			<add x="-33072" y="56232" zmin="-3500" zmax="-3000" />
+			<add x="-33072" y="52340" zmin="-3500" zmax="-3000" />
+		</territory>
+		<npc id="31850" /><!--Blight Treant-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-59492" y="65192" zmin="-3480" zmax="-3280" />
+			<add x="-59388" y="62596" zmin="-3480" zmax="-3280" />
+			<add x="-52996" y="59008" zmin="-3480" zmax="-3280" />
+			<add x="-52616" y="65264" zmin="-3480" zmax="-3280" />
+		</territory>
+		<npc id="31850" /><!--Blight Treant-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-46464" y="59263" z="-3318" h="20480" />
+		<npc id="30418" /><!--Annika-->
+	</spawn>	
+</list>	

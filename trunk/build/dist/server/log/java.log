@@ -1,0 +1,378 @@
+[11.09.14 12:04:47:822]  INFO gameserver.Config: Abuse: Loaded 18 abuse words.
+[11.09.14 12:04:47:847]  INFO gameserver.Config: Server Configuration: Loaded
+[11.09.14 12:04:48:066]  INFO idfactory.IdFactory: IdFactory: Clear characters online status.
+[11.09.14 12:04:48:083]  INFO idfactory.IdFactory: Total cleaned: 0, updated: 0 elements in database.
+[11.09.14 12:04:48:091]  INFO idfactory.IdFactory: IdFactory: Extracted 1 used id's from characters
+[11.09.14 12:04:48:094]  INFO idfactory.IdFactory: IdFactory: Extracted 176 used id's from items
+[11.09.14 12:04:48:095]  INFO idfactory.IdFactory: IdFactory: Extracted 2 used id's from clan_data
+[11.09.14 12:04:48:097]  INFO idfactory.IdFactory: IdFactory: Extracted total 179 used id's.
+[11.09.14 12:04:48:098]  INFO idfactory.BitSetIDFactory: IdFactory: 102912 id's available.
+[11.09.14 12:04:48:247]  INFO scripts.Scripts: Scripts: Loading...
+[11.09.14 12:04:55:265]  INFO scripts.Scripts: Scripts: Loaded 1221 classes.
+[11.09.14 12:04:55:280]  INFO geodata.GeoEngine: Geo Engine: - Skipping geodata load[11.09.14 12:05:23:334]  INFO gspackets.AuthRequest: Trying to register gameserver: 1 [127.0.0.1]
+[11.09.14 12:05:23:335]  INFO gspackets.AuthRequest: Gameserver registration successful.
+[11.09.14 12:10:53:800] ERROR gameservercon.GameServerCommunication: Gameserver I/O error: Удаленный хост принудительно разорвал существующее подключение
+[11.09.14 12:10:53:801]  INFO gameservercon.GameServerConnection: Connection with gameserver 1 [Bartz] lost.
+[11.09.14 12:10:53:801]  INFO gameservercon.GameServerConnection: Setting gameserver down.
+id: 90001, max level: 259
+[11.09.14 12:05:03:784]  INFO tables.SkillTable: Starting load ASC skills...
+[11.09.14 12:05:04:114]  INFO tables.SkillTable: Finish load ASC skills...
+[11.09.14 12:05:05:384]  INFO holder.OptionDataHolder: OptionDataHolder: loaded 29436 option data(s) count.
+[11.09.14 12:05:06:050]  INFO holder.ItemHolder: ItemHolder: loaded 14878 item(s) count.
+[11.09.14 12:05:06:932]  INFO holder.ItemHolder: ItemHolder: loaded 22674 item(s) count.
+[11.09.14 12:05:07:371]  INFO holder.ItemHolder: ItemHolder: loaded 28897 item(s) count.
+[11.09.14 12:05:07:385]  INFO holder.EnchantItemHolder: EnchantItemHolder: loaded 112 life stone(s) count.
+[11.09.14 12:05:07:385]  INFO holder.EnchantItemHolder: EnchantItemHolder: loaded 167 enchant scroll(s) count.
+[11.09.14 12:05:07:386]  INFO holder.EnchantItemHolder: EnchantItemHolder: loaded 66 attribute stone(s) count.
+[11.09.14 12:05:07:386]  INFO holder.EnchantItemHolder: EnchantItemHolder: loaded 355 appearance stone(s) count.
+[11.09.14 12:05:10:448]  INFO holder.NpcHolder: NpcHolder: loaded 13121 npc(s) count.
+[11.09.14 12:05:10:573]  INFO holder.DoorHolder: DoorHolder: loaded 1241 door(s) count.
+[11.09.14 12:05:10:584]  INFO instancemanager.MapRegionManager: MapRegionManager: loaded 306 map region manager(s) count.
+[11.09.14 12:05:10:608]  INFO instancemanager.MapRegionManager: MapRegionManager: loaded 306 map region manager(s) count.
+[11.09.14 12:05:10:611]  INFO holder.StaticObjectHolder: StaticObjectHolder: loaded 50 static object(s) count.
+[11.09.14 12:05:10:687]  INFO holder.ZoneHolder: ZoneHolder: loaded 1197 zone(s) count.
+[11.09.14 12:05:10:748]  INFO holder.SpawnHolder: SpawnHolder: loaded 6723 spawn(s) count.
+[11.09.14 12:05:11:639]  INFO holder.SpawnHolder: SpawnHolder: loaded 48079 spawn(s) count.
+[11.09.14 12:05:11:763]  INFO holder.InstantZoneHolder: InstantZoneHolder: loaded 115 instant zone(s) count.
+[11.09.14 12:05:11:769]  INFO holder.WalkerRoutesHolder: WalkerRoutesHolder: loaded 21 walker routes(s) count.
+[11.09.14 12:05:11:773]  INFO holder.WalkerAgroHolder: WalkerAgroHolder: loaded 2 walker agro(s) count.
+[11.09.14 12:05:12:450]  INFO parser.DropListDataParser: Loaded 749 drops & 47 spoils.
+[11.09.14 12:05:12:528]  INFO holder.RecipeHolder: RecipeHolder: loaded 1322 recipe(s) count.
+[11.09.14 12:05:12:754]  INFO holder.AirshipDockHolder: AirshipDockHolder: loaded 4 airship dock(s) count.
+[11.09.14 12:05:12:869]  INFO holder.SkillAcquireHolder: SkillAcquireHolder: load 62805 normal learns for 145 classes.
+[11.09.14 12:05:12:869]  INFO holder.SkillAcquireHolder: SkillAcquireHolder: load 79 transfer learns for 3 classes.
+[11.09.14 12:05:12:870]  INFO holder.SkillAcquireHolder: SkillAcquireHolder: load 13 race learns for 6 races.
+[11.09.14 12:05:12:870]  INFO holder.SkillAcquireHolder: SkillAcquireHolder: load 120 transformation learns for 6 races.
+[11.09.14 12:05:12:871]  INFO holder.SkillAcquireHolder: SkillAcquireHolder: load 662 fishing learns for 6 races.
+[11.09.14 12:05:12:871]  INFO holder.SkillAcquireHolder: SkillAcquireHolder: load 1237 Skill to mantain on Awakening for 34 awaken classes.
+[11.09.14 12:05:12:872]  INFO holder.SkillAcquireHolder: SkillAcquireHolder: load 33 certification learns.
+[11.09.14 12:05:12:872]  INFO holder.SkillAcquireHolder: SkillAcquireHolder: load 51 double certification learns.
+[11.09.14 12:05:12:872]  INFO holder.SkillAcquireHolder: SkillAcquireHolder: load 3 collection learns.
+[11.09.14 12:05:12:873]  INFO holder.SkillAcquireHolder: SkillAcquireHolder: load 107 pledge learns.
+[11.09.14 12:05:12:873]  INFO holder.SkillAcquireHolder: SkillAcquireHolder: load 18 sub unit learns.
+[11.09.14 12:05:13:004]  INFO holder.ResidenceHolder: ResidenceHolder: total size: 83
+[11.09.14 12:05:13:004]  INFO holder.ResidenceHolder: ResidenceHolder:  - load 44 clanhall(s).
+[11.09.14 12:05:13:004]  INFO holder.ResidenceHolder: ResidenceHolder:  - load 21 fortress(s).
+[11.09.14 12:05:13:005]  INFO holder.ResidenceHolder: ResidenceHolder:  - load 9 castle(s).
+[11.09.14 12:05:13:005]  INFO holder.ResidenceHolder: ResidenceHolder:  - load 9 dominion(s).
+[11.09.14 12:05:13:008]  INFO holder.ShuttleTemplateHolder: ShuttleTemplateHolder: loaded 3 shuttle template(s) count.
+[11.09.14 12:05:13:061]  INFO instancemanager.RaidBossSpawnManager: RaidBossSpawnManager: Loaded 1 Statuses
+[11.09.14 12:05:13:247]  INFO holder.EventHolder: EventHolder: loaded 101 event(s) count.
+[11.09.14 12:05:13:254]  INFO holder.CubicHolder: CubicHolder: loaded 182 cubic(s) count.
+[11.09.14 12:05:13:257]  INFO holder.StartItemHolder: StartItemHolder: loaded 11 start item(s) count.
+[11.09.14 12:05:13:260]  INFO holder.ItemLevelHolder: ItemLevelHolder: loaded 12 item level(s) count.
+[11.09.14 12:05:13:386]  INFO holder.BuyListHolder: TradeController: Loaded 4 file(s).
+[11.09.14 12:05:13:386]  INFO holder.BuyListHolder: TradeController: Loaded 28175 Items.
+[11.09.14 12:05:13:387]  INFO holder.BuyListHolder: TradeController: Loaded 805 Buylists.
+[11.09.14 12:05:14:000]  INFO holder.ProductHolder: ProductItemTable: Loaded 134 product item on sale.
+[11.09.14 12:05:14:028]  INFO holder.HennaHolder: HennaHolder: loaded 270 henna(s) count.
+[11.09.14 12:05:14:035]  INFO holder.JumpTracksHolder: JumpTracksHolder: loaded 27 jump tracks(s) count.
+[11.09.14 12:05:14:038]  INFO holder.SoulCrystalHolder: SoulCrystalHolder: loaded 54 soul crystal(s) count.
+[11.09.14 12:05:14:051]  INFO holder.ArmorSetsHolder: ArmorSetsHolder: loaded 1278 armor sets(s) count.
+[11.09.14 12:05:14:062]  INFO holder.FishDataHolder: FishDataHolder: load 278 fish(es).
+[11.09.14 12:05:14:062]  INFO holder.FishDataHolder: FishDataHolder: load 30 lure(s).
+[11.09.14 12:05:14:062]  INFO holder.FishDataHolder: FishDataHolder: load 4 distribution(s).
+[11.09.14 12:05:14:068]  INFO holder.PetitionGroupHolder: PetitionGroupHolder: loaded 1 petition group(s) count.
+[11.09.14 12:05:14:110]  INFO holder.PlayerTemplateHolder: PlayerTemplateHolder: loaded 36 player template(s) count.
+[11.09.14 12:05:14:224]  INFO holder.ClassDataHolder: ClassDataHolder: loaded 145 class data(s) count.
+[11.09.14 12:05:14:229]  INFO holder.LevelBonusHolder: LevelBonusHolder: loaded 99 level bonus(s) count.
+[11.09.14 12:05:14:232]  INFO holder.SummonPointsHolder: SummonPointsHolder: loaded 125 summon points(s) count.
+[11.09.14 12:05:14:236]  INFO holder.StatuesHolder: StatuesHolder: loaded 16 statues(s) count.
+[11.09.14 12:05:14:239]  INFO cache.CrestCache: CrestCache: Loaded 0 crests
+[11.09.14 12:05:14:262] ERROR pledge.SubUnit: Clan WingsOfDestiny have no leader!
+[11.09.14 12:05:14:263]  WARN tables.ClanTable: membersCount = 0 for clanId: 268492152
+[11.09.14 12:05:14:273]  INFO tables.SkillTreeTable: SkillTreeTable: Loaded 780 enchanted skills.
+[11.09.14 12:05:14:274]  INFO tables.AugmentationData: Initializing AugmentationData.
+[11.09.14 12:05:14:295]  INFO tables.AugmentationData: AugmentationData: 10 bad skill(s) were skipped.
+[11.09.14 12:05:14:307]  INFO tables.AugmentationData: AugmentationData: Loaded: 52 augmentation stats.
+[11.09.14 12:05:14:308]  INFO tables.AugmentationData: AugmentationData: Loaded: 24 accessory augmentation stats.
+[11.09.14 12:05:14:308]  INFO tables.AugmentationData: AugmentationData: Loaded: 17 blue, 106 purple and 54 red skills for lifeStoneLevel 0
+[11.09.14 12:05:14:309]  INFO tables.AugmentationData: AugmentationData: Loaded: 17 blue, 106 purple and 54 red skills for lifeStoneLevel 1
+[11.09.14 12:05:14:309]  INFO tables.AugmentationData: AugmentationData: Loaded: 17 blue, 106 purple and 54 red skills for lifeStoneLevel 2
+[11.09.14 12:05:14:310]  INFO tables.AugmentationData: AugmentationData: Loaded: 17 blue, 106 purple and 54 red skills for lifeStoneLevel 3
+[11.09.14 12:05:14:310]  INFO tables.AugmentationData: AugmentationData: Loaded: 17 blue, 106 purple and 54 red skills for lifeStoneLevel 4
+[11.09.14 12:05:14:310]  INFO tables.AugmentationData: AugmentationData: Loaded: 17 blue, 106 purple and 54 red skills for lifeStoneLevel 5
+[11.09.14 12:05:14:311]  INFO tables.AugmentationData: AugmentationData: Loaded: 17 blue, 106 purple and 54 red skills for lifeStoneLevel 6
+[11.09.14 12:05:14:312]  INFO tables.AugmentationData: AugmentationData: Loaded: 17 blue, 106 purple and 54 red skills for lifeStoneLevel 7
+[11.09.14 12:05:14:312]  INFO tables.AugmentationData: AugmentationData: Loaded: 17 blue, 106 purple and 54 red skills for lifeStoneLevel 8
+[11.09.14 12:05:14:312]  INFO tables.AugmentationData: AugmentationData: Loaded: 17 blue, 106 purple and 54 red skills for lifeStoneLevel 9
+[11.09.14 12:05:14:373]  INFO tables.PetSkillsTable: PetSkillsTable: Loaded 2821 skills.
+[11.09.14 12:05:14:375]  INFO tables.EnchantHPBonusTable: EnchantHPBonusTable: Loaded bonuses for 7 grades.
+[11.09.14 12:05:14:377]  INFO itemauction.ItemAuctionManager: Initializing ItemAuctionManager
+[11.09.14 12:05:14:559]  INFO instancemanager.SpawnManager: SpawnManager: spawned 1000 npc for group: NONE
+[11.09.14 12:05:14:669]  INFO instancemanager.SpawnManager: SpawnManager: spawned 2000 npc for group: NONE
+[11.09.14 12:05:14:836]  INFO instancemanager.SpawnManager: SpawnManager: spawned 3000 npc for group: NONE
+[11.09.14 12:05:16:414]  INFO instancemanager.SpawnManager: SpawnManager: spawned 4000 npc for group: NONE
+[11.09.14 12:05:16:499]  INFO instancemanager.SpawnManager: SpawnManager: spawned 5000 npc for group: NONE
+[11.09.14 12:05:16:595]  INFO instancemanager.SpawnManager: SpawnManager: spawned 6000 npc for group: NONE
+[11.09.14 12:05:16:669]  INFO instancemanager.SpawnManager: SpawnManager: spawned 7000 npc for group: NONE
+[11.09.14 12:05:16:800]  INFO instancemanager.SpawnManager: SpawnManager: spawned 9000 npc for group: NONE
+[11.09.14 12:05:17:029]  INFO instancemanager.SpawnManager: SpawnManager: spawned 15000 npc for group: NONE
+[11.09.14 12:05:17:068]  INFO instancemanager.SpawnManager: SpawnManager: spawned 16000 npc for group: NONE
+[11.09.14 12:05:17:176]  INFO instancemanager.SpawnManager: SpawnManager: spawned 18000 npc for group: NONE
+[11.09.14 12:05:17:199]  INFO instancemanager.SpawnManager: SpawnManager: spawned 19000 npc for group: NONE
+[11.09.14 12:05:17:228]  INFO instancemanager.SpawnManager: SpawnManager: spawned 20000 npc for group: NONE
+[11.09.14 12:05:17:250]  INFO instancemanager.SpawnManager: SpawnManager: spawned 21000 npc for group: NONE
+[11.09.14 12:05:17:277]  INFO instancemanager.SpawnManager: SpawnManager: spawned 22000 npc for group: NONE
+[11.09.14 12:05:17:324]  INFO instancemanager.SpawnManager: SpawnManager: spawned 24000 npc for group: NONE
+[11.09.14 12:05:17:484]  INFO instancemanager.SpawnManager: SpawnManager: spawned 30000 npc for group: NONE
+[11.09.14 12:05:17:501]  INFO instancemanager.SpawnManager: SpawnManager: spawned 31000 npc for group: NONE
+[11.09.14 12:05:17:537]  INFO instancemanager.SpawnManager: SpawnManager: spawned 33000 npc for group: NONE
+[11.09.14 12:05:20:342]  INFO instancemanager.SpawnManager: SpawnManager: spawned 35000 npc for group: NONE
+[11.09.14 12:05:20:380]  INFO instancemanager.SpawnManager: SpawnManager: spawned 36000 npc for group: NONE
+[11.09.14 12:05:20:399]  INFO instancemanager.SpawnManager: SpawnManager: spawned 37000 npc for group: NONE
+[11.09.14 12:05:20:415]  INFO instancemanager.SpawnManager: SpawnManager: spawned 38000 npc for group: NONE
+[11.09.14 12:05:20:453]  INFO naia.NaiaTowerManager: Naia Tower Manager: Loaded 12 rooms
+[11.09.14 12:05:20:491]  INFO instancemanager.SpawnManager: SpawnManager: spawned 41000 npc for group: NONE
+[11.09.14 12:05:20:538]  INFO instancemanager.SpawnManager: SpawnManager: spawned 42000 npc for group: NONE
+[11.09.14 12:05:20:570]  INFO instancemanager.SpawnManager: SpawnManager: spawned 43000 npc for group: NONE
+[11.09.14 12:05:20:614]  INFO instancemanager.SpawnManager: SpawnManager: spawned 44000 npc for group: NONE
+[11.09.14 12:05:20:646]  INFO instancemanager.SpawnManager: SpawnManager: spawned 45000 npc for group: NONE
+[11.09.14 12:05:20:662]  INFO instancemanager.SpawnManager: SpawnManager: spawned 46000 npc for group: NONE
+[11.09.14 12:05:20:676]  INFO instancemanager.SpawnManager: SpawnManager: spawned 46994 npc; spawns: 29608; group: NONE
+[11.09.14 12:05:20:678]  INFO instancemanager.SpawnManager: SpawnManager: Spawned 23 walker routes.
+[11.09.14 12:05:20:679]  INFO instancemanager.SpawnManager: SpawnManager: spawned 14 npc; spawns: 14; group: class_master
+[11.09.14 12:05:20:680]  INFO holder.StaticObjectHolder: StaticObjectHolder: spawned: 50 static object(s).
+[11.09.14 12:05:20:726]  INFO bosses.AntharasManager: AntharasManager: State of Antharas is NOTSPAWN.
+[11.09.14 12:05:20:727]  INFO bosses.AntharasManager: AntharasManager: Next spawn date of Antharas is 03:00 01.01.1970.
+[11.09.14 12:05:20:728]  INFO bosses.BaiumManager: BaiumManager: State of Baium is NOTSPAWN.
+[11.09.14 12:05:20:729]  INFO bosses.BaiumManager: BaiumManager: Next spawn date: 03:00 01.01.1970
+[11.09.14 12:05:20:734]  INFO bosses.BelethManager: Beleth Manager: Loaded successfuly
+[11.09.14 12:05:20:739]  INFO bosses.FourSepulchersSpawn: FourSepulchersManager: Loaded 20 Mysterious-Box spawns.
+[11.09.14 12:05:20:761]  INFO bosses.FourSepulchersSpawn: FourSepulchersManager: loaded 716 physical monsters spawns.
+[11.09.14 12:05:20:783]  INFO bosses.FourSepulchersSpawn: FourSepulchersManager: loaded 716 magical monsters spawns.
+[11.09.14 12:05:20:788]  INFO bosses.FourSepulchersSpawn: FourSepulchersManager: loaded 92 Church of duke monsters spawns.
+[11.09.14 12:05:20:793]  INFO bosses.FourSepulchersSpawn: FourSepulchersManager: loaded 68 Emperor's grave NPC spawns.
+[11.09.14 12:05:20:793]  INFO bosses.FourSepulchersSpawn: FourSepulchersManager: Spawned Conquerors' Sepulcher Manager
+[11.09.14 12:05:20:793]  INFO bosses.FourSepulchersSpawn: FourSepulchersManager: Spawned Emperors' Sepulcher Manager
+[11.09.14 12:05:20:794]  INFO bosses.FourSepulchersSpawn: FourSepulchersManager: Spawned Great Sages' Sepulcher Manager
+[11.09.14 12:05:20:794]  INFO bosses.FourSepulchersSpawn: FourSepulchersManager: Spawned Judges' Sepulcher Manager
+[11.09.14 12:05:20:795]  INFO bosses.FourSepulchersManager: FourSepulchersManager: Beginning in Attack time
+[11.09.14 12:05:20:796]  INFO threading.RunnableImpl: Thu Sep 11 12:05:20 MSK 2014 Atk announce scheduled to 5.0 minute of this hour.
+[11.09.14 12:05:20:797]  INFO bosses.SailrenManager: SailrenManager: State of Sailren is NOTSPAWN.
+[11.09.14 12:05:20:797]  INFO bosses.SailrenManager: SailrenManager: Next spawn date of Sailren is 03:00 01.01.1970.
+[11.09.14 12:05:20:799]  INFO bosses.ValakasManager: ValakasManager: State of Valakas is NOTSPAWN.
+[11.09.14 12:05:20:799]  INFO bosses.ValakasManager: ValakasManager: Next spawn date of Valakas is 03:00 01.01.1970.
+[11.09.14 12:05:20:804]  INFO dynamic_quests.BatCountry: Dynamic Quest: Loaded quest ID 14. Name: Bat Country - Campaign
+[11.09.14 12:05:20:805]  INFO dynamic_quests.DemonsOfDarkness: Dynamic Quest: Loaded quest ID 1. Name: DemonsOfDarkness - Campaign
+[11.09.14 12:05:20:806]  INFO dynamic_quests.LabyrinthOfHarnak: Dynamic Quest: Loaded quest ID 8. Name: Labyrinth of Harnak - Zone Quest
+[11.09.14 12:05:20:807]  INFO dynamic_quests.MemorialService: Dynamic Quest: Loaded quest ID 3. Name: Memorial Service - Campaign
+[11.09.14 12:05:20:808]  INFO dynamic_quests.OrbisTemple: Dynamic Quest: Loaded quest ID 2. Name: OrbisTemple - Zone Quest. Stage : 1. With ident : 201
+[11.09.14 12:05:20:810]  INFO dynamic_quests.SealofShilen: Dynamic Quest: Loaded quest ID 9. Name: SealOfShilen - Campaign
+[11.09.14 12:05:20:813]  INFO dynamic_quests.SeedOfHellfire: Dynamic Quest: Loaded quest ID 15. Name: Seed of Hellfire - Zone Quest
+[11.09.14 12:05:20:814]  INFO AprilFoolsDay.AprilFoolsDay: Loaded Event: Apil Fool's Day [state: deactivated]
+[11.09.14 12:05:20:815]  INFO Christmas.Christmas: Loaded Event: Christmas [state: deactivated]
+[11.09.14 12:05:20:820]  INFO CofferofShadows.CofferofShadows: Loaded Event: Coffer of Shadows [state: deactivated]
+[11.09.14 12:05:20:821]  INFO FreyaEvent.FreyaEvent: Loaded Event: Freya Celebration [state: deactivated]
+[11.09.14 12:05:20:822]  INFO GiftOfVitality.GiftOfVitality: Loaded Event: Gift Of Vitality [state: deactivated]
+[11.09.14 12:05:20:823]  INFO GvG.GvG: Loaded Event: GvG
+[11.09.14 12:05:20:824]  INFO March8.March8: Loaded Event: March 8 [state: deactivated]
+[11.09.14 12:05:20:823]  INFO instancemanager.SpawnManager: SpawnManager: spawned 882 npc; spawns: 882; group: Orbis
+[11.09.14 12:05:20:825]  INFO dynamic_quests.OrbisTemple: Dynamic Quest: Loaded quest ID 2. Name: OrbisTemple - Zone Quest. Stage : 1. With ident : 201
+[11.09.14 12:05:20:825]  INFO MasterOfEnchanting.MasterOfEnchanting: Loaded Event: Master of Enchanting [state: deactivated]
+[11.09.14 12:05:20:826]  INFO PcCafePointsExchange.PcCafePointsExchange: Loaded Event: PcCafePointsExchange [state: deactivated]
+[11.09.14 12:05:20:827]  INFO SavingSnowman.SavingSnowman: Loaded Event: SavingSnowman [state: deactivated]
+[11.09.14 12:05:20:828]  INFO SummerMeleons.SummerMeleons: Loaded Event: Summer Meleons [state: deactivated]
+[11.09.14 12:05:20:829]  INFO TheFallHarvest.TheFallHarvest: Loaded Event: The Fall Harvest [state: deactivated]
+[11.09.14 12:05:20:829]  INFO TheFlowOfTheHorror.TheFlowOfTheHorror: Loaded Event: The Flow Of The Horror [state: deactivated]
+[11.09.14 12:05:20:830]  INFO TrickOfTrans.TrickOfTrans: Loaded Event: Trick of Trnasmutation [state: deactivated]
+[11.09.14 12:05:20:831]  INFO TvT.TvT: Loaded Event: TvT
+[11.09.14 12:05:20:833]  INFO TvTArena.TvTArena1: Loaded Event: TvT Arena 1 [state: deactivated]
+[11.09.14 12:05:20:834]  INFO TvTArena.TvTArena2: Loaded Event: TvT Arena 2 [state: deactivated]
+[11.09.14 12:05:20:835]  INFO TvTArena.TvTArena3: Loaded Event: TvT Arena 3 [state: deactivated]
+[11.09.14 12:05:20:842]  INFO bountyhunters.HuntersGuild: Loaded Event: Bounty Hunters Guild
+[11.09.14 12:05:20:843]  INFO coins.coins: Loaded Event: L2Coins [state: deactivated]
+[11.09.14 12:05:20:843]  INFO glitmedal.glitmedal: Loaded Event: L2 Medal Collection Event [state: deactivated]
+[11.09.14 12:05:20:844]  INFO heart.heart: Loaded Event: Change of Heart[state: deactivated]
+[11.09.14 12:05:20:845]  INFO l2day.LettersCollection: Loaded Event: l2day [state: deactivated]
+[11.09.14 12:05:20:846]  INFO lastHero.LastHero: Loaded Event: Last Hero
+[11.09.14 12:05:20:923]  INFO tables.FishTable: FishTable: Loaded 270 fishes.
+[11.09.14 12:05:20:927]  INFO tables.FishTable: FishTable: Loaded 919 fish rewards.
+[11.09.14 12:05:20:997]  INFO tables.PetDataTable: PetDataTable: Loaded 4702 pets.
+[11.09.14 12:05:21:005]  INFO model.Manor: ManorManager: Loaded 270 seeds
+[11.09.14 12:05:21:221]  INFO services.Bash: Loaded Service: Bash [disabled]
+[11.09.14 12:05:21:226]  INFO services.Mammons: Loaded Services: Mammons Teleporter
+[11.09.14 12:05:21:234]  INFO community.ClanCommunity: CommunityBoard: Clan Community service loaded.
+[11.09.14 12:05:21:235]  INFO community.CommunityBoard: CommunityBoard: service loaded.
+[11.09.14 12:05:21:236]  INFO community.CommunityStats: CommunityBoard: Stats service loaded.
+[11.09.14 12:05:21:237]  INFO community.EnchantCommunity: CommunityBoard: Enchant Community service loaded.
+[11.09.14 12:05:21:238]  INFO community.ManageBuffer: CommunityBoard: Buffer Community service loaded.
+[11.09.14 12:05:21:240]  INFO community.ManageFavorites: CommunityBoard: Manage Favorites service loaded.
+[11.09.14 12:05:21:240]  INFO community.ManageFriends: CommunityBoard: Manage Friends service loaded.
+[11.09.14 12:05:21:241]  INFO community.ManageMemo: CommunityBoard: Manage Memo service loaded.
+[11.09.14 12:05:21:241]  INFO community.ManageProf: CommunityBoard: Manage Career service loaded.
+[11.09.14 12:05:21:242]  INFO community.ManageTeleport: CommunityBoard: Teleport Community service loaded.
+[11.09.14 12:05:21:243]  INFO community.PrivateMail: CommunityBoard: Private Mail service loaded.
+[11.09.14 12:05:21:244]  INFO community.RegionCommunity: CommunityBoard: Region service loaded.
+[11.09.14 12:05:21:265]  INFO gameserver.GameServer: AutoChatHandler: Loaded 51 handlers in total.
+[11.09.14 12:05:21:270]  INFO olympiad.Olympiad: Olympiad System: Loading Olympiad System....
+[11.09.14 12:05:21:270]  INFO olympiad.Olympiad: Olympiad System: Currently in Olympiad Period
+[11.09.14 12:05:21:271]  INFO olympiad.Olympiad: Olympiad System: Period Ends....
+[11.09.14 12:05:21:271]  INFO olympiad.Olympiad: Olympiad System: In 19 days, 11 hours and 55 mins.
+[11.09.14 12:05:21:271]  INFO olympiad.Olympiad: Olympiad System: Next Weekly Change is in....
+[11.09.14 12:05:21:272]  INFO olympiad.Olympiad: Olympiad System: In 0 days, 12 hours and 42 mins.
+[11.09.14 12:05:21:272]  INFO olympiad.Olympiad: Olympiad System: Loaded 0 Noblesses
+[11.09.14 12:05:21:273]  INFO olympiad.Olympiad: Olympiad System: Competition Period Starts in 1 days, 5 hours and 54 mins.
+[11.09.14 12:05:21:273]  INFO olympiad.Olympiad: Olympiad System: Event starts/started: Fri Sep 12 18:00:21 MSK 2014
+[11.09.14 12:05:21:276]  INFO entity.Hero: Hero System: Loaded 0 Heroes.
+[11.09.14 12:05:21:276]  INFO entity.Hero: Hero System: Loaded 0 all time Heroes.
+[11.09.14 12:05:21:278]  INFO instancemanager.PetitionManager: Initializing PetitionManager
+[11.09.14 12:05:21:284]  INFO instancemanager.CursedWeaponsManager: CursedWeaponsManager: Loaded 2 cursed weapon(s).
+[11.09.14 12:05:21:285]  INFO instancemanager.CoupleManager: Initializing CoupleManager
+[11.09.14 12:05:21:285]  INFO instancemanager.CoupleManager: Loaded: 0 couples(s)
+[11.09.14 12:05:21:286]  INFO gameserver.GameServer: CoupleManager initialized
+[11.09.14 12:05:21:597]  INFO instancemanager.ServerPacketOpCodeManager: ServerPacketOpCodeManager: Loaded 511 active server packet opcodes.
+[11.09.14 12:05:21:598]  INFO admincommands.AdminCommandHandler: AdminCommandHandler: loaded 329 admin command handler(s) count.
+[11.09.14 12:05:21:598]  INFO usercommands.UserCommandHandler: UserCommandHandler: loaded 16 user command handler(s) count.
+[11.09.14 12:05:21:598]  INFO voicecommands.VoicedCommandHandler: VoicedCommandHandler: loaded 21 voiced command handler(s) count.
+[11.09.14 12:05:21:604]  INFO gameserver.GameServer: =[Events]=========================================
+[11.09.14 12:05:21:640]  INFO instancemanager.SpawnManager: SpawnManager: spawned 2 npc; spawns: 2; group: spawn_light_gludio
+[11.09.14 12:05:21:700]  INFO instancemanager.SpawnManager: SpawnManager: spawned 2 npc; spawns: 2; group: spawn_light_dion
+[11.09.14 12:05:21:775]  INFO instancemanager.SpawnManager: SpawnManager: spawned 2 npc; spawns: 2; group: spawn_light_giran
+[11.09.14 12:05:21:838]  INFO instancemanager.SpawnManager: SpawnManager: spawned 2 npc; spawns: 2; group: spawn_light_oren
+[11.09.14 12:05:21:901]  INFO instancemanager.SpawnManager: SpawnManager: spawned 2 npc; spawns: 2; group: spawn_light_aden
+[11.09.14 12:05:21:975]  INFO instancemanager.SpawnManager: SpawnManager: spawned 2 npc; spawns: 2; group: spawn_light_heine
+[11.09.14 12:05:22:038]  INFO instancemanager.SpawnManager: SpawnManager: spawned 2 npc; spawns: 2; group: spawn_light_shutgart
+[11.09.14 12:05:22:102]  INFO instancemanager.SpawnManager: SpawnManager: spawned 2 npc; spawns: 2; group: spawn_light_rune
+[11.09.14 12:05:22:164]  INFO instancemanager.SpawnManager: SpawnManager: spawned 2 npc; spawns: 2; group: spawn_light_goddart
+[11.09.14 12:05:22:303]  INFO impl.CastleSiegeEvent: CastleSiegeEvent: Gludio Castle time - 03:00 21.09.2014
+[11.09.14 12:05:22:308]  INFO impl.CastleSiegeEvent: CastleSiegeEvent: Dion Castle time - 03:00 21.09.2014
+[11.09.14 12:05:22:312]  INFO impl.CastleSiegeEvent: CastleSiegeEvent: Giran Castle time - 03:00 21.09.2014
+[11.09.14 12:05:22:316]  INFO impl.CastleSiegeEvent: CastleSiegeEvent: Oren Castle time - 03:00 21.09.2014
+[11.09.14 12:05:22:320]  INFO impl.CastleSiegeEvent: CastleSiegeEvent: Aden Castle time - 03:00 21.09.2014
+[11.09.14 12:05:22:325]  INFO impl.CastleSiegeEvent: CastleSiegeEvent: Innadril Castle time - 03:00 21.09.2014
+[11.09.14 12:05:22:329]  INFO impl.CastleSiegeEvent: CastleSiegeEvent: Goddard Castle time - 03:00 21.09.2014
+[11.09.14 12:05:22:333]  INFO impl.CastleSiegeEvent: CastleSiegeEvent: Rune Castle time - 03:00 21.09.2014
+[11.09.14 12:05:22:337]  INFO impl.CastleSiegeEvent: CastleSiegeEvent: Schuttgart Castle time - 03:00 21.09.2014
+[11.09.14 12:05:22:339]  INFO impl.ClanHallNpcSiegeEvent: ClanHallNpcSiegeEvent: Fortress Of Resistance time - 18:00 22.09.2014
+[11.09.14 12:05:22:340]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Moonstone Hall time - 12:05 11.09.2014
+[11.09.14 12:05:22:341]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Onyx Hall time - 12:05 11.09.2014
+[11.09.14 12:05:22:342]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Topaz Hall time - 12:05 11.09.2014
+[11.09.14 12:05:22:342]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Ruby Hall time - 12:05 11.09.2014
+[11.09.14 12:05:22:343]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Crystal Hall time - 12:05 11.09.2014
+[11.09.14 12:05:22:344]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Onyx Hall time - 12:05 11.09.2014
+[11.09.14 12:05:22:344]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Sapphire Hall time - 12:05 11.09.2014
+[11.09.14 12:05:22:345]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Moonstone Hall time - 12:05 11.09.2014
+[11.09.14 12:05:22:346]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Emerald Hall time - 12:05 11.09.2014
+[11.09.14 12:05:22:346]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: The Atramental Barracks time - 12:05 11.09.2014
+[11.09.14 12:05:22:347]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: The Scarlet Barracks time - 12:05 11.09.2014
+[11.09.14 12:05:22:348]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: The Viridian Barracks time - 12:05 11.09.2014
+[11.09.14 12:05:22:348]  INFO impl.ClanHallSiegeEvent: ClanHallSiegeEvent: Devastated Castle time - 18:00 13.09.2014
+[11.09.14 12:05:22:349]  INFO impl.ClanHallTeamBattleEvent: ClanHallTeamBattleEvent: Bandit Stronghold time - 22:00 13.09.2014
+[11.09.14 12:05:22:350]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: The Golden Chamber time - 12:05 11.09.2014
+[11.09.14 12:05:22:350]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: The Silver Chamber time - 12:05 11.09.2014
+[11.09.14 12:05:22:351]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: The Mithril Chamber time - 12:05 11.09.2014
+[11.09.14 12:05:22:351]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Silver Manor time - 12:05 11.09.2014
+[11.09.14 12:05:22:352]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Gold Manor time - 12:05 11.09.2014
+[11.09.14 12:05:22:353]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: The Bronze Chamber time - 12:05 11.09.2014
+[11.09.14 12:05:22:354]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: The Golden Chamber time - 12:05 11.09.2014
+[11.09.14 12:05:22:354]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: The Silver Chamber time - 12:05 11.09.2014
+[11.09.14 12:05:22:355]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: The Mithril Chamber time - 12:05 11.09.2014
+[11.09.14 12:05:22:355]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: The Bronze Chamber time - 12:05 11.09.2014
+[11.09.14 12:05:22:356]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Silver Manor time - 12:05 11.09.2014
+[11.09.14 12:05:22:357]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Moonstone Hall time - 12:05 11.09.2014
+[11.09.14 12:05:22:357]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Onyx Hall time - 12:05 11.09.2014
+[11.09.14 12:05:22:358]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Emerald Hall time - 12:05 11.09.2014
+[11.09.14 12:05:22:359]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Sapphire Hall time - 12:05 11.09.2014
+[11.09.14 12:05:22:359]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Mont Chamber time - 12:05 11.09.2014
+[11.09.14 12:05:22:360]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Astaire Chamber time - 12:05 11.09.2014
+[11.09.14 12:05:22:361]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Aria Chamber time - 12:05 11.09.2014
+[11.09.14 12:05:22:361]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Yiana Chamber time - 12:05 11.09.2014
+[11.09.14 12:05:22:362]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Roien Chamber time - 12:05 11.09.2014
+[11.09.14 12:05:22:362]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Luna Chamber time - 12:05 11.09.2014
+[11.09.14 12:05:22:363]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Traban Chamber time - 12:05 11.09.2014
+[11.09.14 12:05:22:364]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Eisen Hall time - 12:05 11.09.2014
+[11.09.14 12:05:22:364]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Heavy Metal Hall time - 12:05 11.09.2014
+[11.09.14 12:05:22:365]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Molten Ore Hall time - 12:05 11.09.2014
+[11.09.14 12:05:22:366]  INFO impl.ClanHallAuctionEvent: ClanHallAuctionEvent: Titan Hall time - 12:05 11.09.2014
+[11.09.14 12:05:22:367]  INFO impl.ClanHallMiniGameEvent: ClanHallMiniGameEvent: Rainbow Springs time - 22:00 13.09.2014
+[11.09.14 12:05:22:368]  INFO impl.ClanHallTeamBattleEvent: ClanHallTeamBattleEvent: Wild Beast Reserve time - 21:00 13.09.2014
+[11.09.14 12:05:22:368]  INFO impl.ClanHallSiegeEvent: ClanHallSiegeEvent: Fortress of Dead time - 18:00 13.09.2014
+[11.09.14 12:05:22:371]  INFO impl.DominionSiegeEvent: DominionSiegeEvent: Gludio Dominion time - undefined
+[11.09.14 12:05:22:372]  INFO impl.DominionSiegeEvent: DominionSiegeEvent: Dion Dominion time - undefined
+[11.09.14 12:05:22:372]  INFO impl.DominionSiegeEvent: DominionSiegeEvent: Giran Dominion time - undefined
+[11.09.14 12:05:22:373]  INFO impl.DominionSiegeEvent: DominionSiegeEvent: Oren Dominion time - undefined
+[11.09.14 12:05:22:374]  INFO impl.DominionSiegeEvent: DominionSiegeEvent: Aden Dominion time - undefined
+[11.09.14 12:05:22:375]  INFO impl.DominionSiegeEvent: DominionSiegeEvent: Innadril Dominion time - undefined
+[11.09.14 12:05:22:376]  INFO impl.DominionSiegeEvent: DominionSiegeEvent: Goddard Dominion time - undefined
+[11.09.14 12:05:22:377]  INFO impl.DominionSiegeEvent: DominionSiegeEvent: Rune Dominion time - undefined
+[11.09.14 12:05:22:378]  INFO impl.DominionSiegeEvent: DominionSiegeEvent: Schuttgart Dominion time - undefined
+[11.09.14 12:05:22:405]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Shanty Fortress time - undefined
+[11.09.14 12:05:22:436]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Southern Fortress time - undefined
+[11.09.14 12:05:22:468]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Hive Fortress time - undefined
+[11.09.14 12:05:22:499]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Valley Fortress time - undefined
+[11.09.14 12:05:22:541]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Ivory Fortress time - undefined
+[11.09.14 12:05:22:573]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Narsell Fortress time - undefined
+[11.09.14 12:05:22:605]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Bayou Fortress time - undefined
+[11.09.14 12:05:22:636]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: White Sands Fortress time - undefined
+[11.09.14 12:05:22:668]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Borderland Fortress time - undefined
+[11.09.14 12:05:22:699]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Swamp Fortress time - undefined
+[11.09.14 12:05:22:741]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Archaic Fortress time - undefined
+[11.09.14 12:05:22:773]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Floran Fortress time - undefined
+[11.09.14 12:05:22:805]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Cloud Mountain Fortress time - undefined
+[11.09.14 12:05:22:836]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Tanor Fortress time - undefined
+[11.09.14 12:05:22:868]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Dragonspine Fortress time - undefined
+[11.09.14 12:05:22:899]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Antharas Fortress time - undefined
+[11.09.14 12:05:22:941]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Western Fortress time - undefined
+[11.09.14 12:05:22:973]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Hunter's Fortress time - undefined
+[11.09.14 12:05:23:036]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Aaru Fortress time - undefined
+[11.09.14 12:05:23:068]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Demon Fortress time - undefined
+[11.09.14 12:05:23:099]  INFO impl.FortressSiegeEvent: FortressSiegeEvent: Monastic Fortress time - undefined
+[11.09.14 12:05:23:101]  INFO impl.KrateisCubeEvent: KrateisCubeEvent: Krateis Cube 70-75 Level time - 12:30 11.09.2014
+[11.09.14 12:05:23:102]  INFO impl.KrateisCubeEvent: KrateisCubeEvent: Krateis Cube 76-79 Level time - 12:30 11.09.2014
+[11.09.14 12:05:23:102]  INFO impl.KrateisCubeEvent: KrateisCubeEvent: Krateis Cube 80-85 Level time - 12:30 11.09.2014
+[11.09.14 12:05:23:103]  INFO gameserver.GameServer: ==================================================
+[11.09.14 12:05:23:103]  INFO data.BoatHolder: BoatHolder: loaded 5 boat(s) count.
+[11.09.14 12:05:23:104]  INFO data.BoatHolder: BoatHolder: Spawning: RunePrimeval_Vehicle
+[11.09.14 12:05:23:104]  INFO data.BoatHolder: BoatHolder: Spawning: AdenGracia_Airship
+[11.09.14 12:05:23:104]  INFO data.BoatHolder: BoatHolder: Spawning: CrumaTower_Shuttle
+[11.09.14 12:05:23:105]  INFO data.BoatHolder: BoatHolder: Spawning: CityOfArcan2_Shuttle
+[11.09.14 12:05:23:105]  INFO data.BoatHolder: BoatHolder: Spawning: CityOfArcan1_Shuttle
+[11.09.14 12:05:23:107]  INFO instancemanager.CastleManorManager: Manor System: Initializing...
+[11.09.14 12:05:23:120]  INFO gameserver.GameServer: IdFactory: Free ObjectID's remaining: 1878995593
+[11.09.14 12:05:23:132]  INFO instancemanager.HellboundManager: HellboundManager: Loaded 335 spawn entries.
+[11.09.14 12:05:23:132]  INFO instancemanager.HellboundManager: HellboundManager: Spawned 0 mobs and NPCs according to the current Hellbound stage
+[11.09.14 12:05:23:133]  INFO instancemanager.HellboundManager: Hellbound Manager: Loaded
+[11.09.14 12:05:23:134]  INFO naia.NaiaTowerManager: Naia Core Manager: Loaded
+[11.09.14 12:05:23:135]  INFO instancemanager.HarnakUndegroundManager: Harnak Undeground Manager: Loaded
+[11.09.14 12:05:23:138]  INFO instancemanager.AwakingManager: Initializing: AwakingManager
+[11.09.14 12:05:23:138]  INFO instancemanager.AwakingManager: AwakingManager: Loaded 34 Awaking class for 43 normal class.
+[11.09.14 12:05:23:156]  INFO instancemanager.DimensionalRiftManager: DimensionalRiftManager: Loaded 13 room types with 112 rooms.
+[11.09.14 12:05:23:156]  INFO instancemanager.DimensionalRiftManager: DimensionalRiftManager: Loaded 300 dimensional rift spawns, 0 errors.
+[11.09.14 12:05:23:157]  INFO instancemanager.ToIManager: ToIManager: Loaded 1 RaidBoss(es) on spawn point
+[11.09.14 12:05:23:158]  INFO instancemanager.ParnassusManager: Parnasus Manager: Loaded
+[11.09.14 12:05:23:162]  INFO tables.SubClassTable: SubClassTable: Loaded 171 sub-classes variations.
+[11.09.14 12:05:23:164]  INFO instancemanager.SoAManager: SoA Manager: Loaded 0 stage.
+[11.09.14 12:05:23:165]  INFO instancemanager.SoDManager: Seed of Destruction Manager: Loaded
+[11.09.14 12:05:23:166]  INFO instancemanager.SoHManager: Seed of Hellfire Manager: Loaded.
+[11.09.14 12:05:23:191]  INFO instancemanager.SpawnManager: SpawnManager: spawned 1000 npc for group: soh_all1
+[11.09.14 12:05:23:198]  INFO instancemanager.SpawnManager: SpawnManager: spawned 1348 npc; spawns: 1348; group: soh_all1
+[11.09.14 12:05:23:199]  INFO instancemanager.SoIManager: Seed of Infinity Manager: Loaded. Current stage is: 1
+[11.09.14 12:05:23:199]  INFO instancemanager.SpawnManager: SpawnManager: spawned 4 npc; spawns: 4; group: soi_world_mouths
+[11.09.14 12:05:23:200]  INFO instancemanager.SpawnManager: SpawnManager: spawned 1 npc; spawns: 1; group: soi_world_abyssgaze2
+[11.09.14 12:05:23:200]  INFO instancemanager.KaynakVillageManager: Kaynak Village Manager: Loaded
+[11.09.14 12:05:23:201]  INFO instancemanager.ChaosInviteManager: ChaosInviteManager: Loaded.
+[11.09.14 12:05:23:204]  INFO instancemanager.InstanceHistoryManager: InstanceHistoryManager: Loaded 1 party histories.
+[11.09.14 12:05:23:205]  INFO instancemanager.InstanceHistoryManager: InstanceHistoryManager: Loaded 1 characters in  histories.
+[11.09.14 12:05:23:208]  INFO gameserver.Shutdown: Scheduled server restart in 16h 54m 37s.
+[11.09.14 12:05:23:208]  INFO gameserver.GameServer: GameServer Started
+[11.09.14 12:05:23:208]  INFO gameserver.GameServer: Maximum Numbers of Connected Players: 3000
+[11.09.14 12:05:23:313]  INFO loginservercon.LoginServerCommunication: Connecting to loginserver on 127.0.0.1:9014
+[11.09.14 12:05:23:314]  INFO gameserver.GameServer: =================================================
+[11.09.14 12:05:23:317]  INFO gameserver.GameServer: AllowedMemory: ........... 2796544 KB
+[11.09.14 12:05:23:317]  INFO gameserver.GameServer:      Allocated: .......... 1554432 KB (55.584%)
+[11.09.14 12:05:23:317]  INFO gameserver.GameServer:      Non-Allocated: ...... 1242112 KB (44.416%)
+[11.09.14 12:05:23:317]  INFO gameserver.GameServer: AllocatedMemory: ......... 1554432 KB
+[11.09.14 12:05:23:318]  INFO gameserver.GameServer:      Used: ............... 1212712 KB (43.3647%)
+[11.09.14 12:05:23:318]  INFO gameserver.GameServer:      Unused (cached): .... 341719 KB (12.2194%)
+[11.09.14 12:05:23:318]  INFO gameserver.GameServer: UseableMemory: ........... 1583831 KB (56.6353%)
+[11.09.14 12:05:23:318]  INFO gameserver.GameServer: =================================================
+[11.09.14 12:05:23:318]  INFO gameserver.GameServer: Server Loaded in 35 seconds
+[11.09.14 12:05:23:318]  INFO utils.Information: ==================#INFORMATION#==================
+[11.09.14 12:05:23:318]  INFO utils.Information: Chronicle:		Lindvior
+[11.09.14 12:05:23:319]  INFO utils.Information: Version:		PreRealised
+[11.09.14 12:05:23:319]  INFO utils.Information: Author:		HellsingProject
+[11.09.14 12:05:23:319]  INFO utils.Information: =================================================
+[11.09.14 12:05:23:339]  INFO lspackets.AuthResponse: Registered on loginserver as 1 [Bartz]
+[11.09.14 12:05:23:340]  INFO instancemanager.SpawnManager: SpawnManager: spawned 548 npc; spawns: 226; group: DAY
+[11.09.14 12:05:53:317]  INFO tasks.RestoreOfflineTraders: Restored 0 offline traders

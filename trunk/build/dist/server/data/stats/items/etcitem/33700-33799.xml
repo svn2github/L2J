@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "item.dtd">
+
+<list>
+	<etcitem id="33700" name="Неопознанный Убийца Драконов - для Возвратившегося Героя">
+		<!-- Неопознанный Убийца Драконов. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: двуручный меч) -->
+		<set name="icon" value="icon.weapon_dragon_slayer_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="A"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="0"/>
+
+		<skills>
+			<skill id="12985" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="33701" name="Неопознанный Пронзатель Душ - для Возвратившегося Героя">
+		<!-- Неопознанный Пронзатель Душ. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: лук) -->
+		<set name="icon" value="icon.weapon_soul_bow_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="A"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="0"/>
+
+		<skills>
+			<skill id="12986" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="33702" name="Неопознанный Элизиум - для Возвратившегося Героя">
+		<!-- Неопознанный Элизиум. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: одноручное дробящее оружие) -->
+		<set name="icon" value="icon.weapon_elysian_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="A"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="0"/>
+
+		<skills>
+			<skill id="12987" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="33703" name="Неопознанный Пылающий Череп Дракона - для Возвратившегося Героя">
+		<!-- Неопознанный Пылающий Череп Дракона. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: одноручное дробящее оружие) -->
+		<set name="icon" value="icon.weapon_dragon_flame_head_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="A"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="0"/>
+
+		<skills>
+			<skill id="12988" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="33704" name="Неопознанная Ветвь Древа Жизни - для Возвратившегося Героя">
+		<!-- Неопознанная Ветвь Древа Жизни. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: двуручное дробящее оружие) -->
+		<set name="icon" value="icon.weapon_worldtrees_branch_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="A"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="0"/>
+
+		<skills>
+			<skill id="12989" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="33705" name="Неопознанный Крушитель Рока - для Возвратившегося Героя">
+		<!-- Неопознанный Крушитель Рока. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: двуручное дробящее оружие) -->
+		<set name="icon" value="icon.weapon_doom_crusher_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="A"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="0"/>
+
+		<skills>
+			<skill id="12990" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="33706" name="Неопознанная Глефа Таллума - для Возвратившегося Героя">
+		<!-- Неопознанная Глефа Таллума. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: древковое оружие) -->
+		<set name="icon" value="icon.weapon_tallum_glaive_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="A"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="0"/>
+
+		<skills>
+			<skill id="12991" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="33707" name="Неопознанная Погибель Дракона - для Возвратившегося Героя">
+		<!-- Неопознанная Погибель Дракона. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: кастеты) -->
+		<set name="icon" value="icon.weapon_dragon_grinder_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="A"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="0"/>
+
+		<skills>
+			<skill id="12992" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="33708" name="Неопознанный Дамаскус*Клинок Таллума - для Возвратившегося Героя">
+		<!-- Неопознанный Дамаскус*Клинок Таллума. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: двуручное оружие/парные кинжалы) -->
+		<set name="icon" value="icon.weapon_dual_sword_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="A"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="0"/>
+
+		<skills>
+			<skill id="12993" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="33709" name="Неопознанный Шлем Кошмаров - для Возвратившегося Героя">
+		<!-- Неопознанный Шлем Кошмаров. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: шлем) -->
+		<set name="icon" value="icon.armor_leather_helmet_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="A"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="0"/>
+
+		<skills>
+			<skill id="12994" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="33710" name="Неопознанный Щит Кошмаров - для Возвратившегося Героя">
+		<!-- Неопознанный Щит Кошмаров. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: щит) -->
+		<set name="icon" value="icon.shield_shield_of_nightmare_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="A"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="0"/>
+
+		<skills>
+			<skill id="12995" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="33711" name="Неопознанные Сапоги Кошмаров - для Возвратившегося Героя">
+		<!-- Неопознанные Сапоги Кошмаров. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: сапоги) -->
+		<set name="icon" value="icon.armor_t80_b_i02"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="A"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="0"/>
+
+		<skills>
+			<skill id="12996" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="33712" name="Неопознанная Мантия Кошмаров - для Возвратившегося Героя">
+		<!-- Неопознанная Мантия Кошмаров. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: полный магический доспех) -->
+		<set name="icon" value="icon.armor_t82_ul_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="A"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="0"/>
+
+		<skills>
+			<skill id="12997" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="33713" name="Неопознанный Кожаный Доспех Кошмаров - для Возвратившегося Героя">
+		<!-- Неопознанный Кожаный Доспех Кошмаров. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: полный легкий доспех) -->
+		<set name="icon" value="icon.armor_t81_ul_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="A"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="0"/>
+
+		<skills>
+			<skill id="12998" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="33714" name="Неопознанные Рукавицы Кошмаров - для Возвратившегося Героя">
+		<!-- Неопознанные Рукавицы Кошмаров. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: перчатки) -->
+		<set name="icon" value="icon.armor_t80_g_i02"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="A"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="0"/>
+
+		<skills>
+			<skill id="12999" level="1"/>	<!--Check Item-->
+		</skills>
+	</etcitem>
+	<etcitem id="33715" name="Неопознанный Доспех Кошмаров - для Возвратившегося Героя">
+		<!-- Неопознанный Доспех Кошмаров. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: полный тяжелый доспех) -->
+		<set name="icon" value="icon.armor_t80_ul_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="A"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="0"/>
+
+	</etcitem>
+	<etcitem id="33716" name="Неопознанный Лук Династии - для Возвратившегося Героя">
+		<!-- Неопознанный Лук Династии. Этот предмет можно опознать двойным щелчком мыши. Он может оказаться Обыкновенным или Скованным Предметом. (Тип: двуручное оружие/лук) -->
+		<set name="icon" value="icon.weapon_dynasty_bow_i00"/>
+		<set name="type" value="OTHER"/>
+		<set name="crystal_type" value="S"/>
+		<set name="class" value="OTHER"/>
+		<set name="price" value="0"/>
+
+	</etcitem>
+	<etcitem id="33748" name="Small Kukurin Pouch">
+		<!--Done By Darvin (c)Java - Team 2012-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="100"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="OTHER"/>
+	</etcitem>
+	<etcitem id="33749" name="Big Kukurin Pouch">
+		<!--Done By Darvin (c)Java - Team 2012-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="100"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="OTHER"/>
+	</etcitem>
+	<etcitem id="33764" name="Legacy Trickster Crossbow">
+		<!--Done By Darvin (c)Java - Team 2012-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="OTHER"/>
+	</etcitem>
+	<etcitem id="33766" name="Elixir of Blessing">
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="R"/>
+		<set name="weight" value="5"/>
+		<set name="reuse_delay" value="3000"/>
+		<set name="freightable" value="true"/>
+		<set name="stackable" value="true"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="type" value="OTHER"/>
+		<cond msgId="1508">
+			<not>
+				<player olympiad="true"/>
+			</not>
+		</cond>
+	</etcitem>
+	<etcitem id="33771" name="Aden Hero's Treasure Box">
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="freightable" value="true"/>
+		<set name="stackable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="type" value="OTHER"/>
+	</etcitem>
+	<etcitem id="33772" name="Aden Hero's Treasure Box">
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="freightable" value="true"/>
+		<set name="stackable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="type" value="OTHER"/>
+	</etcitem>
+	<etcitem id="33773" name="Aden Hero's Treasure Box">
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="freightable" value="true"/>
+		<set name="stackable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="type" value="OTHER"/>
+	</etcitem>
+	<etcitem id="33774" name="Soulshot: No Grade">
+		<!--Done By Darvin (c)Java - Team 2012-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="OTHER"/>
+	</etcitem>
+	<etcitem id="33775" name="Soulshot (D-Grade)">
+		<!--Done By Darvin (c)Java - Team 2012-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="OTHER"/>
+	</etcitem>
+	<etcitem id="33776" name="Soulshot (C-Grade)">
+		<!--Done By Darvin (c)Java - Team 2012-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="OTHER"/>
+	</etcitem>
+	<etcitem id="33777" name="Soulshot (B-Grade)">
+		<!--Done By Darvin (c)Java - Team 2012-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="OTHER"/>
+	</etcitem>
+	<etcitem id="33778" name="Soulshot (A-Grade)">
+		<!--Done By Darvin (c)Java - Team 2012-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="OTHER"/>
+	</etcitem>
+	<etcitem id="33779" name="Soulshot (S-Grade)">
+		<!--Done By Darvin (c)Java - Team 2012-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="OTHER"/>
+	</etcitem>
+	<etcitem id="33780" name="Soulshot (R-Grade)">
+		<!--Done By Darvin (c)Java - Team 2012-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="OTHER"/>
+	</etcitem>
+	<etcitem id="33781" name="Spiritshot: No Grade">
+		<!--Done By Darvin (c)Java - Team 2012-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="OTHER"/>
+	</etcitem>
+	<etcitem id="33782" name="Spiritshot (D-Grade)">
+		<!--Done By Darvin (c)Java - Team 2012-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="OTHER"/>
+	</etcitem>
+	<etcitem id="33783" name="Spiritshot (C-Grade)">
+		<!--Done By Darvin (c)Java - Team 2012-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="OTHER"/>
+	</etcitem>
+	<etcitem id="33784" name="Spiritshot (B-Grade)">
+		<!--Done By Darvin (c)Java - Team 2012-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="OTHER"/>
+	</etcitem>
+	<etcitem id="33785" name="Spiritshot (A-Grade)">
+		<!--Done By Darvin (c)Java - Team 2012-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="OTHER"/>
+	</etcitem>
+	<etcitem id="33786" name="Spiritshot (S-Grade)">
+		<!--Done By Darvin (c)Java - Team 2012-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="OTHER"/>
+	</etcitem>
+	<etcitem id="33787" name="Spiritshot (R-Grade)">
+		<!--Done By Darvin (c)Java - Team 2012-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="OTHER"/>
+	</etcitem>
+	<etcitem id="33788" name="Blessed Spiritshot: No Grade">
+		<!--Done By Darvin (c)Java - Team 2012-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="OTHER"/>
+	</etcitem>
+	<etcitem id="33789" name="Blessed Spiritshot (D-Grade)">
+		<!--Done By Darvin (c)Java - Team 2012-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="OTHER"/>
+	</etcitem>
+	<etcitem id="33790" name="Blessed Spiritshot (C-Grade)">
+		<!--Done By Darvin (c)Java - Team 2012-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="OTHER"/>
+	</etcitem>
+	<etcitem id="33791" name="Blessed Spiritshot (B-Grade)">
+		<!--Done By Darvin (c)Java - Team 2012-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="OTHER"/>
+	</etcitem>
+	<etcitem id="33792" name="Blessed Spiritshot (A-Grade)">
+		<!--Done By Darvin (c)Java - Team 2012-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="OTHER"/>
+	</etcitem>
+	<etcitem id="33793" name="Blessed Spiritshot (S-Grade)">
+		<!--Done By Darvin (c)Java - Team 2012-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="OTHER"/>
+	</etcitem>
+	<etcitem id="33794" name="Blessed Spiritshot (R-Grade)">
+		<!--Done By Darvin (c)Java - Team 2012-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="OTHER"/>
+	</etcitem>
+	<etcitem id="33795" name="Return Party Cake 3-Sheet Pack">
+		<!--Done By Darvin (c)Java - Team 2012-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="100"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="OTHER"/>
+	</etcitem>
+	<etcitem id="33796" name="Returning Hero's Gift Box">
+		<!--Done By Darvin (c)Java - Team 2012-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="100"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="OTHER"/>
+	</etcitem>
+	<etcitem id="33798" name="Greeting of Light">
+		<!--Done By Darvin (c)Java - Team 2012-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="OTHER"/>
+	</etcitem>
+	<etcitem id="33799" name="Fragment of Light">
+		<!--Done By Darvin (c)Java - Team 2012-->
+		<set name="class" value="OTHER"/>
+		<set name="ex_type" value="OTHER_ITEMS"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="OTHER"/>
+	</etcitem>
+</list>

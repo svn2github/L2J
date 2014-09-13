@@ -1,0 +1,448 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "enchant_items.dtd">
+<list>
+    <!-- Камни Обработки: Позволяет выполнять внешнюю обработку предметов. -->
+
+    <!--Author: kick -->
+    <!--Shifting types: NORMAL, BLESSED, FIXED, RESTORE-->
+    <!--Target types: WEAPON, ARMOR, ACCESSORY-->
+
+    <!--Weapon Appearance Stones-->
+    <!--Normal-->
+    <appearance_stone id="22402" target_type="WEAPON" shifting_type="NORMAL" grade="R,R95,R99" cost="800000"/>	<!--Weapon Appearance Stone (R-grade)-->
+    <appearance_stone id="22403" target_type="WEAPON" shifting_type="NORMAL" grade="S,S80,S84" cost="800000"/>	<!--Weapon Appearance Stone (S-grade)-->
+    <appearance_stone id="22404" target_type="WEAPON" shifting_type="NORMAL" grade="A" cost="800000"/>	<!--Weapon Appearance Stone (A-grade)-->
+    <appearance_stone id="22405" target_type="WEAPON" shifting_type="NORMAL" grade="B" cost="800000"/>	<!--Weapon Appearance Stone (B-grade)-->
+    <appearance_stone id="22406" target_type="WEAPON" shifting_type="NORMAL" grade="C" cost="800000"/>	<!--Weapon Appearance Stone (C-grade)-->
+    <appearance_stone id="22407" target_type="WEAPON" shifting_type="NORMAL" grade="D" cost="800000"/>	<!--Weapon Appearance Stone (D-grade)-->
+    <!--Blessed-->
+    <appearance_stone id="22408" target_type="WEAPON" shifting_type="BLESSED" grade="R,R95,R99"/>	<!--Blessed Weapon Appearance Stone (R-grade)-->
+    <appearance_stone id="22409" target_type="WEAPON" shifting_type="BLESSED" grade="S,S80,S84"/>	<!--Blessed Weapon Appearance Stone (S-grade)-->
+    <appearance_stone id="22410" target_type="WEAPON" shifting_type="BLESSED" grade="A"/>	<!--Blessed Weapon Appearance Stone (A-grade)-->
+    <appearance_stone id="22411" target_type="WEAPON" shifting_type="BLESSED" grade="B"/>	<!--Blessed Weapon Appearance Stone (B-grade)-->
+    <appearance_stone id="22412" target_type="WEAPON" shifting_type="BLESSED" grade="C"/>	<!--Blessed Weapon Appearance Stone (C-grade)-->
+    <appearance_stone id="22413" target_type="WEAPON" shifting_type="BLESSED" grade="D"/>	<!--Blessed Weapon Appearance Stone (D-grade)-->
+	    <!--Normal-->
+    <appearance_stone id="37379" target_type="WEAPON" shifting_type="NORMAL" grade="R,R95,R99" cost="800000"/>	<!--Weapon Appearance Stone (R-grade)-->
+    <appearance_stone id="37380" target_type="WEAPON" shifting_type="NORMAL" grade="S,S80,S84" cost="800000"/>	<!--Weapon Appearance Stone (S-grade)-->
+    <appearance_stone id="37381" target_type="WEAPON" shifting_type="NORMAL" grade="A" cost="800000"/>	<!--Weapon Appearance Stone (A-grade)-->
+    <appearance_stone id="37382" target_type="WEAPON" shifting_type="NORMAL" grade="B" cost="800000"/>	<!--Weapon Appearance Stone (B-grade)-->
+    <appearance_stone id="37383" target_type="WEAPON" shifting_type="NORMAL" grade="C" cost="800000"/>	<!--Weapon Appearance Stone (C-grade)-->
+    <appearance_stone id="37384" target_type="WEAPON" shifting_type="NORMAL" grade="D" cost="800000"/>	<!--Weapon Appearance Stone (D-grade)-->
+    <!--Blessed-->
+    <appearance_stone id="37385" target_type="WEAPON" shifting_type="BLESSED" grade="R,R95,R99"/>	<!--Blessed Weapon Appearance Stone (R-grade)-->
+    <appearance_stone id="37386" target_type="WEAPON" shifting_type="BLESSED" grade="S,S80,S84"/>	<!--Blessed Weapon Appearance Stone (S-grade)-->
+    <appearance_stone id="37387" target_type="WEAPON" shifting_type="BLESSED" grade="A"/>	<!--Blessed Weapon Appearance Stone (A-grade)-->
+    <appearance_stone id="37388" target_type="WEAPON" shifting_type="BLESSED" grade="B"/>	<!--Blessed Weapon Appearance Stone (B-grade)-->
+    <appearance_stone id="37389" target_type="WEAPON" shifting_type="BLESSED" grade="C"/>	<!--Blessed Weapon Appearance Stone (C-grade)-->
+    <appearance_stone id="37390" target_type="WEAPON" shifting_type="BLESSED" grade="D"/>	<!--Blessed Weapon Appearance Stone (D-grade)-->
+    <!--Restore-->
+    <appearance_stone id="22414" target_type="WEAPON" shifting_type="RESTORE" grade="R,R95,R99"/>	<!--Weapon Restoration Stone (R-grade)-->
+    <appearance_stone id="22415" target_type="WEAPON" shifting_type="RESTORE" grade="S,S80,S84"/>	<!--Weapon Restoration Stone (S-grade)-->
+    <appearance_stone id="22416" target_type="WEAPON" shifting_type="RESTORE" grade="A"/>	<!--Weapon Restoration Stone (A-grade)-->
+    <appearance_stone id="22417" target_type="WEAPON" shifting_type="RESTORE" grade="B"/>	<!--Weapon Restoration Stone (B-grade)-->
+    <appearance_stone id="22418" target_type="WEAPON" shifting_type="RESTORE" grade="C"/>	<!--Weapon Restoration Stone (C-grade)-->
+    <appearance_stone id="22419" target_type="WEAPON" shifting_type="RESTORE" grade="D"/>	<!--Weapon Restoration Stone (D-grade)-->
+    <!--Fixed-->
+    <!--<appearance_stone id="22420" target_type="WEAPON" shifting_type="FIXED" extract_id="22361" item_type="SWORD,MAGIC_SWORD"/>-->	<!--(test) Emerald Sword Weapon Appearance Stone-->
+    <appearance_stone id="22666" target_type="WEAPON" shifting_type="FIXED" extract_id="22650" item_type="SWORD,MAGIC_SWORD"/>	<!--Light Saber Appearance Stone-->
+    <appearance_stone id="22667" target_type="WEAPON" shifting_type="FIXED" extract_id="22651" item_type="DAGGER"/>	<!--Light Saber Dagger Appearance Stone-->
+    <appearance_stone id="22668" target_type="WEAPON" shifting_type="FIXED" extract_id="22652" item_type="BIG_SWORD"/>	<!--Light Saber Two-handed Sword Appearance Stone-->
+    <appearance_stone id="22669" target_type="WEAPON" shifting_type="FIXED" extract_id="22653" item_type="HAND_TO_HAND"/>	<!--Light Saber Fist Weapon Appearance Stone-->
+    <appearance_stone id="22670" target_type="WEAPON" shifting_type="FIXED" extract_id="22654" item_type="POLE"/>	<!--Light Saber Spear Appearance Stone-->
+    <appearance_stone id="22671" target_type="WEAPON" shifting_type="FIXED" extract_id="22655" item_type="BOW"/>	<!--Light Saber Bow Appearance Stone-->
+    <appearance_stone id="22672" target_type="WEAPON" shifting_type="FIXED" extract_id="22656" item_type="CROSSBOW"/>	<!--Light Saber Crossbow Appearance Stone-->
+    <appearance_stone id="22673" target_type="WEAPON" shifting_type="FIXED" extract_id="22657" item_type="BLUNT_WEAPON"/>	<!--Light Saber One-handed Blunt Appearance Stone-->
+    <appearance_stone id="22674" target_type="WEAPON" shifting_type="FIXED" extract_id="22658" item_type="BIG_BLUNT_WEAPON"/>	<!--Light Saber Two-handed Blunt Appearance Stone-->
+    <appearance_stone id="22675" target_type="WEAPON" shifting_type="FIXED" extract_id="22659" item_type="MAGIC_BLUNT_WEAPON"/>	<!--Light Saber One-handed Magic Blunt Appearance Stone-->
+    <appearance_stone id="22676" target_type="WEAPON" shifting_type="FIXED" extract_id="22660" item_type="BIG_MAGIC_BLUNT_WEAPON"/>	<!--Light Saber Two-handed Magic Blunt Appearance Stone-->
+    <appearance_stone id="22677" target_type="WEAPON" shifting_type="FIXED" extract_id="22661" item_type="DUAL_SWORD"/>	<!--Light Saber Dualsword Appearance Stone-->
+    <appearance_stone id="22678" target_type="WEAPON" shifting_type="FIXED" extract_id="22662" item_type="DUAL_DAGGER"/>	<!--Light Saber Dual Dagger Appearance Stone-->
+    <appearance_stone id="22679" target_type="WEAPON" shifting_type="FIXED" extract_id="22663" item_type="DUAL_BLUNT_WEAPON"/>	<!--Light Saber Dual Blunt Appearance Stone-->
+    <appearance_stone id="22727" target_type="WEAPON" shifting_type="FIXED" extract_id="22711" item_type="SWORD,MAGIC_SWORD"/>	<!--Japanese Sword Appearance Stone-->
+    <appearance_stone id="22728" target_type="WEAPON" shifting_type="FIXED" extract_id="22712" item_type="DAGGER"/>	<!--Japanese Dagger Appearance Stone-->
+    <appearance_stone id="22729" target_type="WEAPON" shifting_type="FIXED" extract_id="22713" item_type="BIG_SWORD"/>	<!--Japanese Long Sword Appearance Stone-->
+    <appearance_stone id="22730" target_type="WEAPON" shifting_type="FIXED" extract_id="22714" item_type="HAND_TO_HAND"/>	<!--Japanese Fist Weapon Appearance Stone-->
+    <appearance_stone id="22731" target_type="WEAPON" shifting_type="FIXED" extract_id="22715" item_type="POLE"/>	<!--Japanese Great Spear Appearance Stone-->
+    <appearance_stone id="22732" target_type="WEAPON" shifting_type="FIXED" extract_id="22716" item_type="BOW"/>	<!--Japanese Bow Appearance Stone-->
+    <appearance_stone id="22733" target_type="WEAPON" shifting_type="FIXED" extract_id="22717" item_type="CROSSBOW"/>	<!--Japanese Crossbow Appearance Stone-->
+    <appearance_stone id="22734" target_type="WEAPON" shifting_type="FIXED" extract_id="22718" item_type="BLUNT_WEAPON"/>	<!--Japanese Blunt Appearance Stone-->
+    <appearance_stone id="22735" target_type="WEAPON" shifting_type="FIXED" extract_id="22719" item_type="BIG_BLUNT_WEAPON"/>	<!--Japanese Giant Blunt Appearance Stone-->
+    <appearance_stone id="22736" target_type="WEAPON" shifting_type="FIXED" extract_id="22720" item_type="MAGIC_BLUNT_WEAPON"/>	<!--Japanese Magic Blunt Appearance Stone-->
+    <appearance_stone id="22737" target_type="WEAPON" shifting_type="FIXED" extract_id="22721" item_type="BIG_MAGIC_BLUNT_WEAPON"/>	<!--Japanese Giant Magic Blunt Appearance Stone-->
+    <appearance_stone id="22738" target_type="WEAPON" shifting_type="FIXED" extract_id="22722" item_type="DUAL_SWORD"/>	<!--Japanese Dualsword Appearance Stone-->
+    <appearance_stone id="22739" target_type="WEAPON" shifting_type="FIXED" extract_id="22723" item_type="DUAL_DAGGER"/>	<!--Japanese Double Dagger Appearance Stone-->
+    <appearance_stone id="22740" target_type="WEAPON" shifting_type="FIXED" extract_id="22724" item_type="DUAL_BLUNT_WEAPON"/>	<!--Japanese Double Blunt Appearance Stone-->
+
+    <!--Armor Appearance Stones-->
+    <!--Normal-->
+    <appearance_stone id="22682" target_type="WEAPON,ARMOR" shifting_type="NORMAL" grade="R,R95,R99" cost="125000"/>	<!--Armor Appearance Stone (R-grade)-->
+    <appearance_stone id="22683" target_type="WEAPON,ARMOR" shifting_type="NORMAL" grade="S,S80,S84" cost="125000"/>	<!--Armor Appearance Stone (S-grade)-->
+    <appearance_stone id="22684" target_type="WEAPON,ARMOR" shifting_type="NORMAL" grade="A" cost="125000"/>	<!--Armor Appearance Stone (A-grade)-->
+    <appearance_stone id="22685" target_type="WEAPON,ARMOR" shifting_type="NORMAL" grade="B" cost="125000"/>	<!--Armor Appearance Stone (B-grade)-->
+    <appearance_stone id="22686" target_type="WEAPON,ARMOR" shifting_type="NORMAL" grade="C" cost="125000"/>	<!--Armor Appearance Stone (C-grade)-->
+    <appearance_stone id="22687" target_type="WEAPON,ARMOR" shifting_type="NORMAL" grade="D" cost="125000"/>	<!--Armor Appearance Stone (D-grade)-->
+    <!--Blessed-->
+    <appearance_stone id="22688" target_type="WEAPON,ARMOR" shifting_type="BLESSED" grade="R,R95,R99"/>	<!--Blessed Armor Appearance Stone (R-grade)-->
+    <appearance_stone id="22689" target_type="WEAPON,ARMOR" shifting_type="BLESSED" grade="S,S80,S84"/>	<!--Blessed Armor Appearance Stone (S-grade)-->
+    <appearance_stone id="22690" target_type="WEAPON,ARMOR" shifting_type="BLESSED" grade="A"/>	<!--Blessed Armor Appearance Stone (A-grade)-->
+    <appearance_stone id="22691" target_type="WEAPON,ARMOR" shifting_type="BLESSED" grade="B"/>	<!--Blessed Armor Appearance Stone (B-grade)-->
+    <appearance_stone id="22692" target_type="WEAPON,ARMOR" shifting_type="BLESSED" grade="C"/>	<!--Blessed Armor Appearance Stone (C-grade)-->
+    <appearance_stone id="22693" target_type="WEAPON,ARMOR" shifting_type="BLESSED" grade="D"/>	<!--Blessed Armor Appearance Stone (D-grade)-->
+    <!--Restore-->
+    <appearance_stone id="22694" target_type="WEAPON,ARMOR" shifting_type="RESTORE" grade="R,R95,R99"/>	<!--Armor Restoration Stone (R-grade)-->
+    <appearance_stone id="22695" target_type="WEAPON,ARMOR" shifting_type="RESTORE" grade="S,S80,S84"/>	<!--Armor Restoration Stone (S-grade)-->
+    <appearance_stone id="22696" target_type="WEAPON,ARMOR" shifting_type="RESTORE" grade="A"/>	<!--Armor Restoration Stone (A-grade)-->
+    <appearance_stone id="22697" target_type="WEAPON,ARMOR" shifting_type="RESTORE" grade="B"/>	<!--Armor Restoration Stone (B-grade)-->
+    <appearance_stone id="22698" target_type="WEAPON,ARMOR" shifting_type="RESTORE" grade="C"/>	<!--Armor Restoration Stone (C-grade)-->
+    <appearance_stone id="22699" target_type="WEAPON,ARMOR" shifting_type="RESTORE" grade="D"/>	<!--Armor Restoration Stone (D-grade)-->
+    <!--Restore-->
+    <appearance_stone id="22700" target_type="WEAPON,ARMOR" shifting_type="RESTORE" grade="R,R95,R99"/>	<!--Equipment Restoration Stone (R-grade)-->
+    <appearance_stone id="22701" target_type="WEAPON,ARMOR" shifting_type="RESTORE" grade="S,S80,S84"/>	<!--Equipment Restoration Stone (S-grade)-->
+    <appearance_stone id="22702" target_type="WEAPON,ARMOR" shifting_type="RESTORE" grade="A"/>	<!--Equipment Restoration Stone (A-grade)-->
+    <appearance_stone id="22703" target_type="WEAPON,ARMOR" shifting_type="RESTORE" grade="B"/>	<!--Equipment Restoration Stone (B-grade)-->
+    <appearance_stone id="22704" target_type="WEAPON,ARMOR" shifting_type="RESTORE" grade="C"/>	<!--Equipment Restoration Stone (C-grade)-->
+    <appearance_stone id="22705" target_type="WEAPON,ARMOR" shifting_type="RESTORE" grade="D"/>	<!--Equipment Restoration Stone (D-grade)-->
+    <!--Fixed-->
+    <!--<appearance_stone id="22706" target_type="WEAPON,ARMOR" shifting_type="FIXED" extract_id="" item_type="UPPER_PIECE,FULL_BODY"/>-->	<!--(Test) Formal Wear Change Appearance Stone-->
+    <!--<appearance_stone id="22707" target_type="WEAPON,ARMOR" shifting_type="FIXED" extract_id="" item_type="UPPER_PIECE,FULL_BODY"/>-->	<!--(Test) Immortal Top Appearance Stone-->
+    <appearance_stone id="22680" target_type="WEAPON,ARMOR" shifting_type="FIXED" extract_id="22664" item_type="SIGIL"/>	<!--Light Saber SIGIL Appearance Stone-->
+    <appearance_stone id="22681" target_type="WEAPON,ARMOR" shifting_type="FIXED" extract_id="22665" item_type="SIGIL"/>	<!--Light Saber Sigil Appearance Stone-->
+    <appearance_stone id="22741" target_type="WEAPON,ARMOR" shifting_type="FIXED" extract_id="22725" item_type="SIGIL"/>	<!--Japanese SIGIL Appearance Stone-->
+    <appearance_stone id="22742" target_type="WEAPON,ARMOR" shifting_type="FIXED" extract_id="22726" item_type="SIGIL"/>	<!--Japanese Sigil Appearance Stone-->
+    <appearance_stone id="23172" target_type="WEAPON,ARMOR" shifting_type="FIXED" extract_id="23171" item_type="UPPER_PIECE,FULL_BODY"/>	<!--Beach Swimsuit Appearance Stone-->
+    <appearance_stone id="23234" target_type="WEAPON,ARMOR" shifting_type="FIXED" extract_id="23173" item_type="UPPER_PIECE,FULL_BODY"/>	<!--Alluring Swimsuit Appearance Stone-->
+    <appearance_stone id="23235" target_type="WEAPON,ARMOR" shifting_type="FIXED" extract_id="23226" item_type="UPPER_PIECE,FULL_BODY"/>	<!--Seductive Swimsuit Appearance Stone-->
+    <appearance_stone id="23486" target_type="WEAPON,ARMOR" shifting_type="FIXED" extract_id="23485" item_type="UPPER_PIECE,FULL_BODY"/>	<!--Santa Outfit Appearance Stone-->
+    <appearance_stone id="23487" target_type="WEAPON,ARMOR" shifting_type="FIXED" extract_id="23485" item_type="UPPER_PIECE,FULL_BODY"/>	<!--Santa Outfit Appearance Stone-->
+
+    <!--Accessory Appearance Stones-->
+    <!--Normal-->
+    <appearance_stone id="22708" target_type="ACCESSORY" shifting_type="NORMAL" cost="125000"/>	<!--Accessory Appearance Stone-->
+    <!--Blessed-->
+    <appearance_stone id="22709" target_type="ACCESSORY" shifting_type="BLESSED"/>	<!--Accessory Appearance Stone-->
+    <!--Restore-->
+    <appearance_stone id="22882" target_type="ACCESSORY" shifting_type="RESTORE"/>	<!--Hair Accessory Appearance Restoration Stone-->
+	
+	<appearance_stone id="36574" target_type="WEAPON" shifting_type="NORMAL" grade="R,R95,R99" cost="800000"/>	<!--Weapon Appearance Stone (R-grade)-->
+    <appearance_stone id="36575" target_type="WEAPON" shifting_type="NORMAL" grade="S,S80,S84" cost="800000"/>	<!--Weapon Appearance Stone (S-grade)-->
+    <appearance_stone id="36576" target_type="WEAPON" shifting_type="NORMAL" grade="A" cost="800000"/>	<!--Weapon Appearance Stone (A-grade)-->
+    <appearance_stone id="36577" target_type="WEAPON" shifting_type="NORMAL" grade="B" cost="800000"/>	<!--Weapon Appearance Stone (B-grade)-->
+    <appearance_stone id="36578" target_type="WEAPON" shifting_type="NORMAL" grade="C" cost="800000"/>	<!--Weapon Appearance Stone (C-grade)-->
+    <appearance_stone id="36579" target_type="WEAPON" shifting_type="NORMAL" grade="D" cost="800000"/>	<!--Weapon Appearance Stone (D-grade)-->
+    <!--Blessed-->
+    <appearance_stone id="36580" target_type="WEAPON" shifting_type="BLESSED" grade="R,R95,R99"/>	<!--Blessed Weapon Appearance Stone (R-grade)-->
+    <appearance_stone id="36581" target_type="WEAPON" shifting_type="BLESSED" grade="S,S80,S84"/>	<!--Blessed Weapon Appearance Stone (S-grade)-->
+    <appearance_stone id="36582" target_type="WEAPON" shifting_type="BLESSED" grade="A"/>	<!--Blessed Weapon Appearance Stone (A-grade)-->
+    <appearance_stone id="36583" target_type="WEAPON" shifting_type="BLESSED" grade="B"/>	<!--Blessed Weapon Appearance Stone (B-grade)-->
+    <appearance_stone id="36584" target_type="WEAPON" shifting_type="BLESSED" grade="C"/>	<!--Blessed Weapon Appearance Stone (C-grade)-->
+    <appearance_stone id="36585" target_type="WEAPON" shifting_type="BLESSED" grade="D"/>	<!--Blessed Weapon Appearance Stone (D-grade)-->
+	<!--Armor Appearance Stones-->
+    <!--Normal-->
+    <appearance_stone id="36586" target_type="WEAPON,ARMOR" shifting_type="NORMAL" grade="R,R95,R99" cost="125000"/>	<!--Armor Appearance Stone (R-grade)-->
+    <appearance_stone id="36587" target_type="WEAPON,ARMOR" shifting_type="NORMAL" grade="S,S80,S84" cost="125000"/>	<!--Armor Appearance Stone (S-grade)-->
+    <appearance_stone id="36588" target_type="WEAPON,ARMOR" shifting_type="NORMAL" grade="A" cost="125000"/>	<!--Armor Appearance Stone (A-grade)-->
+    <appearance_stone id="36589" target_type="WEAPON,ARMOR" shifting_type="NORMAL" grade="B" cost="125000"/>	<!--Armor Appearance Stone (B-grade)-->
+    <appearance_stone id="36590" target_type="WEAPON,ARMOR" shifting_type="NORMAL" grade="C" cost="125000"/>	<!--Armor Appearance Stone (C-grade)-->
+    <appearance_stone id="36591" target_type="WEAPON,ARMOR" shifting_type="NORMAL" grade="D" cost="125000"/>	<!--Armor Appearance Stone (D-grade)-->
+    <!--Blessed-->
+    <appearance_stone id="36592" target_type="WEAPON,ARMOR" shifting_type="BLESSED" grade="R,R95,R99"/>	<!--Blessed Armor Appearance Stone (R-grade)-->
+    <appearance_stone id="36593" target_type="WEAPON,ARMOR" shifting_type="BLESSED" grade="S,S80,S84"/>	<!--Blessed Armor Appearance Stone (S-grade)-->
+    <appearance_stone id="36594" target_type="WEAPON,ARMOR" shifting_type="BLESSED" grade="A"/>	<!--Blessed Armor Appearance Stone (A-grade)-->
+    <appearance_stone id="36595" target_type="WEAPON,ARMOR" shifting_type="BLESSED" grade="B"/>	<!--Blessed Armor Appearance Stone (B-grade)-->
+    <appearance_stone id="36596" target_type="WEAPON,ARMOR" shifting_type="BLESSED" grade="C"/>	<!--Blessed Armor Appearance Stone (C-grade)-->
+    <appearance_stone id="36597" target_type="WEAPON,ARMOR" shifting_type="BLESSED" grade="D"/>	<!--Blessed Armor Appearance Stone (D-grade)-->
+	<!--Restore-->
+    <appearance_stone id="36598" target_type="WEAPON,ARMOR" shifting_type="RESTORE" grade="R,R95,R99"/>	<!--Equipment Restoration Stone (R-grade)-->
+    <appearance_stone id="36599" target_type="WEAPON,ARMOR" shifting_type="RESTORE" grade="S,S80,S84"/>	<!--Equipment Restoration Stone (S-grade)-->
+    <appearance_stone id="36600" target_type="WEAPON,ARMOR" shifting_type="RESTORE" grade="A"/>	<!--Equipment Restoration Stone (A-grade)-->
+    <appearance_stone id="36601" target_type="WEAPON,ARMOR" shifting_type="RESTORE" grade="B"/>	<!--Equipment Restoration Stone (B-grade)-->
+    <appearance_stone id="36602" target_type="WEAPON,ARMOR" shifting_type="RESTORE" grade="C"/>	<!--Equipment Restoration Stone (C-grade)-->
+    <appearance_stone id="36603" target_type="WEAPON,ARMOR" shifting_type="RESTORE" grade="D"/>	<!--Equipment Restoration Stone (D-grade)-->
+	<!--Accessory Appearance Stones-->
+    <!--Normal-->
+    <appearance_stone id="36604" target_type="ACCESSORY" shifting_type="NORMAL" cost="125000"/>	<!--Accessory Appearance Stone-->
+    <!--Blessed-->
+    <appearance_stone id="36605" target_type="ACCESSORY" shifting_type="BLESSED"/>	<!--Accessory Appearance Stone-->
+	
+	<appearance_stone id="36606" target_type="WEAPON" shifting_type="NORMAL" grade="R,R95,R99" cost="800000"/>	<!--Weapon Appearance Stone (R-grade)-->
+    <appearance_stone id="36607" target_type="WEAPON" shifting_type="NORMAL" grade="S,S80,S84" cost="800000"/>	<!--Weapon Appearance Stone (S-grade)-->
+    <appearance_stone id="36608" target_type="WEAPON" shifting_type="NORMAL" grade="A" cost="800000"/>	<!--Weapon Appearance Stone (A-grade)-->
+    <appearance_stone id="36609" target_type="WEAPON" shifting_type="NORMAL" grade="B" cost="800000"/>	<!--Weapon Appearance Stone (B-grade)-->
+    <appearance_stone id="36610" target_type="WEAPON" shifting_type="NORMAL" grade="C" cost="800000"/>	<!--Weapon Appearance Stone (C-grade)-->
+    <appearance_stone id="36611" target_type="WEAPON" shifting_type="NORMAL" grade="D" cost="800000"/>	<!--Weapon Appearance Stone (D-grade)-->
+    <!--Blessed-->
+    <appearance_stone id="36612" target_type="WEAPON" shifting_type="BLESSED" grade="R,R95,R99"/>	<!--Blessed Weapon Appearance Stone (R-grade)-->
+    <appearance_stone id="36613" target_type="WEAPON" shifting_type="BLESSED" grade="S,S80,S84"/>	<!--Blessed Weapon Appearance Stone (S-grade)-->
+    <appearance_stone id="36614" target_type="WEAPON" shifting_type="BLESSED" grade="A"/>	<!--Blessed Weapon Appearance Stone (A-grade)-->
+    <appearance_stone id="36615" target_type="WEAPON" shifting_type="BLESSED" grade="B"/>	<!--Blessed Weapon Appearance Stone (B-grade)-->
+    <appearance_stone id="36616" target_type="WEAPON" shifting_type="BLESSED" grade="C"/>	<!--Blessed Weapon Appearance Stone (C-grade)-->
+    <appearance_stone id="36617" target_type="WEAPON" shifting_type="BLESSED" grade="D"/>	<!--Blessed Weapon Appearance Stone (D-grade)-->
+	
+	<!--Armor Appearance Stones-->
+    <!--Normal-->
+    <appearance_stone id="36618" target_type="WEAPON,ARMOR" shifting_type="NORMAL" grade="R,R95,R99" cost="125000"/>	<!--Armor Appearance Stone (R-grade)-->
+    <appearance_stone id="36619" target_type="WEAPON,ARMOR" shifting_type="NORMAL" grade="S,S80,S84" cost="125000"/>	<!--Armor Appearance Stone (S-grade)-->
+    <appearance_stone id="36620" target_type="WEAPON,ARMOR" shifting_type="NORMAL" grade="A" cost="125000"/>	<!--Armor Appearance Stone (A-grade)-->
+    <appearance_stone id="36621" target_type="WEAPON,ARMOR" shifting_type="NORMAL" grade="B" cost="125000"/>	<!--Armor Appearance Stone (B-grade)-->
+    <appearance_stone id="36622" target_type="WEAPON,ARMOR" shifting_type="NORMAL" grade="C" cost="125000"/>	<!--Armor Appearance Stone (C-grade)-->
+    <appearance_stone id="36623" target_type="WEAPON,ARMOR" shifting_type="NORMAL" grade="D" cost="125000"/>	<!--Armor Appearance Stone (D-grade)-->
+    <!--Blessed-->
+    <appearance_stone id="36624" target_type="WEAPON,ARMOR" shifting_type="BLESSED" grade="R,R95,R99"/>	<!--Blessed Armor Appearance Stone (R-grade)-->
+    <appearance_stone id="36625" target_type="WEAPON,ARMOR" shifting_type="BLESSED" grade="S,S80,S84"/>	<!--Blessed Armor Appearance Stone (S-grade)-->
+    <appearance_stone id="36626" target_type="WEAPON,ARMOR" shifting_type="BLESSED" grade="A"/>	<!--Blessed Armor Appearance Stone (A-grade)-->
+    <appearance_stone id="36627" target_type="WEAPON,ARMOR" shifting_type="BLESSED" grade="B"/>	<!--Blessed Armor Appearance Stone (B-grade)-->
+    <appearance_stone id="36628" target_type="WEAPON,ARMOR" shifting_type="BLESSED" grade="C"/>	<!--Blessed Armor Appearance Stone (C-grade)-->
+    <appearance_stone id="36629" target_type="WEAPON,ARMOR" shifting_type="BLESSED" grade="D"/>	<!--Blessed Armor Appearance Stone (D-grade)-->
+	
+	<appearance_stone id="36630" target_type="ACCESSORY" shifting_type="NORMAL" cost="125000"/>	<!--Accessory Appearance Stone-->
+    <!--Blessed-->
+    <appearance_stone id="36631" target_type="ACCESSORY" shifting_type="BLESSED"/>	<!--Accessory Appearance Stone-->
+	
+	<appearance_stone id="36648" target_type="WEAPON" shifting_type="FIXED" extract_id="22650" item_type="SWORD,MAGIC_SWORD"/>	<!--Light Saber Appearance Stone-->
+    <appearance_stone id="36649" target_type="WEAPON" shifting_type="FIXED" extract_id="22651" item_type="DAGGER"/>	<!--Light Saber Dagger Appearance Stone-->
+    <appearance_stone id="36650" target_type="WEAPON" shifting_type="FIXED" extract_id="22652" item_type="BIG_SWORD"/>	<!--Light Saber Two-handed Sword Appearance Stone-->
+    <appearance_stone id="36651" target_type="WEAPON" shifting_type="FIXED" extract_id="22653" item_type="HAND_TO_HAND"/>	<!--Light Saber Fist Weapon Appearance Stone-->
+    <appearance_stone id="36652" target_type="WEAPON" shifting_type="FIXED" extract_id="22654" item_type="POLE"/>	<!--Light Saber Spear Appearance Stone-->
+    <appearance_stone id="36653" target_type="WEAPON" shifting_type="FIXED" extract_id="22655" item_type="BOW"/>	<!--Light Saber Bow Appearance Stone-->
+    <appearance_stone id="36654" target_type="WEAPON" shifting_type="FIXED" extract_id="22656" item_type="CROSSBOW"/>	<!--Light Saber Crossbow Appearance Stone-->
+    <appearance_stone id="36655" target_type="WEAPON" shifting_type="FIXED" extract_id="22657" item_type="BLUNT_WEAPON"/>	<!--Light Saber One-handed Blunt Appearance Stone-->
+    <appearance_stone id="36656" target_type="WEAPON" shifting_type="FIXED" extract_id="22658" item_type="BIG_BLUNT_WEAPON"/>	<!--Light Saber Two-handed Blunt Appearance Stone-->
+    <appearance_stone id="36657" target_type="WEAPON" shifting_type="FIXED" extract_id="22659" item_type="MAGIC_BLUNT_WEAPON"/>	<!--Light Saber One-handed Magic Blunt Appearance Stone-->
+    <appearance_stone id="36658" target_type="WEAPON" shifting_type="FIXED" extract_id="22660" item_type="BIG_MAGIC_BLUNT_WEAPON"/>	<!--Light Saber Two-handed Magic Blunt Appearance Stone-->
+    <appearance_stone id="36659" target_type="WEAPON" shifting_type="FIXED" extract_id="22661" item_type="DUAL_SWORD"/>	<!--Light Saber Dualsword Appearance Stone-->
+    <appearance_stone id="36660" target_type="WEAPON" shifting_type="FIXED" extract_id="22662" item_type="DUAL_DAGGER"/>	<!--Light Saber Dual Dagger Appearance Stone-->
+    <appearance_stone id="36661" target_type="WEAPON" shifting_type="FIXED" extract_id="22663" item_type="DUAL_BLUNT_WEAPON"/>	<!--Light Saber Dual Blunt Appearance Stone-->
+	<appearance_stone id="36662" target_type="WEAPON,ARMOR" shifting_type="FIXED" extract_id="22664" item_type="SIGIL"/>	<!--Light Saber SIGIL Appearance Stone-->
+    <appearance_stone id="36663" target_type="WEAPON,ARMOR" shifting_type="FIXED" extract_id="22665" item_type="SIGIL"/>	<!--Light Saber Sigil Appearance Stone-->
+	
+	<appearance_stone id="37067" target_type="WEAPON" shifting_type="FIXED" extract_id="37047" item_type="SWORD"/>
+	<appearance_stone id="37068" target_type="WEAPON" shifting_type="FIXED" extract_id="37048" item_type="SWORD"/>
+	<appearance_stone id="37069" target_type="WEAPON" shifting_type="FIXED" extract_id="37049" item_type="SWORD"/>
+	<appearance_stone id="37070" target_type="WEAPON" shifting_type="FIXED" extract_id="37050" item_type="DUAL_SWORD"/>
+	<appearance_stone id="37071" target_type="WEAPON" shifting_type="FIXED" extract_id="37051" item_type="MAGIC_SWORD"/>
+	<appearance_stone id="37072" target_type="WEAPON" shifting_type="FIXED" extract_id="37052" item_type="BLUNT_WEAPON"/>
+	<appearance_stone id="37073" target_type="WEAPON" shifting_type="FIXED" extract_id="37053" item_type="BLUNT_WEAPON"/>
+	<appearance_stone id="37074" target_type="WEAPON" shifting_type="FIXED" extract_id="37054" item_type="DUAL_SWORD"/>
+	<appearance_stone id="37075" target_type="WEAPON" shifting_type="FIXED" extract_id="37055" item_type="DAGGER"/>
+	<appearance_stone id="37076" target_type="WEAPON" shifting_type="FIXED" extract_id="37056" item_type="DUAL_DAGGER"/>
+	<appearance_stone id="37077" target_type="WEAPON" shifting_type="FIXED" extract_id="37057" item_type="SWORD"/>
+	<appearance_stone id="37078" target_type="WEAPON" shifting_type="FIXED" extract_id="37058" item_type="POLE"/>
+	<appearance_stone id="37079" target_type="WEAPON" shifting_type="FIXED" extract_id="37059" item_type="BIG_BLUNT_WEAPON"/>
+	<appearance_stone id="37080" target_type="WEAPON" shifting_type="FIXED" extract_id="37060" item_type="BIG_BLUNT_WEAPON"/>
+	<appearance_stone id="37081" target_type="WEAPON" shifting_type="FIXED" extract_id="37061" item_type="HAND_TO_HAND"/>
+	<appearance_stone id="37082" target_type="WEAPON" shifting_type="FIXED" extract_id="37062" item_type="BOW"/>
+	<appearance_stone id="37083" target_type="WEAPON" shifting_type="FIXED" extract_id="37063" item_type="BOW"/>
+	<appearance_stone id="37084" target_type="WEAPON" shifting_type="FIXED" extract_id="37064" item_type="CROSSBOW"/>
+	<appearance_stone id="37085" target_type="WEAPON,ARMOR" shifting_type="FIXED" extract_id="37065" item_type="SIGIL"/>
+	<appearance_stone id="37086" target_type="WEAPON,ARMOR" shifting_type="FIXED" extract_id="37066" item_type="SIGIL"/>
+	
+	<appearance_stone id="37400" target_type="WEAPON" shifting_type="FIXED" extract_id="22650" item_type="SWORD,MAGIC_SWORD"/>	<!--Light Saber Appearance Stone-->
+    <appearance_stone id="37401" target_type="WEAPON" shifting_type="FIXED" extract_id="22651" item_type="DAGGER"/>	<!--Light Saber Dagger Appearance Stone-->
+    <appearance_stone id="37402" target_type="WEAPON" shifting_type="FIXED" extract_id="22652" item_type="BIG_SWORD"/>	<!--Light Saber Two-handed Sword Appearance Stone-->
+    <appearance_stone id="37403" target_type="WEAPON" shifting_type="FIXED" extract_id="22653" item_type="HAND_TO_HAND"/>	<!--Light Saber Fist Weapon Appearance Stone-->
+    <appearance_stone id="37404" target_type="WEAPON" shifting_type="FIXED" extract_id="22654" item_type="POLE"/>	<!--Light Saber Spear Appearance Stone-->
+    <appearance_stone id="37405" target_type="WEAPON" shifting_type="FIXED" extract_id="22655" item_type="BOW"/>	<!--Light Saber Bow Appearance Stone-->
+    <appearance_stone id="37406" target_type="WEAPON" shifting_type="FIXED" extract_id="22656" item_type="CROSSBOW"/>	<!--Light Saber Crossbow Appearance Stone-->
+    <appearance_stone id="37407" target_type="WEAPON" shifting_type="FIXED" extract_id="22657" item_type="BLUNT_WEAPON"/>	<!--Light Saber One-handed Blunt Appearance Stone-->
+    <appearance_stone id="37408" target_type="WEAPON" shifting_type="FIXED" extract_id="22658" item_type="BIG_BLUNT_WEAPON"/>	<!--Light Saber Two-handed Blunt Appearance Stone-->
+    <appearance_stone id="37409" target_type="WEAPON" shifting_type="FIXED" extract_id="22659" item_type="MAGIC_BLUNT_WEAPON"/>	<!--Light Saber One-handed Magic Blunt Appearance Stone-->
+    <appearance_stone id="37410" target_type="WEAPON" shifting_type="FIXED" extract_id="22660" item_type="BIG_MAGIC_BLUNT_WEAPON"/>	<!--Light Saber Two-handed Magic Blunt Appearance Stone-->
+    <appearance_stone id="37411" target_type="WEAPON" shifting_type="FIXED" extract_id="22661" item_type="DUAL_SWORD"/>	<!--Light Saber Dualsword Appearance Stone-->
+    <appearance_stone id="37412" target_type="WEAPON" shifting_type="FIXED" extract_id="22662" item_type="DUAL_DAGGER"/>	<!--Light Saber Dual Dagger Appearance Stone-->
+    <appearance_stone id="37413" target_type="WEAPON" shifting_type="FIXED" extract_id="22663" item_type="DUAL_BLUNT_WEAPON"/>	<!--Light Saber Dual Blunt Appearance Stone-->
+	<appearance_stone id="37414" target_type="WEAPON,ARMOR" shifting_type="FIXED" extract_id="22664" item_type="SIGIL"/>	<!--Light Saber SIGIL Appearance Stone-->
+    <appearance_stone id="37415" target_type="WEAPON,ARMOR" shifting_type="FIXED" extract_id="22665" item_type="SIGIL"/>	<!--Light Saber Sigil Appearance Stone-->
+	
+	<appearance_stone id="37416" target_type="WEAPON" shifting_type="FIXED" extract_id="22650" item_type="SWORD,MAGIC_SWORD"/>	<!--Light Saber Appearance Stone-->
+    <appearance_stone id="37417" target_type="WEAPON" shifting_type="FIXED" extract_id="22651" item_type="DAGGER"/>	<!--Light Saber Dagger Appearance Stone-->
+    <appearance_stone id="37418" target_type="WEAPON" shifting_type="FIXED" extract_id="22652" item_type="BIG_SWORD"/>	<!--Light Saber Two-handed Sword Appearance Stone-->
+    <appearance_stone id="37419" target_type="WEAPON" shifting_type="FIXED" extract_id="22653" item_type="HAND_TO_HAND"/>	<!--Light Saber Fist Weapon Appearance Stone-->
+    <appearance_stone id="37420" target_type="WEAPON" shifting_type="FIXED" extract_id="22654" item_type="POLE"/>	<!--Light Saber Spear Appearance Stone-->
+    <appearance_stone id="37421" target_type="WEAPON" shifting_type="FIXED" extract_id="22655" item_type="BOW"/>	<!--Light Saber Bow Appearance Stone-->
+    <appearance_stone id="37422" target_type="WEAPON" shifting_type="FIXED" extract_id="22656" item_type="CROSSBOW"/>	<!--Light Saber Crossbow Appearance Stone-->
+    <appearance_stone id="37423" target_type="WEAPON" shifting_type="FIXED" extract_id="22657" item_type="BLUNT_WEAPON"/>	<!--Light Saber One-handed Blunt Appearance Stone-->
+    <appearance_stone id="37424" target_type="WEAPON" shifting_type="FIXED" extract_id="22658" item_type="BIG_BLUNT_WEAPON"/>	<!--Light Saber Two-handed Blunt Appearance Stone-->
+    <appearance_stone id="37425" target_type="WEAPON" shifting_type="FIXED" extract_id="22659" item_type="MAGIC_BLUNT_WEAPON"/>	<!--Light Saber One-handed Magic Blunt Appearance Stone-->
+    <appearance_stone id="37426" target_type="WEAPON" shifting_type="FIXED" extract_id="22660" item_type="BIG_MAGIC_BLUNT_WEAPON"/>	<!--Light Saber Two-handed Magic Blunt Appearance Stone-->
+    <appearance_stone id="37427" target_type="WEAPON" shifting_type="FIXED" extract_id="22661" item_type="DUAL_SWORD"/>	<!--Light Saber Dualsword Appearance Stone-->
+    <appearance_stone id="37428" target_type="WEAPON" shifting_type="FIXED" extract_id="22662" item_type="DUAL_DAGGER"/>	<!--Light Saber Dual Dagger Appearance Stone-->
+    <appearance_stone id="37429" target_type="WEAPON" shifting_type="FIXED" extract_id="22663" item_type="DUAL_BLUNT_WEAPON"/>	<!--Light Saber Dual Blunt Appearance Stone-->
+	<appearance_stone id="37430" target_type="WEAPON,ARMOR" shifting_type="FIXED" extract_id="22664" item_type="SIGIL"/>	<!--Light Saber SIGIL Appearance Stone-->
+    <appearance_stone id="37431" target_type="WEAPON,ARMOR" shifting_type="FIXED" extract_id="22665" item_type="SIGIL"/>	<!--Light Saber Sigil Appearance Stone-->
+	
+	<!--Ninja Appearance Stones-->
+	<appearance_stone id="23189" target_type="WEAPON,ARMOR" shifting_type="FIXED" extract_id="23179" item_type="UPPER_PIECE,FULL_BODY"/>
+	<appearance_stone id="23190" target_type="WEAPON,ARMOR" shifting_type="FIXED" extract_id="23180" item_type="LOWER_PIECE"/>
+	<appearance_stone id="23191" target_type="WEAPON,ARMOR" shifting_type="FIXED" extract_id="23181" item_type="GLOVES"/>
+	<appearance_stone id="23192" target_type="WEAPON,ARMOR" shifting_type="FIXED" extract_id="23182" item_type="FEET"/>
+    <appearance_stone id="23193" target_type="ACCESSORY" shifting_type="FIXED" extract_id="23183" item_type="HAIR_ACCESSORY"/>
+	<appearance_stone id="23194" target_type="WEAPON,ARMOR" shifting_type="FIXED" extract_id="23184" item_type="UPPER_PIECE,FULL_BODY"/>
+	<appearance_stone id="23195" target_type="WEAPON,ARMOR" shifting_type="FIXED" extract_id="23185" item_type="LOWER_PIECE"/>
+	<appearance_stone id="23196" target_type="WEAPON,ARMOR" shifting_type="FIXED" extract_id="23186" item_type="GLOVES"/>
+	<appearance_stone id="23197" target_type="WEAPON,ARMOR" shifting_type="FIXED" extract_id="23187" item_type="FEET"/>
+	<appearance_stone id="23198" target_type="ACCESSORY" shifting_type="FIXED" extract_id="23188" item_type="HAIR_ACCESSORY"/>
+
+	<appearance_stone id="23211" target_type="WEAPON" shifting_type="FIXED" extract_id="22775" item_type="BIG_BLUNT_WEAPON"/>
+	<appearance_stone id="23212" target_type="WEAPON" shifting_type="FIXED" extract_id="22791" item_type="BIG_BLUNT_WEAPON"/>
+	<appearance_stone id="23213" target_type="WEAPON" shifting_type="FIXED" extract_id="22807" item_type="HAND_TO_HAND"/>
+	<appearance_stone id="23214" target_type="WEAPON" shifting_type="FIXED" extract_id="22814" item_type="POLE"/>
+	<appearance_stone id="23215" target_type="WEAPON" shifting_type="FIXED" extract_id="22821" item_type="DAGGER"/>
+	<appearance_stone id="23216" target_type="WEAPON" shifting_type="FIXED" extract_id="22828" item_type="DUAL_BLUNT_WEAPON"/>
+	<appearance_stone id="23217" target_type="WEAPON" shifting_type="FIXED" extract_id="21919" item_type="SWORD"/>
+	<appearance_stone id="23218" target_type="WEAPON" shifting_type="FIXED" extract_id="21935" item_type="DUAL_DAGGER"/>
+	<appearance_stone id="23219" target_type="WEAPON" shifting_type="FIXED" extract_id="21939" item_type="BLUNT_WEAPON"/>
+	<appearance_stone id="23220" target_type="WEAPON" shifting_type="FIXED" extract_id="21955" item_type="DUAL_SWORD"/>
+	<appearance_stone id="23221" target_type="WEAPON" shifting_type="FIXED" extract_id="21959" item_type="BIG_SWORD"/>
+	<appearance_stone id="23222" target_type="WEAPON" shifting_type="FIXED" extract_id="21973" item_type="SWORD"/>
+	
+	<appearance_stone id="37079" target_type="WEAPON" shifting_type="FIXED" extract_id="37059" item_type="BIG_BLUNT_WEAPON"/>
+	<appearance_stone id="37080" target_type="WEAPON" shifting_type="FIXED" extract_id="37060" item_type="BIG_BLUNT_WEAPON"/>
+	<appearance_stone id="37081" target_type="WEAPON" shifting_type="FIXED" extract_id="37061" item_type="HAND_TO_HAND"/>
+	<appearance_stone id="37082" target_type="WEAPON" shifting_type="FIXED" extract_id="37062" item_type="BOW"/>
+	<appearance_stone id="37083" target_type="WEAPON" shifting_type="FIXED" extract_id="37063" item_type="BOW"/>
+	<appearance_stone id="37084" target_type="WEAPON" shifting_type="FIXED" extract_id="37064" item_type="CROSSBOW"/>
+	<appearance_stone id="37085" target_type="WEAPON,ARMOR" shifting_type="FIXED" extract_id="37065" item_type="SIGIL"/>
+	<appearance_stone id="37086" target_type="WEAPON,ARMOR" shifting_type="FIXED" extract_id="37066" item_type="SIGIL"/>
+	
+	<appearance_stone id="23351" target_type="WEAPON" shifting_type="NORMAL" grade="R,R95,R99" cost="800000"/>	<!--Weapon Appearance Stone (R-grade)-->
+    <appearance_stone id="23352" target_type="WEAPON" shifting_type="NORMAL" grade="S,S80,S84" cost="800000"/>	<!--Weapon Appearance Stone (S-grade)-->
+    <appearance_stone id="23353" target_type="WEAPON" shifting_type="NORMAL" grade="A" cost="800000"/>	<!--Weapon Appearance Stone (A-grade)-->
+	
+	<appearance_stone id="23354" target_type="WEAPON" shifting_type="BLESSED" grade="R,R95,R99" cost="800000"/>	<!--Weapon Appearance Stone (R-grade)-->
+    <appearance_stone id="23355" target_type="WEAPON" shifting_type="BLESSED" grade="S,S80,S84" cost="800000"/>	<!--Weapon Appearance Stone (S-grade)-->
+    <appearance_stone id="23356" target_type="WEAPON" shifting_type="BLESSED" grade="A" cost="800000"/>	<!--Weapon Appearance Stone (A-grade)-->
+	
+	<appearance_stone id="23357" target_type="WEAPON" shifting_type="RESTORE" grade="R,R95,R99"/>	<!--Weapon Restoration Stone (R-grade)-->
+    <appearance_stone id="23358" target_type="WEAPON" shifting_type="RESTORE" grade="S,S80,S84"/>	<!--Weapon Restoration Stone (S-grade)-->
+    <appearance_stone id="23359" target_type="WEAPON" shifting_type="RESTORE" grade="A"/>	<!--Weapon Restoration Stone (A-grade)-->
+	
+	<appearance_stone id="23360" target_type="WEAPON,ARMOR" shifting_type="NORMAL" grade="R,R95,R99" cost="125000"/>	<!--Armor Appearance Stone (R-grade)-->
+    <appearance_stone id="23361" target_type="WEAPON,ARMOR" shifting_type="NORMAL" grade="S,S80,S84" cost="125000"/>	<!--Armor Appearance Stone (S-grade)-->
+    <appearance_stone id="23362" target_type="WEAPON,ARMOR" shifting_type="NORMAL" grade="A" cost="125000"/>	<!--Armor Appearance Stone (A-grade)-->
+    <!--Blessed-->
+    <appearance_stone id="23363" target_type="WEAPON,ARMOR" shifting_type="BLESSED" grade="R,R95,R99"/>	<!--Blessed Armor Appearance Stone (R-grade)-->
+    <appearance_stone id="23364" target_type="WEAPON,ARMOR" shifting_type="BLESSED" grade="S,S80,S84"/>	<!--Blessed Armor Appearance Stone (S-grade)-->
+    <appearance_stone id="23365" target_type="WEAPON,ARMOR" shifting_type="BLESSED" grade="A"/>	<!--Blessed Armor Appearance Stone (A-grade)-->
+    <!--Restore-->
+    <appearance_stone id="23366" target_type="WEAPON,ARMOR" shifting_type="RESTORE" grade="R,R95,R99"/>	<!--Armor Restoration Stone (R-grade)-->
+    <appearance_stone id="23367" target_type="WEAPON,ARMOR" shifting_type="RESTORE" grade="S,S80,S84"/>	<!--Armor Restoration Stone (S-grade)-->
+    <appearance_stone id="23368" target_type="WEAPON,ARMOR" shifting_type="RESTORE" grade="A"/>	<!--Armor Restoration Stone (A-grade)-->
+	
+	 <!--Accessory Appearance Stones-->
+    <!--Normal-->
+    <appearance_stone id="23369" target_type="ACCESSORY" shifting_type="NORMAL" cost="125000"/>	<!--Accessory Appearance Stone-->
+    <!--Blessed-->
+    <appearance_stone id="23370" target_type="ACCESSORY" shifting_type="BLESSED"/>	<!--Accessory Appearance Stone-->
+    <!--Restore-->
+    <appearance_stone id="23371" target_type="ACCESSORY" shifting_type="RESTORE"/>	<!--Hair Accessory Appearance Restoration Stone-->
+	
+	<appearance_stone id="23493" target_type="WEAPON,ARMOR" shifting_type="FIXED" extract_id="23448" item_type="UPPER_PIECE,FULL_BODY"/>
+	<appearance_stone id="23494" target_type="WEAPON,ARMOR" shifting_type="FIXED" extract_id="23449" item_type="LOWER_PIECE"/>
+	<appearance_stone id="23495" target_type="WEAPON,ARMOR" shifting_type="FIXED" extract_id="23450" item_type="GLOVES"/>
+	<appearance_stone id="23496" target_type="WEAPON,ARMOR" shifting_type="FIXED" extract_id="23451" item_type="FEET"/>
+    <appearance_stone id="23497" target_type="ACCESSORY" shifting_type="FIXED" extract_id="23452" item_type="HAIR_ACCESSORY"/>
+	<appearance_stone id="23503" target_type="WEAPON,ARMOR" shifting_type="FIXED" extract_id="23453" item_type="UPPER_PIECE,FULL_BODY"/>
+	<appearance_stone id="23504" target_type="WEAPON,ARMOR" shifting_type="FIXED" extract_id="23454" item_type="LOWER_PIECE"/>
+	<appearance_stone id="23505" target_type="WEAPON,ARMOR" shifting_type="FIXED" extract_id="23455" item_type="GLOVES"/>
+	<appearance_stone id="23506" target_type="WEAPON,ARMOR" shifting_type="FIXED" extract_id="23456" item_type="FEET"/>
+	<appearance_stone id="23507" target_type="ACCESSORY" shifting_type="FIXED" extract_id="23457" item_type="HAIR_ACCESSORY"/>
+	
+	<appearance_stone id="23513" target_type="WEAPON,ARMOR" shifting_type="FIXED" extract_id="23458" item_type="UPPER_PIECE,FULL_BODY"/>
+	<appearance_stone id="23514" target_type="ACCESSORY" shifting_type="FIXED" extract_id="23459" item_type="HAIR_ACCESSORY"/>	<!--Accessory Appearance Stone-->
+	
+	<appearance_stone id="23535" target_type="WEAPON" shifting_type="FIXED" extract_id="21919" item_type="BLUNT_WEAPON"/>
+	<appearance_stone id="23536" target_type="WEAPON" shifting_type="FIXED" extract_id="21939" item_type="BLUNT_WEAPON"/>
+	<appearance_stone id="23537" target_type="WEAPON" shifting_type="FIXED" extract_id="21935" item_type="DUAL_SWORD"/>
+	<appearance_stone id="23538" target_type="WEAPON" shifting_type="FIXED" extract_id="21955" item_type="DUAL_SWORD"/>
+	<appearance_stone id="23539" target_type="WEAPON" shifting_type="FIXED" extract_id="21959" item_type="BIG_SWORD"/>
+	<appearance_stone id="23540" target_type="WEAPON" shifting_type="FIXED" extract_id="21973" item_type="SWORD"/>
+	
+	<appearance_stone id="23542" target_type="WEAPON,ARMOR" shifting_type="FIXED" extract_id="16841" item_type="UPPER_PIECE,FULL_BODY"/>
+	<appearance_stone id="23543" target_type="WEAPON,ARMOR" shifting_type="FIXED" extract_id="16844" item_type="LOWER_PIECE"/>
+	<appearance_stone id="23544" target_type="WEAPON,ARMOR" shifting_type="FIXED" extract_id="16847" item_type="GLOVES"/>
+	<appearance_stone id="23545" target_type="WEAPON,ARMOR" shifting_type="FIXED" extract_id="16850" item_type="FEET"/>
+	
+	<appearance_stone id="23546" target_type="WEAPON,ARMOR" shifting_type="FIXED" extract_id="16841" item_type="UPPER_PIECE,FULL_BODY"/>
+	<appearance_stone id="23547" target_type="WEAPON,ARMOR" shifting_type="FIXED" extract_id="16844" item_type="LOWER_PIECE"/>
+	<appearance_stone id="23548" target_type="WEAPON,ARMOR" shifting_type="FIXED" extract_id="16847" item_type="GLOVES"/>
+	<appearance_stone id="23549" target_type="WEAPON,ARMOR" shifting_type="FIXED" extract_id="16850" item_type="FEET"/>
+	
+	<appearance_stone id="23581" target_type="WEAPON,ARMOR" shifting_type="FIXED" extract_id="15593" item_type="UPPER_PIECE,FULL_BODY"/>
+	<appearance_stone id="23582" target_type="WEAPON,ARMOR" shifting_type="FIXED" extract_id="15596" item_type="LOWER_PIECE"/>
+	<appearance_stone id="23583" target_type="WEAPON,ARMOR" shifting_type="FIXED" extract_id="15599" item_type="GLOVES"/>
+	<appearance_stone id="23584" target_type="WEAPON,ARMOR" shifting_type="FIXED" extract_id="15602" item_type="FEET"/>
+	
+	<appearance_stone id="23585" target_type="WEAPON,ARMOR" shifting_type="FIXED" extract_id="15593" item_type="UPPER_PIECE,FULL_BODY"/>
+	<appearance_stone id="23586" target_type="WEAPON,ARMOR" shifting_type="FIXED" extract_id="15596" item_type="LOWER_PIECE"/>
+	<appearance_stone id="23587" target_type="WEAPON,ARMOR" shifting_type="FIXED" extract_id="15599" item_type="GLOVES"/>
+	<appearance_stone id="23588" target_type="WEAPON,ARMOR" shifting_type="FIXED" extract_id="15602" item_type="FEET"/>
+	
+	<appearance_stone id="23590" target_type="WEAPON" shifting_type="FIXED" extract_id="21919" item_type="BLUNT_WEAPON"/>
+	<appearance_stone id="23591" target_type="WEAPON" shifting_type="FIXED" extract_id="21939" item_type="BLUNT_WEAPON"/>
+	<appearance_stone id="23592" target_type="WEAPON" shifting_type="FIXED" extract_id="21935" item_type="DUAL_SWORD"/>
+	<appearance_stone id="23593" target_type="WEAPON" shifting_type="FIXED" extract_id="21955" item_type="DUAL_SWORD"/>
+	<appearance_stone id="23594" target_type="WEAPON" shifting_type="FIXED" extract_id="21959" item_type="BIG_SWORD"/>
+	<appearance_stone id="23595" target_type="WEAPON" shifting_type="FIXED" extract_id="21973" item_type="SWORD"/>
+
+	<!--Blessed-->
+    <appearance_stone id="23650" target_type="WEAPON" shifting_type="BLESSED" grade="R,R95,R99"/>	<!--Blessed Weapon Appearance Stone (R-grade)-->
+    <appearance_stone id="23651" target_type="WEAPON" shifting_type="BLESSED" grade="S,S80,S84"/>	<!--Blessed Weapon Appearance Stone (S-grade)-->
+    <appearance_stone id="23652" target_type="WEAPON" shifting_type="BLESSED" grade="A"/>	<!--Blessed Weapon Appearance Stone (A-grade)-->
+    <appearance_stone id="23653" target_type="WEAPON" shifting_type="BLESSED" grade="B"/>	<!--Blessed Weapon Appearance Stone (B-grade)-->
+    <appearance_stone id="23654" target_type="WEAPON" shifting_type="BLESSED" grade="C"/>	<!--Blessed Weapon Appearance Stone (C-grade)-->
+    <appearance_stone id="23655" target_type="WEAPON" shifting_type="BLESSED" grade="D"/>	<!--Blessed Weapon Appearance Stone (D-grade)-->
+	<!--Blessed-->
+    <appearance_stone id="23656" target_type="WEAPON" shifting_type="BLESSED" grade="R,R95,R99"/>	<!--Blessed Weapon Appearance Stone (R-grade)-->
+    <appearance_stone id="23657" target_type="WEAPON" shifting_type="BLESSED" grade="S,S80,S84"/>	<!--Blessed Weapon Appearance Stone (S-grade)-->
+    <appearance_stone id="23658" target_type="WEAPON" shifting_type="BLESSED" grade="A"/>	<!--Blessed Weapon Appearance Stone (A-grade)-->
+    <appearance_stone id="23659" target_type="WEAPON" shifting_type="BLESSED" grade="B"/>	<!--Blessed Weapon Appearance Stone (B-grade)-->
+    <appearance_stone id="23660" target_type="WEAPON" shifting_type="BLESSED" grade="C"/>	<!--Blessed Weapon Appearance Stone (C-grade)-->
+    <appearance_stone id="23661" target_type="WEAPON" shifting_type="BLESSED" grade="D"/>	<!--Blessed Weapon Appearance Stone (D-grade)-->
+	<!--Blessed-->
+    <appearance_stone id="23662" target_type="WEAPON" shifting_type="BLESSED" grade="R,R95,R99"/>	<!--Blessed Weapon Appearance Stone (R-grade)-->
+    <appearance_stone id="23663" target_type="WEAPON" shifting_type="BLESSED" grade="S,S80,S84"/>	<!--Blessed Weapon Appearance Stone (S-grade)-->
+    <appearance_stone id="23664" target_type="WEAPON" shifting_type="BLESSED" grade="A"/>	<!--Blessed Weapon Appearance Stone (A-grade)-->
+    <appearance_stone id="23665" target_type="WEAPON" shifting_type="BLESSED" grade="B"/>	<!--Blessed Weapon Appearance Stone (B-grade)-->
+    <appearance_stone id="23666" target_type="WEAPON" shifting_type="BLESSED" grade="C"/>	<!--Blessed Weapon Appearance Stone (C-grade)-->
+    <appearance_stone id="23667" target_type="WEAPON" shifting_type="BLESSED" grade="D"/>	<!--Blessed Weapon Appearance Stone (D-grade)-->
+	<!--Blessed-->
+    <appearance_stone id="23668" target_type="WEAPON,ARMOR" shifting_type="BLESSED" grade="R,R95,R99"/>	<!--Blessed Armor Appearance Stone (R-grade)-->
+    <appearance_stone id="23669" target_type="WEAPON,ARMOR" shifting_type="BLESSED" grade="S,S80,S84"/>	<!--Blessed Armor Appearance Stone (S-grade)-->
+    <appearance_stone id="23670" target_type="WEAPON,ARMOR" shifting_type="BLESSED" grade="A"/>	<!--Blessed Armor Appearance Stone (A-grade)-->
+    <appearance_stone id="23671" target_type="WEAPON,ARMOR" shifting_type="BLESSED" grade="B"/>	<!--Blessed Armor Appearance Stone (B-grade)-->
+    <appearance_stone id="23672" target_type="WEAPON,ARMOR" shifting_type="BLESSED" grade="C"/>	<!--Blessed Armor Appearance Stone (C-grade)-->
+    <appearance_stone id="23673" target_type="WEAPON,ARMOR" shifting_type="BLESSED" grade="D"/>	<!--Blessed Armor Appearance Stone (D-grade)-->
+	<!--Blessed-->
+    <appearance_stone id="23674" target_type="WEAPON,ARMOR" shifting_type="BLESSED" grade="R,R95,R99"/>	<!--Blessed Armor Appearance Stone (R-grade)-->
+    <appearance_stone id="23675" target_type="WEAPON,ARMOR" shifting_type="BLESSED" grade="S,S80,S84"/>	<!--Blessed Armor Appearance Stone (S-grade)-->
+    <appearance_stone id="23676" target_type="WEAPON,ARMOR" shifting_type="BLESSED" grade="A"/>	<!--Blessed Armor Appearance Stone (A-grade)-->
+    <appearance_stone id="23677" target_type="WEAPON,ARMOR" shifting_type="BLESSED" grade="B"/>	<!--Blessed Armor Appearance Stone (B-grade)-->
+    <appearance_stone id="23678" target_type="WEAPON,ARMOR" shifting_type="BLESSED" grade="C"/>	<!--Blessed Armor Appearance Stone (C-grade)-->
+    <appearance_stone id="23679" target_type="WEAPON,ARMOR" shifting_type="BLESSED" grade="D"/>	<!--Blessed Armor Appearance Stone (D-grade)-->
+	<!--Blessed-->
+    <appearance_stone id="23680" target_type="WEAPON,ARMOR" shifting_type="BLESSED" grade="R,R95,R99"/>	<!--Blessed Armor Appearance Stone (R-grade)-->
+    <appearance_stone id="23681" target_type="WEAPON,ARMOR" shifting_type="BLESSED" grade="S,S80,S84"/>	<!--Blessed Armor Appearance Stone (S-grade)-->
+    <appearance_stone id="23682" target_type="WEAPON,ARMOR" shifting_type="BLESSED" grade="A"/>	<!--Blessed Armor Appearance Stone (A-grade)-->
+    <appearance_stone id="23683" target_type="WEAPON,ARMOR" shifting_type="BLESSED" grade="B"/>	<!--Blessed Armor Appearance Stone (B-grade)-->
+    <appearance_stone id="23684" target_type="WEAPON,ARMOR" shifting_type="BLESSED" grade="C"/>	<!--Blessed Armor Appearance Stone (C-grade)-->
+    <appearance_stone id="23685" target_type="WEAPON,ARMOR" shifting_type="BLESSED" grade="D"/>	<!--Blessed Armor Appearance Stone (D-grade)-->
+	<!--Ninja Appearance Stones-->
+	<appearance_stone id="23696" target_type="WEAPON,ARMOR" shifting_type="FIXED" extract_id="23179" item_type="UPPER_PIECE,FULL_BODY"/>
+	<appearance_stone id="23697" target_type="WEAPON,ARMOR" shifting_type="FIXED" extract_id="23180" item_type="LOWER_PIECE"/>
+	<appearance_stone id="23698" target_type="WEAPON,ARMOR" shifting_type="FIXED" extract_id="23181" item_type="GLOVES"/>
+	<appearance_stone id="23699" target_type="WEAPON,ARMOR" shifting_type="FIXED" extract_id="23182" item_type="FEET"/>
+	<appearance_stone id="23704" target_type="WEAPON,ARMOR" shifting_type="FIXED" extract_id="23184" item_type="UPPER_PIECE,FULL_BODY"/>
+	<appearance_stone id="23705" target_type="WEAPON,ARMOR" shifting_type="FIXED" extract_id="23185" item_type="LOWER_PIECE"/>
+	<appearance_stone id="23706" target_type="WEAPON,ARMOR" shifting_type="FIXED" extract_id="23186" item_type="GLOVES"/>
+	<appearance_stone id="23707" target_type="WEAPON,ARMOR" shifting_type="FIXED" extract_id="23187" item_type="FEET"/>
+	
+	<appearance_stone id="23712" target_type="WEAPON,ARMOR" shifting_type="FIXED" extract_id="23448" item_type="UPPER_PIECE,FULL_BODY"/>
+	<appearance_stone id="23713" target_type="WEAPON,ARMOR" shifting_type="FIXED" extract_id="23449" item_type="LOWER_PIECE"/>
+	<appearance_stone id="23714" target_type="WEAPON,ARMOR" shifting_type="FIXED" extract_id="23450" item_type="GLOVES"/>
+	<appearance_stone id="23715" target_type="WEAPON,ARMOR" shifting_type="FIXED" extract_id="23451" item_type="FEET"/>
+	<appearance_stone id="23720" target_type="WEAPON,ARMOR" shifting_type="FIXED" extract_id="23453" item_type="UPPER_PIECE,FULL_BODY"/>
+	<appearance_stone id="23721" target_type="WEAPON,ARMOR" shifting_type="FIXED" extract_id="23454" item_type="LOWER_PIECE"/>
+	<appearance_stone id="23722" target_type="WEAPON,ARMOR" shifting_type="FIXED" extract_id="23455" item_type="GLOVES"/>
+	<appearance_stone id="23723" target_type="WEAPON,ARMOR" shifting_type="FIXED" extract_id="23456" item_type="FEET"/>
+</list>

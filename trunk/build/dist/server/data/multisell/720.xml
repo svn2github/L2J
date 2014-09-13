@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<!--http://l2central.info/articles/items/570-lineage-2-lindvior-pvp-pve-uluchshenie-broni-ajdiosa TODO[A]: По инфе со ссылки доделать. Скованные вещи не преобразуются-->
+	<config showall="false" notax="true" keepenchanted="true" isnew="true" isnewProduction="true"/>
+	<item>
+		<ingredient count="10" id="35567" /> <!--Усиливающий Камень Темного Айдиоса-->
+		<ingredient count="60" id="35562" /> <!--Энергия Разрушения-->
+		<ingredient count="100" id="35563" /><!--Сила Гигантов-->
+		<ingredient count="390" id="19440"/><!--Самоцвет: Ранг R-->
+		<ingredient count="4685" id="17371"/><!--Кристалл: Ранг R-->
+		<ingredient count="1" id="19698" /> <!--Благословенный Шлем Айдиоса(тяж/атак)-->
+		<production id="35018" count="1" chance="100" /><!--Тёмный Шлем Айдиоса(тяж/атак)-->
+	</item>
+	<item>
+		<ingredient count="10" id="35567" /> <!--Усиливающий Камень Темного Айдиоса-->
+		<ingredient count="60" id="35562" /> <!--Энергия Разрушения-->
+		<ingredient count="100" id="35563" /><!--Сила Гигантов-->
+		<ingredient count="390" id="19440"/><!--Самоцвет: Ранг R-->
+		<ingredient count="4685" id="17371"/><!--Кристалл: Ранг R-->
+		<ingredient count="1" id="19570" /> <!--Шлем Айдиоса(тяж/атак)-->
+		<production id="35018" count="1" chance="60" /><!--Тёмный Шлем Айдиоса(тяж/атак)-->
+		<production id="19570" count="1" chance="40" /><!--Шлем Айдиоса(тяж/атак)-->
+	</item>
+	<item>
+		<ingredient count="10" id="35569" /> <!--Усиливающий Камень Кровавого Айдиоса-->
+		<ingredient count="60" id="35562" /> <!--Энергия Разрушения-->
+		<ingredient count="100" id="35563" /><!--Сила Гигантов-->
+		<ingredient count="390" id="19440"/><!--Самоцвет: Ранг R-->
+		<ingredient count="4685" id="17371"/><!--Кристалл: Ранг R-->
+		<ingredient count="1" id="19698" /> <!--Благословенный Шлем Айдиоса(тяж/атак)-->
+		<production id="35018" count="1" chance="100" /><!--Кровавый Шлем Айдиоса(тяж/атак)-->
+	</item>
+	<item>
+		<ingredient count="10" id="35569" /> <!--Усиливающий Камень Кровавого Айдиоса-->
+		<ingredient count="60" id="35562" /> <!--Энергия Разрушения-->
+		<ingredient count="100" id="35563" /><!--Сила Гигантов-->
+		<ingredient count="390" id="19440"/><!--Самоцвет: Ранг R-->
+		<ingredient count="4685" id="17371"/><!--Кристалл: Ранг R-->
+		<ingredient count="1" id="19570" /> <!--Шлем Айдиоса(тяж/атак)-->
+		<production id="35018" count="1" chance="60" /><!--Кровавый Шлем Айдиоса(тяж/атак)-->
+		<production id="19570" count="1" chance="40" /><!--Шлем Айдиоса(тяж/атак)-->
+	</item>
+</list>

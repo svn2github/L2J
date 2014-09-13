@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+    <skill id="8600" levels="1" name="Верховой Небесный Скакун">
+	<!-- Призывает Скакуна для Рыцаря. -->
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="TRANSFORMATION" />
+		<set name="addSkills" val="9206;1;619;1" />
+		<set name="npcId" val="13311" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<for>
+			<effect name="Transformation" time="1800" val="129" >
+				<add order="0x40" stat="runSpd" val="50" />
+			</effect>
+		</for>
+	</skill>	
+	<skill id="8601" levels="1" name="Верховой Дикий Скакун">
+	<!-- Призывает Скакуна для Воина. -->
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="TRANSFORMATION" />
+		<set name="addSkills" val="9206;1;619;1" />
+		<set name="npcId" val="13312" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<for>
+			<effect name="Transformation" time="1800" val="130">		
+				<add order="0x40" stat="runSpd" val="50" />
+			</effect>
+		</for>
+	</skill>	
+    <skill id="8602" levels="1" name="Верховой Кровавый Скакун">
+	    <!-- Призывает Скакуна для Разбойника. -->
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="TRANSFORMATION" />
+		<set name="addSkills" val="9206;1;619;1" />
+		<set name="npcId" val="13313" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<for>
+			<effect name="Transformation" time="1800" val="131">		
+				<add order="0x40" stat="runSpd" val="50" />
+			</effect>
+		</for>
+	</skill>	
+	<skill id="8603" levels="1" name="Верховая Безлимитная Стрела">
+	<!-- Призывает Скакуна для Лучника. -->
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="TRANSFORMATION" />
+		<set name="addSkills" val="9206;1;619;1" />
+		<set name="npcId" val="13314" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<for>
+			<effect name="Transformation" time="1800" val="132" >		
+				<add order="0x40" stat="runSpd" val="50" />
+			</effect>
+		</for>
+	</skill>	
+	<skill id="8604" levels="1" name="Верховой Синий Фонтом">
+	<!-- Призывает Скакуна для Волшебника. -->
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="TRANSFORMATION" />
+		<set name="addSkills" val="9206;1;619;1" />
+		<set name="npcId" val="13315" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<for>
+			<effect name="Transformation" time="1800" val="133" >		
+				<add order="0x40" stat="runSpd" val="50" />
+			</effect>
+		</for>
+	</skill>	
+	<skill id="8605" levels="1" name="Верховое Белое Крыло">
+	<!-- Призывает Скакуна для Призывателя. -->
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="TRANSFORMATION" />
+		<set name="addSkills" val="9206;1;619;1" />
+		<set name="npcId" val="13316" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<for>
+			<effect name="Transformation" time="1800" val="134" >		
+				<add order="0x40" stat="runSpd" val="50" />
+			</effect>
+		</for>
+	</skill>	
+	<skill id="8606" levels="1" name="Верховая Скоростная Звезда">
+	<!-- Призывает Скакуна для Заклинателя. -->
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="TRANSFORMATION" />
+		<set name="addSkills" val="9206;1;619;1" />
+		<set name="npcId" val="13317" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<for>
+			<effect name="Transformation" time="1800" val="135" >		
+				<add order="0x40" stat="runSpd" val="50" />
+			</effect>
+		</for>
+	</skill>	
+	<skill id="8607" levels="1" name="Верховая Сверкающая Леди">
+	<!-- Призывает Скакуна для Целителя. -->
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="TRANSFORMATION" />
+		<set name="addSkills" val="9206;1;619;1" />
+		<set name="npcId" val="13318" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<for>
+			<effect name="Transformation" time="1800" val="136">		
+				<add order="0x40" stat="runSpd" val="50" />
+			</effect>
+		</for>
+	</skill>	
+	<skill id="8608" levels="1" name="Талисман R - Физ. Атк.">
+	<!-- Увеличивает Физ. Атк. на 37, когда экипирован Талисман. -->
+		<set name="magicLevel" val="85" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<for>
+			<add order="0x60" stat="pAtk" val="37" />
+		</for>
+	</skill>	
+	<skill id="8609" levels="1" name="Талисман R90 - Физ. Атк.">
+	<!-- Увеличивает Физ. Атк. на 43, когда экипирован Талисман. -->
+		<set name="magicLevel" val="85" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<for>
+			<add order="0x60" stat="pAtk" val="43" />
+		</for>
+	</skill>		
+	
+	<skill id="8610" levels="1" name="Талисман R95 - Физ. Атк.">
+	<!-- Увеличивает Физ. Атк. на 52, когда экипирован Талисман. -->
+		<set name="magicLevel" val="85" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<for>
+			<add order="0x60" stat="pAtk" val="52" />
+		</for>
+	</skill>
+
+	<skill id="8611" levels="1" name="Талисман R99 - Физ. Атк.">
+	<!-- Увеличивает Физ. Атк. на 60, когда экипирован Талисман. -->
+		<set name="magicLevel" val="85" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<for>
+			<add order="0x60" stat="pAtk" val="60" />
+		</for>
+	</skill>	
+
+	<skill id="8612" levels="1" name="Талисман R - Физ. Защ.">
+	<!-- Увеличивает Физ. Защ. на 38, когда экипирован Талисман. -->
+		<set name="magicLevel" val="85" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<for>
+			<add order="0x60" stat="pDef" val="38" />
+		</for>
+	</skill>	
+
+	<skill id="8613" levels="1" name="Талисман R90 - Физ. Защ.">
+	<!-- Увеличивает Физ. Защ. на 43, когда экипирован Талисман. -->
+		<set name="magicLevel" val="85" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<for>
+			<add order="0x60" stat="pDef" val="43" />
+		</for>
+	</skill>	
+	
+	<skill id="8614" levels="1" name="Талисман R95 - Физ. Защ.">
+	<!-- Увеличивает Физ. Защ. на 49, когда экипирован Талисман. -->
+		<set name="magicLevel" val="85" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<for>
+			<add order="0x60" stat="pDef" val="49" />
+		</for>
+	</skill>
+
+	<skill id="8615" levels="1" name="Талисман R99 - Физ. Защ.">
+	<!-- Увеличивает Физ. Защ. на 54, когда экипирован Талисман. -->
+		<set name="magicLevel" val="85" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<for>
+			<add order="0x60" stat="pDef" val="54" />
+		</for>
+	</skill>	
+	
+	<skill id="8616" levels="1" name="Талисман R - Маг. Атк.">
+	<!-- Увеличивает Маг. Атк. на 37, когда экипирован Талисман. -->
+		<set name="magicLevel" val="85" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<for>
+			<add order="0x60" stat="mAtk" val="37" />
+		</for>
+	</skill>
+	
+	<skill id="8617" levels="1" name="Талисман R90 - Маг. Атк.">
+	<!-- Увеличивает Маг. Атк. на 46, когда экипирован Талисман. -->
+		<set name="magicLevel" val="85" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<for>
+			<add order="0x60" stat="mAtk" val="46" />
+		</for>
+	</skill>
+	
+	<skill id="8618" levels="1" name="Талисман R95 - Маг. Атк.">
+	<!-- Увеличивает Маг. Атк. на 56, когда экипирован Талисман. -->
+		<set name="magicLevel" val="85" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<for>
+			<add order="0x60" stat="mAtk" val="56" />
+		</for>
+	</skill>
+	
+	<skill id="8619" levels="1" name="Талисман R99 - Маг. Атк.">
+	<!-- Увеличивает Маг. Атк. на 66, когда экипирован Талисман. -->
+		<set name="magicLevel" val="85" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<for>
+			<add order="0x60" stat="mAtk" val="66" />
+		</for>
+	</skill>
+	
+	<skill id="8620" levels="1" name="Талисман R - Маг. Защ.">
+	<!-- Увеличивает Маг. Защ. на 21, когда экипирован Талисман. -->
+		<set name="magicLevel" val="85" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<for>
+			<add order="0x60" stat="mDef" val="21" />
+		</for>
+	</skill>
+	
+	<skill id="8621" levels="1" name="Талисман R90 - Маг. Защ.">
+	<!-- Увеличивает Маг. Защ. на 24, когда экипирован Талисман. -->
+		<set name="magicLevel" val="85" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<for>
+			<add order="0x60" stat="mDef" val="24" />
+		</for>
+	</skill>
+	
+	<skill id="8622" levels="1" name="Талисман R95 - Маг. Защ.">
+	<!-- Увеличивает Маг. Защ. на 28, когда экипирован Талисман. -->
+		<set name="magicLevel" val="85" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<for>
+			<add order="0x60" stat="mDef" val="28" />
+		</for>
+	</skill>
+	
+	<skill id="8623" levels="1" name="Талисман R99 - Маг. Защ.">
+	<!-- Увеличивает Маг. Защ. на 32, когда экипирован Талисман. -->
+		<set name="magicLevel" val="85" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<for>
+			<add order="0x60" stat="mDef" val="32" />
+		</for>
+	</skill>
+</list>

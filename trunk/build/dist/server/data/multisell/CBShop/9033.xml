@@ -1,0 +1,80 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+
+<!-- H5 weapons -->
+<!-- © 2011 by 007Florin -->
+
+<list maintainEnchantment="true">
+
+  <!-- Hellblade -->
+  <item id="1">
+    <production id="21919" count="1"/>
+	<ingredient id="13419" count="1"/>
+  </item>
+
+  <!-- Butcher Blades -->
+  <item id="9">
+    <production id="21935" count="1"/>
+	<ingredient id="13419" count="1"/>
+  </item>
+
+  <!-- Claw of Destruction -->
+  <item id="11">
+    <production id="21939" count="1"/>
+	<ingredient id="13419" count="1"/>
+  </item>
+
+  <!-- Blades of Delusion -->
+  <item id="19">
+    <production id="21955" count="1"/>
+	<ingredient id="13419" count="1"/>
+  </item>
+  
+  <!-- Blood Brother -->
+  <item id="21">
+    <production id="21959" count="1"/>
+	<ingredient id="13419" count="1"/>
+  </item>
+
+  <!-- Mardil's Fan -->
+  <item id="29">
+    <production id="21973" count="1"/>
+	<ingredient id="13419" count="1"/>
+  </item>
+  
+    <!-- Mardil's Fan -->
+  <item id="29">
+    <production id="22775" count="1"/>
+	<ingredient id="13419" count="1"/>
+  </item>
+  
+    <!-- Mardil's Fan -->
+  <item id="29">
+    <production id="22791" count="1"/>
+	<ingredient id="13419" count="1"/>
+  </item>
+  
+    <!-- Mardil's Fan -->
+  <item id="29">
+    <production id="22807" count="1"/>
+	<ingredient id="13419" count="1"/>
+  </item>
+  
+    <!-- Mardil's Fan -->
+  <item id="29">
+    <production id="22828" count="1"/>
+	<ingredient id="13419" count="1"/>
+  </item>
+  
+    <!-- Mardil's Fan -->
+  <item id="29">
+    <production id="22814" count="1"/>
+	<ingredient id="13419" count="1"/>
+  </item>
+  
+    <!-- Mardil's Fan -->
+  <item id="29">
+    <production id="22821" count="1"/>
+	<ingredient id="13419" count="1"/>
+  </item>
+  
+</list>

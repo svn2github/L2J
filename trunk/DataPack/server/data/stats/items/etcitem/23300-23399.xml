@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "item.dtd">
+<list>
+	<etcitem id="23308" name="Рецепт: Эльфийский Эль">
+		<set name="icon" value="icon.etc_recipe_gold_i00" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="RECIPE"/>
+		<set name="class" value="RECIPIES"/>
+	</etcitem>
+</list>

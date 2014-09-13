@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "spawn.dtd">
+<list>		
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-92310" y="154223" z="-3284" h="57344" />
+		<npc id="30424" /><!--Allana--> 
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-86162" y="136176" z="-3165" h="0" />
+		<npc id="30593" /><!--Duda-Mara Totem Spirit--> 
+	</spawn>	
+</list>	

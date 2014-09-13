@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+  <item id="1">
+    <ingredient id="13419" count="1"/>
+	<production id="9589" count="1"/>
+  </item>
+   <item id="2">
+    <ingredient id="13419" count="1"/>
+	<production id="9590" count="1"/>
+  </item>
+   <item id="3">
+    <ingredient id="13419" count="1"/>
+	<production id="9591" count="1"/>
+  </item>
+   <item id="4">
+    <ingredient id="13419" count="1"/>
+	<production id="9592" count="1"/>
+  </item>
+  <item id="1">
+    <ingredient id="13419" count="1"/>
+	<production id="10209" count="1"/>
+  </item>
+  <item id="1">
+    <ingredient id="13419" count="1"/>
+	<production id="10210" count="1"/>
+  </item>
+  <item id="1">
+    <ingredient id="13419" count="1"/>
+	<production id="19449" count="1"/>
+  </item>
+   <item id="1">
+    <ingredient id="13419" count="1"/>
+	<production id="19471" count="1"/>
+  </item>
+  <item id="1">
+    <ingredient id="13419" count="1"/>
+	<production id="19474" count="1"/>
+  </item>
+    <item id="1">
+    <ingredient id="13419" count="1"/>
+	<production id="19477" count="1"/>
+  </item>
+    <item id="1">
+    <ingredient id="13419" count="1"/>
+	<production id="19480" count="1"/>
+  </item>
+    <item id="1">
+    <ingredient id="13419" count="1"/>
+	<production id="35294" count="1"/>
+  </item>
+    <item id="1">
+    <ingredient id="13419" count="1"/>
+	<production id="34859" count="1"/>
+  </item>
+    <item id="1">
+    <ingredient id="13419" count="1"/>
+	<production id="34860" count="1"/>
+  </item>
+</list>

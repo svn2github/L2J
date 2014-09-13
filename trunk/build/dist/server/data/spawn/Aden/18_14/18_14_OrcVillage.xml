@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "spawn.dtd">
+<!--Задумка спавна (c)Mangol,(c)KilRoy-->
+<list>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-44416" y="-111486" z="-222" h="57600" />
+		<npc id="30558" /><!--Jakal--> <!-- Todo:Запечатаны в стенах -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-43926" y="-111794" z="-222" h="28672" />
+		<npc id="30559" /><!--Kunai--> <!-- Todo:Запечатаны в стенах -->
+	</spawn> 
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-43910" y="-115518" z="-194" h="39000" />
+		<npc id="30560" /><!--Uska-->  <!-- Todo:Запечатаны в стенах -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-43950" y="-115457" z="-194" h="39000" />
+		<npc id="30561" /><!--Papuma-->  <!-- Todo:Запечатаны в стенах -->
+	</spawn> 
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-43109" y="-113770" z="-221" h="24576" />
+		<npc id="30562" /><!--Grookin--> <!-- Todo:Запечатаны в стенах -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-43114" y="-113404" z="-221" h="38000" />
+		<npc id="30563" /><!--Imantu--> <!-- Todo:Запечатаны в стенах -->
+	</spawn> 	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-43264" y="-112532" z="-220" h="32768" />
+		<npc id="30564" /><!--Sumari--> <!-- Todo:Запечатаны в стенах -->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-46768" y="-113610" z="-3" h="0" />
+		<npc id="30565" /><!--Kakai-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-46802" y="-114011" z="-112" h="0" />
+		<npc id="30566" /><!--Varkees-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-46247" y="-113866" z="-21" h="16384" />
+		<npc id="30567" /><!--Tantus-->
+	</spawn> 
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-46808" y="-113184" z="-112" h="0" />
+		<npc id="30568" /><!--Hatos-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-45952" y="-114784" z="-199" h="32768" />
+		<npc id="30569" /><!--Brukurse-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-45952" y="-114496" z="-199" h="32768" />
+		<npc id="30570" /><!--Karukia-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-45863" y="-112621" z="-200" h="32768" />
+		<npc id="30571" /><!--Tanapi-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-45864" y="-112540" z="-200" h="32771" />
+		<npc id="30572" /><!--Livina-->
+	</spawn>		
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-46576" y="-117311" z="-242" h="49152" />
+		<npc id="30577" /><!--Rukain-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-47360" y="-113791" z="-237" h="32768" />
+		<npc id="30578" /><!--Nakusin-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-47360" y="-113424" z="-235" h="32768" />
+		<npc id="30579" /><!--Tamai-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-43960" y="-113384" z="-264" h="0"/>
+		<npc id="30576" /><!--Teleport Device-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-45744" y="-117165" z="-236" h="49152" />
+		<npc id="30580" /><!--Parugon-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-46528" y="-109968" z="-250" h="16384" />
+		<npc id="30581" /><!--Orinak-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-45808" y="-110055" z="-255" h="16384" />
+		<npc id="30582" /><!--Tiku-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-45731" y="-113844" z="-237" h="0" />
+		<npc id="30583" /><!--Petukai-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-45728" y="-113360" z="-237" h="0" />
+		<npc id="30584" /><!--Vapook-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-45328" y="-114736" z="-237" h="0" />
+		<npc id="30585" /><!--Tataru Zu Hestui-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-44624" y="-111873" z="-238" h="40960" />
+		<npc id="30587" /><!--Gantaki Zu Urutu-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-45032" y="-113598" z="-192" h="32768" />
+		<npc id="30602" /><!--Newbie Guide-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-46512" y="-117696" z="-252" h="0" />
+		<npc id="31364" /><!--Rokar-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-48820" y="-113748" z="-233" h="0" />
+		<npc id="31365" /><!--Yakand-->
+	</spawn>
+<!--	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-44112" y="-115824" z="-220" h="23000" />
+		<npc id="31565" />
+	</spawn> Ogord TODO:В душе неебу что за нпс немогу найти(c)Mangol-->
+	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-45360" y="-114640" z="-240" h="0" /> <!--TODO: Координаты не правельны соснифать на офе (c)Mangol-->
+		<npc id="31688" /><!--Grand Olympiad Manager-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-45360" y="-114688" z="-240" h="0" />
+		<npc id="31771" /><!--Monument of Heroes-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-44976" y="-113696" z="-199" h="33000" />
+		<npc id="31784" /><!--Adventure Guildsman-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-45840" y="-116688" z="-240" h="33000" />
+		<npc id="31785" /><!--Adventure Guildsman-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-45616" y="-110320" z="-240" h="49000" />
+		<npc id="31786" /><!--Adventure Guildsman-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-44180" y="-112245" z="-240" h="53248" />
+		<npc id="35645" /><!--Manor Manager-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-44032" y="-114000" z="-236" h="0" />
+		<npc id="31031" /><!--Broadcasting Tower-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-45266" y="-112468" z="-240" h="500" />
+		<npc id="30994" /><!--Lottery Ticket Seller-->
+	</spawn>	
+</list>	

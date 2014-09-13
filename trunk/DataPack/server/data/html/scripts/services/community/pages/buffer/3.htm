@@ -1,0 +1,153 @@
+<html>
+<body>
+<center>
+<title>Community Board - Баффер</title><br><br>
+<table>
+<tr>
+<td><button value="Новости" action="bypass _bbspage:main" width=85 height=25 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+<td><button value="Магазин" action="bypass _bbspage:shop" width=85 height=25 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+<td><button value="Баффер" action="bypass _bbsbuff;" width=85 height=25 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+<td><button value="Телепорт" action="bypass _bbsteleport;" width=85 height=25 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+<td><button value="Евенты" action="bypass _bbspage:event" width=85 height=25 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+<td><button value="Карьера" action="bypass _bbscareer;" width=85 height=25 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+<td><button value="Сервисы" action="bypass _bbspage:services" width=85 height=25 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+</tr>
+</table><br><br>
+<img src="L2UI.SquareWhite" width=600 height=1>
+<br>
+<center><table width=600>
+<tr><td height=20><br></td></tr>
+<tr>
+<td>
+<table>
+	<tr>
+		<td width=700 align=center>
+			<center><font color=00FF00>Стоимость одного баффа %pice% Аден </font> / <font color=00FF00> Стоимость набора баффов %group_pice% Аден</font><br></center>
+		</td>
+	</tr>
+</table>
+<center>
+	<table width=600 height=370>
+			<tr>
+				<td>
+					<center>
+						<table>
+							<tr>
+								<td><center><font name="hs12">Меню</font><br></center></td>
+							</tr>
+							<tr>
+								<td>
+									<center><button value="Набор для мага" action="bypass _bbsblist:mage:index" width=130 height=20 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></center>
+									<center><button value="Набор для война" action="bypass _bbsblist:fighter:index" width=130 height=20 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></center>
+								</td>
+							</tr>
+							<tr>
+								<td>
+									<center>
+									<table>
+										<tr>
+											<td><button value="Сброс" action="bypass _bbsbcansel:index" width=55 height=20 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+											<td><button value="HP\CP\MP" action="bypass _bbsbregen:index" width=70 height=20 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+										</tr>
+									</table>
+									</center>
+								</td>
+							</tr>
+						</table>
+					</center> 
+					<center>
+						<table>
+							<tr>
+								<td><center><font color="00CCFF">Цель:</font></center></td>
+							</tr>
+							<tr>
+								<td>
+									<center><button value="%aim%" action="bypass _bbsbaim:index;" width=130 height=20 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></center>
+								</td>
+							</tr>
+						</table>
+					</center>  
+					<br><br>
+					<center>
+					<table width=70>
+					<tr>
+					<td><center><font name="hs12">Cхемы</font><br></center></td>
+					</tr>
+					</table>
+						<table background="L2UI_CT1.Windows_DF_Drawer_Bg_Darker" border=0 cellspacing=4 cellpadding=4>
+							<tr>
+								<td>
+									<center><edit var="name" width=125 height=10 length=10></center><br>
+									<center><button value="Создать" action="bypass _bbsbsave:index: $name" width=130 height=20 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></center>
+								</td>
+							</tr>
+							<tr>
+								<td>
+									<center>%list_sheme%<br1></center>
+								</td>
+							</tr>
+						</table>
+					</center> 
+				</td>    
+				<td width=450 align=center>
+					<center>
+<table width=200>
+<tr>
+<td><font name="hs12">Баффы</font></td>
+<td><button action="bypass _bbsbuff:2" width=16 height=16 back="L2UI_CH3.shortcut_prev_down" fore="L2UI_CH3.shortcut_prev"></td>
+<td>Стр. 3</td>
+<td><button action="bypass _bbsbuff:4" width=16 height=16 back="L2UI_CH3.shortcut_next_down" fore="L2UI_CH3.shortcut_next"></td>
+</tr>
+</table>
+<br>
+					<table width=400 background="L2UI_CT1.Windows_DF_TooltipBG" border=0 cellspacing=10 cellpadding=0>
+						<tr>
+							<td align=center>
+								<img src=icon.skill1414 width=32 height=32><button value="Victory Pa'agrio" action="bypass _bbsbsingle:1414:1:3;" width=90 height=20 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"> 
+								<img src=icon.skill1416 width=32 height=32><button value="Chant Of Protection" action="bypass _bbsbsingle:1416:1:3;" width=90 height=20 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df">
+								<img src=icon.skill1499 width=32 height=32><button value="Imp. Combat" action="bypass _bbsbsingle:1499:1:3;" width=90 height=20 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df">
+								<img src=icon.skill1500 width=32 height=32><button value="Imp. Magic" action="bypass _bbsbsingle:1500:1:3;" width=90 height=20 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df">
+								<img src=icon.skill1501 width=32 height=32><button value="Imp. Condition" action="bypass _bbsbsingle:1501:1:3;" width=90 height=20 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df">
+							</td>
+							<td align=center>
+								<img src=icon.skill1502 width=32 height=32><button value="Imp. Critical Atk." action="bypass _bbsbsingle:1502:1:3;" width=90 height=20 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"> 
+								<img src=icon.skill1503 width=32 height=32><button value="Imp. Shield Def." action="bypass _bbsbsingle:1503:1:3;" width=90 height=20 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df">
+								<img src=icon.skill1504 width=32 height=32><button value="Imp. Movement" action="bypass _bbsbsingle:1504:1:3;" width=90 height=20 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df">
+								<img src=icon.skill1519 width=32 height=32><button value="Awak. Chant" action="bypass _bbsbsingle:1519:1:3;" width=90 height=20 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df">	
+								<img src=icon.skill0264 width=32 height=32><button value="Earth" action="bypass _bbsbsingle:264:1:3" width=90 height=20 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df">
+							</td>
+							<td align=center>
+								<img src=icon.skill0265 width=32 height=32><button value="Life" action="bypass _bbsbsingle:265:1:3" width=90 height=20 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df">
+								<img src=icon.skill0267 width=32 height=32><button value="Warding" action="bypass _bbsbsingle:267:1:3" width=90 height=20 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df">
+								<img src=icon.skill0268 width=32 height=32><button value="Wind" action="bypass _bbsbsingle:268:1:3" width=90 height=20 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"> 
+								<img src=icon.skill0269 width=32 height=32><button value="Hunter" action="bypass _bbsbsingle:269:1:3" width=90 height=20 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df">
+								<img src=icon.skill0304 width=32 height=32><button value="Vitality" action="bypass _bbsbsingle:304:1:3" width=90 height=20 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"> 
+							</td>
+							<td align=center>
+								<img src=icon.skill0273 width=32 height=32><button value="Mystic" action="bypass _bbsbsingle:273:1:3" width=90 height=20 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df">	
+								<img src=icon.skill0349 width=32 height=32><button value="Renewal" action="bypass _bbsbsingle:349:1:3" width=90 height=20 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df">								
+								<img src=icon.skill0363 width=32 height=32><button value="Meditation" action="bypass _bbsbsingle:363:1:3" width=90 height=20 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df">
+								<img src=icon.skill0364 width=32 height=32><button value="Champion" action="bypass _bbsbsingle:364:1:3" width=90 height=20 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df">								
+								<img src=icon.skill0271 width=32 height=32><button value="Warrior" action="bypass _bbsbsingle:271:1:3;" width=90 height=20 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"> 
+							</td>
+							<td align=center>
+								<img src=icon.skill0274 width=32 height=32><button value="Fire" action="bypass _bbsbsingle:274:1:3;" width=90 height=20 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df">								
+								<img src=icon.skill0275 width=32 height=32><button value="Fury" action="bypass _bbsbsingle:275:1:3;" width=90 height=20 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df">
+								<img src=icon.skill0310 width=32 height=32><button value="Vampire" action="bypass _bbsbsingle:310:1:3;" width=90 height=20 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df">
+								<img src=icon.skill0276 width=32 height=32><button value="Concentration" action="bypass _bbsbsingle:276:1:3" width=90 height=20 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df">
+								<img src=icon.skill0365 width=32 height=32><button value="Siren's" action="bypass _bbsbsingle:365:1:3" width=90 height=20 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df">
+							</td>
+						</tr>
+					</table>
+					</center>
+				</td>
+			</tr>
+	</table>
+</center>
+</td>
+</tr>
+</table></center>
+<center><img src="L2UI.SquareGray" width=600 height=1></center>
+<br>
+</body>
+</html>

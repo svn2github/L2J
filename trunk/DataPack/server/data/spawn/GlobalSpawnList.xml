@@ -1,0 +1,3510 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "spawn.dtd">
+<list>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-11581" y="35882" z="-3608" h="26886"/>
+		<npc id="23163"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-10292" y="37196" z="-3704" h="25533"/>
+		<npc id="23164"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-10420" y="38074" z="-3712" h="12414"/>
+		<npc id="23163"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-11029" y="37766" z="-3688" h="11001"/>
+		<npc id="23162"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-11757" y="38803" z="-3688" h="7524"/>
+		<npc id="23166"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-11028" y="37763" z="-3688" h="47393"/>
+		<npc id="23163"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-11134" y="38345" z="-3696" h="35959"/>
+		<npc id="23162"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-8158" y="36389" z="-3680" h="41396"/>
+		<npc id="23163"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-8832" y="35523" z="-3696" h="34716"/>
+		<npc id="23163"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-9830" y="38651" z="-3776" h="8146"/>
+		<npc id="23164"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-8845" y="37865" z="-3696" h="566"/>
+		<npc id="23163"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-8605" y="37759" z="-3688" h="22137"/>
+		<npc id="23163"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-9633" y="38152" z="-3736" h="5597"/>
+		<npc id="23163"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-9410" y="38200" z="-3336" h="52775"/>
+		<npc id="23164"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-5937" y="35694" z="-3648" h="4229"/>
+		<npc id="23163"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-7928" y="35875" z="-3648" h="40348"/>
+		<npc id="23162"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-6216" y="37022" z="-3656" h="24789"/>
+		<npc id="23162"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-6416" y="38398" z="-3656" h="49153"/>
+		<npc id="23163"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-7217" y="37285" z="-3688" h="63274"/>
+		<npc id="23162"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-6290" y="37240" z="-3672" h="14860"/>
+		<npc id="23163"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-5243" y="39595" z="-3632" h="43192"/>
+		<npc id="16053"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-5717" y="39704" z="-3648" h="17797"/>
+		<npc id="23164"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-8836" y="37312" z="-3696" h="65202"/>
+		<npc id="23163"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-11745" y="39152" z="-3688" h="32322"/>
+		<npc id="23167"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-5584" y="36033" z="-3624" h="49299"/>
+		<npc id="23163"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-11223" y="39952" z="-3768" h="40195"/>
+		<npc id="23166"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-11817" y="41176" z="-3768" h="13981"/>
+		<npc id="23166"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-10870" y="39067" z="-3696" h="3463"/>
+		<npc id="23163"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-8381" y="38701" z="-3744" h="39238"/>
+		<npc id="23163"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-10098" y="40309" z="-3704" h="20027"/>
+		<npc id="23167"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-6412" y="40369" z="-3680" h="22183"/>
+		<npc id="23162"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-6688" y="40369" z="-3680" h="11715"/>
+		<npc id="23162"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-5924" y="38666" z="-3680" h="16612"/>
+		<npc id="23163"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-5846" y="37810" z="-3648" h="65531"/>
+		<npc id="23164"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-4459" y="38916" z="-3600" h="18509"/>
+		<npc id="23163"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-5998" y="40682" z="-3072" h="1374"/>
+		<npc id="23163"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-4756" y="39285" z="-3600" h="51665"/>
+		<npc id="23162"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-9657" y="40352" z="-3696" h="10261"/>
+		<npc id="23166"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-6040" y="38100" z="-3648" h="9389"/>
+		<npc id="23164"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-3657" y="36974" z="-3640" h="59411"/>
+		<npc id="23163"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-4484" y="41184" z="-3656" h="52131"/>
+		<npc id="23164"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-3656" y="36878" z="-3640" h="8991"/>
+		<npc id="23163"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-4443" y="41171" z="-3656" h="40996"/>
+		<npc id="23166"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-9194" y="42747" z="-3704" h="677"/>
+		<npc id="23166"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-10255" y="42135" z="-3696" h="52509"/>
+		<npc id="23166"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-10448" y="41911" z="-3768" h="19838"/>
+		<npc id="23167"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-9528" y="42874" z="-3704" h="10457"/>
+		<npc id="23168"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-5687" y="41320" z="-3712" h="39539"/>
+		<npc id="23164"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-5606" y="41224" z="-3728" h="62846"/>
+		<npc id="23164"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-4521" y="41792" z="-3696" h="43830"/>
+		<npc id="23163"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-4616" y="41543" z="-3680" h="16243"/>
+		<npc id="23164"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-6474" y="40656" z="-3136" h="29324"/>
+		<npc id="23164"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-4204" y="39827" z="-3632" h="40145"/>
+		<npc id="23163"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-3928" y="36846" z="-3632" h="34040"/>
+		<npc id="23163"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-4756" y="37930" z="-3592" h="64039"/>
+		<npc id="23163"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-4521" y="41224" z="-3656" h="16695"/>
+		<npc id="23164"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-5308" y="39014" z="-3632" h="27206"/>
+		<npc id="23162"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-4521" y="40088" z="-3656" h="47057"/>
+		<npc id="23164"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-7276" y="37556" z="-3680" h="12223"/>
+		<npc id="23163"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-7884" y="42880" z="-3776" h="60101"/>
+		<npc id="23171"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-5308" y="37659" z="-3616" h="6679"/>
+		<npc id="23162"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-7112" y="42630" z="-3760" h="41664"/>
+		<npc id="23166"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-3436" y="39236" z="-3648" h="51937"/>
+		<npc id="23164"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-5389" y="37248" z="-3608" h="16159"/>
+		<npc id="23163"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-9856" y="42367" z="-3704" h="26918"/>
+		<npc id="23168"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-6257" y="36964" z="-3648" h="48170"/>
+		<npc id="23164"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-4756" y="36846" z="-3608" h="11017"/>
+		<npc id="23163"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-5743" y="35912" z="-3632" h="45877"/>
+		<npc id="23163"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-8613" y="42752" z="-3704" h="3533"/>
+		<npc id="23166"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-4030" y="40895" z="-3672" h="29517"/>
+		<npc id="23164"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-5606" y="38384" z="-3640" h="53409"/>
+		<npc id="23164"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-6136" y="40369" z="-3688" h="48964"/>
+		<npc id="23163"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-6688" y="39556" z="-3680" h="5227"/>
+		<npc id="23163"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-4480" y="36575" z="-3632" h="53185"/>
+		<npc id="23163"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-4738" y="38952" z="-3600" h="9727"/>
+		<npc id="23164"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-6412" y="40098" z="-3680" h="23003"/>
+		<npc id="23162"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-9657" y="41552" z="-3792" h="34625"/>
+		<npc id="23166"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-5172" y="40656" z="-3696" h="54482"/>
+		<npc id="23164"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-5860" y="39827" z="-3656" h="18128"/>
+		<npc id="23163"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-10925" y="37687" z="-3688" h="51544"/>
+		<npc id="23163"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-10997" y="40265" z="-3720" h="23011"/>
+		<npc id="23167"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-10779" y="41521" z="-3768" h="3815"/>
+		<npc id="23167"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-11173" y="41414" z="-3760" h="49257"/>
+		<npc id="23167"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-5584" y="37930" z="-3632" h="23939"/>
+		<npc id="23163"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-5606" y="39236" z="-3648" h="21002"/>
+		<npc id="23163"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-9729" y="43796" z="-3744" h="51609"/>
+		<npc id="23166"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-9410" y="39150" z="-3760" h="6478"/>
+		<npc id="23164"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-11288" y="44124" z="-3776" h="64579"/>
+		<npc id="23168"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-11962" y="44085" z="-3760" h="5911"/>
+		<npc id="23166"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-10906" y="43471" z="-3696" h="58327"/>
+		<npc id="23168"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-10904" y="43225" z="-3712" h="56747"/>
+		<npc id="23166"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-11288" y="43622" z="-3016" h="53198"/>
+		<npc id="23168"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-11288" y="43622" z="-3016" h="58053"/>
+		<npc id="23167"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-11109" y="43371" z="-2912" h="45502"/>
+		<npc id="23168"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-9349" y="44333" z="-3760" h="3436"/>
+		<npc id="23167"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-7068" y="44671" z="-3688" h="42369"/>
+		<npc id="23168"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-6726" y="44972" z="-3616" h="57345"/>
+		<npc id="23168"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-7988" y="44768" z="-3680" h="1516"/>
+		<npc id="23168"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-7293" y="44735" z="-3560" h="26189"/>
+		<npc id="23168"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-7112" y="44882" z="-3528" h="8876"/>
+		<npc id="23167"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-7112" y="44882" z="-3528" h="10721"/>
+		<npc id="23166"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-5210" y="44873" z="-3616" h="35665"/>
+		<npc id="23166"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-6257" y="39804" z="-3672" h="20075"/>
+		<npc id="23164"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-9657" y="39152" z="-3760" h="58166"/>
+		<npc id="23166"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-6257" y="38100" z="-3656" h="5128"/>
+		<npc id="23164"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-8324" y="41746" z="-3768" h="39087"/>
+		<npc id="23171"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-5823" y="39804" z="-3656" h="22047"/>
+		<npc id="23164"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-6796" y="42630" z="-3088" h="24763"/>
+		<npc id="23166"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-7667" y="45560" z="-3656" h="29644"/>
+		<npc id="23168"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-6257" y="40088" z="-3672" h="14279"/>
+		<npc id="23164"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-8801" y="46189" z="-3736" h="24906"/>
+		<npc id="23168"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-8614" y="46447" z="-3760" h="18511"/>
+		<npc id="23167"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-7952" y="45349" z="-3672" h="39622"/>
+		<npc id="23168"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-6205" y="46730" z="-3632" h="1268"/>
+		<npc id="23168"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-10701" y="43952" z="-3688" h="2669"/>
+		<npc id="23166"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-6349" y="47393" z="-3616" h="25108"/>
+		<npc id="23166"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-6665" y="47674" z="-3640" h="24285"/>
+		<npc id="23168"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-8497" y="47647" z="-3688" h="44578"/>
+		<npc id="23167"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-7112" y="42630" z="-3760" h="11189"/>
+		<npc id="23167"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-6164" y="48260" z="-3624" h="37683"/>
+		<npc id="23166"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-10989" y="49967" z="-3768" h="46682"/>
+		<npc id="23167"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-11883" y="49831" z="-3760" h="25688"/>
+		<npc id="23166"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-11024" y="49251" z="-2928" h="17665"/>
+		<npc id="23167"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-11024" y="49251" z="-2928" h="51637"/>
+		<npc id="23166"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-10985" y="49238" z="-2952" h="28626"/>
+		<npc id="23167"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-6171" y="46110" z="-3632" h="24821"/>
+		<npc id="23168"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-7112" y="48260" z="-3648" h="7056"/>
+		<npc id="23166"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-8228" y="45835" z="-3688" h="49703"/>
+		<npc id="23167"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-13676" y="53192" z="-3688" h="35021"/>
+		<npc id="23169"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-7293" y="47760" z="-3688" h="63626"/>
+		<npc id="23168"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-13961" y="47655" z="-3768" h="63250"/>
+		<npc id="23166"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-13436" y="49835" z="-3672" h="13869"/>
+		<npc id="23167"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-13833" y="50467" z="-3672" h="14402"/>
+		<npc id="23167"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-12887" y="50585" z="-3728" h="54997"/>
+		<npc id="23168"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-12788" y="50717" z="-3720" h="56928"/>
+		<npc id="23168"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-13348" y="51859" z="-3768" h="17530"/>
+		<npc id="23169"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-13750" y="52304" z="-3728" h="17537"/>
+		<npc id="23168"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-12663" y="52977" z="-3672" h="25315"/>
+		<npc id="23169"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-14227" y="52171" z="-3768" h="57589"/>
+		<npc id="23169"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-12922" y="52791" z="-3664" h="26224"/>
+		<npc id="23169"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-7667" y="48035" z="-3696" h="65303"/>
+		<npc id="23168"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-13119" y="53398" z="-3696" h="64911"/>
+		<npc id="23169"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-16426" y="53011" z="-3696" h="25128"/>
+		<npc id="23168"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-15625" y="52565" z="-3680" h="51833"/>
+		<npc id="23167"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-15945" y="52722" z="-3680" h="38645"/>
+		<npc id="23168"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-16215" y="51507" z="-3760" h="37670"/>
+		<npc id="23168"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-15245" y="51558" z="-3768" h="35193"/>
+		<npc id="23168"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-16101" y="54327" z="-3688" h="43938"/>
+		<npc id="23168"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-16105" y="55055" z="-3712" h="33328"/>
+		<npc id="23169"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-15398" y="55229" z="-3712" h="10483"/>
+		<npc id="23169"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-15921" y="55093" z="-3712" h="43540"/>
+		<npc id="23169"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-14955" y="55217" z="-3720" h="14985"/>
+		<npc id="23168"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-16138" y="56226" z="-3680" h="39929"/>
+		<npc id="23169"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-16208" y="56267" z="-3680" h="28213"/>
+		<npc id="23168"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-16872" y="58088" z="-3672" h="7238"/>
+		<npc id="23169"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-17260" y="57368" z="-3680" h="6369"/>
+		<npc id="23169"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-14918" y="52204" z="-3776" h="59793"/>
+		<npc id="23168"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-17284" y="53155" z="-3688" h="5673"/>
+		<npc id="14931"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-17128" y="53213" z="-3688" h="5673"/>
+		<npc id="14931"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-17118" y="53178" z="-3688" h="5672"/>
+		<npc id="14931"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-17366" y="54925" z="-3776" h="44290"/>
+		<npc id="23169"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-16863" y="53999" z="-3744" h="50946"/>
+		<npc id="23169"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-16456" y="55758" z="-3688" h="26044"/>
+		<npc id="23168"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-16513" y="51692" z="-3712" h="63206"/>
+		<npc id="23168"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-18086" y="56207" z="-3744" h="11175"/>
+		<npc id="23168"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-17600" y="56786" z="-3768" h="14913"/>
+		<npc id="23169"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-17516" y="51712" z="-3672" h="22923"/>
+		<npc id="23168"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-17059" y="53607" z="-3760" h="54869"/>
+		<npc id="23169"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-16486" y="49596" z="-3768" h="29448"/>
+		<npc id="23168"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-16845" y="50430" z="-3696" h="7206"/>
+		<npc id="23168"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-16055" y="50662" z="-3752" h="55752"/>
+		<npc id="23168"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-15533" y="49804" z="-3752" h="37906"/>
+		<npc id="23168"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-14256" y="50556" z="-3672" h="26451"/>
+		<npc id="23168"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-15225" y="50926" z="-3696" h="8856"/>
+		<npc id="23169"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-14749" y="50378" z="-3696" h="16375"/>
+		<npc id="23167"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-16556" y="51712" z="-3712" h="45027"/>
+		<npc id="23169"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-19161" y="50137" z="-3688" h="18657"/>
+		<npc id="23168"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-20317" y="51605" z="-3672" h="39643"/>
+		<npc id="23170"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-19250" y="52159" z="-3352" h="39221"/>
+		<npc id="23169"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-18868" y="54470" z="-3760" h="28046"/>
+		<npc id="23169"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-19591" y="54075" z="-3760" h="12079"/>
+		<npc id="23169"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-19604" y="54044" z="-3760" h="8394"/>
+		<npc id="23170"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-17998" y="52340" z="-3672" h="48650"/>
+		<npc id="23169"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-15596" y="52822" z="-3680" h="19083"/>
+		<npc id="23168"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-15596" y="53932" z="-3704" h="59525"/>
+		<npc id="23169"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-14956" y="55042" z="-3720" h="64658"/>
+		<npc id="23169"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-18495" y="47858" z="-3616" h="48424"/>
+		<npc id="23169"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-20146" y="47227" z="-3656" h="8881"/>
+		<npc id="23167"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-18280" y="47753" z="-3640" h="33931"/>
+		<npc id="23165"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-18463" y="47102" z="-3632" h="1004"/>
+		<npc id="23168"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-17683" y="47403" z="-3680" h="17292"/>
+		<npc id="23168"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-17420" y="47500" z="-3680" h="4797"/>
+		<npc id="23168"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-17153" y="48375" z="-3768" h="62906"/>
+		<npc id="23169"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-16512" y="47618" z="-3760" h="19243"/>
+		<npc id="23169"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-17251" y="49303" z="-3736" h="39124"/>
+		<npc id="23168"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-15226" y="48202" z="-3760" h="29123"/>
+		<npc id="23169"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-15115" y="48285" z="-3760" h="19875"/>
+		<npc id="23169"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-14636" y="49862" z="-3744" h="26527"/>
+		<npc id="23168"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-15596" y="51342" z="-3768" h="46757"/>
+		<npc id="23169"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-17696" y="50840" z="-3704" h="35876"/>
+		<npc id="23169"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-21272" y="48137" z="-3712" h="63795"/>
+		<npc id="23168"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-21438" y="47814" z="-3712" h="61773"/>
+		<npc id="23167"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-20741" y="50704" z="-3760" h="21219"/>
+		<npc id="23169"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-20694" y="51143" z="-3736" h="28820"/>
+		<npc id="23170"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-21775" y="52129" z="-3760" h="7579"/>
+		<npc id="23170"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-22059" y="52182" z="-3696" h="33819"/>
+		<npc id="23169"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-20716" y="51886" z="-3672" h="64200"/>
+		<npc id="19170"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-18069" y="48149" z="-3648" h="52771"/>
+		<npc id="23169"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-18353" y="46479" z="-3664" h="35169"/>
+		<npc id="23168"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-16346" y="50844" z="-3752" h="13668"/>
+		<npc id="23167"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-18311" y="52702" z="-3704" h="19936"/>
+		<npc id="23169"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-19934" y="48747" z="-3744" h="38747"/>
+		<npc id="23169"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-19716" y="49736" z="-3664" h="57983"/>
+		<npc id="23169"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-23390" y="49659" z="-3760" h="57"/>
+		<npc id="23168"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-22830" y="47187" z="-3760" h="40965"/>
+		<npc id="23167"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-19788" y="48768" z="-3720" h="45275"/>
+		<npc id="23165"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-23894" y="49068" z="-3768" h="62634"/>
+		<npc id="23166"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-24802" y="48374" z="-3744" h="48214"/>
+		<npc id="23166"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-24157" y="47547" z="-3680" h="52339"/>
+		<npc id="23168"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-22885" y="48836" z="-3728" h="1465"/>
+		<npc id="23169"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-22772" y="48217" z="-3784" h="52654"/>
+		<npc id="23166"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-22858" y="50772" z="-3752" h="64229"/>
+		<npc id="23169"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-22713" y="51170" z="-3768" h="10821"/>
+		<npc id="23169"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-23668" y="50946" z="-3776" h="55862"/>
+		<npc id="23169"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-23532" y="50196" z="-3304" h="271"/>
+		<npc id="23169"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-23026" y="51980" z="-3648" h="38040"/>
+		<npc id="23169"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-22691" y="51863" z="-3656" h="38485"/>
+		<npc id="23170"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-23505" y="52345" z="-3648" h="31118"/>
+		<npc id="23169"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-22854" y="51305" z="-3752" h="26639"/>
+		<npc id="23169"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-23358" y="52809" z="-3648" h="40591"/>
+		<npc id="23165"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-23940" y="51505" z="-3760" h="61083"/>
+		<npc id="23169"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-23553" y="52490" z="-3664" h="45682"/>
+		<npc id="23165"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-17976" y="46702" z="-3696" h="60395"/>
+		<npc id="23168"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-19188" y="51737" z="-3744" h="51731"/>
+		<npc id="23169"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-23728" y="48168" z="-3688" h="18643"/>
+		<npc id="23166"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-20709" y="49940" z="-3688" h="7680"/>
+		<npc id="23169"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-20815" y="52702" z="-3744" h="6467"/>
+		<npc id="23169"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-19212" y="46292" z="-3624" h="24438"/>
+		<npc id="23167"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-25410" y="48672" z="-3768" h="33819"/>
+		<npc id="23169"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-25004" y="49047" z="-3608" h="27149"/>
+		<npc id="23168"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-24463" y="50573" z="-3768" h="43943"/>
+		<npc id="23170"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-26419" y="50493" z="-3768" h="63681"/>
+		<npc id="23166"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-24722" y="49556" z="-3704" h="6017"/>
+		<npc id="23167"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-24335" y="50505" z="-3760" h="19367"/>
+		<npc id="23170"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-25327" y="51199" z="-3712" h="46535"/>
+		<npc id="23169"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-23164" y="51728" z="-3664" h="30365"/>
+		<npc id="23168"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-26342" y="53011" z="-3760" h="14386"/>
+		<npc id="23171"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-22096" y="47932" z="-3688" h="48208"/>
+		<npc id="23168"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-21371" y="49736" z="-3768" h="16975"/>
+		<npc id="23169"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-19563" y="51435" z="-3720" h="19494"/>
+		<npc id="23169"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-26588" y="54857" z="-3760" h="50926"/>
+		<npc id="23169"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-25180" y="55034" z="-3752" h="49882"/>
+		<npc id="23169"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-26788" y="55335" z="-3752" h="19136"/>
+		<npc id="23169"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-26328" y="55011" z="-3768" h="34009"/>
+		<npc id="23170"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-25166" y="54556" z="-3752" h="16593"/>
+		<npc id="23169"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-25359" y="54867" z="-3776" h="53122"/>
+		<npc id="23170"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-25050" y="54352" z="-3720" h="17449"/>
+		<npc id="23169"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-25522" y="54560" z="-3768" h="52982"/>
+		<npc id="23169"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-24505" y="53422" z="-3704" h="9563"/>
+		<npc id="23172"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-24326" y="53254" z="-3696" h="27584"/>
+		<npc id="23172"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-23067" y="54511" z="-3696" h="6669"/>
+		<npc id="23165"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-23357" y="53356" z="-3688" h="29278"/>
+		<npc id="23165"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-23395" y="54479" z="-3688" h="35685"/>
+		<npc id="23172"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-23139" y="53636" z="-3672" h="37449"/>
+		<npc id="23172"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-23377" y="53667" z="-3696" h="24501"/>
+		<npc id="23165"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-22860" y="53681" z="-3640" h="29276"/>
+		<npc id="23165"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-23357" y="53180" z="-3680" h="37138"/>
+		<npc id="23165"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-23044" y="53931" z="-3680" h="41597"/>
+		<npc id="23165"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-23623" y="53273" z="-3704" h="18514"/>
+		<npc id="23165"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-23005" y="53398" z="-3648" h="25365"/>
+		<npc id="19170"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-20737" y="54872" z="-3768" h="49500"/>
+		<npc id="23169"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-22253" y="54898" z="-3680" h="5627"/>
+		<npc id="23165"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-21441" y="53426" z="-3616" h="25473"/>
+		<npc id="23170"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-20681" y="54245" z="-3760" h="28087"/>
+		<npc id="23169"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-22062" y="54342" z="-3608" h="25154"/>
+		<npc id="23172"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-20378" y="48920" z="-3768" h="60816"/>
+		<npc id="23170"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-23026" y="50552" z="-3776" h="13984"/>
+		<npc id="23169"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-23688" y="50756" z="-3760" h="1300"/>
+		<npc id="23169"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-27032" y="49066" z="-3760" h="33326"/>
+		<npc id="23167"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="9656" y="15578" z="-4568" h="6000"/>
+		<npc id="30992"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="11105" y="15984" z="-4584" h="46836"/>
+		<npc id="14925"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="11036" y="16112" z="-4584" h="0"/>
+		<npc id="14925"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="11171" y="15932" z="-4584" h="55622"/>
+		<npc id="30134"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-16373" y="26660" z="-3280" h="32417"/>
+		<npc id="23174"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-18271" y="28266" z="-2896" h="35041"/>
+		<npc id="23174"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-16458" y="27011" z="-3224" h="59319"/>
+		<npc id="16053"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-17422" y="27355" z="-3112" h="26145"/>
+		<npc id="23176"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-17489" y="27370" z="-3104" h="65520"/>
+		<npc id="23174"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-17908" y="27584" z="-3048" h="15546"/>
+		<npc id="23176"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-18269" y="27921" z="-2976" h="48765"/>
+		<npc id="23174"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-17464" y="27415" z="-3096" h="43686"/>
+		<npc id="16053"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-18080" y="30152" z="-2952" h="55143"/>
+		<npc id="23175"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-17522" y="29364" z="-2944" h="29947"/>
+		<npc id="23176"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-14272" y="27995" z="-3664" h="64915"/>
+		<npc id="14925"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-16268" y="26770" z="-3264" h="44083"/>
+		<npc id="23175"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-15071" y="28859" z="-3640" h="53441"/>
+		<npc id="16053"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-14456" y="30892" z="-3408" h="34854"/>
+		<npc id="23174"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-14749" y="31052" z="-3488" h="26927"/>
+		<npc id="23176"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-14787" y="31131" z="-3512" h="44600"/>
+		<npc id="23175"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-15900" y="30804" z="-3624" h="51973"/>
+		<npc id="30350"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-15801" y="30787" z="-3624" h="47722"/>
+		<npc id="30137"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-15743" y="30721" z="-3624" h="45029"/>
+		<npc id="33535"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-15975" y="30867" z="-3624" h="44643"/>
+		<npc id="33562"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-12866" y="29255" z="-3080" h="19575"/>
+		<npc id="23176"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-13282" y="31891" z="-3184" h="63285"/>
+		<npc id="23176"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-12524" y="31611" z="-2968" h="55504"/>
+		<npc id="23174"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-12815" y="30840" z="-2952" h="35643"/>
+		<npc id="23175"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-16490" y="26220" z="-3336" h="45346"/>
+		<npc id="23174"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-11440" y="29124" z="-2472" h="52926"/>
+		<npc id="23176"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-18337" y="25635" z="-3304" h="29276"/>
+		<npc id="23174"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-17771" y="26003" z="-3288" h="35595"/>
+		<npc id="23176"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-17303" y="25984" z="-3328" h="17988"/>
+		<npc id="23175"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-15611" y="24803" z="-3552" h="32218"/>
+		<npc id="23174"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-14986" y="31517" z="-3568" h="48782"/>
+		<npc id="23175"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-17503" y="24410" z="-3624" h="18388"/>
+		<npc id="23175"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-17774" y="23872" z="-3648" h="11605"/>
+		<npc id="23176"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-12146" y="29273" z="-2792" h="64463"/>
+		<npc id="23174"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-12998" y="30395" z="-2944" h="42279"/>
+		<npc id="23176"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-17345" y="23837" z="-3648" h="25451"/>
+		<npc id="23176"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-17261" y="22695" z="-3760" h="28885"/>
+		<npc id="23175"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-17405" y="23027" z="-3688" h="45228"/>
+		<npc id="23175"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-17532" y="22669" z="-3760" h="15732"/>
+		<npc id="23174"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-17178" y="22995" z="-3712" h="15599"/>
+		<npc id="23176"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-17421" y="23472" z="-3672" h="24501"/>
+		<npc id="23176"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-16612" y="23647" z="-3744" h="23917"/>
+		<npc id="23174"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-15779" y="23852" z="-3752" h="11184"/>
+		<npc id="23175"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-16061" y="24024" z="-3768" h="10347"/>
+		<npc id="23175"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-15720" y="23036" z="-3768" h="37968"/>
+		<npc id="23175"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-14492" y="24517" z="-2744" h="45508"/>
+		<npc id="23176"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-14398" y="24536" z="-2808" h="61379"/>
+		<npc id="23175"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-14386" y="24559" z="-2816" h="0"/>
+		<npc id="23175"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-14492" y="24517" z="-2744" h="31145"/>
+		<npc id="23174"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-14500" y="24573" z="-3152" h="10067"/>
+		<npc id="23175"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-16233" y="25515" z="-3408" h="44881"/>
+		<npc id="23175"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-18032" y="24575" z="-3560" h="893"/>
+		<npc id="23176"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-18087" y="27764" z="-3024" h="886"/>
+		<npc id="23174"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-18787" y="23506" z="-3672" h="22516"/>
+		<npc id="23175"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-19060" y="24105" z="-3512" h="18100"/>
+		<npc id="23174"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-18611" y="23214" z="-3704" h="23306"/>
+		<npc id="23176"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-19421" y="26166" z="-3056" h="29329"/>
+		<npc id="23176"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-19900" y="26495" z="-2912" h="45628"/>
+		<npc id="23174"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-19763" y="26474" z="-2928" h="24334"/>
+		<npc id="23176"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-20049" y="26348" z="-2936" h="39497"/>
+		<npc id="23177"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-20310" y="26168" z="-2976" h="49693"/>
+		<npc id="23180"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-18549" y="26140" z="-3176" h="63681"/>
+		<npc id="23175"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-18513" y="25495" z="-3304" h="4680"/>
+		<npc id="23176"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-19289" y="24749" z="-3288" h="26569"/>
+		<npc id="23174"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-18755" y="26623" z="-3080" h="54935"/>
+		<npc id="23175"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-19777" y="26612" z="-2920" h="6205"/>
+		<npc id="23175"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-19035" y="25029" z="-3280" h="12414"/>
+		<npc id="23175"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-18594" y="25763" z="-3232" h="17318"/>
+		<npc id="23175"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-18520" y="26768" z="-3088" h="27853"/>
+		<npc id="23175"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-20281" y="28535" z="-2416" h="32333"/>
+		<npc id="23179"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-18629" y="26871" z="-3080" h="56125"/>
+		<npc id="23176"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-18686" y="27223" z="-3072" h="52800"/>
+		<npc id="23174"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-19707" y="28587" z="-2576" h="31792"/>
+		<npc id="23176"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-20429" y="28800" z="-2280" h="43738"/>
+		<npc id="23177"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-18823" y="27650" z="-3000" h="25512"/>
+		<npc id="23176"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-18322" y="27437" z="-3080" h="46863"/>
+		<npc id="23174"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-20172" y="28374" z="-2528" h="47141"/>
+		<npc id="23178"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-20111" y="27781" z="-2768" h="61279"/>
+		<npc id="23175"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-19903" y="27712" z="-2824" h="7617"/>
+		<npc id="23175"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-19830" y="27098" z="-2904" h="52291"/>
+		<npc id="23174"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-19763" y="28622" z="-2552" h="43739"/>
+		<npc id="23174"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-16490" y="25045" z="-3528" h="38434"/>
+		<npc id="23175"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-13356" y="21925" z="-3704" h="59390"/>
+		<npc id="14931"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-13473" y="21850" z="-3704" h="24436"/>
+		<npc id="14931"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-13480" y="21872" z="-3704" h="20977"/>
+		<npc id="14931"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-18451" y="26351" z="-3136" h="12829"/>
+		<npc id="23175"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-17261" y="24105" z="-3648" h="18755"/>
+		<npc id="23176"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-20874" y="26295" z="-2952" h="48877"/>
+		<npc id="23177"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-21078" y="24408" z="-3368" h="17840"/>
+		<npc id="23178"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-21094" y="25988" z="-3008" h="26912"/>
+		<npc id="23177"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-20982" y="25088" z="-3136" h="56568"/>
+		<npc id="23180"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-21336" y="23736" z="-3632" h="13961"/>
+		<npc id="23180"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-18032" y="25045" z="-3480" h="57470"/>
+		<npc id="23176"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-21654" y="24548" z="-3360" h="50577"/>
+		<npc id="23178"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-21990" y="25988" z="-2928" h="14752"/>
+		<npc id="23178"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-21807" y="26564" z="-2824" h="49494"/>
+		<npc id="23175"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-21790" y="26496" z="-2840" h="21910"/>
+		<npc id="23175"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-20623" y="26421" z="-2920" h="48023"/>
+		<npc id="23174"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-20782" y="27365" z="-2680" h="38184"/>
+		<npc id="23176"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-21561" y="27217" z="-2616" h="34027"/>
+		<npc id="23174"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-21366" y="26928" z="-2752" h="9509"/>
+		<npc id="23174"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-20594" y="26957" z="-2824" h="8388"/>
+		<npc id="23176"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-21710" y="27531" z="-2496" h="57762"/>
+		<npc id="23176"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-17004" y="25750" z="-3368" h="39867"/>
+		<npc id="23174"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-21542" y="23828" z="-3584" h="42400"/>
+		<npc id="23180"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-21350" y="21128" z="-3624" h="37812"/>
+		<npc id="23175"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-19943" y="22137" z="-3800" h="54766"/>
+		<npc id="23176"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-19321" y="20964" z="-3736" h="12252"/>
+		<npc id="23175"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-19425" y="21449" z="-3720" h="44507"/>
+		<npc id="23174"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-18632" y="21440" z="-3768" h="34645"/>
+		<npc id="23175"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-18741" y="21035" z="-3768" h="2960"/>
+		<npc id="23176"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-20085" y="21855" z="-3784" h="56895"/>
+		<npc id="23174"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-16477" y="22111" z="-3704" h="31727"/>
+		<npc id="23176"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-20310" y="25448" z="-2416" h="10052"/>
+		<npc id="23180"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-21206" y="24908" z="-3192" h="1554"/>
+		<npc id="23178"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-20758" y="25088" z="-3144" h="8491"/>
+		<npc id="23177"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-17775" y="25280" z="-3464" h="46413"/>
+		<npc id="23176"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-23820" y="20381" z="-3640" h="45094"/>
+		<npc id="23178"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-24132" y="20339" z="-3704" h="54245"/>
+		<npc id="23178"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-24556" y="21456" z="-3704" h="47600"/>
+		<npc id="23178"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-24277" y="20812" z="-3632" h="48479"/>
+		<npc id="23180"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-23827" y="20940" z="-3704" h="33923"/>
+		<npc id="23178"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-24147" y="21164" z="-3712" h="7086"/>
+		<npc id="23180"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-24004" y="21094" z="-3400" h="54345"/>
+		<npc id="23179"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-24777" y="23414" z="-3688" h="28087"/>
+		<npc id="23180"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-23127" y="22581" z="-3704" h="57712"/>
+		<npc id="23178"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-24540" y="26186" z="-3456" h="45323"/>
+		<npc id="23177"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-21318" y="24908" z="-3192" h="28144"/>
+		<npc id="23177"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-20646" y="24728" z="-3224" h="44975"/>
+		<npc id="23178"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-18032" y="23870" z="-3648" h="40200"/>
+		<npc id="23175"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-22814" y="18560" z="-3688" h="48926"/>
+		<npc id="23179"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-23223" y="19057" z="-3520" h="22955"/>
+		<npc id="19216"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-24222" y="20322" z="-3704" h="9752"/>
+		<npc id="23180"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-24665" y="19515" z="-3688" h="23717"/>
+		<npc id="23179"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-24597" y="20209" z="-3704" h="21157"/>
+		<npc id="23178"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-24721" y="19821" z="-3688" h="27837"/>
+		<npc id="23178"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-24640" y="18985" z="-3688" h="25565"/>
+		<npc id="23175"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-23562" y="19600" z="-3592" h="9030"/>
+		<npc id="23176"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-24591" y="19514" z="-3688" h="35007"/>
+		<npc id="23179"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-24621" y="20262" z="-3704" h="27897"/>
+		<npc id="23179"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-22626" y="18744" z="-3640" h="28916"/>
+		<npc id="23178"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-23289" y="18559" z="-3336" h="62942"/>
+		<npc id="23180"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-20768" y="20327" z="-3672" h="17608"/>
+		<npc id="23174"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-20894" y="20124" z="-3576" h="18278"/>
+		<npc id="23176"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-21642" y="18882" z="-3520" h="58066"/>
+		<npc id="23179"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-21968" y="18923" z="-3584" h="45368"/>
+		<npc id="23178"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-21699" y="18867" z="-3520" h="20797"/>
+		<npc id="23180"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-20251" y="20019" z="-3672" h="25565"/>
+		<npc id="23175"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-19583" y="19727" z="-3696" h="52800"/>
+		<npc id="23174"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-21430" y="24728" z="-3272" h="10962"/>
+		<npc id="23178"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-20086" y="23648" z="-3608" h="1796"/>
+		<npc id="23177"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-21430" y="23468" z="-3672" h="35119"/>
+		<npc id="23180"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-25073" y="18618" z="-3640" h="38836"/>
+		<npc id="23174"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-24586" y="20328" z="-3704" h="12609"/>
+		<npc id="23178"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-25978" y="20408" z="-3776" h="21805"/>
+		<npc id="23179"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-26782" y="19606" z="-3648" h="34305"/>
+		<npc id="23179"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-26217" y="19218" z="-3728" h="55284"/>
+		<npc id="23180"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-25186" y="19570" z="-3720" h="30295"/>
+		<npc id="23179"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-26417" y="19531" z="-3752" h="14718"/>
+		<npc id="23180"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-26184" y="19973" z="-3768" h="8561"/>
+		<npc id="23178"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-25871" y="19774" z="-3776" h="36125"/>
+		<npc id="23179"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-24887" y="20864" z="-3760" h="1922"/>
+		<npc id="23180"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-25412" y="22196" z="-3768" h="58622"/>
+		<npc id="23179"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-25888" y="20693" z="-3744" h="50371"/>
+		<npc id="23180"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-24641" y="24238" z="-3752" h="26771"/>
+		<npc id="23178"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-26160" y="23206" z="-3664" h="12673"/>
+		<npc id="23179"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-25925" y="23704" z="-3744" h="43585"/>
+		<npc id="23179"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-26143" y="23501" z="-3672" h="58697"/>
+		<npc id="23178"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-26624" y="23606" z="-3640" h="44367"/>
+		<npc id="23179"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-26045" y="23257" z="-3680" h="1465"/>
+		<npc id="23178"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-24957" y="23852" z="-3736" h="9882"/>
+		<npc id="23180"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-25254" y="23109" z="-3712" h="42683"/>
+		<npc id="23178"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-26404" y="23442" z="-3640" h="4667"/>
+		<npc id="23179"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-25987" y="23554" z="-3672" h="40445"/>
+		<npc id="23180"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-25438" y="23972" z="-3768" h="32998"/>
+		<npc id="23179"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-25878" y="23269" z="-3744" h="24723"/>
+		<npc id="23178"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-25745" y="23109" z="-3768" h="20801"/>
+		<npc id="23180"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-26253" y="23264" z="-3672" h="44162"/>
+		<npc id="23180"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-26280" y="23456" z="-3672" h="14913"/>
+		<npc id="23178"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-24471" y="23818" z="-3768" h="40480"/>
+		<npc id="23179"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-25730" y="23339" z="-3760" h="26318"/>
+		<npc id="23180"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-21430" y="24188" z="-3472" h="59336"/>
+		<npc id="23177"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-27128" y="23774" z="-3608" h="16786"/>
+		<npc id="23178"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-26666" y="24171" z="-3696" h="34336"/>
+		<npc id="23178"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-27327" y="18405" z="-3632" h="45925"/>
+		<npc id="23174"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-28372" y="20389" z="-3552" h="8077"/>
+		<npc id="23180"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-26871" y="19241" z="-3632" h="1552"/>
+		<npc id="23176"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-28405" y="24400" z="-3472" h="521"/>
+		<npc id="23177"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-28194" y="23471" z="-3512" h="49732"/>
+		<npc id="23178"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-26769" y="23352" z="-2944" h="41627"/>
+		<npc id="23180"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-26769" y="23790" z="-3032" h="42889"/>
+		<npc id="23179"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-28393" y="23644" z="-3488" h="17172"/>
+		<npc id="23180"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-26712" y="24621" z="-3768" h="38923"/>
+		<npc id="23180"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-28393" y="23790" z="-3496" h="31568"/>
+		<npc id="23179"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-28869" y="24297" z="-3440" h="55578"/>
+		<npc id="23179"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-29201" y="23965" z="-3312" h="30149"/>
+		<npc id="23178"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-26401" y="24560" z="-3768" h="44220"/>
+		<npc id="23178"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-26769" y="24082" z="-2984" h="31207"/>
+		<npc id="23178"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-26953" y="16402" z="-3536" h="25375"/>
+		<npc id="23174"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-27515" y="16307" z="-3528" h="54051"/>
+		<npc id="23176"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-27859" y="16768" z="-3584" h="32839"/>
+		<npc id="23176"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-24977" y="17506" z="-3632" h="45248"/>
+		<npc id="23174"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-25405" y="17866" z="-3632" h="20330"/>
+		<npc id="23175"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-26147" y="17661" z="-3632" h="11508"/>
+		<npc id="23175"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-25086" y="16850" z="-3616" h="38967"/>
+		<npc id="23175"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-24935" y="17205" z="-3632" h="24327"/>
+		<npc id="23175"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-26594" y="24507" z="-3768" h="609"/>
+		<npc id="23179"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-26759" y="16043" z="-3488" h="32767"/>
+		<npc id="23174"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-25397" y="16058" z="-3536" h="29816"/>
+		<npc id="23175"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-25521" y="15245" z="-3448" h="18436"/>
+		<npc id="23176"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-26142" y="15970" z="-3496" h="27359"/>
+		<npc id="23174"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-23801" y="18386" z="-3648" h="63654"/>
+		<npc id="23176"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-22870" y="17105" z="-3592" h="16040"/>
+		<npc id="23179"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-22585" y="16799" z="-3208" h="24789"/>
+		<npc id="23180"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-20358" y="14872" z="-3640" h="50780"/>
+		<npc id="23174"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-20377" y="14247" z="-3424" h="60368"/>
+		<npc id="23176"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-20416" y="15005" z="-3680" h="63614"/>
+		<npc id="23175"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-20542" y="14627" z="-3568" h="2426"/>
+		<npc id="23175"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-21287" y="14805" z="-3544" h="51758"/>
+		<npc id="23176"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-21242" y="14817" z="-3552" h="59391"/>
+		<npc id="23175"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-21057" y="17328" z="-3760" h="62607"/>
+		<npc id="23179"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-20652" y="17241" z="-3672" h="46345"/>
+		<npc id="23177"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-21851" y="17958" z="-3696" h="35379"/>
+		<npc id="23179"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-20597" y="18004" z="-3760" h="18621"/>
+		<npc id="23179"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-21032" y="17023" z="-3752" h="17766"/>
+		<npc id="23179"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-20856" y="17120" z="-3672" h="21064"/>
+		<npc id="23178"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-21825" y="18066" z="-3704" h="42258"/>
+		<npc id="23177"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-21898" y="17990" z="-3696" h="16824"/>
+		<npc id="23178"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-21505" y="17766" z="-3712" h="61373"/>
+		<npc id="23179"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-21665" y="17993" z="-3704" h="6298"/>
+		<npc id="23177"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-21705" y="18239" z="-3680" h="39079"/>
+		<npc id="23178"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-21191" y="17634" z="-3768" h="11621"/>
+		<npc id="23177"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-19851" y="16104" z="-3760" h="28371"/>
+		<npc id="23178"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-20007" y="16319" z="-3760" h="42253"/>
+		<npc id="23178"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-19947" y="14390" z="-3576" h="29355"/>
+		<npc id="23175"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-19331" y="14275" z="-3496" h="11196"/>
+		<npc id="23177"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-19482" y="16402" z="-3760" h="8794"/>
+		<npc id="23177"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-18617" y="17404" z="-3760" h="32116"/>
+		<npc id="23174"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-18883" y="19426" z="-3776" h="27052"/>
+		<npc id="23174"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-19619" y="19915" z="-3688" h="29329"/>
+		<npc id="23176"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-19391" y="20098" z="-3688" h="18175"/>
+		<npc id="23176"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-20789" y="16410" z="-3768" h="6324"/>
+		<npc id="23178"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-19067" y="17793" z="-3704" h="54080"/>
+		<npc id="23176"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-16774" y="17956" z="-3696" h="482"/>
+		<npc id="23175"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-16659" y="16835" z="-3680" h="61097"/>
+		<npc id="23175"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-17538" y="17960" z="-3736" h="6666"/>
+		<npc id="23176"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-18216" y="18284" z="-3776" h="24477"/>
+		<npc id="23176"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-17693" y="17739" z="-3760" h="61313"/>
+		<npc id="23175"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-16718" y="17459" z="-3696" h="31287"/>
+		<npc id="23174"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-17258" y="17283" z="-3688" h="2934"/>
+		<npc id="23174"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-18374" y="20005" z="-3696" h="33354"/>
+		<npc id="23175"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-18030" y="20115" z="-3680" h="29189"/>
+		<npc id="23175"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-16850" y="18825" z="-3128" h="59464"/>
+		<npc id="23179"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-16694" y="20089" z="-3088" h="21832"/>
+		<npc id="23178"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-16574" y="20120" z="-3096" h="15065"/>
+		<npc id="23179"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-16574" y="20120" z="-3096" h="52930"/>
+		<npc id="23180"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-16724" y="20161" z="-3056" h="8370"/>
+		<npc id="23178"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-16681" y="19999" z="-3160" h="27931"/>
+		<npc id="23178"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-16674" y="20015" z="-3144" h="17537"/>
+		<npc id="23178"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-16663" y="20115" z="-3056" h="38382"/>
+		<npc id="23178"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-20789" y="18093" z="-3752" h="41954"/>
+		<npc id="23179"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-21861" y="18093" z="-3704" h="46655"/>
+		<npc id="23178"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-20521" y="17634" z="-3680" h="7506"/>
+		<npc id="23179"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-15629" y="16324" z="-3744" h="39774"/>
+		<npc id="23174"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-15007" y="14778" z="-3760" h="15339"/>
+		<npc id="23176"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-14947" y="14294" z="-3760" h="22900"/>
+		<npc id="23174"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-15224" y="16418" z="-3776" h="20824"/>
+		<npc id="23175"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-15678" y="17223" z="-3704" h="49518"/>
+		<npc id="23176"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-15653" y="16320" z="-3728" h="24934"/>
+		<npc id="23176"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-15302" y="16533" z="-3776" h="58257"/>
+		<npc id="23176"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-15216" y="16963" z="-3760" h="50721"/>
+		<npc id="23174"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-15235" y="16798" z="-3776" h="5663"/>
+		<npc id="23174"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-15548" y="16828" z="-3768" h="61268"/>
+		<npc id="23176"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-15412" y="17583" z="-3696" h="47770"/>
+		<npc id="23175"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-14875" y="17635" z="-3712" h="12844"/>
+		<npc id="23175"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-14797" y="20093" z="-3688" h="48502"/>
+		<npc id="23179"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-15226" y="19905" z="-3688" h="27423"/>
+		<npc id="23179"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-14932" y="17311" z="-3688" h="1199"/>
+		<npc id="23174"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-21459" y="17175" z="-3776" h="49369"/>
+		<npc id="23179"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-14139" y="18268" z="-2896" h="8136"/>
+		<npc id="23176"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-14120" y="18219" z="-3296" h="11861"/>
+		<npc id="23175"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-12382" y="19331" z="-3760" h="355"/>
+		<npc id="23174"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-13449" y="19544" z="-3680" h="16383"/>
+		<npc id="23176"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-12390" y="19358" z="-3760" h="28937"/>
+		<npc id="23175"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-14400" y="18273" z="-3704" h="35959"/>
+		<npc id="23176"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-13079" y="18799" z="-2952" h="53725"/>
+		<npc id="23175"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-13079" y="18799" z="-2952" h="17250"/>
+		<npc id="23174"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-14133" y="19035" z="-3008" h="18412"/>
+		<npc id="23174"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-14149" y="19062" z="-3040" h="52178"/>
+		<npc id="23175"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-14137" y="19036" z="-3008" h="16695"/>
+		<npc id="23174"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-13079" y="18799" z="-2952" h="7490"/>
+		<npc id="23176"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-13129" y="20551" z="-3768" h="11216"/>
+		<npc id="23174"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-10687" y="16306" z="-3712" h="45456"/>
+		<npc id="23174"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-10886" y="17085" z="-3760" h="61313"/>
+		<npc id="23175"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-10736" y="17303" z="-3728" h="42197"/>
+		<npc id="23175"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-10516" y="20208" z="-3688" h="33538"/>
+		<npc id="23176"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-10639" y="19026" z="-3720" h="8777"/>
+		<npc id="23176"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-10462" y="21779" z="-3656" h="53254"/>
+		<npc id="23174"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-11612" y="21624" z="-3784" h="38540"/>
+		<npc id="23175"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-11074" y="21404" z="-3784" h="12917"/>
+		<npc id="23175"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-10521" y="20879" z="-3704" h="12372"/>
+		<npc id="23176"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-11519" y="20402" z="-3768" h="27236"/>
+		<npc id="23176"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-10765" y="21386" z="-3720" h="47968"/>
+		<npc id="23174"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="11259" y="15424" z="-4528" h="17471"/>
+		<npc id="14918"/><!-- Swampland -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="-17677" y="125256" z="-3168" h="9709"/>
+		<npc id="12782"/><!-- gludio -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="-14814" y="124414" z="-3112" h="15904"/>
+		<npc id="14481"/><!-- gludio -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="-14660" y="123665" z="-3120" h="46386"/>
+		<npc id="16067"/><!-- gludio -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="-14239" y="123032" z="-3112" h="53568"/>
+		<npc id="14296"/><!-- gludio -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="-15002" y="124092" z="-3120" h="25049"/>
+		<npc id="16052"/><!-- gludio -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="-14510" y="124092" z="-3120" h="59133"/>
+		<npc id="31218"/><!-- gludio -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="-15160" y="124292" z="-3112" h="32672"/>
+		<npc id="35103"/><!-- gludio -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="-15160" y="124252" z="-3112" h="32672"/>
+		<npc id="36490"/><!-- gludio -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="-14760" y="122892" z="-3112" h="65502"/>
+		<npc id="33552"/><!-- gludio -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="-14691" y="124173" z="-3112" h="23847"/>
+		<npc id="33494"/><!-- gludio -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="-15067" y="124138" z="-3112" h="49152"/>
+		<npc id="36481"/><!-- gludio -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="-14977" y="126035" z="-3144" h="32768"/>
+		<npc id="30434"/><!-- gludio -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="-14060" y="121350" z="-2984" h="14446"/>
+		<npc id="35103"/><!-- gludio -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="-14113" y="121340" z="-2984" h="14164"/>
+		<npc id="36490"/><!-- gludio -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="-13121" y="124929" z="-3112" h="13767"/>
+		<npc id="14114"/><!-- gludio -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="-10898" y="125748" z="-3632" h="13044"/>
+		<npc id="14111"/><!-- gludio -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="-14598" y="123657" z="-3104" h="24575"/>
+		<npc id="14112"/><!-- gludio -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="-14593" y="123936" z="-3120" h="42606"/>
+		<npc id="14480"/><!-- gludio -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="-14593" y="123936" z="-3120" h="41021"/>
+		<npc id="14931"/><!-- gludio -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="-14593" y="123936" z="-3120" h="40961"/>
+		<npc id="14799"/><!-- gludio -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="49263" y="-56180" z="-2648" h="24549"/>
+		<npc id="21554"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="49743" y="-56180" z="-2616" h="2081"/>
+		<npc id="21547"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="49903" y="-54910" z="-2592" h="47396"/>
+		<npc id="21547"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="50826" y="-53677" z="-2872" h="372"/>
+		<npc id="21565"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="50740" y="-53861" z="-2952" h="38698"/>
+		<npc id="21563"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="50730" y="-53788" z="-2936" h="54979"/>
+		<npc id="21563"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="50341" y="-52931" z="-2816" h="12285"/>
+		<npc id="18119"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="50474" y="-52311" z="-2888" h="11061"/>
+		<npc id="18119"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="50607" y="-53086" z="-2832" h="54597"/>
+		<npc id="18119"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="50341" y="-51381" z="-2872" h="1444"/>
+		<npc id="21557"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="51503" y="-56688" z="-2848" h="44338"/>
+		<npc id="21547"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="51663" y="-56307" z="-2840" h="29525"/>
+		<npc id="21548"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="51804" y="-53551" z="-2944" h="59007"/>
+		<npc id="18119"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="51525" y="-54139" z="-3016" h="57247"/>
+		<npc id="21565"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="51475" y="-54596" z="-3152" h="11040"/>
+		<npc id="31523"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="51878" y="-54796" z="-3160" h="22912"/>
+		<npc id="31522"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="52203" y="-53086" z="-3152" h="13697"/>
+		<npc id="21557"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="53069" y="-52408" z="-3008" h="14697"/>
+		<npc id="18119"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="51550" y="-51340" z="-3072" h="63319"/>
+		<npc id="18119"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="52852" y="-52230" z="-2896" h="62662"/>
+		<npc id="18119"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="51671" y="-52156" z="-3008" h="21288"/>
+		<npc id="18119"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="51804" y="-52931" z="-2888" h="1381"/>
+		<npc id="18119"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="53135" y="-52269" z="-2944" h="56161"/>
+		<npc id="21557"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="53138" y="-51958" z="-2960" h="63723"/>
+		<npc id="21563"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="53175" y="-51411" z="-3080" h="0"/>
+		<npc id="21597"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="53069" y="-51518" z="-3048" h="55960"/>
+		<npc id="21596"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="51995" y="-51265" z="-3096" h="63472"/>
+		<npc id="31526"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="54865" y="-56375" z="-3376" h="48256"/>
+		<npc id="18119"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="54253" y="-55495" z="-3144" h="33980"/>
+		<npc id="18119"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="53641" y="-56595" z="-3312" h="50637"/>
+		<npc id="18119"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="54712" y="-55715" z="-3264" h="50770"/>
+		<npc id="18119"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="54406" y="-57035" z="-3304" h="7204"/>
+		<npc id="18119"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="54253" y="-56375" z="-3368" h="5595"/>
+		<npc id="18119"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="55171" y="-55935" z="-3320" h="543"/>
+		<npc id="18119"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="53641" y="-57035" z="-3384" h="62817"/>
+		<npc id="21570"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="54725" y="-55336" z="-3200" h="24925"/>
+		<npc id="21570"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="54712" y="-55553" z="-3224" h="0"/>
+		<npc id="21570"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="54299" y="-57174" z="-3304" h="49570"/>
+		<npc id="21563"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="54559" y="-56815" z="-3328" h="53294"/>
+		<npc id="21561"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="53265" y="-55929" z="-3040" h="13630"/>
+		<npc id="21565"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="53947" y="-56815" z="-3360" h="12853"/>
+		<npc id="21561"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="54097" y="-56595" z="-3376" h="0"/>
+		<npc id="21598"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="54052" y="-56701" z="-3376" h="0"/>
+		<npc id="21597"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="53947" y="-56595" z="-3352" h="44668"/>
+		<npc id="21596"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="54620" y="-56776" z="-3328" h="23932"/>
+		<npc id="21565"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="54403" y="-57035" z="-3304" h="0"/>
+		<npc id="21598"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="54335" y="-56927" z="-3312" h="0"/>
+		<npc id="21597"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="54253" y="-57035" z="-3312" h="61509"/>
+		<npc id="21596"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="54258" y="-56756" z="-3352" h="49711"/>
+		<npc id="21563"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="54575" y="-57331" z="-3304" h="31673"/>
+		<npc id="21563"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="54244" y="-56955" z="-3328" h="56559"/>
+		<npc id="21563"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="54675" y="-56883" z="-3304" h="0"/>
+		<npc id="21597"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="54558" y="-56942" z="-3304" h="0"/>
+		<npc id="21598"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="54559" y="-56815" z="-3328" h="30674"/>
+		<npc id="21596"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="54406" y="-56595" z="-3360" h="13261"/>
+		<npc id="21561"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="53273" y="-56322" z="-3008" h="18173"/>
+		<npc id="21565"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="54865" y="-53735" z="-3136" h="18204"/>
+		<npc id="18119"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="54712" y="-54175" z="-3136" h="16119"/>
+		<npc id="18119"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="54712" y="-55275" z="-3168" h="19276"/>
+		<npc id="18119"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="55171" y="-53955" z="-3208" h="19089"/>
+		<npc id="18119"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="53503" y="-52408" z="-2984" h="6289"/>
+		<npc id="18119"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="53970" y="-51419" z="-3040" h="7602"/>
+		<npc id="21565"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="54104" y="-51456" z="-3040" h="34424"/>
+		<npc id="21565"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="54194" y="-51560" z="-3032" h="10326"/>
+		<npc id="21557"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="54029" y="-51493" z="-3040" h="45184"/>
+		<npc id="21557"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="53069" y="-51368" z="-3080" h="0"/>
+		<npc id="21598"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="53937" y="-51546" z="-3016" h="0"/>
+		<npc id="21598"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="53831" y="-51589" z="-3048" h="0"/>
+		<npc id="21597"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="53937" y="-51696" z="-3032" h="47730"/>
+		<npc id="21596"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="49743" y="-56307" z="-2608" h="43001"/>
+		<npc id="21548"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="52031" y="-57828" z="-3144" h="29619"/>
+		<npc id="21549"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="48167" y="-57533" z="-2608" h="7275"/>
+		<npc id="21548"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="50063" y="-56180" z="-2624" h="16325"/>
+		<npc id="21554"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="51503" y="-55926" z="-2848" h="17425"/>
+		<npc id="21550"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="51455" y="-58064" z="-2992" h="13120"/>
+		<npc id="21553"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="51663" y="-50391" z="-2952" h="38285"/>
+		<npc id="21557"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="51588" y="-50210" z="-2960" h="40786"/>
+		<npc id="21563"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="51429" y="-50383" z="-2888" h="40335"/>
+		<npc id="21563"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="50383" y="-56434" z="-2608" h="52905"/>
+		<npc id="21550"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="50543" y="-56053" z="-2640" h="58310"/>
+		<npc id="21550"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="55839" y="-53795" z="-3336" h="49937"/>
+		<npc id="21567"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="55324" y="-54835" z="-3288" h="11686"/>
+		<npc id="21570"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="50863" y="-55418" z="-2744" h="49180"/>
+		<npc id="21547"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="51767" y="-50272" z="-2992" h="57910"/>
+		<npc id="18119"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="52852" y="-50272" z="-3264" h="10213"/>
+		<npc id="18119"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="51767" y="-49560" z="-3072" h="62562"/>
+		<npc id="18119"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="51550" y="-50450" z="-2944" h="14648"/>
+		<npc id="18119"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="52201" y="-49738" z="-3096" h="33572"/>
+		<npc id="18119"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="52090" y="-49987" z="-3032" h="0"/>
+		<npc id="21597"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="51984" y="-49944" z="-3000" h="0"/>
+		<npc id="21598"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="51984" y="-50094" z="-3040" h="23655"/>
+		<npc id="21596"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="51999" y="-49911" z="-3000" h="53865"/>
+		<npc id="21565"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="52815" y="-51148" z="-3088" h="55975"/>
+		<npc id="21563"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="54116" y="-49328" z="-2992" h="2830"/>
+		<npc id="18119"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="55251" y="-49573" z="-3008" h="5208"/>
+		<npc id="21575"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="55269" y="-49200" z="-3088" h="0"/>
+		<npc id="21601"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="55256" y="-49328" z="-3072" h="1150"/>
+		<npc id="21599"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="53231" y="-50725" z="-3152" h="56755"/>
+		<npc id="21557"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="54865" y="-49685" z="-2944" h="1552"/>
+		<npc id="21600"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="54971" y="-49642" z="-2952" h="0"/>
+		<npc id="21601"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="54971" y="-49792" z="-2944" h="58012"/>
+		<npc id="21599"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="55017" y="-49862" z="-2936" h="7998"/>
+		<npc id="21572"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="53792" y="-49826" z="-3328" h="52862"/>
+		<npc id="21574"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="54361" y="-49637" z="-3024" h="18017"/>
+		<npc id="21572"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="54116" y="-49328" z="-2992" h="41839"/>
+		<npc id="21570"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="54547" y="-49470" z="-3104" h="44440"/>
+		<npc id="21580"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="54731" y="-50196" z="-3128" h="53554"/>
+		<npc id="21574"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="54900" y="-50672" z="-3416" h="18108"/>
+		<npc id="21572"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="54369" y="-49599" z="-3016" h="46553"/>
+		<npc id="21572"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="50341" y="-52001" z="-2888" h="26340"/>
+		<npc id="21596"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="50371" y="-51985" z="-2888" h="0"/>
+		<npc id="21598"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="50479" y="-51803" z="-2896" h="0"/>
+		<npc id="21597"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="49536" y="-47386" z="-2568" h="59598"/>
+		<npc id="21567"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="50466" y="-48451" z="-3216" h="37018"/>
+		<npc id="21572"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="49263" y="-47338" z="-3392" h="39892"/>
+		<npc id="21572"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="51587" y="-48067" z="-3256" h="37241"/>
+		<npc id="21574"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="51396" y="-48025" z="-3352" h="16393"/>
+		<npc id="18119"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="51582" y="-47599" z="-3448" h="46487"/>
+		<npc id="18119"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="51210" y="-48664" z="-2928" h="63216"/>
+		<npc id="18119"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="52209" y="-48666" z="-3432" h="35691"/>
+		<npc id="21574"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="52326" y="-48451" z="-3480" h="60690"/>
+		<npc id="21567"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="53763" y="-47602" z="-3248" h="0"/>
+		<npc id="21601"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="53763" y="-47602" z="-3248" h="0"/>
+		<npc id="21600"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="53831" y="-47472" z="-3224" h="38735"/>
+		<npc id="21599"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="54401" y="-47240" z="-3224" h="31629"/>
+		<npc id="18119"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="54401" y="-48400" z="-3280" h="53320"/>
+		<npc id="18119"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="54971" y="-48864" z="-3160" h="34823"/>
+		<npc id="18119"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="53831" y="-47936" z="-3216" h="25951"/>
+		<npc id="18119"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="53770" y="-47292" z="-3352" h="8210"/>
+		<npc id="21580"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="55110" y="-48595" z="-3216" h="47393"/>
+		<npc id="21572"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="53493" y="-48740" z="-3248" h="0"/>
+		<npc id="21601"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="53652" y="-48757" z="-3240" h="47010"/>
+		<npc id="21600"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="53546" y="-48864" z="-3240" h="64133"/>
+		<npc id="21599"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="55256" y="-47704" z="-3192" h="26882"/>
+		<npc id="21570"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="54503" y="-48436" z="-3280" h="27285"/>
+		<npc id="21580"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="53458" y="-48437" z="-3408" h="57148"/>
+		<npc id="21572"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="55282" y="-47525" z="-3208" h="63340"/>
+		<npc id="21575"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="54054" y="-48675" z="-3288" h="50672"/>
+		<npc id="21575"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="54206" y="-48728" z="-3312" h="62091"/>
+		<npc id="21572"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="52635" y="-50272" z="-3248" h="47348"/>
+		<npc id="21563"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="51333" y="-51518" z="-3040" h="11310"/>
+		<npc id="21563"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="55839" y="-52103" z="-3304" h="4159"/>
+		<npc id="21567"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="51405" y="-46396" z="-3528" h="24597"/>
+		<npc id="21572"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="52201" y="-51874" z="-3072" h="8177"/>
+		<npc id="21557"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="55995" y="-52103" z="-3272" h="53910"/>
+		<npc id="21567"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="51937" y="-52776" z="-3024" h="65233"/>
+		<npc id="21557"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="49164" y="-45682" z="-2928" h="44308"/>
+		<npc id="21567"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="49350" y="-45469" z="-2960" h="30509"/>
+		<npc id="18119"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="49722" y="-45256" z="-2960" h="52286"/>
+		<npc id="18119"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="51024" y="-46108" z="-3328" h="37559"/>
+		<npc id="18119"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="49350" y="-45469" z="-2960" h="25208"/>
+		<npc id="21572"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="49711" y="-45254" z="-2960" h="38595"/>
+		<npc id="21567"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="50216" y="-45362" z="-2936" h="53557"/>
+		<npc id="21574"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="49952" y="-46960" z="-3392" h="61832"/>
+		<npc id="31534"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="51954" y="-46534" z="-3392" h="11822"/>
+		<npc id="18119"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="52326" y="-46960" z="-3480" h="48335"/>
+		<npc id="18119"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="51954" y="-45682" z="-3264" h="21052"/>
+		<npc id="18119"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="52326" y="-46321" z="-3384" h="9070"/>
+		<npc id="18119"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="51582" y="-46321" z="-3520" h="15706"/>
+		<npc id="18119"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="52043" y="-45094" z="-3232" h="36341"/>
+		<npc id="21575"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="55256" y="-46544" z="-3360" h="15986"/>
+		<npc id="18119"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="55256" y="-47008" z="-3336" h="10663"/>
+		<npc id="18119"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="55170" y="-45454" z="-2808" h="60710"/>
+		<npc id="21587"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="52201" y="-52052" z="-3072" h="55524"/>
+		<npc id="21563"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="51582" y="-47599" z="-3448" h="3991"/>
+		<npc id="21574"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="55165" y="-44214" z="-2936" h="53158"/>
+		<npc id="21601"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="55195" y="-44269" z="-2968" h="23937"/>
+		<npc id="21599"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="55250" y="-44341" z="-2968" h="0"/>
+		<npc id="21600"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="55345" y="-44537" z="-2928" h="41456"/>
+		<npc id="21599"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="55319" y="-44409" z="-2960" h="0"/>
+		<npc id="21601"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="52976" y="-44032" z="-3216" h="39117"/>
+		<npc id="21575"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="52415" y="-44908" z="-3208" h="51239"/>
+		<npc id="21583"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="52251" y="-44891" z="-3200" h="50276"/>
+		<npc id="21583"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="52690" y="-44032" z="-3112" h="9588"/>
+		<npc id="21578"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="52417" y="-44879" z="-3208" h="9346"/>
+		<npc id="21580"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="52690" y="-44424" z="-3080" h="56935"/>
+		<npc id="21578"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="52163" y="-44180" z="-3080" h="47344"/>
+		<npc id="21580"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="52884" y="-43184" z="-2944" h="26235"/>
+		<npc id="21583"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="55092" y="-43222" z="-2768" h="12954"/>
+		<npc id="18119"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="54699" y="-44804" z="-3144" h="9091"/>
+		<npc id="21584"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="54819" y="-43954" z="-2848" h="9260"/>
+		<npc id="21580"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="54895" y="-43618" z="-2824" h="54219"/>
+		<npc id="21590"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="54736" y="-43878" z="-2824" h="30228"/>
+		<npc id="21593"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="54811" y="-44793" z="-3104" h="61568"/>
+		<npc id="21580"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="54514" y="-44675" z="-3160" h="37279"/>
+		<npc id="21584"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="55189" y="-44300" z="-2968" h="18252"/>
+		<npc id="21600"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="54516" y="-44433" z="-3056" h="46970"/>
+		<npc id="21581"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="56966" y="-48632" z="-3040" h="37298"/>
+		<npc id="18119"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="57251" y="-48864" z="-3016" h="2822"/>
+		<npc id="18119"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="56111" y="-48400" z="-3144" h="38811"/>
+		<npc id="18119"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="56111" y="-47240" z="-2984" h="25411"/>
+		<npc id="18119"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="56396" y="-49096" z="-3040" h="53084"/>
+		<npc id="18119"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="55406" y="-49328" z="-3080" h="0"/>
+		<npc id="21600"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="57384" y="-47846" z="-2896" h="56544"/>
+		<npc id="21572"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="55826" y="-47472" z="-2920" h="33001"/>
+		<npc id="21570"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="56641" y="-49157" z="-3168" h="42828"/>
+		<npc id="21574"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="56393" y="-47191" z="-2984" h="54736"/>
+		<npc id="31530"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="56863" y="-45063" z="-2496" h="44187"/>
+		<npc id="21584"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="55345" y="-45063" z="-2920" h="41643"/>
+		<npc id="18119"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="56667" y="-45996" z="-2800" h="42683"/>
+		<npc id="21581"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="56746" y="-46177" z="-2832" h="40961"/>
+		<npc id="21580"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="56324" y="-45593" z="-3016" h="0"/>
+		<npc id="21601"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="56430" y="-45469" z="-2992" h="0"/>
+		<npc id="21600"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="56357" y="-45589" z="-3008" h="36622"/>
+		<npc id="21599"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="56111" y="-47008" z="-2984" h="36093"/>
+		<npc id="18119"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="56610" y="-44274" z="-2552" h="17107"/>
+		<npc id="21593"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="55851" y="-44537" z="-2848" h="21899"/>
+		<npc id="18119"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="56863" y="-44537" z="-2384" h="58978"/>
+		<npc id="18119"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="56104" y="-44011" z="-2880" h="28659"/>
+		<npc id="18119"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="55598" y="-44274" z="-2936" h="5259"/>
+		<npc id="18119"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="55851" y="-43748" z="-2712" h="56117"/>
+		<npc id="18119"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="55607" y="-43027" z="-2440" h="52347"/>
+		<npc id="21587"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="56251" y="-43293" z="-2280" h="0"/>
+		<npc id="21600"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="56365" y="-43191" z="-2256" h="0"/>
+		<npc id="21601"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="56357" y="-43222" z="-2248" h="4452"/>
+		<npc id="21599"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="52326" y="-46534" z="-3384" h="26504"/>
+		<npc id="21572"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="58194" y="-45935" z="-2376" h="24347"/>
+		<npc id="21593"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="58106" y="-48168" z="-2592" h="7657"/>
+		<npc id="18119"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="58106" y="-48400" z="-2632" h="25691"/>
+		<npc id="18119"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="57821" y="-47704" z="-2856" h="25141"/>
+		<npc id="18119"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="57622" y="-45326" z="-2648" h="26429"/>
+		<npc id="18119"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="58128" y="-45852" z="-2376" h="7855"/>
+		<npc id="18119"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="58381" y="-45326" z="-2512" h="11575"/>
+		<npc id="18119"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="57875" y="-46378" z="-2552" h="45841"/>
+		<npc id="18119"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="58631" y="-45939" z="-2648" h="16612"/>
+		<npc id="21590"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="58128" y="-46904" z="-2704" h="21936"/>
+		<npc id="18279"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="57369" y="-44537" z="-2504" h="25795"/>
+		<npc id="18119"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="57438" y="-44704" z="-2536" h="30996"/>
+		<npc id="21581"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="57087" y="-51163" z="-3064" h="44794"/>
+		<npc id="18119"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="57251" y="-49792" z="-3224" h="12241"/>
+		<npc id="21570"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="55700" y="-50745" z="-3608" h="49716"/>
+		<npc id="21574"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="56140" y="-50248" z="-3456" h="60949"/>
+		<npc id="21575"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="55455" y="-50080" z="-3072" h="47237"/>
+		<npc id="21574"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="55484" y="-50106" z="-3104" h="38406"/>
+		<npc id="21575"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="55657" y="-49356" z="-3088" h="65350"/>
+		<npc id="21574"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="56201" y="-49898" z="-3280" h="19739"/>
+		<npc id="21580"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="57536" y="-49792" z="-3104" h="22680"/>
+		<npc id="18119"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="57536" y="-49328" z="-2920" h="56981"/>
+		<npc id="18119"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="58339" y="-49492" z="-2944" h="49112"/>
+		<npc id="21575"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="60258" y="-50324" z="-2792" h="25729"/>
+		<npc id="21567"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="60573" y="-49912" z="-2808" h="54482"/>
+		<npc id="21563"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="61173" y="-50980" z="-2800" h="0"/>
+		<npc id="21567"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="60204" y="-50769" z="-2784" h="32401"/>
+		<npc id="21563"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="61337" y="-50782" z="-2856" h="39139"/>
+		<npc id="21565"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="60253" y="-47864" z="-2736" h="63535"/>
+		<npc id="21570"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="60253" y="-48448" z="-2720" h="10527"/>
+		<npc id="21570"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="61001" y="-47572" z="-2776" h="37754"/>
+		<npc id="21570"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="60440" y="-47572" z="-2720" h="62601"/>
+		<npc id="21578"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="59753" y="-47648" z="-2720" h="38504"/>
+		<npc id="31535"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="61106" y="-45340" z="-2632" h="59519"/>
+		<npc id="21575"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="60922" y="-45568" z="-2576" h="28273"/>
+		<npc id="21575"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="61188" y="-46404" z="-2616" h="53104"/>
+		<npc id="21578"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="61162" y="-45202" z="-2680" h="33591"/>
+		<npc id="21580"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="60679" y="-46848" z="-2448" h="60122"/>
+		<npc id="21581"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="61333" y="-45090" z="-2744" h="32584"/>
+		<npc id="21575"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="55345" y="-45326" z="-2848" h="27511"/>
+		<npc id="21599"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="56694" y="-52152" z="-3144" h="2487"/>
+		<npc id="21567"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="61852" y="-45349" z="-2472" h="59166"/>
+		<npc id="21580"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="61936" y="-45528" z="-2440" h="58267"/>
+		<npc id="21570"/><!-- ForestRune -->
+	</spawn>
+	<spawn count="1" respawn="7200" respawn_random="0" period_of_day="none">
+		<point x="61888" y="-45672" z="-2440" h="54051"/>
+		<npc id="21575"/><!-- ForestRune -->
+	</spawn>
+	<!-- QUEST -->
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="69432" y="170920" z="-3485" h="0"/>
+		<npc id="33508"/><!-- '' -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-41272" y="123032" z="-2938" h="0"/>
+		<npc id="33177"/><!-- '' -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-46104" y="109416" z="-3835" h="0"/>
+		<npc id="33509"/><!-- '' -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-47656" y="116408" z="-3580" h="0"/>
+		<npc id="27451"/><!-- '' -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-19304" y="136792" z="-3786" h="0"/>
+		<npc id="33178"/><!-- '' -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-8120" y="143224" z="-3448" h="0"/>
+		<npc id="33510"/><!-- '' -->
+	</spawn>
+	<!-- RAMUNE -->
+	<spawn count="1" respawn="10" respawn_random="0" period_of_day="none">
+		<point x="199055" y="86196" z="-192" h="45368"/>
+		<npc id="33565"/><!-- 'Orbis_Temple_Entrance' -->
+	</spawn>
+	<spawn count="1" respawn="10" respawn_random="0" period_of_day="none">
+		<point x="86153" y="-143707" z="-1336" h="45368"/>
+		<npc id="33560"/><!-- 'Town_of_Shuttgart' -->
+	</spawn>
+	<spawn count="1" respawn="10" respawn_random="0" period_of_day="none">
+		<point x="-178455" y="154057" z="2568" h="45368"/>
+		<npc id="33561"/><!-- 'Seed_of_Annihilation' -->
+	</spawn>
+</list>

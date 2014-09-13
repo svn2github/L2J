@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "spawn.dtd">
+<list>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-45040" y="179909" z="-3680" h="16312" />
+		<npc id="30410" /><!--Wasteland Lizardman-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-41452" y="167329" z="-3560" h="12288" />
+		<npc id="30412" /><!--Wind Sylph-->
+	</spawn>
+</list>	

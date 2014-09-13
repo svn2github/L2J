@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "item.dtd">
+
+<list>
+    <weapon id="35634" name="Меч Защиты">
+	<!-- Длинный меч для воспитания революционеров. Невозможно выбросить, обменять, купить/продать. -->
+        <set name="weight" value="1520"/>
+        <set name="rnd_dam" value="5"/>
+        <equip>
+            <slot id="RIGHT_HAND"/>
+        </equip>
+        <set name="type" value="SWORD"/>        
+        <set name="crystal_type" value="C"/>
+        <set name="crystal_count" value="0"/>
+        <set name="soulshots" value="1"/>
+        <set name="spiritshots" value="1"/>
+        <for>
+            <add stat="pAtk" order="0x10" value="333"/>
+            <add stat="mAtk" order="0x10" value="151"/>
+            <enchant stat="pAtk" order="0x0C" value="0"/>
+            <enchant stat="mAtk" order="0x0C" value="0"/>
+        </for>
+    </weapon>
+	<weapon id="35635" name="Лук Защиты">
+	<!-- Лук для воспитания революционеров. Невозможно выбросить, обменять, купить/продать. -->
+        <set name="weight" value="1520"/>
+        <set name="rnd_dam" value="5"/>
+        <equip>
+            <slot id="RIGHT_HAND"/>
+        </equip>
+        <set name="type" value="BOW"/>       
+        <set name="crystal_type" value="C"/>
+        <set name="crystal_count" value="0"/>
+        <set name="soulshots" value="1"/>
+        <set name="spiritshots" value="1"/>
+        <for>
+            <add stat="pAtk" order="0x10" value="654"/>
+            <add stat="mAtk" order="0x10" value="151"/>
+            <enchant stat="pAtk" order="0x0C" value="0"/>
+            <enchant stat="mAtk" order="0x0C" value="0"/>
+        </for>
+    </weapon>
+	<weapon id="35636" name="Магический Меч Защиты">
+	<!-- Магический меч для воспитания революционеров. Невозможно выбросить, обменять, купить/продать. -->
+        <set name="weight" value="1520"/>
+        <set name="rnd_dam" value="5"/>
+        <equip>
+            <slot id="RIGHT_HAND"/>
+        </equip>
+        <set name="type" value="SWORD"/>        
+        <set name="crystal_type" value="C"/>
+        <set name="crystal_count" value="0"/>
+        <set name="soulshots" value="1"/>
+        <set name="spiritshots" value="1"/>
+        <for>
+            <add stat="pAtk" order="0x10" value="267"/>
+            <add stat="mAtk" order="0x10" value="202"/>
+            <enchant stat="pAtk" order="0x0C" value="0"/>
+            <enchant stat="mAtk" order="0x0C" value="0"/>
+        </for>
+    </weapon>
+	<weapon id="35637" name="Кинжал Защиты">
+	<!-- Кинжал для воспитания революционеров. Невозможно выбросить, обменять, купить/продать. -->
+        <set name="weight" value="1520"/>
+        <set name="rnd_dam" value="5"/>
+        <equip>
+            <slot id="RIGHT_HAND"/>
+        </equip>
+        <set name="type" value="DAGGER"/>        
+        <set name="crystal_type" value="C"/>
+        <set name="crystal_count" value="0"/>
+        <set name="soulshots" value="1"/>
+        <set name="spiritshots" value="1"/>
+        <for>
+            <add stat="pAtk" order="0x10" value="291"/>
+            <add stat="mAtk" order="0x10" value="151"/>
+            <enchant stat="pAtk" order="0x0C" value="0"/>
+            <enchant stat="mAtk" order="0x0C" value="0"/>
+        </for>
+    </weapon>
+	<weapon id="35638" name="Парные Мечи Защиты">
+	<!-- Парные мечи для воспитания революционеров. Невозможно выбросить, обменять, купить/продать. -->
+        <set name="weight" value="1520"/>
+        <set name="rnd_dam" value="5"/>
+        <equip>
+            <slot id="LEFT_RIGHT_HAND"/>
+        </equip>
+        <set name="type" value="DUAL"/>        
+        <set name="crystal_type" value="C"/>
+        <set name="crystal_count" value="0"/>
+        <set name="soulshots" value="1"/>
+        <set name="spiritshots" value="1"/>
+        <for>
+            <add stat="pAtk" order="0x10" value="405"/>
+            <add stat="mAtk" order="0x10" value="151"/>
+            <enchant stat="pAtk" order="0x0C" value="0"/>
+            <enchant stat="mAtk" order="0x0C" value="0"/>
+        </for>
+    </weapon>
+	<weapon id="35639" name="Двуручный Меч Защиты">
+	<!-- Парные мечи для воспитания революционеров. Невозможно выбросить, обменять, купить/продать. -->
+        <set name="weight" value="1520"/>
+        <set name="rnd_dam" value="5"/>
+        <equip>
+            <slot id="LEFT_RIGHT_HAND"/>
+        </equip>
+        <set name="type" value="BIGSWORD"/>        
+        <set name="crystal_type" value="C"/>
+        <set name="crystal_count" value="0"/>
+        <set name="soulshots" value="1"/>
+        <set name="spiritshots" value="1"/>
+        <for>
+            <add stat="pAtk" order="0x10" value="405"/>
+            <add stat="mAtk" order="0x10" value="151"/>
+            <enchant stat="pAtk" order="0x0C" value="0"/>
+            <enchant stat="mAtk" order="0x0C" value="0"/>
+        </for>
+    </weapon>
+    <weapon id="35672" name="Пата Защиты">
+	<!-- Кастет, изготовленный для обучения революционеров. Нельзя выбросить, обменять, купить/продать. -->
+        <set name="weight" value="1520"/>
+        <set name="rnd_dam" value="5"/>
+        <equip>
+            <slot id="RIGHT_HAND"/>
+        </equip>
+        <set name="type" value="DUALFIST"/>        
+        <set name="crystal_type" value="C"/>
+        <set name="crystal_count" value="0"/>
+        <set name="soulshots" value="1"/>
+        <set name="spiritshots" value="1"/>
+        <for>
+            <add stat="pAtk" order="0x10" value="405"/>
+            <add stat="mAtk" order="0x10" value="101"/>
+            <enchant stat="pAtk" order="0x0C" value="0"/>
+            <enchant stat="mAtk" order="0x0C" value="0"/>
+        </for>
+    </weapon>	
+    <weapon id="35673" name="Рапира Защиты">
+	<!-- Рапира, изготовленная для обучения революционеров. Нельзя выбросить, обменять, купить/продать. -->
+        <set name="weight" value="1520"/>
+        <set name="rnd_dam" value="5"/>
+        <equip>
+            <slot id="RIGHT_HAND"/>
+        </equip>
+        <set name="type" value="RAPIER"/>        
+        <set name="crystal_type" value="C"/>
+        <set name="crystal_count" value="0"/>
+        <set name="soulshots" value="1"/>
+        <set name="spiritshots" value="1"/>
+        <for>
+            <add stat="pAtk" order="0x10" value="302"/>
+            <add stat="mAtk" order="0x10" value="151"/>
+            <enchant stat="pAtk" order="0x0C" value="0"/>
+            <enchant stat="mAtk" order="0x0C" value="0"/>
+        </for>
+    </weapon>	
+    <weapon id="35674" name="Булава Защиты">
+	<!-- Булава, изготовленная для обучения революционеров. Нельзя выбросить, обменять, купить/продать. -->
+        <set name="weight" value="1520"/>
+        <set name="rnd_dam" value="5"/>
+        <equip>
+            <slot id="RIGHT_HAND"/>
+        </equip>
+        <set name="type" value="BLUNT"/>        
+        <set name="crystal_type" value="C"/>
+        <set name="crystal_count" value="0"/>
+        <set name="soulshots" value="1"/>
+        <set name="spiritshots" value="1"/>
+        <for>
+            <add stat="pAtk" order="0x10" value="333"/>
+            <add stat="mAtk" order="0x10" value="151"/>
+            <enchant stat="pAtk" order="0x0C" value="0"/>
+            <enchant stat="mAtk" order="0x0C" value="0"/>
+        </for>
+    </weapon>	
+</list>

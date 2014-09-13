@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<config showall="true" notax="true" keepenchanted="false" isnew="true" isnewProduction="true"/>
+	<item>
+		<!-- Талисман Бессмертия -->
+		<ingredient id="34984" count="1" />
+		<!-- null -->
+		<ingredient id="35562" count="25" />
+		<!-- null -->
+		<ingredient id="35563" count="30" />
+		<!-- Талисман Разрушения -->
+		<production id="34985" count="1" chance="100" />
+	</item>
+	<item>
+		<!-- Талисман Разрушения -->
+		<ingredient id="34985" count="1" />
+		<!-- null -->
+		<ingredient id="35562" count="25" />
+		<!-- null -->
+		<!-- Талисман Уничтожения -->
+		<production id="34986" count="1" chance="100" />
+	</item>
+	<item>
+		<!-- Талисман Уничтожения -->
+		<ingredient id="34986" count="1" />
+		<!-- null -->
+		<ingredient id="35562" count="25" />
+		<!-- null -->
+		<ingredient id="35563" count="30" />
+		<!-- Талисман Огня -->
+		<production id="34987" count="1" chance="30" />
+		<!-- Талисман Уничтожения -->
+		<production id="34986" count="1" chance="50" />
+		<!-- Талисман Разрушения -->
+		<production id="34985" count="1" chance="20" />
+	</item>
+	<item>
+		<!-- Талисман Огня -->
+		<ingredient id="34987" count="1" />
+		<!-- null -->
+		<ingredient id="35562" count="30" />
+		<!-- null -->
+		<ingredient id="35563" count="60" />
+		<!-- Талисман Желания -->
+		<production id="34988" count="1" chance="20" />
+		<!-- Талисман Огня -->
+		<production id="34987" count="1" chance="60" />
+		<!-- Талисман Уничтожения -->
+		<production id="34986" count="1" chance="20" />
+	</item>
+	<item>
+		<!-- Талисман Желания -->
+		<ingredient id="34988" count="1" />
+		<!-- null -->
+		<ingredient id="35562" count="35" />
+		<!-- null -->
+		<ingredient id="35563" count="70" />
+		<!-- Талисман Вожделения -->
+		<production id="34989" count="1" chance="10" />
+		<!-- Талисман Желания -->
+		<production id="34988" count="1" chance="50" />
+		<!-- Талисман Огня -->
+		<production id="34987" count="1" chance="40" />
+	</item>
+</list>

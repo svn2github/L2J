@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<skill id="13524" levels="1" name="Серьга Линдвиора">
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="runSpd" val="5"/>
+			<add order="0x10" stat="DEX" val="3"/>
+			<add order="0x10" stat="WIT" val="3"/>
+			<add order="0x40" stat="defenceWind" val="100"/>
+			<add order="0x40" stat="defenceUnholy" val="100"/>
+			<mul order="0x30" stat="baseCrit" val="1.10"/>
+			<mul order="0x30" stat="mCritRate" val="1.10"/>
+		</for>
+	</skill>
+</list>

@@ -1,0 +1,1241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "item.dtd">
+<list>
+	<weapon id="22807" name="Spezion's Claw" >
+		<!-- Done by ChipWar Awaken Team 2013 -->
+        <set name="crystal_type" value="R"/>
+        <set name="icon" value="BranchSys3.Icon.g_spacia_claw_i00"/>
+        <set name="price" value="68020500"/>
+        <set name="type" value="DUALFIST"/>
+        <set name="ex_type" value="HAND_TO_HAND"/>
+        <set name="weight" value="1550"/>
+        <set name="soulshots" value="1"/>
+        <set name="spiritshots" value="1"/>
+        <set name="crystallizable" value="true"/>
+        <set name="rnd_dam" value="20"/>
+        <equip>
+            <slot id="LEFT_RIGHT_HAND"/>
+        </equip>
+		<enchant4_skill id="13264" level="3"/>
+        <for>
+            <add stat="pAtk" order="0x10" value="595"/>
+            <add stat="mAtk" order="0x10" value="226"/>
+            <set stat="pAtkSpd" order="0x08" value="325"/>
+            <set stat="rCrit" order="0x08" value="4.0"/>
+            <add stat="accCombat" order="0x10" value="4.0"/>
+            <enchant stat="pAtk" order="0x0C" value="0"/>
+            <enchant stat="mAtk" order="0x0C" value="0"/>
+        </for>
+    </weapon>
+	<weapon id="22808" name="Spezion's Claw" add_name="Focus">
+		<!-- Done by ChipWar Awaken Team 2013 -->
+        <set name="crystal_type" value="R"/>
+        <set name="icon" value="BranchSys3.Icon.g_spacia_claw_i01"/>
+        <set name="price" value="68020500"/>
+        <set name="type" value="DUALFIST"/>
+        <set name="ex_type" value="HAND_TO_HAND"/>
+        <set name="weight" value="1550"/>
+        <set name="soulshots" value="1"/>
+        <set name="spiritshots" value="1"/>
+        <set name="crystallizable" value="true"/>
+        <set name="rnd_dam" value="20"/>
+        <equip>
+            <slot id="LEFT_RIGHT_HAND"/>
+        </equip>
+		<skills>
+			<skill id="8289" level="1"/>
+		</skills>
+		<enchant4_skill id="13264" level="3"/>
+        <for>
+            <add stat="pAtk" order="0x10" value="595"/>
+            <add stat="mAtk" order="0x10" value="226"/>
+            <set stat="pAtkSpd" order="0x08" value="325"/>
+            <set stat="rCrit" order="0x08" value="4.0"/>
+            <add stat="accCombat" order="0x10" value="4.0"/>
+            <enchant stat="pAtk" order="0x0C" value="0"/>
+            <enchant stat="mAtk" order="0x0C" value="0"/>
+        </for>
+    </weapon>
+	<weapon id="22809" name="Spezion's Claw" add_name="Damage">
+		<!-- Done by ChipWar Awaken Team 2013 -->
+        <set name="crystal_type" value="R"/>
+        <set name="icon" value="BranchSys3.Icon.g_spacia_claw_i01"/>
+        <set name="price" value="68020500"/>
+        <set name="type" value="DUALFIST"/>
+        <set name="ex_type" value="HAND_TO_HAND"/>
+        <set name="weight" value="1550"/>
+        <set name="soulshots" value="1"/>
+        <set name="spiritshots" value="1"/>
+        <set name="crystallizable" value="true"/>
+        <set name="rnd_dam" value="20"/>
+        <equip>
+            <slot id="LEFT_RIGHT_HAND"/>
+        </equip>
+		<skills>
+			<skill id="13062" level="2"/>
+		</skills>
+		<enchant4_skill id="13264" level="3"/>
+        <for>
+            <add stat="pAtk" order="0x10" value="595"/>
+            <add stat="mAtk" order="0x10" value="226"/>
+            <set stat="pAtkSpd" order="0x08" value="325"/>
+            <set stat="rCrit" order="0x08" value="4.0"/>
+            <add stat="accCombat" order="0x10" value="4.0"/>
+            <enchant stat="pAtk" order="0x0C" value="0"/>
+            <enchant stat="mAtk" order="0x0C" value="0"/>
+        </for>
+    </weapon>
+	<weapon id="22810" name="Spezion's Claw" add_name="Haste">
+		<!-- Done by ChipWar Awaken Team 2013 -->
+        <set name="crystal_type" value="R"/>
+        <set name="icon" value="BranchSys3.Icon.g_spacia_claw_i01"/>
+        <set name="price" value="68020500"/>
+        <set name="type" value="DUALFIST"/>
+        <set name="ex_type" value="HAND_TO_HAND"/>
+        <set name="weight" value="1550"/>
+        <set name="soulshots" value="1"/>
+        <set name="spiritshots" value="1"/>
+        <set name="crystallizable" value="true"/>
+        <set name="rnd_dam" value="20"/>
+        <equip>
+            <slot id="LEFT_RIGHT_HAND"/>
+        </equip>
+		<skills>
+			<skill id="8297" level="1"/>
+		</skills>
+		<enchant4_skill id="13264" level="3"/>
+        <for>
+            <add stat="pAtk" order="0x10" value="595"/>
+            <add stat="mAtk" order="0x10" value="226"/>
+            <set stat="pAtkSpd" order="0x08" value="325"/>
+            <set stat="rCrit" order="0x08" value="4.0"/>
+            <add stat="accCombat" order="0x10" value="4.0"/>
+            <enchant stat="pAtk" order="0x0C" value="0"/>
+            <enchant stat="mAtk" order="0x0C" value="0"/>
+        </for>
+    </weapon>
+	<weapon id="22811" name="Spezion's Claw" add_name="Focus + Damage">
+		<!-- Done by ChipWar Awaken Team 2013 -->
+        <set name="crystal_type" value="R"/>
+        <set name="icon" value="BranchSys3.Icon.g_spacia_claw_i01"/>
+        <set name="price" value="68020500"/>
+        <set name="type" value="DUALFIST"/>
+        <set name="ex_type" value="HAND_TO_HAND"/>
+        <set name="weight" value="1550"/>
+        <set name="soulshots" value="1"/>
+        <set name="spiritshots" value="1"/>
+        <set name="crystallizable" value="true"/>
+        <set name="rnd_dam" value="20"/>
+        <equip>
+            <slot id="LEFT_RIGHT_HAND"/>
+        </equip>
+		<skills>
+			<skill id="8289" level="1"/>
+			<skill id="13062" level="2"/>
+		</skills>
+		<enchant4_skill id="13264" level="3"/>
+        <for>
+            <add stat="pAtk" order="0x10" value="595"/>
+            <add stat="mAtk" order="0x10" value="226"/>
+            <set stat="pAtkSpd" order="0x08" value="325"/>
+            <set stat="rCrit" order="0x08" value="4.0"/>
+            <add stat="accCombat" order="0x10" value="4.0"/>
+            <enchant stat="pAtk" order="0x0C" value="0"/>
+            <enchant stat="mAtk" order="0x0C" value="0"/>
+        </for>
+    </weapon>
+	<weapon id="22812" name="Spezion's Claw" add_name="Damage + Haste">
+		<!-- Done by ChipWar Awaken Team 2013 -->
+        <set name="crystal_type" value="R"/>
+        <set name="icon" value="BranchSys3.Icon.g_spacia_claw_i01"/>
+        <set name="price" value="68020500"/>
+        <set name="type" value="DUALFIST"/>
+        <set name="ex_type" value="HAND_TO_HAND"/>
+        <set name="weight" value="1550"/>
+        <set name="soulshots" value="1"/>
+        <set name="spiritshots" value="1"/>
+        <set name="crystallizable" value="true"/>
+        <set name="rnd_dam" value="20"/>
+        <equip>
+            <slot id="LEFT_RIGHT_HAND"/>
+        </equip>
+		<skills>
+			<skill id="8297" level="1"/>
+			<skill id="13062" level="2"/>
+		</skills>
+		<enchant4_skill id="13264" level="3"/>
+        <for>
+            <add stat="pAtk" order="0x10" value="595"/>
+            <add stat="mAtk" order="0x10" value="226"/>
+            <set stat="pAtkSpd" order="0x08" value="325"/>
+            <set stat="rCrit" order="0x08" value="4.0"/>
+            <add stat="accCombat" order="0x10" value="4.0"/>
+            <enchant stat="pAtk" order="0x0C" value="0"/>
+            <enchant stat="mAtk" order="0x0C" value="0"/>
+        </for>
+    </weapon>
+	<weapon id="22813" name="Spezion's Claw" add_name="Haste + Focus">
+		<!-- Done by ChipWar Awaken Team 2013 -->
+        <set name="crystal_type" value="R"/>
+        <set name="icon" value="BranchSys3.Icon.g_spacia_claw_i01"/>
+        <set name="price" value="68020500"/>
+        <set name="type" value="DUALFIST"/>
+        <set name="ex_type" value="HAND_TO_HAND"/>
+        <set name="weight" value="1550"/>
+        <set name="soulshots" value="1"/>
+        <set name="spiritshots" value="1"/>
+        <set name="crystallizable" value="true"/>
+        <set name="rnd_dam" value="20"/>
+        <equip>
+            <slot id="LEFT_RIGHT_HAND"/>
+        </equip>
+		<skills>
+			<skill id="8297" level="1"/>
+			<skill id="8289" level="1"/>
+		</skills>
+		<enchant4_skill id="13264" level="3"/>
+        <for>
+            <add stat="pAtk" order="0x10" value="595"/>
+            <add stat="mAtk" order="0x10" value="226"/>
+            <set stat="pAtkSpd" order="0x08" value="325"/>
+            <set stat="rCrit" order="0x08" value="4.0"/>
+            <add stat="accCombat" order="0x10" value="4.0"/>
+            <enchant stat="pAtk" order="0x0C" value="0"/>
+            <enchant stat="mAtk" order="0x0C" value="0"/>
+        </for>
+    </weapon>
+	<weapon id="22814" name="Maliss Stormer">
+		<!-- Done by ChipWar Awaken Team 2013 -->
+		<set name="icon" value="BranchSys3.Icon.g_melisa_stormer_i00"/>
+		<set name="weight" value="2010"/>
+		<set name="rnd_dam" value="10"/>
+		<equip>
+			<slot id="LEFT_RIGHT_HAND"/>
+		</equip>
+		<set name="type" value="POLE"/>
+		<set name="ex_type" value="POLE"/>
+		<set name="crystal_type" value="R95"/>
+		<set name="crystal_count" value="3130"/>
+		<set name="soulshots" value="1"/>
+        <set name="spiritshots" value="1"/>
+        <set name="crystallizable" value="true"/>
+		<enchant4_skill id="13263" level="3"/>
+		<for>
+			<add stat="pAtk" order="0x10" value="567"/>
+			<add stat="mAtk" order="0x10" value="275"/>
+			<set stat="rCrit" order="0x08" value="80"/>
+			<set stat="pAtkSpd" order="0x08" value="325"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="mAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon>
+	<weapon id="22815" name="Maliss Stormer" add_name="HP Drain">
+		<!-- Done by ChipWar Awaken Team 2013 -->
+		<set name="icon" value="BranchSys3.Icon.g_melisa_stormer_i01"/>
+		<set name="weight" value="2010"/>
+		<set name="rnd_dam" value="10"/>
+		<equip>
+			<slot id="LEFT_RIGHT_HAND"/>
+		</equip>
+		<set name="type" value="POLE"/>
+		<set name="ex_type" value="POLE"/>
+		<set name="crystal_type" value="R95"/>
+		<set name="crystal_count" value="3130"/>
+		<set name="soulshots" value="1"/>
+        <set name="spiritshots" value="1"/>
+        <set name="crystallizable" value="true"/>
+		<skills>
+			<skill id="3568" level="1"/>
+		</skills>
+		<enchant4_skill id="13263" level="3"/>
+		<for>
+			<add stat="pAtk" order="0x10" value="567"/>
+			<add stat="mAtk" order="0x10" value="275"/>
+			<set stat="rCrit" order="0x08" value="80"/>
+			<set stat="pAtkSpd" order="0x08" value="325"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="mAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon>
+	<weapon id="22816" name="Maliss Stormer" add_name="Guidance">
+		<!-- Done by ChipWar Awaken Team 2013 -->
+		<set name="icon" value="BranchSys3.Icon.g_melisa_stormer_i01"/>
+		<set name="weight" value="2010"/>
+		<set name="rnd_dam" value="10"/>
+		<equip>
+			<slot id="LEFT_RIGHT_HAND"/>
+		</equip>
+		<set name="type" value="POLE"/>
+		<set name="ex_type" value="POLE"/>
+		<set name="crystal_type" value="R95"/>
+		<set name="crystal_count" value="3130"/>
+		<set name="soulshots" value="1"/>
+        <set name="spiritshots" value="1"/>
+        <set name="crystallizable" value="true"/>
+		<skills>
+			<skill id="3008" level="6"/>
+		</skills>
+		<enchant4_skill id="13263" level="3"/>
+		<for>
+			<add stat="pAtk" order="0x10" value="567"/>
+			<add stat="mAtk" order="0x10" value="275"/>
+			<set stat="rCrit" order="0x08" value="80"/>
+			<set stat="pAtkSpd" order="0x08" value="325"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="mAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon>
+	<weapon id="22817" name="Maliss Stormer" add_name="Damage">
+		<!-- Done by ChipWar Awaken Team 2013 -->
+		<set name="icon" value="BranchSys3.Icon.g_melisa_stormer_i01"/>
+		<set name="weight" value="2010"/>
+		<set name="rnd_dam" value="10"/>
+		<equip>
+			<slot id="LEFT_RIGHT_HAND"/>
+		</equip>
+		<set name="type" value="POLE"/>
+		<set name="ex_type" value="POLE"/>
+		<set name="crystal_type" value="R95"/>
+		<set name="crystal_count" value="3130"/>
+		<set name="soulshots" value="1"/>
+        <set name="spiritshots" value="1"/>
+        <set name="crystallizable" value="true"/>
+		<skills>
+			<skill id="13062" level="1"/>
+		</skills>
+		<enchant4_skill id="13263" level="3"/>
+		<for>
+			<add stat="pAtk" order="0x10" value="567"/>
+			<add stat="mAtk" order="0x10" value="275"/>
+			<set stat="rCrit" order="0x08" value="80"/>
+			<set stat="pAtkSpd" order="0x08" value="325"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="mAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon>
+	<weapon id="22818" name="Maliss Stormer" add_name="HP Drain + Guidance">
+		<!-- Done by ChipWar Awaken Team 2013 -->
+		<set name="icon" value="BranchSys3.Icon.g_melisa_stormer_i01"/>
+		<set name="weight" value="2010"/>
+		<set name="rnd_dam" value="10"/>
+		<equip>
+			<slot id="LEFT_RIGHT_HAND"/>
+		</equip>
+		<set name="type" value="POLE"/>
+		<set name="ex_type" value="POLE"/>
+		<set name="crystal_type" value="R95"/>
+		<set name="crystal_count" value="3130"/>
+		<set name="soulshots" value="1"/>
+        <set name="spiritshots" value="1"/>
+        <set name="crystallizable" value="true"/>
+		<skills>
+			<skill id="3568" level="1"/>
+			<skill id="3008" level="6"/>
+		</skills>
+		<enchant4_skill id="13263" level="3"/>
+		<for>
+			<add stat="pAtk" order="0x10" value="567"/>
+			<add stat="mAtk" order="0x10" value="275"/>
+			<set stat="rCrit" order="0x08" value="80"/>
+			<set stat="pAtkSpd" order="0x08" value="325"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="mAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon>
+	<weapon id="22819" name="Maliss Stormer" add_name="Guidance + Damage">
+		<!-- Done by ChipWar Awaken Team 2013 -->
+		<set name="icon" value="BranchSys3.Icon.g_melisa_stormer_i01"/>
+		<set name="weight" value="2010"/>
+		<set name="rnd_dam" value="10"/>
+		<equip>
+			<slot id="LEFT_RIGHT_HAND"/>
+		</equip>
+		<set name="type" value="POLE"/>
+		<set name="ex_type" value="POLE"/>
+		<set name="crystal_type" value="R95"/>
+		<set name="crystal_count" value="3130"/>
+		<set name="soulshots" value="1"/>
+        <set name="spiritshots" value="1"/>
+        <set name="crystallizable" value="true"/>
+		<skills>
+			<skill id="3008" level="6"/>
+			<skill id="13062" level="4"/>
+		</skills>
+		<enchant4_skill id="13263" level="3"/>
+		<for>
+			<add stat="pAtk" order="0x10" value="567"/>
+			<add stat="mAtk" order="0x10" value="275"/>
+			<set stat="rCrit" order="0x08" value="80"/>
+			<set stat="pAtkSpd" order="0x08" value="325"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="mAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon>
+	<weapon id="22820" name="Maliss Stormer" add_name="Damage + HP Drain">
+		<!-- Done by ChipWar Awaken Team 2013 -->
+		<set name="icon" value="BranchSys3.Icon.g_melisa_stormer_i01"/>
+		<set name="weight" value="2010"/>
+		<set name="rnd_dam" value="10"/>
+		<equip>
+			<slot id="LEFT_RIGHT_HAND"/>
+		</equip>
+		<set name="type" value="POLE"/>
+		<set name="ex_type" value="POLE"/>
+		<set name="crystal_type" value="R95"/>
+		<set name="crystal_count" value="3130"/>
+		<set name="soulshots" value="1"/>
+        <set name="spiritshots" value="1"/>
+        <set name="crystallizable" value="true"/>
+		<skills>
+			<skill id="3568" level="1"/>
+			<skill id="13062" level="4"/>
+		</skills>
+		<enchant4_skill id="13263" level="3"/>
+		<for>
+			<add stat="pAtk" order="0x10" value="567"/>
+			<add stat="mAtk" order="0x10" value="275"/>
+			<set stat="rCrit" order="0x08" value="80"/>
+			<set stat="pAtkSpd" order="0x08" value="325"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="mAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon>
+	<weapon id="22821" name="Steregos' Dagger">
+		<!-- Done by ChipWar Awaken Team 2013 -->
+		<set name="icon" value="BranchSys3.Icon.g_dainsleif_i00"/>
+		<set name="weight" value="1520"/>
+		<set name="rnd_dam" value="5"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>
+		</equip>
+		<set name="type" value="DAGGER"/>
+		<set name="ex_type" value="DAGGER"/>
+		<set name="crystal_type" value="R95"/>
+		<set name="crystal_count" value="1451"/>
+		<set name="soulshots" value="1"/>
+        <set name="spiritshots" value="1"/>
+        <set name="crystallizable" value="true"/>
+		<enchant4_skill id="13282" level="3"/>
+		<for>
+			<add stat="pAtk" order="0x10" value="496"/>
+			<add stat="mAtk" order="0x10" value="275"/>
+			<add stat="accCombat" order="0x10" value="-4.0"/>
+			<set stat="rCrit" order="0x08" value="120"/>
+			<set stat="pAtkSpd" order="0x08" value="433"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="mAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon>
+	<weapon id="22822" name="Steregos' Dagger" add_name="Guidance">
+		<!-- Done by ChipWar Awaken Team 2013 -->
+		<set name="icon" value="BranchSys3.Icon.g_dainsleif_i01"/>
+		<set name="weight" value="1520"/>
+		<set name="rnd_dam" value="5"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>
+		</equip>
+		<set name="type" value="DAGGER"/>
+		<set name="ex_type" value="DAGGER"/>
+		<set name="crystal_type" value="R95"/>
+		<set name="crystal_count" value="1451"/>
+		<set name="soulshots" value="1"/>
+        <set name="spiritshots" value="1"/>
+        <set name="crystallizable" value="true"/>
+        <skills>
+            <skill id="3008" level="6"/>
+        </skills>
+		<enchant4_skill id="13282" level="3"/>
+		<for>
+			<add stat="pAtk" order="0x10" value="496"/>
+			<add stat="mAtk" order="0x10" value="275"/>
+			<add stat="accCombat" order="0x10" value="-4.0"/>
+			<set stat="rCrit" order="0x08" value="120"/>
+			<set stat="pAtkSpd" order="0x08" value="433"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="mAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon>
+	<weapon id="22823" name="Steregos' Dagger" add_name="Haste">
+		<!-- Done by ChipWar Awaken Team 2013 -->
+		<set name="icon" value="BranchSys3.Icon.g_dainsleif_i01"/>
+		<set name="weight" value="1520"/>
+		<set name="rnd_dam" value="5"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>
+		</equip>
+		<set name="type" value="DAGGER"/>
+		<set name="ex_type" value="DAGGER"/>
+		<set name="crystal_type" value="R95"/>
+		<set name="crystal_count" value="1451"/>
+		<set name="soulshots" value="1"/>
+        <set name="spiritshots" value="1"/>
+        <set name="crystallizable" value="true"/>
+        <skills>
+            <skill id="8297" level="1"/>
+        </skills>
+		<enchant4_skill id="13282" level="3"/>
+		<for>
+			<add stat="pAtk" order="0x10" value="496"/>
+			<add stat="mAtk" order="0x10" value="275"/>
+			<add stat="accCombat" order="0x10" value="-4.0"/>
+			<set stat="rCrit" order="0x08" value="120"/>
+			<set stat="pAtkSpd" order="0x08" value="433"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="mAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon>
+	<weapon id="22824" name="Steregos' Dagger" add_name="Focus">
+		<!-- Done by ChipWar Awaken Team 2013 -->
+		<set name="icon" value="BranchSys3.Icon.g_dainsleif_i01"/>
+		<set name="weight" value="1520"/>
+		<set name="rnd_dam" value="5"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>
+		</equip>
+		<set name="type" value="DAGGER"/>
+		<set name="ex_type" value="DAGGER"/>
+		<set name="crystal_type" value="R95"/>
+		<set name="crystal_count" value="1451"/>
+		<set name="soulshots" value="1"/>
+        <set name="spiritshots" value="1"/>
+        <set name="crystallizable" value="true"/>
+        <skills>
+            <skill id="8289" level="1"/>
+        </skills>
+		<enchant4_skill id="13282" level="3"/>
+		<for>
+			<add stat="pAtk" order="0x10" value="496"/>
+			<add stat="mAtk" order="0x10" value="275"/>
+			<add stat="accCombat" order="0x10" value="-4.0"/>
+			<set stat="rCrit" order="0x08" value="120"/>
+			<set stat="pAtkSpd" order="0x08" value="433"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="mAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon>
+	<weapon id="22825" name="Steregos' Dagger" add_name="Guidance + Haste">
+		<!-- Done by ChipWar Awaken Team 2013 -->
+		<set name="icon" value="BranchSys3.Icon.g_dainsleif_i01"/>
+		<set name="weight" value="1520"/>
+		<set name="rnd_dam" value="5"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>
+		</equip>
+		<set name="type" value="DAGGER"/>
+		<set name="ex_type" value="DAGGER"/>
+		<set name="crystal_type" value="R95"/>
+		<set name="crystal_count" value="1451"/>
+		<set name="soulshots" value="1"/>
+        <set name="spiritshots" value="1"/>
+        <set name="crystallizable" value="true"/>
+        <skills>
+            <skill id="3008" level="6"/>
+            <skill id="8297" level="1"/>
+        </skills>
+		<enchant4_skill id="13282" level="3"/>
+		<for>
+			<add stat="pAtk" order="0x10" value="496"/>
+			<add stat="mAtk" order="0x10" value="275"/>
+			<add stat="accCombat" order="0x10" value="-4.0"/>
+			<set stat="rCrit" order="0x08" value="120"/>
+			<set stat="pAtkSpd" order="0x08" value="433"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="mAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon>
+	<weapon id="22826" name="Steregos' Dagger" add_name="Haste + Focus">
+		<!-- Done by ChipWar Awaken Team 2013 -->
+		<set name="icon" value="BranchSys3.Icon.g_dainsleif_i01"/>
+		<set name="weight" value="1520"/>
+		<set name="rnd_dam" value="5"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>
+		</equip>
+		<set name="type" value="DAGGER"/>
+		<set name="ex_type" value="DAGGER"/>
+		<set name="crystal_type" value="R95"/>
+		<set name="crystal_count" value="1451"/>
+		<set name="soulshots" value="1"/>
+        <set name="spiritshots" value="1"/>
+        <set name="crystallizable" value="true"/>
+        <skills>
+            <skill id="8297" level="1"/>
+            <skill id="8289" level="1"/>
+        </skills>
+		<enchant4_skill id="13282" level="3"/>
+		<for>
+			<add stat="pAtk" order="0x10" value="496"/>
+			<add stat="mAtk" order="0x10" value="275"/>
+			<add stat="accCombat" order="0x10" value="-4.0"/>
+			<set stat="rCrit" order="0x08" value="120"/>
+			<set stat="pAtkSpd" order="0x08" value="433"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="mAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon>
+	<weapon id="22827" name="Steregos' Dagger" add_name="Focus + Guidance">
+		<!-- Done by ChipWar Awaken Team 2013 -->
+		<set name="icon" value="BranchSys3.Icon.g_dainsleif_i01"/>
+		<set name="weight" value="1520"/>
+		<set name="rnd_dam" value="5"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>
+		</equip>
+		<set name="type" value="DAGGER"/>
+		<set name="ex_type" value="DAGGER"/>
+		<set name="crystal_type" value="R95"/>
+		<set name="crystal_count" value="1451"/>
+		<set name="soulshots" value="1"/>
+        <set name="spiritshots" value="1"/>
+        <set name="crystallizable" value="true"/>
+        <skills>
+            <skill id="8289" level="1"/>
+            <skill id="3008" level="6"/>
+        </skills>
+		<enchant4_skill id="13282" level="3"/>
+		<for>
+			<add stat="pAtk" order="0x10" value="496"/>
+			<add stat="mAtk" order="0x10" value="275"/>
+			<add stat="accCombat" order="0x10" value="-4.0"/>
+			<set stat="rCrit" order="0x08" value="120"/>
+			<set stat="pAtkSpd" order="0x08" value="433"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="mAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon>
+    <weapon id="22828" name="Ron's Dual Blunt Weapon">
+        <!-- Done by ChipWar Awaken Team 2013 -->
+        <set name="icon" value="BranchSys3.Icon.g_urukmash_i00"/>
+        <set name="type" value="DUALBLUNT"/>
+        <equip>
+            <slot id="LEFT_RIGHT_HAND"/>
+        </equip>
+        <set name="crystal_count" value="3756"/>
+        <set name="crystal_type" value="R95"/>
+        <set name="weight" value="1740"/>
+        <set name="price" value="215525000"/>
+        <set name="soulshots" value="1"/>
+        <set name="spiritshots" value="1"/>
+        <set name="crystallizable" value="true"/>
+        <enchant4_skill id="13272" level="3"/>
+        <for>
+            <add order="0x08" stat="pAtk" value="690.0"/>
+            <add order="0x08" stat="mAtk" value="275.0"/>
+            <add order="0x10" stat="accCombat" value="4.0"/>
+            <add order="0x08" stat="pAtkSpd" value="325.0"/>
+            <set stat="rCrit" order="0x08" value="40"/>
+            <mul order="0x30" stat="pvePhysDmgBonus" value="1.05"/>
+            <enchant value="0" order="0x0C" stat="pAtk"/>
+            <enchant value="0" order="0x0C" stat="mAtk"/>
+        </for>
+	</weapon>
+    <weapon id="22829" name="Ron's Dual Blunt Weapon" add_name="Focus">
+        <!-- Done by ChipWar Awaken Team 2013 -->
+        <set name="icon" value="BranchSys3.Icon.g_urukmash_i01"/>
+        <set name="type" value="DUALBLUNT"/>
+        <equip>
+            <slot id="LEFT_RIGHT_HAND"/>
+        </equip>
+        <set name="crystal_count" value="3756"/>
+        <set name="crystal_type" value="R95"/>
+        <set name="weight" value="1740"/>
+        <set name="price" value="215525000"/>
+        <set name="soulshots" value="1"/>
+        <set name="spiritshots" value="1"/>
+        <set name="crystallizable" value="true"/>
+        <skills>
+            <skill id="8289" level="1"/>
+        </skills>
+        <enchant4_skill id="13272" level="3"/>
+        <for>
+            <add order="0x08" stat="pAtk" value="690.0"/>
+            <add order="0x08" stat="mAtk" value="275.0"/>
+            <add order="0x10" stat="accCombat" value="4.0"/>
+            <add order="0x08" stat="pAtkSpd" value="325.0"/>
+            <set stat="rCrit" order="0x08" value="40"/>
+            <mul order="0x30" stat="pvePhysDmgBonus" value="1.05"/>
+            <enchant value="0" order="0x0C" stat="pAtk"/>
+            <enchant value="0" order="0x0C" stat="mAtk"/>
+        </for>
+	</weapon>
+    <weapon id="22830" name="Ron's Dual Blunt Weapon" add_name="Guidance">
+        <!-- Done by ChipWar Awaken Team 2013 -->
+        <set name="icon" value="BranchSys3.Icon.g_urukmash_i01"/>
+        <set name="type" value="DUALBLUNT"/>
+        <equip>
+            <slot id="LEFT_RIGHT_HAND"/>
+        </equip>
+        <set name="crystal_count" value="3756"/>
+        <set name="crystal_type" value="R95"/>
+        <set name="weight" value="1740"/>
+        <set name="price" value="215525000"/>
+        <set name="soulshots" value="1"/>
+        <set name="spiritshots" value="1"/>
+        <set name="crystallizable" value="true"/>
+        <skills>
+            <skill id="3008" level="6"/>
+        </skills>
+        <enchant4_skill id="13272" level="3"/>
+        <for>
+            <add order="0x08" stat="pAtk" value="690.0"/>
+            <add order="0x08" stat="mAtk" value="275.0"/>
+            <add order="0x10" stat="accCombat" value="4.0"/>
+            <add order="0x08" stat="pAtkSpd" value="325.0"/>
+            <set stat="rCrit" order="0x08" value="40"/>
+            <mul order="0x30" stat="pvePhysDmgBonus" value="1.05"/>
+            <enchant value="0" order="0x0C" stat="pAtk"/>
+            <enchant value="0" order="0x0C" stat="mAtk"/>
+        </for>
+	</weapon>
+    <weapon id="22831" name="Ron's Dual Blunt Weapon" add_name="Damage">
+        <!-- Done by ChipWar Awaken Team 2013 -->
+        <set name="icon" value="BranchSys3.Icon.g_urukmash_i01"/>
+        <set name="type" value="DUALBLUNT"/>
+        <equip>
+            <slot id="LEFT_RIGHT_HAND"/>
+        </equip>
+        <set name="crystal_count" value="3756"/>
+        <set name="crystal_type" value="R95"/>
+        <set name="weight" value="1740"/>
+        <set name="price" value="215525000"/>
+        <set name="soulshots" value="1"/>
+        <set name="spiritshots" value="1"/>
+        <set name="crystallizable" value="true"/>
+        <skills>
+            <skill id="13062" level="3"/>
+        </skills>
+        <enchant4_skill id="13272" level="3"/>
+        <for>
+            <add order="0x08" stat="pAtk" value="690.0"/>
+            <add order="0x08" stat="mAtk" value="275.0"/>
+            <add order="0x10" stat="accCombat" value="4.0"/>
+            <add order="0x08" stat="pAtkSpd" value="325.0"/>
+            <set stat="rCrit" order="0x08" value="40"/>
+            <mul order="0x30" stat="pvePhysDmgBonus" value="1.05"/>
+            <enchant value="0" order="0x0C" stat="pAtk"/>
+            <enchant value="0" order="0x0C" stat="mAtk"/>
+        </for>
+	</weapon>
+    <weapon id="22832" name="Ron's Dual Blunt Weapon" add_name="Focus + Guidance">
+        <!-- Done by ChipWar Awaken Team 2013 -->
+        <set name="icon" value="BranchSys3.Icon.g_urukmash_i01"/>
+        <set name="type" value="DUALBLUNT"/>
+        <equip>
+            <slot id="LEFT_RIGHT_HAND"/>
+        </equip>
+        <set name="crystal_count" value="3756"/>
+        <set name="crystal_type" value="R95"/>
+        <set name="weight" value="1740"/>
+        <set name="price" value="215525000"/>
+        <set name="soulshots" value="1"/>
+        <set name="spiritshots" value="1"/>
+        <set name="crystallizable" value="true"/>
+        <skills>
+            <skill id="8289" level="1"/>
+            <skill id="3008" level="6"/>
+        </skills>
+        <enchant4_skill id="13272" level="3"/>
+        <for>
+            <add order="0x08" stat="pAtk" value="690.0"/>
+            <add order="0x08" stat="mAtk" value="275.0"/>
+            <add order="0x10" stat="accCombat" value="4.0"/>
+            <add order="0x08" stat="pAtkSpd" value="325.0"/>
+            <set stat="rCrit" order="0x08" value="40"/>
+            <mul order="0x30" stat="pvePhysDmgBonus" value="1.05"/>
+            <enchant value="0" order="0x0C" stat="pAtk"/>
+            <enchant value="0" order="0x0C" stat="mAtk"/>
+        </for>
+	</weapon>
+    <weapon id="22833" name="Ron's Dual Blunt Weapon" add_name="Guidance + Damage">
+        <!-- Done by ChipWar Awaken Team 2013 -->
+        <set name="icon" value="BranchSys3.Icon.g_urukmash_i01"/>
+        <set name="type" value="DUALBLUNT"/>
+        <equip>
+            <slot id="LEFT_RIGHT_HAND"/>
+        </equip>
+        <set name="crystal_count" value="3756"/>
+        <set name="crystal_type" value="R95"/>
+        <set name="weight" value="1740"/>
+        <set name="price" value="215525000"/>
+        <set name="soulshots" value="1"/>
+        <set name="spiritshots" value="1"/>
+        <set name="crystallizable" value="true"/>
+        <skills>
+            <skill id="3008" level="6"/>
+            <skill id="13062" level="4"/>
+        </skills>
+        <enchant4_skill id="13272" level="3"/>
+        <for>
+            <add order="0x08" stat="pAtk" value="690.0"/>
+            <add order="0x08" stat="mAtk" value="275.0"/>
+            <add order="0x10" stat="accCombat" value="4.0"/>
+            <add order="0x08" stat="pAtkSpd" value="325.0"/>
+            <set stat="rCrit" order="0x08" value="40"/>
+            <mul order="0x30" stat="pvePhysDmgBonus" value="1.05"/>
+            <enchant value="0" order="0x0C" stat="pAtk"/>
+            <enchant value="0" order="0x0C" stat="mAtk"/>
+        </for>
+	</weapon>
+    <weapon id="22834" name="Ron's Dual Blunt Weapon" add_name="Damage Up + Focus">
+        <!-- Done by ChipWar Awaken Team 2013 -->
+        <set name="icon" value="BranchSys3.Icon.g_urukmash_i01"/>
+        <set name="type" value="DUALBLUNT"/>
+        <equip>
+            <slot id="LEFT_RIGHT_HAND"/>
+        </equip>
+        <set name="crystal_count" value="3756"/>
+        <set name="crystal_type" value="R95"/>
+        <set name="weight" value="1740"/>
+        <set name="price" value="215525000"/>
+        <set name="soulshots" value="1"/>
+        <set name="spiritshots" value="1"/>
+        <set name="crystallizable" value="true"/>
+        <skills>
+            <skill id="8289" level="1"/>
+            <skill id="13062" level="4"/>
+        </skills>
+        <enchant4_skill id="13272" level="3"/>
+        <for>
+            <add order="0x08" stat="pAtk" value="690.0"/>
+            <add order="0x08" stat="mAtk" value="275.0"/>
+            <add order="0x10" stat="accCombat" value="4.0"/>
+            <add order="0x08" stat="pAtkSpd" value="325.0"/>
+            <set stat="rCrit" order="0x08" value="40"/>
+            <mul order="0x30" stat="pvePhysDmgBonus" value="1.05"/>
+            <enchant value="0" order="0x0C" stat="pAtk"/>
+            <enchant value="0" order="0x0C" stat="mAtk"/>
+        </for>
+	</weapon>
+
+	<weapon id="22650" name="Световое Оружие -  Одноручный меч">
+        <set name="icon" value="BranchSys3.Icon.g_beam_sword"/>
+        <set name="type" value="SWORD"/>
+        <set name="weight" value="144"/>
+        <set name="destroyable" value="false"/>
+        <set name="dropable" value="false"/>
+        <set name="augmentable" value="false"/>
+        <set name="enchantable" value="false"/>
+        <set name="attributable" value="false"/>
+        <set name="sellable" value="false"/>
+        <set name="tradeable" value="false"/>
+        <set name="crystal_type" value="D"/>
+        <set name="rnd_dam" value="10"/>
+        <set name="atk_range" value="40"/>
+        <equip>
+            <slot id="RIGHT_HAND"/>
+        </equip>
+    </weapon>
+    <weapon id="22651" name="Световое Оружие -  Кинжал">
+        <set name="icon" value="BranchSys3.Icon.g_beam_sword"/>
+        <set name="type" value="DAGGER"/>
+        <set name="weight" value="106"/>
+        <set name="destroyable" value="false"/>
+        <set name="dropable" value="false"/>
+        <set name="augmentable" value="false"/>
+        <set name="enchantable" value="false"/>
+        <set name="attributable" value="false"/>
+        <set name="sellable" value="false"/>
+        <set name="tradeable" value="false"/>
+        <set name="crystal_type" value="D"/>
+        <set name="rnd_dam" value="5"/>
+        <set name="atk_range" value="40"/>
+        <equip>
+            <slot id="RIGHT_HAND"/>
+        </equip>
+    </weapon>
+    <weapon id="22652" name="Световое Оружие -  Двуручный меч">
+        <set name="icon" value="BranchSys3.Icon.g_beam_twohand_sword"/>
+        <set name="type" value="BIGSWORD"/>
+        <set name="weight" value="209"/>
+        <set name="destroyable" value="false"/>
+        <set name="dropable" value="false"/>
+        <set name="augmentable" value="false"/>
+        <set name="enchantable" value="false"/>
+        <set name="attributable" value="false"/>
+        <set name="sellable" value="false"/>
+        <set name="tradeable" value="false"/>
+        <set name="crystal_type" value="D"/>
+        <set name="rnd_dam" value="10"/>
+        <set name="atk_range" value="40"/>
+        <equip>
+            <slot id="LEFT_RIGHT_HAND"/>
+        </equip>
+    </weapon>
+    <weapon id="22653" name="Световое Оружие -  Кастет">
+        <set name="icon" value="BranchSys3.Icon.g_beam_dualfist"/>
+        <set name="type" value="DUALFIST"/>
+        <set name="weight" value="152"/>
+        <set name="destroyable" value="false"/>
+        <set name="dropable" value="false"/>
+        <set name="augmentable" value="false"/>
+        <set name="enchantable" value="false"/>
+        <set name="attributable" value="false"/>
+        <set name="sellable" value="false"/>
+        <set name="tradeable" value="false"/>
+        <set name="crystal_type" value="D"/>
+        <set name="rnd_dam" value="5"/>
+        <set name="atk_range" value="40"/>
+        <equip>
+            <slot id="LEFT_RIGHT_HAND"/>
+        </equip>
+    </weapon>
+    <weapon id="22654" name="Световое Оружие -  Копье">
+        <set name="icon" value="BranchSys3.Icon.g_beam_pole"/>
+        <set name="type" value="POLE"/>
+        <set name="weight" value="205"/>
+        <set name="destroyable" value="false"/>
+        <set name="dropable" value="false"/>
+        <set name="augmentable" value="false"/>
+        <set name="enchantable" value="false"/>
+        <set name="attributable" value="false"/>
+        <set name="sellable" value="false"/>
+        <set name="tradeable" value="false"/>
+        <set name="crystal_type" value="D"/>
+        <set name="rnd_dam" value="10"/>
+        <set name="atk_range" value="80"/>
+        <equip>
+            <slot id="LEFT_RIGHT_HAND"/>
+        </equip>
+    </weapon>
+    <weapon id="22655" name="Световое Оружие -  Лук">
+        <set name="icon" value="BranchSys3.Icon.g_beam_bow"/>
+        <set name="type" value="BOW"/>
+        <set name="weight" value="181"/>
+        <set name="destroyable" value="false"/>
+        <set name="dropable" value="false"/>
+        <set name="augmentable" value="false"/>
+        <set name="enchantable" value="false"/>
+        <set name="attributable" value="false"/>
+        <set name="sellable" value="false"/>
+        <set name="tradeable" value="false"/>
+        <set name="crystal_type" value="D"/>
+        <set name="reuse_delay" value="1500"/>
+        <set name="rnd_dam" value="5"/>
+        <set name="mp_consume" value="2"/>
+        <set name="atk_range" value="40"/>
+        <equip>
+            <slot id="LEFT_RIGHT_HAND"/>
+        </equip>
+    </weapon>
+    <weapon id="22656" name="Световое Оружие -  Арбалет">
+        <set name="icon" value="BranchSys3.Icon.g_beam_twohand_crossbow"/>
+        <set name="type" value="CROSSBOW"/>
+        <set name="weight" value="181"/>
+        <set name="destroyable" value="false"/>
+        <set name="dropable" value="false"/>
+        <set name="augmentable" value="false"/>
+        <set name="enchantable" value="false"/>
+        <set name="attributable" value="false"/>
+        <set name="sellable" value="false"/>
+        <set name="tradeable" value="false"/>
+        <set name="crystal_type" value="D"/>
+        <set name="reuse_delay" value="400"/>
+        <set name="rnd_dam" value="10"/>
+        <set name="atk_range" value="400"/>
+        <equip>
+            <slot id="LEFT_RIGHT_HAND"/>
+        </equip>
+    </weapon>
+    <weapon id="22657" name="Световое Оружие -  Одноручная дубина">
+        <set name="icon" value="BranchSys3.Icon.g_beam_blunt"/>
+        <set name="type" value="BLUNT"/>
+        <set name="weight" value="172"/>
+        <set name="destroyable" value="false"/>
+        <set name="dropable" value="false"/>
+        <set name="augmentable" value="false"/>
+        <set name="enchantable" value="false"/>
+        <set name="attributable" value="false"/>
+        <set name="sellable" value="false"/>
+        <set name="tradeable" value="false"/>
+        <set name="crystal_type" value="D"/>
+        <set name="rnd_dam" value="20"/>
+        <set name="atk_range" value="40"/>
+        <equip>
+            <slot id="RIGHT_HAND"/>
+        </equip>
+    </weapon>
+    <weapon id="22658" name="Световое Оружие -  Двуручная дубина">
+        <set name="icon" value="BranchSys3.Icon.g_beam_twohand_blunt"/>
+        <set name="type" value="BIGBLUNT"/>
+        <set name="weight" value="101"/>
+        <set name="destroyable" value="false"/>
+        <set name="dropable" value="false"/>
+        <set name="augmentable" value="false"/>
+        <set name="enchantable" value="false"/>
+        <set name="attributable" value="false"/>
+        <set name="sellable" value="false"/>
+        <set name="tradeable" value="false"/>
+        <set name="crystal_type" value="D"/>
+        <set name="rnd_dam" value="20"/>
+        <set name="atk_range" value="40"/>
+        <equip>
+            <slot id="LEFT_RIGHT_HAND"/>
+        </equip>
+    </weapon>
+    <weapon id="22659" name="Световое Оружие -  Одноручная магическая дубина">
+        <set name="icon" value="BranchSys3.Icon.g_beam_magic_twohand_blunt"/>
+        <set name="type" value="BLUNT"/>
+        <set name="weight" value="172"/>
+        <set name="destroyable" value="false"/>
+        <set name="dropable" value="false"/>
+        <set name="augmentable" value="false"/>
+        <set name="enchantable" value="false"/>
+        <set name="attributable" value="false"/>
+        <set name="sellable" value="false"/>
+        <set name="tradeable" value="false"/>
+        <set name="crystal_type" value="D"/>
+        <set name="rnd_dam" value="20"/>
+        <set name="atk_range" value="40"/>
+        <equip>
+            <slot id="RIGHT_HAND"/>
+        </equip>
+    </weapon>
+    <weapon id="22660" name="Световое Оружие -  Двуручная магическая дубина">
+        <set name="icon" value="BranchSys3.Icon.g_beam_magic_twohand_blunt"/>
+        <set name="type" value="BIGBLUNT"/>
+        <set name="weight" value="101"/>
+        <set name="destroyable" value="false"/>
+        <set name="dropable" value="false"/>
+        <set name="augmentable" value="false"/>
+        <set name="enchantable" value="false"/>
+        <set name="attributable" value="false"/>
+        <set name="sellable" value="false"/>
+        <set name="tradeable" value="false"/>
+        <set name="crystal_type" value="D"/>
+        <set name="rnd_dam" value="20"/>
+        <set name="atk_range" value="40"/>
+        <equip>
+            <slot id="LEFT_RIGHT_HAND"/>
+        </equip>
+    </weapon>
+    <weapon id="22661" name="Световое Оружие -  Парные мечи">
+        <set name="icon" value="BranchSys3.Icon.g_beam_dual"/>
+        <set name="type" value="DUAL"/>
+        <set name="weight" value="247"/>
+        <set name="destroyable" value="false"/>
+        <set name="dropable" value="false"/>
+        <set name="augmentable" value="false"/>
+        <set name="enchantable" value="false"/>
+        <set name="attributable" value="false"/>
+        <set name="sellable" value="false"/>
+        <set name="tradeable" value="false"/>
+        <set name="crystal_type" value="D"/>
+        <set name="rnd_dam" value="10"/>
+        <set name="atk_range" value="40"/>
+        <equip>
+            <slot id="LEFT_RIGHT_HAND"/>
+        </equip>
+    </weapon>
+    <weapon id="22662" name="Световое Оружие -  Парные кинжалы">
+        <set name="icon" value="BranchSys3.Icon.g_beam_dualdagger"/>
+        <set name="type" value="DUALDAGGER"/>
+        <set name="weight" value="205"/>
+        <set name="destroyable" value="false"/>
+        <set name="dropable" value="false"/>
+        <set name="augmentable" value="false"/>
+        <set name="enchantable" value="false"/>
+        <set name="attributable" value="false"/>
+        <set name="sellable" value="false"/>
+        <set name="tradeable" value="false"/>
+        <set name="crystal_type" value="D"/>
+        <set name="rnd_dam" value="10"/>
+        <set name="atk_range" value="40"/>
+        <equip>
+            <slot id="LEFT_RIGHT_HAND"/>
+        </equip>
+    </weapon>
+    <weapon id="22663" name="Световое Оружие -  Парные дубины">
+        <set name="icon" value="BranchSys3.Icon.g_beam_dualblunt"/>
+        <set name="type" value="DUALBLUNT"/>
+        <set name="weight" value="250"/>
+        <set name="destroyable" value="false"/>
+        <set name="dropable" value="false"/>
+        <set name="augmentable" value="false"/>
+        <set name="enchantable" value="false"/>
+        <set name="attributable" value="false"/>
+        <set name="sellable" value="false"/>
+        <set name="tradeable" value="false"/>
+        <set name="crystal_type" value="D"/>
+        <set name="rnd_dam" value="20"/>
+        <set name="atk_range" value="40"/>
+        <equip>
+            <slot id="LEFT_RIGHT_HAND"/>
+        </equip>
+    </weapon>
+	<weapon id="22711" name="Японский Меч">
+		<!--AUTO GENERATED BY MIFESTO-->
+		<set name="icon" value="BranchSys3.Icon.g_japan_sword"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="144"/>
+		<set name="crystallizable" value="false"/>
+	</weapon>
+	<!--
+		Изменен: 22:02/13.02.2012, Mifesto
+		Название: Японский Короткий Меч
+		Описание: Японское оружие. Тип: кинжал. Прототип для изменения внешнего вида оружия при помощи камня обработки.
+	-->
+	<weapon id="22712" name="Японский Короткий Меч">
+		<!--AUTO GENERATED BY MIFESTO-->
+		<set name="icon" value="BranchSys3.Icon.g_japan_dagger"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="106"/>
+		<set name="crystallizable" value="false"/>
+	</weapon>
+	<!--
+		Изменен: 22:02/13.02.2012, Mifesto
+		Название: Японский Длинный Меч
+		Описание: Японское оружие. Тип: двуручный меч. Прототип для изменения внешнего вида оружия при помощи камня обработки.
+	-->
+	<weapon id="22713" name="Японский Длинный Меч">
+		<!--AUTO GENERATED BY MIFESTO-->
+		<set name="icon" value="BranchSys3.Icon.g_japan_twohand_sword"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="209"/>
+		<set name="crystallizable" value="false"/>
+	</weapon>
+	<!--
+		Изменен: 22:02/13.02.2012, Mifesto
+		Название: Японский Кастет
+		Описание: Японское оружие. Тип: кастет. Прототип для изменения внешнего вида оружия при помощи камня обработки.
+	-->
+	<weapon id="22714" name="Японский Кастет">
+		<!--AUTO GENERATED BY MIFESTO-->
+		<set name="icon" value="BranchSys3.Icon.g_japan_dualfist"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="152"/>
+		<set name="crystallizable" value="false"/>
+	</weapon>
+	<!--
+		Изменен: 22:02/13.02.2012, Mifesto
+		Название: Японское Копье
+		Описание: Японское оружие. Тип: древковое оружие. Прототип для изменения внешнего вида оружия при помощи камня обработки.
+	-->
+	<weapon id="22715" name="Японское Копье">
+		<!--AUTO GENERATED BY MIFESTO-->
+		<set name="icon" value="BranchSys3.Icon.g_japan_pole"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="205"/>
+		<set name="crystallizable" value="false"/>
+	</weapon>
+	<!--
+		Изменен: 22:02/13.02.2012, Mifesto
+		Название: Японский Лук
+		Описание: Японское оружие. Тип: лук. Прототип для изменения внешнего вида оружия при помощи камня обработки.
+	-->
+	<weapon id="22716" name="Японский Лук">
+		<!--AUTO GENERATED BY MIFESTO-->
+		<set name="icon" value="BranchSys3.Icon.g_japan_bow"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="181"/>
+		<set name="crystallizable" value="false"/>
+	</weapon>
+	<!--
+		Изменен: 22:02/13.02.2012, Mifesto
+		Название: Японский Арбалет
+		Описание: Японское оружие. Тип: арбалет. Прототип для изменения внешнего вида оружия при помощи камня обработки.
+	-->
+	<weapon id="22717" name="Японский Арбалет">
+		<!--AUTO GENERATED BY MIFESTO-->
+		<set name="icon" value="BranchSys3.Icon.g_japan_twohand_crossbow"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="181"/>
+		<set name="crystallizable" value="false"/>
+	</weapon>
+	<!--
+		Изменен: 22:02/13.02.2012, Mifesto
+		Название: Японская Дубина
+		Описание: Японское оружие. Тип: одноручное дробящее оружие. Прототип для изменения внешнего вида оружия при помощи камня обработки.
+	-->
+	<weapon id="22718" name="Японская Дубина">
+		<!--AUTO GENERATED BY MIFESTO-->
+		<set name="icon" value="BranchSys3.Icon.g_japan_blunt"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="172"/>
+		<set name="crystallizable" value="false"/>
+	</weapon>
+	<!--
+		Изменен: 22:02/13.02.2012, Mifesto
+		Название: Японская Гигантская Дубина
+		Описание: Японское оружие. Тип: двуручное дробящее оружие. Прототип для изменения внешнего вида оружия при помощи камня обработки.
+	-->
+	<weapon id="22719" name="Японская Гигантская Дубина">
+		<!--AUTO GENERATED BY MIFESTO-->
+		<set name="icon" value="BranchSys3.Icon.g_japan_twohand_blunt"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="101"/>
+		<set name="crystallizable" value="false"/>
+	</weapon>
+	<!--
+		Изменен: 22:02/13.02.2012, Mifesto
+		Название: Японская Магическая Дубина
+		Описание: Японское оружие. Тип: одноручное магическое дробящее оружие. Прототип для изменения внешнего вида оружия при помощи камня обработки.
+	-->
+	<weapon id="22720" name="Японская Магическая Дубина">
+		<!--AUTO GENERATED BY MIFESTO-->
+		<set name="icon" value="BranchSys3.Icon.g_japan_magic_blunt"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="172"/>
+		<set name="crystallizable" value="false"/>
+	</weapon>
+	<!--
+		Изменен: 22:02/13.02.2012, Mifesto
+		Название: Японская Гигантская Магическая Дубина
+		Описание: Японское оружие. Тип: двуручное магическое дробящее оружие. Прототип для изменения внешнего вида оружия при помощи камня обработки.
+	-->
+	<weapon id="22721" name="Японская Гигантская Магическая Дубина">
+		<!--AUTO GENERATED BY MIFESTO-->
+		<set name="icon" value="BranchSys3.Icon.g_japan_magic_twohand_blunt"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="101"/>
+		<set name="crystallizable" value="false"/>
+	</weapon>
+	<!--
+		Изменен: 22:02/13.02.2012, Mifesto
+		Название: Японские Парные Мечи
+		Описание: Японское оружие. Тип: парные мечи. Прототип для изменения внешнего вида оружия при помощи камня обработки.
+	-->
+	<weapon id="22722" name="Японские Парные Мечи">
+		<!--AUTO GENERATED BY MIFESTO-->
+		<set name="icon" value="BranchSys3.Icon.g_japan_dual"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="247"/>
+		<set name="crystallizable" value="false"/>
+	</weapon>
+	<!--
+		Изменен: 22:02/13.02.2012, Mifesto
+		Название: Японские Парные Короткие Мечи
+		Описание: Японское оружие. Тип: парные кинжалы. Прототип для изменения внешнего вида оружия при помощи камня обработки.
+	-->
+	<weapon id="22723" name="Японские Парные Короткие Мечи">
+		<!--AUTO GENERATED BY MIFESTO-->
+		<set name="icon" value="BranchSys3.Icon.g_japan_dualdagger"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="205"/>
+		<set name="crystallizable" value="false"/>
+	</weapon>
+	<!--
+		Изменен: 22:02/13.02.2012, Mifesto
+		Название: Японские Парные Дубины
+		Описание: Японское оружие. Тип: парное дробящее оружие. Прототип для изменения внешнего вида оружия при помощи камня обработки.
+	-->
+	<weapon id="22724" name="Японские Парные Дубины">
+		<!--AUTO GENERATED BY MIFESTO-->
+		<set name="icon" value="BranchSys3.Icon.g_japan_dualblunt"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="250"/>
+		<set name="crystallizable" value="false"/>
+	</weapon>
+	<!--
+		Изменен: 22:02/13.02.2012, Mifesto
+		Название: Японский Щит
+		Описание: Японский доспех. Тип: щит. Прототип для изменения внешнего вида доспеха при помощи камня обработки.
+	-->
+	<weapon id="22725" name="Японский Щит">
+		<!--AUTO GENERATED BY MIFESTO-->
+		<set name="icon" value="BranchSys3.Icon.g_japan_shield"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="200"/>
+		<set name="crystallizable" value="false"/>
+	</weapon>
+
+</list>

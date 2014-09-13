@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<config showall="true" notax="true" keepenchanted="false"/>
+	<item>
+		<ingredient id="57" count="400000" />		<!-- Адена -->
+		<production id="8618" count="1" />		<!-- Книга Древних - Божественное Вдохновение (Современный Язык) -->
+	</item>
+	<item>
+		<ingredient id="57" count="2640000" />		<!-- Адена -->
+		<production id="9649" count="1" />		<!-- Книга Трансформации в Рыцаря Рока -->
+	</item>
+	<item>
+		<ingredient id="17" count="100" />		<!-- Деревянная Стрела -->
+		<production id="9632" count="100" />		<!-- Деревянный Болт -->
+	</item>
+	<item>
+		<ingredient id="1343" count="100" />		<!-- Серебряная Стрела -->
+		<production id="9635" count="100" />		<!-- Серебряный Болт -->
+	</item>
+	<item>
+		<ingredient id="1344" count="100" />		<!-- Мифриловая Стрела -->
+		<production id="9636" count="100" />		<!-- Мифриловый Болт -->
+	</item>
+	<item>
+		<ingredient id="1345" count="100" />		<!-- Сверкающая Стрела -->
+		<production id="9637" count="100" />		<!-- Сверкающий Болт -->
+	</item>
+</list>

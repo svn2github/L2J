@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Оружие Драконов Линдвиор-->
+<list>
+  <config showall="true" notax="false" keepenchanted="false" />
+  <item>
+	<ingredient id="13419" count="10"/>
+    <production id="36434" count="1"/>
+  </item>
+  
+   <item>
+	<ingredient id="13419" count="10"/>
+    <production id="36435" count="1"/>
+  </item>
+  
+   <item>
+    <ingredient id="13419" count="10"/>
+    <production id="36436" count="1"/>
+  </item>
+  
+  <item>
+	<ingredient id="13419" count="10"/>
+    <production id="36437" count="1"/>
+  </item>
+  
+  <item>
+	<ingredient id="13419" count="10"/>
+    <production id="36438" count="1"/>
+  </item>
+  
+  <item>
+	<ingredient id="13419" count="10"/>
+    <production id="36439" count="1"/>
+  </item>
+  
+  <item>
+	<ingredient id="13419" count="10"/>
+    <production id="36440" count="1"/>
+  </item> 
+</list>
