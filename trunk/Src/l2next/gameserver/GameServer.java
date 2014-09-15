@@ -205,7 +205,7 @@ public class GameServer
 
 		MiniGameScoreManager.getInstance();
 
-		/************** L2WT **************/
+		/************** Durandia **************/
 		if(Config.L2TOP_MANAGER_ENABLED)
 		{
 			L2TopManager.getInstance();
@@ -217,7 +217,7 @@ public class GameServer
 		CommissionShopManager.getInstance();
 		AwakingManager.getInstance();
 		PartySubstitute.getInstance();
-		/************** L2WT **************/
+		/************** Durandia **************/
 		ArcanManager.getInstance();
 		WorldStatisticsManager.getInstance();
 		DimensionalRiftManager.getInstance();

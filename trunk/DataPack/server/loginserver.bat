@@ -1,8 +1,8 @@
 @echo off
 Color 0B
-title Lindvior: Login Server Console
+title Durandia: Login Server Console
 :start
-echo Starting Lindvior Login Server.
+echo Starting Durandia Project LoginServer.
 echo.
 
 REM ########################################################################

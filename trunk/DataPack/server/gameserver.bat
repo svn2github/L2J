@@ -1,8 +1,8 @@
 @echo off
 Color 0B
-title Lindvior: Game Server Console
+title Durandia: Game Server Console
 :start
-echo Starting Lindvior Game Server.
+echo Starting Durandia Project GameServer.
 echo.
 
 java -Dfile.encoding=UTF-8 -Xmx3g -server -cp config;../serverslibs/*; l2next.gameserver.GameServer
